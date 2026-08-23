@@ -1,0 +1,45 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 21,
+    "chapter_title_en": "Food and Fun",
+    "chapter_title_hi": "खाना-खिलाना",
+    "ncert_code_en": "deap121",
+    "ncert_code_hi": "dhap121",
+    "theme_mapping": "Unit 3: Food, Digestion, Cooking & Vector Diseases",
+    "unit_id": 3
+  },
+  "factual_entities": [
+    {
+      "name_en": "Gurudwara Langar & Kadha Prasad",
+      "name_hi": "गुरुद्वारा लंगर और कढ़ाह प्रसाद",
+      "category": "Community Kitchen / Social Harmony",
+      "attributes": [
+        "Langar: Community kitchen where all sit together on floor mats (pangat) regardless of background",
+        "Kadha Prasad: Sacred sweet halwa prepared by roasting wheat flour in pure GHEE with sugar syrup in large cauldron"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [
+    {
+      "name": "Langar & Kadha Prasad",
+      "category": "Sacred Food",
+      "region": "Punjab",
+      "description": "Wheat flour roasted in pure ghee"
+    }
+  ],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Langar seating pangat layout, large tandoor, Kadha Prasad cauldron"
+  ],
+  "key_vocabulary_bilingual": {
+    "Langar": "लंगर (गुरुद्वारे में सामुदायिक रसोई)",
+    "Kadha Prasad": "कढ़ाह प्रसाद (आटे, घी और चीनी का हलवा)",
+    "Sewa": "सेवा"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 21: 'Food and Fun' / 'खाना-खिलाना' covers Unit 3: Food, Digestion, Cooking & Vector Diseases foundational facts, regional adaptations, and ecological concepts."
+}

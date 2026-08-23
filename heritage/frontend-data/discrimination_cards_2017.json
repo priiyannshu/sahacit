@@ -1,0 +1,3396 @@
+{
+  "metadata": {
+    "drafted_count": 98,
+    "drafted_by": "pending",
+    "year": 2017
+  },
+  "cards": {
+    "8": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_overgeneralization",
+      "trap_explanation": "Statement 2 inserts 'only' — a quantifier that fails. Pung (double-headed barrel drum) is as central as cymbals in Sankirtana. 'Cymbals are a key instrument' would be true; 'only instrument' is not.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "It is a song and dance performance",
+          "verdict": "true",
+          "reason": "Sankirtana combines devotional singing and dance performed by male groups in Manipur's Vaishnavite tradition."
+        },
+        {
+          "id": 2,
+          "text": "Cymbals are the only musical instruments used in the performance",
+          "verdict": "false",
+          "reason": "Pung (barrel drum) and kartal (cymbals) are both essential. 'Only cymbals' is factually wrong — pung is a defining feature."
+        },
+        {
+          "id": 3,
+          "text": "It is performed to narrate the life and deeds of Lord Krishna",
+          "verdict": "true",
+          "reason": "Sankirtana enacts episodes from Krishna's life — core of Meitei Vaishnavism's devotional practice."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 and S3 true, S2 false (pung drum equally central to cymbals) → option (b) 1 and 3 only.",
+        "hook": "Pung drum = Sankirtana's defining instrument alongside cymbals. UNESCO 2013 intangible heritage.",
+        "elimination_path": "Test S2: 'only cymbals' fails on pung knowledge. Eliminates (a) and (c). S1 and S3 both correct → (b)."
+      },
+      "concept_hooks": [
+        "Manipuri Sankirtana UNESCO 2013",
+        "Pung drum Meitei Vaishnavism",
+        "Manipur intangible cultural heritage"
+      ]
+    },
+    "40": {
+      "question_type": "matching",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "Nanda Raj Jaat Yatra is a Hindu pilgrimage in Uttarakhand (Garhwal), not a Gond tradition. Wari-Warkari is Maharashtra's Vitthal-bhakti pilgrimage to Pandharpur, not a Santhal practice. Both pairs assign traditions to unrelated tribes or regions.",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Chaliha Sahib Festival",
+          "right": "Sindhis",
+          "verdict": "correct",
+          "reason": "Chaliha Sahib is a 40-day Sindhi Hindu fast in the month of Ashadh — a specifically Sindhi community tradition."
+        },
+        {
+          "id": 2,
+          "left": "Nanda Raj Jaat Yatra",
+          "right": "Gonds",
+          "verdict": "wrong",
+          "reason": "Nanda Raj Jaat Yatra is a 12-yearly pilgrimage by Garhwali Hindus of Uttarakhand to Goddess Nanda Devi — not a Gond practice."
+        },
+        {
+          "id": 3,
+          "left": "Wari-Warkari",
+          "right": "Santhals",
+          "verdict": "wrong",
+          "reason": "Wari-Warkari is Maharashtra's Vaishnava pilgrimage to Vitthal temple in Pandharpur — Bhakti saints tradition, unrelated to Santhals."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Only pair 1 (Chaliha Sahib–Sindhis) is correctly matched → option (a).",
+        "hook": "Only Chaliha Sahib–Sindhis survives: the other two assign traditions to geographically wrong communities.",
+        "elimination_path": "Eliminate pair 2: Nanda Raj Jaat Yatra = Uttarakhand Garhwal, not Gonds. Eliminate pair 3: Wari-Warkari = Maharashtra Vitthal devotees, not Santhals. Only pair 1 stands."
+      },
+      "concept_hooks": [
+        "Chaliha Sahib festival Sindhi community",
+        "Nanda Raj Jaat Yatra Uttarakhand Nanda Devi",
+        "Wari-Warkari Maharashtra Pandharpur Vitthal"
+      ]
+    },
+    "75": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "Statement 2 slips 'iron' into the IVC metal list. IVC used copper and bronze — iron technology is post-Vedic (ca. 1000 BCE). Substituting iron for bronze sounds minor but reverses a historically significant distinction.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.",
+          "verdict": "true",
+          "reason": "IVC excavations have yielded no clear evidence of mail or helmet use; Rigvedic texts reference armour in warfare contexts."
+        },
+        {
+          "id": 2,
+          "text": "Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.",
+          "verdict": "false",
+          "reason": "IVC used copper and bronze (tin-copper alloy), NOT iron. Iron metallurgy entered India ca. 1000 BCE — after both IVC and early Vedic periods ended."
+        },
+        {
+          "id": 3,
+          "text": "Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.",
+          "verdict": "true",
+          "reason": "Horse remains are absent from IVC sites (Surkotada claim is contested). Rigveda's horse-centrality is unambiguous."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 true, S2 false (IVC = copper+bronze, not iron), S3 true → option (c) 1 and 3 only.",
+        "hook": "IVC used copper+bronze; iron was post-Vedic (ca. 1000 BCE). S2 swap = the discrimination point.",
+        "elimination_path": "Test S2: IVC iron claim fails — iron is post-Vedic. Eliminates (b) and (d). S1 and S3 both stand → (c)."
+      },
+      "concept_hooks": [
+        "IVC metals copper bronze no iron",
+        "Iron Age India 1000 BCE post-Vedic",
+        "Rigvedic horse domestication IVC absence"
+      ]
+    },
+    "138": {
+      "question_type": "standard",
+      "trap_pattern": "famous_association_bias",
+      "trap_explanation": "Badami, Bagh, and Ellora are all celebrated cave-art sites — each could superficially substitute for Ajanta. The trap requires knowing which specific site hosts the Padmapani painting, not just recognising Buddhist cave-art in general.",
+      "answer_justification": {
+        "fact": "Bodhisattva Padmapani painting is in Cave 1 at Ajanta — 5th–6th century CE, Vakataka period.",
+        "hook": "Padmapani = lotus-bearer; Cave 1 Ajanta represents the finest Gupta-era Buddhist mural tradition.",
+        "elimination_path": "Badami = Chalukya Shaiva/Vaishnava caves. Bagh = Buddhist murals but not Padmapani specifically. Ellora = multi-faith, famous for Kailash Temple sculpture. Padmapani → Ajanta Cave 1."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Badami caves are Chalukya-era Shaiva/Vaishnava/Buddhist — no celebrated Padmapani mural.",
+          "confused_with": "Buddhist cave-art sites"
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Bagh caves (MP) have Buddhist murals stylistically close to Ajanta, but Padmapani is specifically Ajanta Cave 1.",
+          "confused_with": "Ajanta-style mural art"
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Ellora has 34 caves (Buddhist/Hindu/Jain) famous for Kailash Temple sculpture — not for the Padmapani painting.",
+          "confused_with": "Buddhist cave monuments Maharashtra"
+        }
+      ],
+      "concept_hooks": [
+        "Bodhisattva Padmapani Ajanta Cave 1",
+        "Ajanta murals Vakataka period",
+        "Ajanta vs Ellora cave art distinction"
+      ]
+    },
+    "139": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "All three are ancient sacred pilgrimage sites — easy to conflate as 'Sun temples.' Amarakantak and Omkareshwar are famous Shiva shrines, not Surya temples. Only Arasavalli (Andhra Pradesh) is dedicated to the Sun god.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Arasavalli",
+          "verdict": "true",
+          "reason": "Arasavalli Suryanarayana Swamy temple (Srikakulam, AP) is a 7th-century active Sun temple — one of India's few surviving dedicated Surya shrines."
+        },
+        {
+          "id": 2,
+          "text": "Amarakantak",
+          "verdict": "false",
+          "reason": "Amarakantak (MP) is the Narmada's source; its temples are dedicated to Shiva and Narmada Devi — no Sun temple here."
+        },
+        {
+          "id": 3,
+          "text": "Omkareshwar",
+          "verdict": "false",
+          "reason": "Omkareshwar (MP) is one of the 12 Jyotirlingas — a Shiva shrine on the Narmada, not a Sun temple."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Only Arasavalli is a Sun temple → option (a) 1 only.",
+        "hook": "Amarakantak = Narmada source + Shiva. Omkareshwar = Jyotirlinga. Only Arasavalli = Surya/Sun.",
+        "elimination_path": "Test 2: Amarakantak = Shiva/Narmada, not Sun. Test 3: Omkareshwar = Jyotirlinga Shiva, not Sun. Both eliminated → only Arasavalli qualifies → (a)."
+      },
+      "concept_hooks": [
+        "Arasavalli Suryanarayana temple Srikakulam",
+        "Konark Martand Modhera Sun temples comparison",
+        "Omkareshwar Jyotirlinga Narmada Shiva"
+      ]
+    },
+    "218": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "Sautrantika, Sammitiya, and Sarvastivadin are all Hinayana Buddhist schools. Statement 1 labels two of them as Jain sects — a conflation of ancient Indian philosophical traditions that both arose in the same era.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Sautrantika and Sammitiya were the sects of Jainism.",
+          "verdict": "false",
+          "reason": "Both are Hinayana Buddhist schools — not Jain. Jain sects are Digambara and Shvetambara, an entirely separate tradition."
+        },
+        {
+          "id": 2,
+          "text": "Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.",
+          "verdict": "true",
+          "reason": "Sarvastivada ('all exists') doctrine: dharmas persist across past/present/future in latent form — contrasting with strict momentariness of other schools."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 false (Sautrantika/Sammitiya = Buddhist Hinayana, not Jain); S2 true → option (b) 2 only.",
+        "hook": "Sautrantika, Sammitiya = Buddhist Hinayana. Jain sects = Digambara/Shvetambara only.",
+        "elimination_path": "Falsify S1: these are Buddhist Hinayana schools — eliminates (a) and (c). S2 correctly describes Sarvastivada doctrine → (b)."
+      },
+      "concept_hooks": [
+        "Sautrantika Sammitiya Hinayana Buddhist schools",
+        "Sarvastivada 'all exists' dharmas latent form",
+        "Digambara Shvetambara Jain sects"
+      ]
+    },
+    "359": {
+      "question_type": "statement_eval",
+      "trap_pattern": "person_attribution",
+      "trap_explanation": "Cornwallis is the most famous British revenue administrator — but his landmark was the Permanent (Zamindari) Settlement in Bengal (1793), not Ryotwari. Students attribute any 18th-century land settlement to Cornwallis reflexively.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Lord Cornwallis",
+          "verdict": "false",
+          "reason": "Cornwallis introduced the Permanent Settlement (Zamindari) in Bengal in 1793 — not Ryotwari, which was a separate Madras Presidency initiative."
+        },
+        {
+          "id": 2,
+          "text": "Alexander Read",
+          "verdict": "true",
+          "reason": "Read (Collector of Salem/Baramahal, 1792) first implemented direct ryot-based settlement — the model Munro later systematised."
+        },
+        {
+          "id": 3,
+          "text": "Thomas Munro",
+          "verdict": "true",
+          "reason": "Munro extended Ryotwari across Madras Presidency (1820), formalising it as the defining revenue system of southern India."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Read and Munro introduced Ryotwari; Cornwallis = Permanent Settlement (Bengal) → option (c) 2 and 3 only.",
+        "hook": "Cornwallis → Permanent Settlement Bengal. Read + Munro → Ryotwari Madras.",
+        "elimination_path": "Eliminate Cornwallis: Permanent Settlement is his landmark. Read + Munro are the Ryotwari pair → (c)."
+      },
+      "concept_hooks": [
+        "Ryotwari Settlement Alexander Read Thomas Munro Madras",
+        "Permanent Settlement Cornwallis Bengal 1793",
+        "Land revenue systems British India Ryotwari Zamindari Mahalwari"
+      ]
+    },
+    "404": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "Statement 1 adds two provisions the 1881 Act never had: wage-fixing and trade union formation. The Act only regulated child labour and working hours. Trade unions were legalised only by the Trade Union Act 1926 — 45 years later.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "The Factories Act, 1881 was passed with a view to fix the wages of industrial workers and to allow the workers to form trade unions.",
+          "verdict": "false",
+          "reason": "The 1881 Act restricted child labour (min age 7) and capped working hours — it did NOT fix wages or permit trade unions. Trade Union Act came in 1926."
+        },
+        {
+          "id": 2,
+          "text": "N.M. Lokhande was a pioneer in organising the labour movement in British India.",
+          "verdict": "true",
+          "reason": "Narayan Meghaji Lokhande founded the Bombay Mill Hands' Association (1890) and edited Deenbandhu — India's first organised working-class leader."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 false (1881 Act = hours/child labour, no wages or TUs); S2 true (Lokhande = labour movement pioneer) → option (b) 2 only.",
+        "hook": "1881 Act = child labour + hours only. Trade Union Act 1926 — 45 years later.",
+        "elimination_path": "Test S1: TU formation required Trade Union Act 1926 — 45 years after 1881 Act. S1 fails completely. S2 (Lokhande) stands → (b)."
+      },
+      "concept_hooks": [
+        "Factories Act 1881 child labour working hours",
+        "N.M. Lokhande Bombay Mill Hands Association",
+        "Trade Union Act 1926 India"
+      ]
+    },
+    "405": {
+      "question_type": "matching",
+      "trap_pattern": "person_attribution",
+      "trap_explanation": "Lakshminarasu Chetty founded the Madras Native Association (1852), not the Madras Mahajana Sabha. The Mahajana Sabha (1884) was founded by Veeraraghavachariar, Subramania Iyer, and Ananda Charlu — entirely different persons.",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Radhakanta Deb",
+          "right": "First President of the British Indian Association",
+          "verdict": "correct",
+          "reason": "British Indian Association (Calcutta, 1851) was a conservative organisation; Radhakanta Deb, a zamindar, was its first president."
+        },
+        {
+          "id": 2,
+          "left": "Gazulu Lakshminarasu Chetty",
+          "right": "Founder of the Madras Mahajana Sabha",
+          "verdict": "wrong",
+          "reason": "Lakshminarasu Chetty founded the Madras Native Association (1852). Madras Mahajana Sabha (1884) was founded by Subramania Iyer, Ananda Charlu, and Veeraraghavachariar."
+        },
+        {
+          "id": 3,
+          "left": "Surendranath Banerjee",
+          "right": "Founder of the Indian Association",
+          "verdict": "correct",
+          "reason": "Surendranath Banerjee founded the Indian Association in Calcutta (1876) — an early moderate political organisation that preceded the INC."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Pairs 1 and 3 correct; pair 2 wrong (Lakshminarasu Chetty = Madras Native Association, not Mahajana Sabha) → option (b).",
+        "hook": "Lakshminarasu Chetty = Madras Native Association (1852), not Mahajana Sabha (1884).",
+        "elimination_path": "Test pair 2: Madras Mahajana Sabha (1884) founders are Subramania Iyer/Ananda Charlu/Veeraraghavachariar — not Lakshminarasu Chetty. Pairs 1 and 3 are verifiable positives → (b)."
+      },
+      "concept_hooks": [
+        "Madras Native Association 1852 Lakshminarasu Chetty",
+        "Madras Mahajana Sabha 1884 founders",
+        "Surendranath Banerjee Indian Association 1876"
+      ]
+    },
+    "467": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning",
+      "trap_explanation": "'Diarchy' literally implies two rulers or two governments — pushing test-takers toward options (b) or (c). Technically, it means dividing provincial subjects into Reserved (Governor's control) and Transferred (elected ministers' control) under GoI Act 1919.",
+      "answer_justification": {
+        "fact": "Dyarchy (GoI Act 1919, Montagu-Chelmsford) = provincial subjects divided into Reserved (Governor) and Transferred (elected ministers).",
+        "hook": "Reserved: Police, Justice, Revenue. Transferred: Education, Agriculture, Health. Governor unilaterally controlled Reserved.",
+        "elimination_path": "Eliminate (a): two houses = bicameralism. Eliminate (b): Centre-State duality = federalism, not dyarchy. Eliminate (c): London-Delhi dual rulers = general colonial structure. Dyarchy is provincial-level subject division → (d)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Two legislative houses describes bicameralism (Rajya Sabha/Lok Sabha) — not the Montagu-Chelmsford provincial reform.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Central-State dual government describes Indian federalism — dyarchy operated within provincial administration, not Centre-State.",
+          "confused_with": "Indian federalism"
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "London-Delhi two rulers describes the general colonial hierarchy, not the specific provincial subject-division reform of 1919.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Dyarchy Montagu-Chelmsford 1919 Reserved Transferred subjects",
+        "GoI Act 1919 provincial subjects categories",
+        "Montagu-Chelmsford reforms India"
+      ]
+    },
+    "506": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "All four options describe plausible labour legislation — the topic association fires strongly. Only the tribunal + strike-ban framing fits the Act's actual colonial function: suppressing militant industrial labour after the 1928-29 Bombay mill strike and Meerut Conspiracy Case.",
+      "answer_justification": {
+        "fact": "Trade Disputes Act 1929 established tribunals for industrial disputes and banned strikes — a colonial repressive measure against organised labour.",
+        "hook": "Enacted post-Meerut Conspiracy Case (1929) to contain Communist-influenced trade union militancy.",
+        "elimination_path": "Eliminate (a): worker management participation came via Art 43A (1976). Eliminate (b): 'arbitrary powers' framing legally untenable even colonially. Eliminate (c): existing courts already covered disputes. → (d) tribunals + ban on strikes."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Worker participation in management came via 42nd Amendment (Art 43A, 1976) — not 1929 colonial legislation.",
+          "confused_with": "42nd Amendment DPSP Art 43A"
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Granting arbitrary management powers was not how colonial legislation was framed — too legally explicit.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "British courts already had jurisdiction over industrial disputes; a separate British Court intervention Act would be redundant.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Trade Disputes Act 1929 India tribunals strike ban",
+        "Meerut Conspiracy Case 1929 labour unions",
+        "Colonial India labour legislation history"
+      ]
+    },
+    "507": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "The Butler Committee sounds like it could address Centre-Province jurisdiction or executive powers — generic colonial governance topics. Its specific mandate was the relationship between GoI and the 562 princely states under Crown paramountcy.",
+      "answer_justification": {
+        "fact": "Butler Committee (1927) examined the GoI–Indian States relationship: whether princes were subordinate to the GoI or directly to the Crown.",
+        "hook": "Princes feared future transfer of paramountcy to an Indian government — Butler was set up to examine this constitutional question.",
+        "elimination_path": "Eliminate (a): Centre-Province jurisdiction = GoI Acts 1919/1935. Eliminate (b): Secretary of State powers = defined in GoI Acts, no separate inquiry. Eliminate (c): press censorship = Press Act domain. → (d) princely states relationship."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Centre-Province jurisdiction was largely resolved by GoI Act 1919 — not the subject of a 1927 committee.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Secretary of State powers were constitutionally defined; no 1927 inquiry specifically addressed this.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Press censorship was handled under existing Press Acts — no committee of this type was mandated for that purpose.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Butler Committee 1927 princely states paramountcy",
+        "Crown paramountcy Indian princely states 562",
+        "GoI-Indian States relations 1927"
+      ]
+    },
+    "558": {
+      "question_type": "standard",
+      "trap_pattern": "period_attribution",
+      "trap_explanation": "Students often place the Royal Indian Navy Mutiny (1946) after independence — but it occurred in British India, 13 months before independence, making it later than Quit India (1942) but not post-independence. Sequence 3-2-1 inverts intuitive ordering.",
+      "answer_justification": {
+        "fact": "Second RTC: 1931. Quit India Movement: August 1942. Royal Indian Navy Mutiny: February 1946. Chronological order = 3-2-1 → option (c).",
+        "hook": "RIN Mutiny (1946) is the last event and occurred in British India — often mislabelled post-independence.",
+        "elimination_path": "Anchor to dates: RTC=1931, QIM=1942, RIN=1946. Earliest to latest = 3→2→1. Option (c) = 3-2-1. All others violate these fixed dates."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "1-2-3 places RIN Mutiny (1946) first — impossible; Mutiny is the latest of the three events.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "2-1-3 places Quit India (1942) before RIN Mutiny (1946) correctly but puts 2nd RTC (1931) last — inverted.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "3-1-2 places RIN Mutiny (1946) between RTC (1931) and Quit India (1942) — violates the actual 1946 date.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Royal Indian Navy Mutiny 1946 Bombay",
+        "Quit India Movement August 1942",
+        "Second Round Table Conference 1931 chronology"
+      ]
+    },
+    "678": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning",
+      "trap_explanation": "In everyday usage, equality sounds compatible with restraints (law), competition (markets), and ideologies (beliefs). Technically, equality as a political principle means absence of special privileges — unequal treatment by class, birth, or status.",
+      "answer_justification": {
+        "fact": "Equality in political theory = no special privileges for any class/group — option (a).",
+        "hook": "Aristotle: 'Equality consists in treating equals equally and unequals unequally.' The absence is of privilege, not restraint.",
+        "elimination_path": "Restraints exist even in equal societies (laws apply to all). Competition persists. Ideology is unrelated. Only privileges — differential treatment based on status — are incompatible with equality → (a)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Restraints (laws, norms) apply equally to all in an equal society — they are compatible with equality.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Competition exists in equal societies; equality guarantees equal starting conditions, not absent competition.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Ideology is a belief system — its presence or absence is independent of whether society has formal equality.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Equality privilege political theory Laski",
+        "Formal vs substantive equality",
+        "Equality absence of privilege liberal theory"
+      ]
+    },
+    "679": {
+      "question_type": "standard",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "Option (a) reverses the direction: 'claims of the State against citizens' is the definition of a duty, not a right. Rights run from citizen toward the state — claims for protection, liberty, resources.",
+      "answer_justification": {
+        "fact": "Rights = claims citizens make on the state (for protection, services, liberties) → option (c).",
+        "hook": "Rights and duties are correlational inverses: your right = the state's duty; your duty = the state's right.",
+        "elimination_path": "Eliminate (a): reverses direction (State claiming from citizens = duty). Eliminate (b): 'privileges in the Constitution' is too narrow and uses the wrong term 'privileges'. Eliminate (d): rights of 'few against many' = privilege, not right. → (c)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Claims of the state against citizens describes a legal duty or tax obligation — the reverse of a right.",
+          "confused_with": "Legal duty"
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Rights are not 'privileges' — they are entitlements, and the definition extends beyond constitutional document alone.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Rights of a few against the many defines privilege or monopoly — the opposite of universally applicable rights.",
+          "confused_with": "Privilege"
+        }
+      ],
+      "concept_hooks": [
+        "Rights as claims citizens against state Laski Green",
+        "Rights duties correlative relationship",
+        "Positive negative rights political theory"
+      ]
+    },
+    "680": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning",
+      "trap_explanation": "Local self-government involves elected local bodies exercising devolved power — 'democratic decentralisation.' Federalism (Centre-State) and direct democracy (referenda) are adjacent but distinct concepts; administrative delegation is bureaucratic, not elected.",
+      "answer_justification": {
+        "fact": "Local self-government = democratic decentralisation: power transferred to elected local bodies → option (b).",
+        "hook": "73rd and 74th Amendments (1992) constitutionalised local self-government as democratic decentralisation.",
+        "elimination_path": "Eliminate (a): federalism = Centre-State power sharing, not village/urban local body level. Eliminate (c): administrative delegation = bureaucratic orders, no elected mandate. Eliminate (d): direct democracy = citizens vote directly on laws — local self-government uses elected representatives. → (b)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Federalism describes Centre-State power division — local bodies operate below the state level, not under federalism theory.",
+          "confused_with": "Indian federalism"
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Administrative delegation passes authority within bureaucracy — local self-government transfers power to elected representatives.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Direct democracy means citizens vote directly on legislation — local self-government still uses elected councils (representatives).",
+          "confused_with": "Direct democracy"
+        }
+      ],
+      "concept_hooks": [
+        "Democratic decentralisation local self-government India",
+        "73rd 74th Amendment Panchayati Raj",
+        "Federalism vs decentralisation distinction"
+      ]
+    },
+    "681": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "Distractors offer elite-efficiency alternatives (executive leadership, superior individual, party workers) that all operate in the democratic space. Democracy's philosophical advantage, per Mill and Tocqueville, is specifically that it activates ordinary citizens' capacities.",
+      "answer_justification": {
+        "fact": "Democracy's superior virtue: it calls into activity the intelligence and character of ordinary men and women → option (a).",
+        "hook": "Mill: best government develops intelligence and character of ordinary people — democracy's unique legitimacy claim.",
+        "elimination_path": "Eliminate (b): executive leadership methods = efficiency, but not democracy's distinctive virtue. Eliminate (c): superior individual = aristocracy/autocracy's claim, not democracy's. Eliminate (d): party workers = factional interest. Democracy's unique feature = ordinary citizen activation → (a)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Strengthening executive leadership is a claim for presidential or authoritarian systems — not democracy's defining virtue.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Elevating a superior individual with vision is the aristocratic or elitist argument — contra democracy's egalitarian premise.",
+          "confused_with": "Meritocracy"
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "A band of dedicated party workers describes a one-party or vanguard-party system, not democratic virtue generally.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Democracy virtue ordinary citizens Mill Tocqueville",
+        "Democratic theory citizen participation",
+        "J.S. Mill representative government"
+      ]
+    },
+    "682": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "Options (b) and (d) describe advantages of the presidential system (continuity, fixed tenure). Option (a) describes the presidential system's actual design. Parliamentary government's defining feature is executive accountability to the legislature.",
+      "answer_justification": {
+        "fact": "Parliamentary government's main advantage: executive (Council of Ministers) remains responsible/accountable to the legislature → option (c).",
+        "hook": "No-confidence motion is the instrument — legislature can remove the executive, unlike in presidential systems.",
+        "elimination_path": "Eliminate (a): executive-legislature independence = presidential system. Eliminate (b): continuity/efficiency = presidential system's claimed advantage. Eliminate (d): head not changeable without election = presidential fixed-term feature. → (c) executive responsible to legislature."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Executive-legislature independence is the presidential model's design (e.g., US President vs Congress).",
+          "confused_with": "Presidential system"
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Continuity of policy and efficiency are standard claims for the presidential system — parliamentary systems change governments more frequently.",
+          "confused_with": "Presidential system advantages"
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Head of government cannot be changed without election = presidential fixed-term. In parliamentary systems, the PM can be removed by a no-confidence vote.",
+          "confused_with": "Presidential fixed term"
+        }
+      ],
+      "concept_hooks": [
+        "Parliamentary government collective responsibility executive",
+        "No-confidence motion Parliament India",
+        "Presidential vs parliamentary system comparison"
+      ]
+    },
+    "683": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning",
+      "trap_explanation": "Options (a), (b), and (d) describe incidental functions or popular misconceptions about the cabinet. Technically, the cabinet is the constitutional mechanism for collective responsibility of the government to the people via Parliament.",
+      "answer_justification": {
+        "fact": "Cabinet government = mechanism for collective responsibility of the government to the people (via Parliament) → option (c).",
+        "hook": "Collective responsibility: if a minister cannot defend cabinet policy, they must resign — or the whole cabinet falls.",
+        "elimination_path": "Eliminate (a): minimizing criticism is an accidental effect, not the principle. Eliminate (b): speeding up activities = bureaucratic, not constitutional. Eliminate (d): strengthening head's hold = autocratic framing. The constitutional principle is collective responsibility → (c)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Minimizing criticism is an incidental political effect, not the constitutional principle underlying the cabinet system.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Speeding up government activities is an administrative convenience, not the philosophical/constitutional basis of cabinet government.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Strengthening the head's hold inverts the principle — cabinet government limits individual power via collective accountability.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Cabinet collective responsibility principle",
+        "Westminster model cabinet government",
+        "Collective responsibility individual responsibility ministers India"
+      ]
+    },
+    "698": {
+      "question_type": "standard",
+      "trap_pattern": "negation_trap",
+      "trap_explanation": "'NOT a feature' framing causes test-takers to identify features and inadvertently select one. Indian federalism was NOT created by an agreement among existing states — unlike the US or Australia where sovereign states agreed to federate. The Constituent Assembly imposed federalism top-down.",
+      "answer_justification": {
+        "fact": "Indian federalism is NOT the result of an agreement among federating units — the Constitution was made by a Constituent Assembly, not by pre-existing sovereign states → option (d).",
+        "hook": "US/Australian federalism = compact among sovereign states. Indian federalism = created by Constituent Assembly; states were British administrative units.",
+        "elimination_path": "Confirm features: (a) independent judiciary ✓; (b) clear Centre-State division ✓; (c) unequal RS representation ✓. That leaves (d) — 'agreement among units' is not how the Indian Constitution was made → (d)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Independent judiciary IS a feature of Indian federalism — Supreme Court as independent constitutional guardian.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Division of powers into Union/State/Concurrent Lists IS a defining feature of Indian federalism.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Rajya Sabha gives unequal representation to states (by population size) — IS a feature, not an anomaly.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Indian federalism not compact among states",
+        "Constituent Assembly top-down federalism India",
+        "US Australian federalism vs Indian federalism"
+      ]
+    },
+    "721": {
+      "question_type": "standard",
+      "trap_pattern": "negation_trap",
+      "trap_explanation": "'NOT embodied' framing is the trap. The Preamble lists liberties of thought, expression, belief, faith, and worship — all in it. Economic liberty appears nowhere in the Preamble; it's a concept from economic rights theory, not the Indian constitutional text.",
+      "answer_justification": {
+        "fact": "Preamble's liberties: thought, expression, belief, faith, worship. Economic liberty is NOT mentioned → option (b).",
+        "hook": "Remember the Preamble's liberty list: T-E-B-F-W (Thought, Expression, Belief, Faith, Worship). No 'economic' in the sequence.",
+        "elimination_path": "Liberty of thought (a) ✓ in Preamble. Liberty of expression (c) ✓ in Preamble. Liberty of belief (d) ✓ in Preamble. Economic liberty (b) ✗ — absent from Preamble text → (b)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Liberty of thought is explicitly in the Preamble — it is embodied.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Liberty of expression is explicitly in the Preamble — it is embodied.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Liberty of belief is explicitly in the Preamble — it is embodied.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Preamble Constitution India liberties enumerated",
+        "Preamble text liberty justice equality fraternity",
+        "Economic liberty not in Indian Preamble"
+      ]
+    },
+    "722": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "Fundamental Rights, DPSPs, and Fundamental Duties all reflect the Constitution's values — making them plausible answers. But the Preamble is specifically called the 'soul' and 'key' to the Constitution — it directly reflects the constitution-makers' intent.",
+      "answer_justification": {
+        "fact": "The Preamble reflects the mind of the constitution-makers — it is the 'soul of the Constitution' per judicial interpretation → option (a).",
+        "hook": "Supreme Court in Berubari Union case (1960): Preamble is the key to opening the minds of constitution-makers.",
+        "elimination_path": "FRs (b), DPSPs (c), and FDs (d) all implement or derive from the vision. The Preamble IS the vision statement itself — the source, not the instrument → (a)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Fundamental Rights implement specific liberties — they follow from the Preamble's vision but are not the vision itself.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "DPSPs are policy directives — they reflect the socioeconomic vision but are not the primary statement of intent.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Fundamental Duties were added by the 42nd Amendment (1976) — not part of the original constitution-makers' direct expression.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Preamble soul constitution India Berubari Union case",
+        "Preamble key constitution-makers intent",
+        "Kesavananda Bharati Preamble amendment"
+      ]
+    },
+    "723": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning",
+      "trap_explanation": "Options (b), (c), (d) each describe something plausible but technically wrong: questioning legislative wisdom would be policy override; pre-assent review is US-style not Indian; reviewing own judgments is review petition/curative, not Judicial Review. Only (a) captures the constitutional doctrine.",
+      "answer_justification": {
+        "fact": "Judicial Review (India) = power to pronounce upon constitutionality of laws and executive orders → option (a).",
+        "hook": "Marbury v Madison (US) is the template; India adopted the principle — courts can void legislation that violates the Constitution.",
+        "elimination_path": "Eliminate (b): questioning wisdom = policy override — courts don't second-guess legislative policy. Eliminate (c): review before Presidential assent = US advisory opinion, not Indian practice. Eliminate (d): reviewing own judgments = review/curative petition, a separate doctrine. → (a)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Questioning the wisdom of laws would make courts super-legislators — incompatible with separation of powers.",
+          "confused_with": "Policy review"
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Pre-assent review of all legislation is not the Indian practice — Presidential assent doesn't trigger judicial review automatically.",
+          "confused_with": "Presidential reference to Supreme Court"
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Reviewing own judgments is the review petition or curative petition mechanism — a distinct doctrine from Judicial Review of legislation.",
+          "confused_with": "Review petition"
+        }
+      ],
+      "concept_hooks": [
+        "Judicial Review India constitutionality laws",
+        "Marbury v Madison judicial review template",
+        "Judicial review vs judicial policy review distinction"
+      ]
+    },
+    "724": {
+      "question_type": "statement_eval",
+      "trap_pattern": "negation_trap",
+      "trap_explanation": "'NOT necessarily consequences' inverts the task — test-takers identify what IS a consequence and accidentally mark it. Removal of CoM IS automatic; dissolution of state assembly and local bodies are NOT automatic under Article 356.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Dissolution of the State Legislative Assembly",
+          "verdict": "true",
+          "reason": "State assembly is NOT automatically dissolved under Art 356 — it can be suspended (kept in suspended animation); dissolution is discretionary, not automatic. So this is NOT a necessary consequence."
+        },
+        {
+          "id": 2,
+          "text": "Removal of the Council of Ministers in the State",
+          "verdict": "false",
+          "reason": "Removal of the state Council of Ministers IS an automatic and necessary consequence when President's Rule is proclaimed — CoM cannot continue."
+        },
+        {
+          "id": 3,
+          "text": "Dissolution of the local bodies",
+          "verdict": "true",
+          "reason": "Dissolution of local bodies is NOT a necessary consequence of Art 356 — they continue to function under their own elections and terms."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 and S3 are NOT necessary consequences; S2 IS a consequence. Answer = (b) 1 and 3 only.",
+        "hook": "Assembly suspension ≠ dissolution. CoM removal IS automatic. Local bodies NOT automatically dissolved.",
+        "elimination_path": "Test S2: CoM removal is always automatic — S2 is a consequence, not a 'not-necessarily.' Eliminates (a), (c), (d). S1 (assembly dissolution) and S3 (local bodies) are discretionary → (b)."
+      },
+      "concept_hooks": [
+        "President's Rule Article 356 consequences India",
+        "State assembly suspended animation President's Rule",
+        "Local bodies President's Rule unaffected"
+      ]
+    },
+    "760": {
+      "question_type": "standard",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "All Fundamental Rights are constitutional rights, but not all constitutional rights are Fundamental Rights. Right to vote (Art 326) is in Part XV of the Constitution — outside Part III (FRs). Calling it a 'Fundamental Right' is the most common error.",
+      "answer_justification": {
+        "fact": "Right to vote = Constitutional Right under Art 326 (Part XV) — NOT in Part III Fundamental Rights → option (c).",
+        "hook": "Art 326 = Constitutional Right (Part XV), not FR (Part III). Disputes → HC under Art 329, not SC under Art 32.",
+        "elimination_path": "Eliminate (a): Part III FRs don't include voting — Art 326 is Part XV. Eliminate (b): natural rights have no legal basis. Eliminate (d): 'legal right' too general — specifically constitutional. → (c)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Right to vote is NOT in Part III Fundamental Rights — election disputes go to High Courts, not SC directly via Art 32.",
+          "confused_with": "Fundamental Rights Part III"
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Natural rights are not recognised in Indian positive law — all rights in India are legally defined.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "'Legal right' is too generic — the right to vote is specifically guaranteed by the Constitution (Art 326), making it constitutional.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Right to vote Article 326 Constitution India",
+        "Constitutional right vs Fundamental Right distinction",
+        "Part III Part XV Constitution India"
+      ]
+    },
+    "761": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "Abolition of untouchability (Art 17) and protection of minorities (Art 29-30) are Fundamental Rights but fall under different chapters. Only traffic/forced labour (Art 23) and child labour in factories/mines (Art 24) are under Right against Exploitation.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Prohibition of traffic in human beings and forced labour",
+          "verdict": "true",
+          "reason": "Article 23 prohibits traffic in persons and begar (forced labour without payment) — core of Right against Exploitation."
+        },
+        {
+          "id": 2,
+          "text": "Abolition of untouchability",
+          "verdict": "false",
+          "reason": "Abolition of untouchability is Article 17 — under Right to Equality (Part III), not under Right against Exploitation."
+        },
+        {
+          "id": 3,
+          "text": "Protection of the interests of minorities",
+          "verdict": "false",
+          "reason": "Minority rights are Articles 29-30 — Cultural and Educational Rights chapter, not Right against Exploitation."
+        },
+        {
+          "id": 4,
+          "text": "Prohibition of employment of children in factories and mines",
+          "verdict": "true",
+          "reason": "Article 24 prohibits employment of children below 14 in factories/mines/hazardous occupations — the second limb of Right against Exploitation."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Arts 23 and 24 (forced labour + child labour) are Right against Exploitation → option (c) 1 and 4 only.",
+        "hook": "Arts 23-24 = forced labour + child labour. Not untouchability (Art 17) nor minority rights (Arts 29-30).",
+        "elimination_path": "Eliminate S2: untouchability = Art 17 (Equality chapter). Eliminate S3: minorities = Arts 29-30 (Cultural/Educational). S1 (Art 23) and S4 (Art 24) remain → (c)."
+      },
+      "concept_hooks": [
+        "Right against Exploitation Article 23 24 India",
+        "Abolition untouchability Article 17 Right Equality",
+        "Cultural Educational Rights Article 29 30 minorities"
+      ]
+    },
+    "777": {
+      "question_type": "standard",
+      "trap_pattern": "period_attribution",
+      "trap_explanation": "All four options are DPSP provisions — the question is which one was ADDED by the 42nd Amendment (1976). Equal pay (Art 39d), right to work (Art 41), and living wage (Art 43) all predate 1976. Only Art 43A (worker management participation) was newly inserted.",
+      "answer_justification": {
+        "fact": "42nd Amendment (1976) added Art 43A — participation of workers in management of industries → option (b).",
+        "hook": "Art 43A was inserted by Indira Gandhi's amendment during the Emergency period as part of socialist directives.",
+        "elimination_path": "Eliminate (a): Art 39(d) equal pay was original 1950 DPSP. Eliminate (c): Art 41 right to work was original 1950 DPSP. Eliminate (d): Art 43 living wage was original 1950 DPSP. Art 43A is the only 1976 addition → (b)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Equal pay for equal work is Article 39(d) — an original 1950 DPSP, not added by the 42nd Amendment.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Right to work/education/public assistance is Article 41 — also an original 1950 DPSP, not the 42nd Amendment addition.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Living wage for workers is Article 43 — original 1950 DPSP, predates the 42nd Amendment by 26 years.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "42nd Amendment 1976 DPSP Article 43A worker management",
+        "DPSP original 1950 provisions",
+        "Emergency India constitutional amendments"
+      ]
+    },
+    "778": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "DPSPs sound like they restrict what the legislature and executive can do — they're 'directives to the state.' But they are non-justiciable guidelines, not enforceable limits. DPSPs constitute guidelines, not constitutional limitations.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "The Directive Principles of State Policy constitute limitations upon Legislative function",
+          "verdict": "false",
+          "reason": "DPSPs are non-justiciable — courts cannot strike down legislation for violating a DPSP. They are aspirational directives, not legal limits on Parliament."
+        },
+        {
+          "id": 2,
+          "text": "The Directive Principles of State Policy constitute limitations upon Executive function",
+          "verdict": "false",
+          "reason": "DPSPs don't legally constrain executive action either — no court can invalidate an executive act solely for not implementing a DPSP."
+        }
+      ],
+      "answer_justification": {
+        "fact": "DPSPs are directives, not justiciable limitations on legislature or executive → option (d) Neither.",
+        "hook": "DPSPs = non-justiciable directives. Cannot be enforced against Parliament or executive.",
+        "elimination_path": "Test S1: Can Parliament be compelled to pass DPSP-aligned laws? No — DPSPs are non-justiciable. S2 follows identically. Both false → (d)."
+      },
+      "concept_hooks": [
+        "DPSP non-justiciable directive principles",
+        "DPSPs vs Fundamental Rights justiciability",
+        "State of Madras v Champakam Dorairajan DPSP FR"
+      ]
+    },
+    "779": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 claims there's a legislative enforcement mechanism for FDs — there is none. S2 claims FDs are 'correlative to legal duties' — but legal duties are enforceable while FDs are purely moral obligations. Both invert the actual constitutional status.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "A legislative process has been provided to enforce these duties",
+          "verdict": "false",
+          "reason": "No statutory enforcement mechanism exists for Fundamental Duties (Art 51A). They are constitutional moral obligations, not backed by any penal provision under the Constitution."
+        },
+        {
+          "id": 2,
+          "text": "They are correlative to legal duties",
+          "verdict": "false",
+          "reason": "Legal duties are enforceable by law. Fundamental Duties are non-justiciable moral civic obligations — correlating them to enforceable legal duties misrepresents their nature."
+        }
+      ],
+      "answer_justification": {
+        "fact": "FDs have no enforcement mechanism and are not equivalent to legal duties → option (d) Neither.",
+        "hook": "FDs = moral duties only. No enforcement mechanism; not equivalent to legal duties.",
+        "elimination_path": "Test S1: Any penal law for violating FDs in the Constitution? No. Test S2: FDs are moral, not legal duties. Both false → (d)."
+      },
+      "concept_hooks": [
+        "Fundamental Duties Article 51A India non-justiciable",
+        "Fundamental Duties enforcement absence",
+        "42nd Amendment Fundamental Duties Swaran Singh Committee"
+      ]
+    },
+    "780": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "Options (b), (c), and (d) each isolate rights or duties as independent or superior — political theory rejects this. Rights and duties are correlational: your right generates a corresponding duty on others, and vice versa.",
+      "answer_justification": {
+        "fact": "Rights and duties are correlative — every right implies a corresponding duty → option (a).",
+        "hook": "Laski: 'The State concedes rights because they are essential to the good life; but every right carries with it a corresponding duty.'",
+        "elimination_path": "Eliminate (b): rights as personal/independent of society ignores that rights exist within social contracts. Eliminate (c) and (d): elevating one over the other is ideologically partial, not the political theory standard. → (a) correlative."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Rights are not independent of society — they exist within and require recognition by social institutions.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Claiming Rights (not Duties) drive personality is partial — both are necessary in political theory.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Claiming Duties (not Rights) matter for state stability is the authoritarian view — classic political theory treats both as equal.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Rights duties correlative relationship Laski",
+        "Rights social nature political theory",
+        "Fundamental Duties Fundamental Rights balance India"
+      ]
+    },
+    "867": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 inverts the definition — a private member's bill is introduced by any MP who is not a Minister (not specifically a nominated member). S2 inverts history — private member's bills have been passed multiple times, not for the 'first time recently.'",
+      "statements": [
+        {
+          "id": 1,
+          "text": "A private member's bill is a bill presented by a Member of Parliament who is not elected but only nominated by the President of India.",
+          "verdict": "false",
+          "reason": "Any MP who is not a member of the Council of Ministers (not a Minister) can introduce a private member's bill — including elected MPs. Not restricted to nominated members."
+        },
+        {
+          "id": 2,
+          "text": "Recently, a private member's bill has been passed in the Parliament of India for the first time in its history.",
+          "verdict": "false",
+          "reason": "Multiple private member's bills have been passed — e.g., Muslim Wakf Bill (1952) passed as a private member's bill; 14+ passed since independence."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 wrong (any non-Minister MP, not only nominated); S2 wrong (multiple PMBs passed historically) → option (d) Neither.",
+        "hook": "Any non-minister MP can introduce a PMB. Multiple PMBs have passed since 1952.",
+        "elimination_path": "Test S1: elected non-ministers routinely introduce PMBs. Test S2: Muslim Wakf Bill 1952 is one historical example. Both false → (d)."
+      },
+      "concept_hooks": [
+        "Private member's bill Parliament India definition",
+        "Private member's bill vs government bill distinction",
+        "Muslim Wakf Bill 1952 private member passage"
+      ]
+    },
+    "868": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "The trap is assuming one of the three mechanisms is NOT a parliamentary control tool. All three — adjournment motion, question hour, and supplementary questions — are established mechanisms through which Parliament controls the executive.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Adjournment motion",
+          "verdict": "true",
+          "reason": "Adjournment motion draws attention to a specific urgent matter of public importance — a direct parliamentary control tool requiring the majority's support."
+        },
+        {
+          "id": 2,
+          "text": "Question hour",
+          "verdict": "true",
+          "reason": "Question Hour (first hour of every sitting) allows MPs to hold ministers accountable by questioning them on government policy and actions."
+        },
+        {
+          "id": 3,
+          "text": "Supplementary questions",
+          "verdict": "true",
+          "reason": "Supplementary questions follow the answered starred question — pressing ministers for further clarification, enhancing accountability."
+        }
+      ],
+      "answer_justification": {
+        "fact": "All three are parliamentary control tools → option (d) 1, 2 and 3.",
+        "hook": "Adjournment motion + question hour + supplementary questions = all three are parliamentary control mechanisms.",
+        "elimination_path": "Test each: adjournment motion ✓ (urgent matter, control), question hour ✓ (daily accountability), supplementary questions ✓ (follow-up pressure). All three valid → (d)."
+      },
+      "concept_hooks": [
+        "Parliament control Council of Ministers India mechanisms",
+        "Adjournment motion question hour supplementary questions",
+        "Parliamentary accountability tools India"
+      ]
+    },
+    "869": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 introduces a 50% threshold that FPTP elections do not require. S2 converts a constitutional convention into a mandatory constitutional provision — the Speaker/Deputy Speaker arrangement is convention, not constitutionally mandated.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected.",
+          "verdict": "false",
+          "reason": "India uses First Past The Post (FPTP) — the candidate with the most votes wins, regardless of percentage. No 50% threshold exists."
+        },
+        {
+          "id": 2,
+          "text": "According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker's post goes to the majority party and the Deputy Speaker's to the Opposition.",
+          "verdict": "false",
+          "reason": "The Constitution (Arts 93-94) only says Speaker and Deputy Speaker are elected by Lok Sabha members. The majority/opposition arrangement is a convention, not a constitutional provision."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 false (FPTP has no 50% requirement); S2 false (Speaker-Deputy arrangement is convention, not constitutional) → option (d) Neither.",
+        "hook": "FPTP: no 50% threshold. Speaker-Deputy arrangement = convention, not a constitutional provision.",
+        "elimination_path": "Test S1: Any FPTP election with 3+ candidates is won by plurality. Test S2: Arts 93-94 describe election of Speaker/Deputy by members — no party allocation provision. Both false → (d)."
+      },
+      "concept_hooks": [
+        "First Past The Post FPTP India no 50% threshold",
+        "Speaker Deputy Speaker Lok Sabha election Constitution",
+        "Convention vs constitutional provision India"
+      ]
+    },
+    "956": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning",
+      "trap_explanation": "Common assumption: you must live in or be from the constituency to contest it. The Constitution requires only that your name appears on ANY constituency's electoral roll — you can contest from anywhere in India where you are registered as a voter.",
+      "answer_justification": {
+        "fact": "Lok Sabha nomination: any citizen of India whose name appears on any constituency's electoral roll may file → option (c).",
+        "hook": "This is why candidates contest from constituencies far from their hometown — no residential restriction, only electoral roll registration required.",
+        "elimination_path": "Eliminate (a): must be a citizen, not just a resident. Eliminate (b): no constituency residency requirement. Eliminate (d): must be on electoral roll, not just any citizen. → (c)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Residency in India is not the criterion — citizenship and electoral roll registration are required.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "No residency in the specific constituency is required — one can contest from any seat where registered.",
+          "confused_with": "State assembly residency requirement (different rule)"
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Being a citizen alone is insufficient — the name must appear on some constituency's electoral roll.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Lok Sabha nomination eligibility electoral roll any constituency",
+        "Representation of People Act 1951 nomination",
+        "No residency requirement Lok Sabha contest India"
+      ]
+    },
+    "957": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 inverts ECI's actual variable composition (1 CEC + typically 2 ECs, not fixed 5). S2 inverts which institution decides election schedule — it's the ECI, not the Home Ministry. Only S3 correctly assigns split/merger disputes to ECI.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "The Election Commission of India is a five-member body.",
+          "verdict": "false",
+          "reason": "ECI composition is variable — currently 3 members (CEC + 2 Election Commissioners). The Constitution allows multi-member ECI but doesn't fix it at 5."
+        },
+        {
+          "id": 2,
+          "text": "Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections.",
+          "verdict": "false",
+          "reason": "The Election Commission of India independently decides election schedules — Home Ministry has no role in setting election dates."
+        },
+        {
+          "id": 3,
+          "text": "Election Commission resolves the disputes relating to splits/mergers of recognised political parties.",
+          "verdict": "true",
+          "reason": "ECI has quasi-judicial authority to decide disputes involving splits, mergers, and recognition of political parties under the Election Symbols Order."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 false (not fixed 5-member), S2 false (ECI not Home Ministry decides schedule), S3 true → option (d) 3 only.",
+        "hook": "ECI: 1 CEC + 2 ECs (3 members). ECI schedules elections. Party split/merger = ECI domain.",
+        "elimination_path": "Eliminate S1 and S2 — both invert actual constitutional arrangements. S3 (party split/merger) is well-established ECI jurisdiction → (d)."
+      },
+      "concept_hooks": [
+        "Election Commission India composition variable Chief Election Commissioner",
+        "ECI election schedule autonomy not Home Ministry",
+        "Election Symbols Order party split merger ECI"
+      ]
+    },
+    "1013": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "All options describe India's foreign policy goals in plausible geographic proximity (Africa, Arab states, Iraq, Central Asia). The Chabahar-specific logic is that it gives India a sea-land route to Afghanistan and Central Asia bypassing Pakistan entirely.",
+      "answer_justification": {
+        "fact": "Chabahar Port (Iran) gives India direct sea access to Iran, then land access to Afghanistan and Central Asia — bypassing Pakistan → option (c).",
+        "hook": "Without Chabahar, India's overland access to Afghanistan requires traversing Pakistani territory, which Pakistan denies.",
+        "elimination_path": "Eliminate (a): Chabahar is on Arabian Sea/Gulf of Oman — Africa trade uses different routes. Eliminate (b): Arab oil relations are separate from Chabahar's strategic logic. Eliminate (d): Iraq-India gas pipeline is speculative and unrelated to Chabahar's location. → (c)."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Africa trade uses ports on India's western coast or Suez route — Chabahar is specifically for land connectivity to Central Asia.",
+          "confused_with": "India maritime trade Africa"
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Arab oil relations are about Gulf states/energy imports — Chabahar's function is strategic connectivity, not oil.",
+          "confused_with": "India Gulf energy relations"
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "An Iraq-India gas pipeline would require different infrastructure entirely; Chabahar's value is as a trade/transit port, not pipeline terminal.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Chabahar Port Iran India strategic connectivity",
+        "India Afghanistan Central Asia connectivity bypass Pakistan",
+        "International North South Transport Corridor INSTC"
+      ]
+    },
+    "2490": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students assume only telecom 'service providers' face mandatory reporting, overlooking that CERT-In Rules 2013 equally bind data centres and body corporates to report cyber security incidents.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Service providers",
+          "verdict": "true",
+          "reason": "IT Act/CERT-In Rules 2013 mandate service providers to report incidents to CERT-In within stipulated timeframes."
+        },
+        {
+          "id": 2,
+          "text": "Data centres",
+          "verdict": "true",
+          "reason": "Data centres are explicitly covered under CERT-In Rules 2013 reporting obligations alongside service providers."
+        },
+        {
+          "id": 3,
+          "text": "Body corporate",
+          "verdict": "true",
+          "reason": "Body corporates handling sensitive personal data must report cyber incidents under the amended IT Act framework."
+        }
+      ],
+      "answer_justification": {
+        "fact": "IT Act 2000 + CERT-In Rules 2013 mandate all three — service providers, data centres, body corporates — to report incidents.",
+        "elimination_path": "All three entity types are explicitly named in CERT-In Rules 2013 notification requirements. Partial options (a), (b), (c) eliminate themselves.",
+        "hook": "CERT-In covers all data handlers — not just telecom, all three."
+      },
+      "concept_hooks": [
+        "CERT-In Rules 2013",
+        "IT Act 2000 cyber reporting",
+        "body corporate data obligations"
+      ]
+    },
+    "2521": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'Singularity' loosely evokes biology; 'Standard Model' sounds like it could apply to satellite/orbital physics — pulling students away from the correct cosmology/theoretical physics grouping.",
+      "answer_justification": {
+        "fact": "Event Horizon (black holes), Singularity (spacetime collapse), String Theory, Standard Model all belong to cosmology and theoretical particle physics.",
+        "elimination_path": "Eclipses = orbital geometry. Satellites = Newtonian mechanics. Living organisms = biology/biochemistry. All four terms are cosmology/theoretical physics → (a).",
+        "hook": "Standard Model + String Theory = particle-physics cosmology, not applied science."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Eclipse mechanics use orbital geometry; singularities and string theory are irrelevant there.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Satellite orbits use Keplerian/Newtonian mechanics, not event horizons or string theory.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Origin of life is biology/biochemistry; unrelated to Standard Model or string theory.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Standard Model particle physics",
+        "event horizon black hole",
+        "string theory cosmology",
+        "singularity spacetime"
+      ]
+    },
+    "2522": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'Laser Interferometer' plus 'space antenna' evokes communications or defence monitoring; students unfamiliar with ESA's eLISA project choose solar-flare or missile-defence options.",
+      "answer_justification": {
+        "fact": "eLISA (evolved Laser Interferometer Space Antenna) = ESA's planned space-based gravitational wave detector, successor to LISA Pathfinder.",
+        "elimination_path": "Neutrinos → IceCube/KamLAND. Missile defence → THAAD/Patriot systems. Solar flares → NOAA/space weather. eLISA = gravitational waves exclusively → (b).",
+        "hook": "LIGO detected gravitational waves 2015; eLISA is the planned space-based version."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Neutrino detection uses underground/underwater Cherenkov detectors, not space interferometers.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Missile defence systems are military hardware; unrelated to ESA's scientific mission.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Solar flare communication effects are monitored by NOAA/space weather agencies, not laser interferometers.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "eLISA gravitational waves ESA",
+        "LIGO space-based successor",
+        "laser interferometry detector"
+      ]
+    },
+    "2595": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students may doubt S2 (thinking sequencing only identifies genes, not speeds breeding) or S3 (treating host-pathogen decoding as beyond near-future use), causing partial-answer selection.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Identify genetic markers for disease resistance and drought tolerance in various crop plants",
+          "verdict": "true",
+          "reason": "Genome sequencing maps alleles for resistance traits, enabling marker-assisted selection in crop breeding programs."
+        },
+        {
+          "id": 2,
+          "text": "Reduces the time required to develop new varieties of crop plants",
+          "verdict": "true",
+          "reason": "Sequencing identifies desired trait loci faster than phenotypic screening, shortening conventional breeding timelines significantly."
+        },
+        {
+          "id": 3,
+          "text": "Used to decipher the host-pathogen relationships in crops",
+          "verdict": "true",
+          "reason": "Comparing pathogen and crop genomes reveals effector proteins and resistance gene interactions — active genomics application."
+        }
+      ],
+      "answer_justification": {
+        "fact": "All three are established agricultural genomics applications: marker-assisted selection, faster breeding, host-pathogen genomics.",
+        "elimination_path": "S1 unambiguous. S2 = marker-assisted selection shortens breeding cycles (documented). S3 = genomic epidemiology of crop disease. All three → (d).",
+        "hook": "Rice, wheat, tomato all have sequenced genomes — all three uses are already active."
+      },
+      "concept_hooks": [
+        "marker-assisted selection",
+        "crop genome sequencing",
+        "host-pathogen genomics",
+        "disease resistance breeding"
+      ]
+    },
+    "2596": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "Options a/b/d name legitimate biotech applications; students unfamiliar with SCNT conflate nuclear transfer with fermentation or genetic engineering used in those adjacent processes.",
+      "answer_justification": {
+        "fact": "SCNT = transfer of adult somatic cell nucleus into enucleated egg = reproductive cloning. Classic example: Dolly the sheep (1996).",
+        "elimination_path": "Biolarvicides = Bt microbial fermentation. Biodegradable plastics = PHA/PLA metabolic engineering. Disease-free = gene therapy/editing. SCNT = cloning only → (c).",
+        "hook": "Dolly = first mammal cloned via SCNT. Nuclear transfer ≠ gene editing."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Biolarvicides (Bt israelensis) are produced by microbial fermentation, not nuclear transfer.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Biodegradable plastics use metabolic engineering of microbes, not somatic cell transfer.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Disease-free organisms use gene editing (CRISPR); SCNT clones an existing cell, including its disease genes.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "SCNT reproductive cloning",
+        "Dolly the sheep",
+        "somatic nucleus enucleated egg",
+        "cloning vs gene editing"
+      ]
+    },
+    "2627": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students accepting S1 (flexibility) may doubt S2 (roll-up wearables) as futuristic speculation, selecting (a) 1 and 3 only and missing that S2 is also a documented OLED property.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "OLED displays can be fabricated on flexible plastic substrates",
+          "verdict": "true",
+          "reason": "OLEDs deposit organic emitter layers on flexible plastic; LCD requires rigid glass substrate with a separate backlight."
+        },
+        {
+          "id": 2,
+          "text": "Roll-up displays embedded in clothing can be made using OLEDs",
+          "verdict": "true",
+          "reason": "Flexible OLED substrates enable textile integration; demonstrated in wearable-display prototypes before 2017."
+        },
+        {
+          "id": 3,
+          "text": "Transparent displays are possible using OLEDs",
+          "verdict": "true",
+          "reason": "OLED layers are inherently thin and can be made optically transparent when off; LCD backlight blocks full transparency."
+        }
+      ],
+      "answer_justification": {
+        "fact": "All three are genuine OLED structural advantages over LCD: flexible substrate, rollable/wearable form, and optical transparency.",
+        "elimination_path": "LCD requires rigid glass + backlight. OLED = organic emitter on plastic — S1+S2+S3 all follow from this principle → (c).",
+        "hook": "OLED = no backlight → thin, flexible, transparent — all three at once."
+      },
+      "concept_hooks": [
+        "OLED vs LCD",
+        "flexible display substrate",
+        "transparent OLED",
+        "wearable display technology"
+      ]
+    },
+    "2648": {
+      "question_type": "matching",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Pair 2 (BVO in soft drinks) is the least-known — students may doubt it and select (c) 1 and 3 only. BVO was a real FDA-regulated emulsifier in citrus drinks before regulatory removal.",
+      "pairs": [
+        {
+          "id": 1,
+          "item": "Lipstick",
+          "match": "Lead",
+          "verdict": "true",
+          "reason": "Lead contamination in lipstick is documented; trace lead leaches from natural pigments and colorant processing."
+        },
+        {
+          "id": 2,
+          "item": "Soft drinks",
+          "match": "Brominated vegetable oils",
+          "verdict": "true",
+          "reason": "BVO used as emulsifier in citrus-flavoured drinks; banned in EU/Japan, restricted in US — major food safety concern."
+        },
+        {
+          "id": 3,
+          "item": "Chinese fast food",
+          "match": "Monosodium glutamate",
+          "verdict": "true",
+          "reason": "MSG is the canonical umami enhancer associated with 'Chinese restaurant syndrome' — widely documented additive."
+        }
+      ],
+      "answer_justification": {
+        "fact": "All three pairs correctly matched: lead in lipstick, BVO in soft drinks, MSG in Chinese fast food — all real safety/additive controversies.",
+        "elimination_path": "Pair 3 unambiguous. Pair 1 well-known. Pair 2 (BVO) is real — FDA reviewed it before banning in 2024. All three → (d).",
+        "hook": "BVO = brominated vegetable oil, the citrus-drink emulsifier — often the rejected pair."
+      },
+      "concept_hooks": [
+        "brominated vegetable oil BVO",
+        "lead in cosmetics safety",
+        "MSG Chinese restaurant syndrome",
+        "food additive controversies"
+      ]
+    },
+    "2677": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "S2 (sexual transmission) was emerging evidence in 2016-17; students may treat it as unconfirmed fringe science and select (a) 1 only, missing the CDC-documented finding.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Zika virus disease is transmitted by the same mosquito that transmits dengue",
+          "verdict": "true",
+          "reason": "Aedes aegypti (and A. albopictus) vectors both Zika and dengue — same tropical mosquito species and ecology."
+        },
+        {
+          "id": 2,
+          "text": "Sexual transmission of Zika virus disease is possible",
+          "verdict": "true",
+          "reason": "CDC confirmed male-to-female sexual transmission in 2016; Zika RNA persists in semen longer than in blood."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Both correct: Aedes mosquito transmits Zika as it does dengue; sexual transmission confirmed by CDC 2016 outbreak data.",
+        "elimination_path": "S1 unambiguous — same Aedes vector as dengue, chikungunya. S2 confirmed in 2016 Brazilian outbreak data before 2017 exam. Both → (c).",
+        "hook": "Zika in semen ~2 months — sexual transmission is the pregnancy-risk concern."
+      },
+      "concept_hooks": [
+        "Aedes aegypti Zika dengue vector",
+        "Zika sexual transmission",
+        "arbovirus",
+        "microcephaly pregnancy risk"
+      ]
+    },
+    "2727": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "Nuclear security topics naturally evoke UN/IAEA, but NSS was a US-led diplomatic forum outside UN structures, and IPFM is an independent Princeton academic body with no IAEA charter affiliation.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Nuclear Security Summits are periodically held under the aegis of the United Nations",
+          "verdict": "false",
+          "reason": "NSS (2010, 2012, 2014, 2016) was an Obama-initiated forum — no UN mandate, no UN secretariat, concluded in 2016."
+        },
+        {
+          "id": 2,
+          "text": "The International Panel on Fissile Materials is an organ of the International Atomic Energy Agency",
+          "verdict": "false",
+          "reason": "IPFM is an independent research group founded 2006 at Princeton University; not created by or affiliated with IAEA."
+        }
+      ],
+      "answer_justification": {
+        "fact": "NSS = US-led non-UN forum (ended 2016). IPFM = independent Princeton body, not an IAEA organ. Both false → (d) Neither.",
+        "elimination_path": "S1: NSS had no UNGA resolution or UN framework. S2: IPFM homepage lists Princeton, no IAEA charter link. Both false → (d).",
+        "hook": "Nuclear topic ≠ UN/IAEA automatically. NSS was bilateral-to-multilateral US diplomacy."
+      },
+      "concept_hooks": [
+        "Nuclear Security Summit Obama initiative",
+        "NSS not UN",
+        "IPFM Princeton fissile materials",
+        "IAEA vs independent panels"
+      ]
+    },
+    "2752": {
+      "question_type": "standard",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "Gender equality is strongly associated with UN Women and UNHRC; students default to a UN agency without knowing the Global Gender Gap Index is a World Economic Forum (Davos) product.",
+      "answer_justification": {
+        "fact": "Global Gender Gap Index = World Economic Forum annual report, published since 2006 alongside the Davos Annual Meeting.",
+        "elimination_path": "UN Women → Progress of the World's Women (not GGG). UNHRC → rights monitoring, not indexes. WHO → health metrics. WEF → correct → (a).",
+        "hook": "WEF publishes GGG — it is a Davos product, not a UN index."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "UNHRC monitors human rights violations; does not publish country-ranking gender-gap indexes.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "UN Women advocates for gender equality but does not produce the 'Global Gender Gap Index'.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "WHO tracks health indicators; gender economic/political participation ranking belongs to WEF.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Global Gender Gap Index WEF",
+        "UN Women vs World Economic Forum",
+        "Davos gender report",
+        "WEF annual reports"
+      ]
+    },
+    "2753": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "BRICS, G20, and ASEAN all have digital economy mandates; students unfamiliar with the EU's 2015 DSM Strategy may guess an adjacent multilateral grouping.",
+      "answer_justification": {
+        "fact": "Digital Single Market Strategy = EU Commission policy (May 2015) to unify 28 member digital economies into one online market.",
+        "elimination_path": "ASEAN = regional grouping, no DSM. BRICS = emerging economies bloc. G20 = macro coordination. 'Single Market' is exclusively EU vocabulary → (c).",
+        "hook": "'Single Market' is EU-only terminology — digital extension of the 1993 European single market."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "ASEAN has digital economy initiatives but no 'Digital Single Market Strategy' by that name.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "BRICS focuses on economic cooperation; no single-market digital framework exists under BRICS.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "G20 has a digital economy track but no 'Digital Single Market Strategy'.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "EU Digital Single Market Strategy 2015",
+        "EU single market integration",
+        "digital economy governance EU"
+      ]
+    },
+    "2754": {
+      "question_type": "statement_eval",
+      "trap_pattern": "period_attribution",
+      "trap_explanation": "S1 embeds 2015 as the inaugural IONS year — a plausible-sounding recent date that displaces the actual 2008 founding year, especially for students who recall IONS without fixing its founding date.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy",
+          "verdict": "false",
+          "reason": "Inaugural IONS was held in New Delhi in February 2008 — not 2015. Indian Navy was founding chair."
+        },
+        {
+          "id": 2,
+          "text": "IONS is a voluntary initiative to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region",
+          "verdict": "true",
+          "reason": "Correct — IONS is voluntary, non-binding, open to all IOR littoral navies for maritime security dialogue."
+        }
+      ],
+      "answer_justification": {
+        "fact": "IONS inaugural = February 2008, New Delhi (not 2015). S2 correctly describes IONS as voluntary IOR littoral maritime cooperation.",
+        "elimination_path": "S1: 2015 is factually wrong — anchor to 2008. S2 is unambiguously correct. Only S2 → (b).",
+        "hook": "2008 = IONS launch; anchor alongside 26/11 Mumbai attacks (also 2008) for timeline memory."
+      },
+      "concept_hooks": [
+        "IONS 2008 inaugural New Delhi",
+        "Indian Ocean Naval Symposium",
+        "IOR littoral state navies",
+        "voluntary maritime cooperation"
+      ]
+    },
+    "2812": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'Domestic content requirement' sounds like broadcast/media licensing or food labelling; students unfamiliar with India's WTO solar dispute may pick TV channels or food exports.",
+      "answer_justification": {
+        "fact": "DCR = JNNSM mandate requiring domestically manufactured solar cells/modules. India lost WTO dispute DS456 (US vs India) in 2016.",
+        "elimination_path": "TV channels = broadcast licensing, not DCR. Food exports = phytosanitary rules. Foreign campuses = UGC norms. Solar = WTO dispute context → (a).",
+        "hook": "India's solar DCR was WTO Dispute DS456 — solar manufacturing is the sole DCR context here."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "TV channel licensing uses broadcast content quotas, not 'domestic content requirement' in the trade/WTO sense.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Food export rules concern SPS/phytosanitary standards, unrelated to DCR.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Foreign university campuses are governed by UGC/AICTE norms; no DCR applies.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "DCR solar JNNSM",
+        "WTO DS456 India solar",
+        "local content requirement trade",
+        "National Solar Mission domestic cells"
+      ]
+    },
+    "2813": {
+      "question_type": "statement_eval",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'Smart India' pulls in Smart Cities Mission (S1); 'Hackathon' evokes fintech/payment digitisation (S3). Both are unrelated govt programmes that share name fragments with SIH.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Centrally sponsored scheme for developing every city into Smart Cities in a decade",
+          "verdict": "false",
+          "reason": "Smart Cities Mission (MoHUA) is a separate scheme. Smart India Hackathon is an AICTE/MoE student innovation programme."
+        },
+        {
+          "id": 2,
+          "text": "Initiative to identify new digital technology innovations for solving the many problems faced by our country",
+          "verdict": "true",
+          "reason": "SIH 2017 was launched by MoE/AICTE to crowdsource student-led tech solutions to government-posed problem statements."
+        },
+        {
+          "id": 3,
+          "text": "Programme aimed at making all financial transactions in our country completely digital in a decade",
+          "verdict": "false",
+          "reason": "Digital payments push is a separate initiative (BHIM/Jan Dhan). SIH is a hackathon for broad problem-solving, not a payment mandate."
+        }
+      ],
+      "answer_justification": {
+        "fact": "SIH 2017 = MoE/AICTE student hackathon for digital solutions to national problems. S1 (Smart Cities) and S3 (digital payments) describe unrelated schemes.",
+        "elimination_path": "S1 → Smart Cities Mission ≠ hackathon. S3 → digital payment push ≠ hackathon. Only S2 correctly describes SIH 2017 → (b).",
+        "hook": "Hackathon = code sprint for problem statements — not city-building, not payment mandate."
+      },
+      "concept_hooks": [
+        "Smart India Hackathon MoE AICTE",
+        "Smart Cities Mission vs Hackathon",
+        "Digital India scheme disambiguation",
+        "AICTE student innovation"
+      ]
+    },
+    "1105": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 inverts the actual post-1991 trend — students recall 'agriculture is important' and assume its GDP share rose, missing that liberalization drove services/manufacturing growth that diluted agriculture's share.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Share of agriculture in GDP increased enormously",
+          "verdict": "false",
+          "reason": "Post-1991, agriculture's GDP share DECLINED as services and manufacturing grew faster — from ~30% to below 15%."
+        },
+        {
+          "id": 2,
+          "text": "Share of India's exports in world trade increased",
+          "verdict": "true",
+          "reason": "Liberalization opened India to global markets; export share rose from under 1% to ~1.7% of world trade."
+        },
+        {
+          "id": 3,
+          "text": "FDI inflows increased",
+          "verdict": "true",
+          "reason": "Removing licensing barriers and opening sectors attracted FDI — grew from near-zero pre-1991 to billions annually."
+        },
+        {
+          "id": 4,
+          "text": "India's foreign exchange reserves increased enormously",
+          "verdict": "true",
+          "reason": "1991 crisis left barely 2 weeks of import cover; post-reform reserves grew to over $350 billion by 2017."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 false: agriculture's GDP share fell post-1991. S2, S3, S4 all true: exports, FDI, forex all grew → (b).",
+        "elimination_path": "Anchor on S1: agriculture share FELL as services/manufacturing grew. S2/S3/S4 are unambiguous post-liberalization outcomes. Eliminate options with S1.",
+        "hook": "Agriculture GDP share: ~30% (1991) → <15% (2017). Decline, not rise."
+      },
+      "concept_hooks": [
+        "post-1991 structural shift GDP",
+        "agriculture GDP share decline",
+        "liberalization FDI exports forex"
+      ]
+    },
+    "1183": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_overgeneralization",
+      "trap_explanation": "S2 and S3 overstate GST's macroeconomic reach — linking it to CAD reduction and overtaking China's economy. Students who know GST is broadly beneficial may not test each claim's causal logic.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Will replace multiple taxes and create a single market in India",
+          "verdict": "true",
+          "reason": "GST subsumed central excise, service tax, state VAT etc. — creating one unified domestic consumption tax market."
+        },
+        {
+          "id": 2,
+          "text": "Will drastically reduce the Current Account Deficit of India",
+          "verdict": "false",
+          "reason": "CAD is a trade-balance metric. GST is a domestic consumption tax — it does not directly affect import-export imbalances."
+        },
+        {
+          "id": 3,
+          "text": "Will enormously increase the growth and size of economy to enable India to overtake China in the near future",
+          "verdict": "false",
+          "reason": "Overgeneralization — GST improves tax efficiency but cannot alone close India's structural and scale gap with China's economy."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Only S1 correct (unified market). S2 (CAD) and S3 (overtake China) are causal overstatements → (a).",
+        "elimination_path": "S1 = direct GST purpose, unambiguous. S2: CAD = trade balance, not tax reform. S3: vastly overstated growth claim. Eliminate b/c/d.",
+        "hook": "GST = one tax, one market. CAD and GDP ranking are separate variables."
+      },
+      "concept_hooks": [
+        "GST unified market",
+        "Current Account Deficit vs GST",
+        "indirect tax reform India",
+        "GST limitations"
+      ]
+    },
+    "1184": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "Both statements use 'steadily increased' — a subtle inversion. Tax-GDP ratio stagnated for a decade; fiscal deficit fell under FRBM before post-2009 stimulus reversals.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Tax revenue as a percent of GDP of India has steadily increased in the last decade",
+          "verdict": "false",
+          "reason": "India's tax-GDP ratio hovered around 17-18% for years — stagnant, not steadily increasing. No sustained upward trend."
+        },
+        {
+          "id": 2,
+          "text": "Fiscal deficit as a percent of GDP of India has steadily increased in the last decade",
+          "verdict": "false",
+          "reason": "FRBM 2003 brought fiscal deficit from ~5.7% (2002) down to ~2.5% (2007) before stimulus raised it — not 'steadily increased'."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Both false: tax/GDP stagnated; fiscal deficit fell under FRBM before fluctuating. 'Steadily increased' is wrong for both → (d).",
+        "elimination_path": "S1: tax ratio ~17-18% for a decade = stagnant. S2: FRBM reduced it 5.7→2.5% before 2009. Neither 'steadily increased'.",
+        "hook": "FRBM = law that reduced fiscal deficit, not increased it."
+      },
+      "concept_hooks": [
+        "FRBM fiscal consolidation",
+        "tax-GDP ratio India stagnation",
+        "fiscal deficit trend",
+        "revenue buoyancy"
+      ]
+    },
+    "1216": {
+      "question_type": "statement_eval",
+      "trap_pattern": "numerical_proximity",
+      "trap_explanation": "S2 packs two numeric inversions (12 instead of 6 members; annually instead of every 4 years). S3 substitutes Finance Minister for RBI Governor — plausible but inverts central bank independence.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "It decides the RBI's benchmark interest rates",
+          "verdict": "true",
+          "reason": "MPC votes on the policy repo rate at each bi-monthly meeting — its core statutory mandate under the RBI Act."
+        },
+        {
+          "id": 2,
+          "text": "It is a 12-member body including the Governor of RBI and is reconstituted every year",
+          "verdict": "false",
+          "reason": "MPC has 6 members (3 RBI officials + 3 external), not 12. Reconstituted every 4 years, not annually."
+        },
+        {
+          "id": 3,
+          "text": "It functions under the chairmanship of the Union Finance Minister",
+          "verdict": "false",
+          "reason": "MPC is chaired by the RBI Governor — preserving central bank independence from the Finance Ministry."
+        }
+      ],
+      "answer_justification": {
+        "fact": "MPC = 6 members, chaired by RBI Governor, 4-year term for external members. Only S1 correct → (a).",
+        "elimination_path": "S1 unambiguous. S2: 6 not 12; 4 years not annual. S3: Governor chairs, not Finance Minister. Only S1 survives.",
+        "hook": "MPC: 6 members, RBI Governor chairs, 4-year external member term."
+      },
+      "concept_hooks": [
+        "MPC 6 members composition",
+        "RBI Governor MPC chair",
+        "monetary policy rate-setting",
+        "RBI Act MPC amendment 2016"
+      ]
+    },
+    "1290": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "Option (d) looks precise but has two embedded errors: it includes Armed Forces (excluded from mandatory NPS) and uses April 2004 (correct date is January 2004). Option (a) excludes eligible NRIs.",
+      "answer_justification": {
+        "fact": "NPS: State Govt employees join after their respective state's notification date — states issued own orders at different times.",
+        "elimination_path": "(a) Too narrow — NRIs can join NPS. (b) Age range is 18-65, not 21-55. (c) Correct. (d) Armed Forces excluded; date wrong (1 January, not 1 April).",
+        "hook": "State employees join NPS on their state notification date — not uniform national date."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Too restrictive — NRI Indian citizens can join NPS; it is not limited to resident Indians.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "NPS eligibility age is 18-65 years; the range 21-55 is incorrect.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Two errors: Armed Forces are explicitly excluded from mandatory NPS; correct central govt date is 1 January 2004, not 1 April.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "NPS eligibility state notification",
+        "NPS Armed Forces exclusion",
+        "old vs new pension scheme",
+        "NPS 1 January 2004"
+      ]
+    },
+    "1291": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "S3 conflates SFBs with MUDRA/Startup India — students may lump all three as 'financial inclusion for underserved' without distinguishing RBI's specific SFB priority sector target groups.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "To supply credit to small business units",
+          "verdict": "true",
+          "reason": "RBI's SFB guidelines mandate 75% of loans to priority sector including small businesses — a stated SFB purpose."
+        },
+        {
+          "id": 2,
+          "text": "To supply credit to small and marginal farmers",
+          "verdict": "true",
+          "reason": "Agricultural credit to small/marginal farmers is explicitly a SFB priority sector lending requirement."
+        },
+        {
+          "id": 3,
+          "text": "To encourage young entrepreneurs to set up business particularly in rural areas",
+          "verdict": "false",
+          "reason": "Young entrepreneur rural startup support is MUDRA's and Startup India's mandate — not an SFB objective."
+        }
+      ],
+      "answer_justification": {
+        "fact": "SFBs target small businesses (S1) and marginal farmers (S2) per RBI mandate. S3 = MUDRA domain → (a).",
+        "elimination_path": "S1+S2 = RBI's stated SFB priority sector mandate (75%). S3 = MUDRA/Startup India, not SFB-specific. Eliminate options with S3.",
+        "hook": "SFB = credit to small/unserved borrowers. Not general entrepreneurship promotion."
+      },
+      "concept_hooks": [
+        "Small Finance Banks RBI",
+        "priority sector 75% lending",
+        "MUDRA vs SFB",
+        "financial inclusion credit"
+      ]
+    },
+    "1292": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "UPI is a payment rail — students tempted by (d) conflate DBT (Aadhaar/PFMS based) with UPI, or by (b) accept the dramatic digital-currency claim that overstates UPI's scope.",
+      "answer_justification": {
+        "fact": "UPI = direct interbank mobile transfer. Removes the need for mobile wallet intermediaries in online payments → (a).",
+        "elimination_path": "(b) Digital currency replacing physical cash = separate long-term debate. (c) FDI = unrelated to payment interface. (d) DBT uses Aadhaar-PFMS, not UPI. (a) = direct structural consequence.",
+        "hook": "UPI = bank-to-bank directly; wallets (Paytm/MobiKwik) become redundant for online payments."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Physical currency replacement is a separate cashless-economy debate; UPI does not eliminate physical cash.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "FDI is driven by policy and macro environment — not by domestic payment infrastructure.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Direct benefit transfer uses Aadhaar-linked PFMS bank accounts, distinct from UPI payment rails.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "UPI bank-to-bank transfer",
+        "mobile wallet vs UPI",
+        "NPCI payment infrastructure",
+        "digital payment India"
+      ]
+    },
+    "1293": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'Sustainable Structuring of Stressed Assets' triggers keyword-traps: 'sustainable' → ecological (option a), 'structuring' → disinvestment (c), 'stressed assets' → IBC (d). Each option steals one word.",
+      "answer_justification": {
+        "fact": "S4A = RBI's 2016 scheme for restructuring financial obligations of large stressed corporate borrowers.",
+        "elimination_path": "(a) 'Sustainable' here = viable debt levels, not ecological. (c) Disinvestment = PSU stake sales. (d) IBC = legal insolvency code; S4A = RBI regulatory scheme. (b) = correct.",
+        "hook": "S4A = RBI debt restructuring for large corporates. 'Sustainable' = sustainable debt, not environment."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "'Sustainable' in S4A means viable debt structures, not ecological/environmental cost assessment.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Disinvestment involves selling government PSU stakes; unrelated to bank stressed asset restructuring.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "IBC is a legal insolvency resolution framework; S4A is an RBI regulatory forbearance scheme, not an IBC provision.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "S4A RBI stressed assets 2016",
+        "debt restructuring NPA resolution",
+        "IBC vs RBI schemes",
+        "stressed corporate borrowers"
+      ]
+    },
+    "1294": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students may doubt S1 (thinking NPCI is purely technical infrastructure, not a 'financial inclusion' mandate) or S2 (misattributing RuPay to RBI or the government rather than NPCI).",
+      "statements": [
+        {
+          "id": 1,
+          "text": "National Payments Corporation of India (NPCI) helps in promoting financial inclusion in the country",
+          "verdict": "true",
+          "reason": "NPCI's mandate explicitly includes financial inclusion — it enables Jan Dhan RuPay cards, Aadhaar payment systems, and low-cost remittances."
+        },
+        {
+          "id": 2,
+          "text": "NPCI has launched RuPay, a card payment scheme",
+          "verdict": "true",
+          "reason": "RuPay was launched by NPCI in March 2012 as India's domestic card network — alternative to Visa/Mastercard."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Both correct: NPCI promotes financial inclusion (S1) and launched RuPay in 2012 (S2) → (c).",
+        "elimination_path": "S1 = stated NPCI mandate in its RBI-approved articles. S2 = NPCI launched RuPay March 2012 (factually unambiguous). Both true → (c).",
+        "hook": "NPCI = rails for UPI + RuPay + IMPS + NACH. Financial inclusion is core mandate."
+      },
+      "concept_hooks": [
+        "NPCI National Payments Corporation",
+        "RuPay domestic card network 2012",
+        "financial inclusion payments",
+        "NPCI UPI IMPS products"
+      ]
+    },
+    "1463": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S2 ('India hosts ALL annual conferences') is clearly false — APMCHUD rotates across Asia-Pacific countries. S1's inaugural conference details are treated as incorrect per UPSC's official answer key.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "The first APMCHUD was held in India in 2006 on the theme 'Emerging Urban Forms — Policy Responses and Governance Structure'",
+          "verdict": "false",
+          "reason": "UPSC's official answer treats this statement as incorrect. The inaugural conference details are considered unverified per the published key."
+        },
+        {
+          "id": 2,
+          "text": "India hosts all the Annual Ministerial Conferences in partnership with ADB, APEC and ASEAN",
+          "verdict": "false",
+          "reason": "APMCHUD conferences rotate among Asia-Pacific member countries; India cannot host all editions of a rotating regional forum."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Official answer (d) Neither — S2 unambiguously false (rotational hosting). UPSC treats S1 as incorrect per published key.",
+        "elimination_path": "S2 eliminated first: 'all Annual Ministerial Conferences in India' is factually impossible for a rotating forum. S1 per official key = false.",
+        "hook": "APMCHUD = rotating Asia-Pacific urban forum. India hosts rotational turn, not all editions."
+      },
+      "concept_hooks": [
+        "APMCHUD Asia Pacific urban development",
+        "rotating regional ministerial forums",
+        "UN-Habitat Asia Pacific"
+      ]
+    },
+    "1464": {
+      "question_type": "standard",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "Options a/c/d each embed a real infrastructure-finance institution (ADB, OECD, UNCTAD) that sounds plausible — students unfamiliar with GIF's specific World Bank home may pick an adjacent body.",
+      "answer_justification": {
+        "fact": "Global Infrastructure Facility = World Bank platform to structure complex infrastructure PPPs and mobilize private/institutional capital.",
+        "elimination_path": "(a) ASEAN/ADB = real infra lenders but GIF is World Bank. (c) OECD has no 'GIF'. (d) UNCTAD = trade not PPP structuring. (b) = correct.",
+        "hook": "GIF = World Bank PPP structuring platform. Not ADB, not OECD, not UNCTAD."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "ADB finances Asian infrastructure but GIF is specifically a World Bank initiative, not ASEAN/ADB.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "OECD has infrastructure guidelines but no 'Global Infrastructure Facility' under a bank consortium.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "UNCTAD focuses on trade and development policy; it does not operate a PPP infrastructure facility.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Global Infrastructure Facility World Bank",
+        "PPP infrastructure mobilization",
+        "World Bank platforms",
+        "private capital infrastructure"
+      ]
+    },
+    "1465": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_overgeneralization",
+      "trap_explanation": "S2 overgeneralizes UN-Habitat's partners as 'ONLY governments or local urban authorities' — the actual partner list includes private sector, NGOs, academia, and civil society organisations.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "UN-Habitat has been mandated by the UNGA to promote socially and environmentally sustainable towns and cities",
+          "verdict": "true",
+          "reason": "UNGA Resolution 32/162 (1977) established UN-Habitat; its mandate explicitly covers sustainable urban development and adequate shelter."
+        },
+        {
+          "id": 2,
+          "text": "Its partners are either governments or local urban authorities only",
+          "verdict": "false",
+          "reason": "UN-Habitat partners include private sector, civil society, NGOs, and academia — 'only governments/local authorities' overgeneralizes."
+        },
+        {
+          "id": 3,
+          "text": "UN-Habitat contributes to reduce poverty and promote access to safe drinking water and basic sanitation",
+          "verdict": "true",
+          "reason": "Urban poverty reduction and water/sanitation access are explicit UN-Habitat programme priorities."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✓ (UNGA mandate). S2 ✗ (partners extend beyond governments to NGOs/private sector). S3 ✓ (poverty, water, sanitation) → (b).",
+        "elimination_path": "S2 contains 'only' — eliminator word. UN-Habitat partners include NGOs and private sector. S1 and S3 are factual mandate statements.",
+        "hook": "'Only governments' is a red flag for overgeneralization in UN-body partnership descriptions."
+      },
+      "concept_hooks": [
+        "UN-Habitat UNGA mandate",
+        "sustainable urban development",
+        "SDG 11 cities",
+        "UN-Habitat NGO private partners"
+      ]
+    },
+    "1466": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "GCC, SCO, and OECD are all trade or cooperation groupings India interacts with — students unfamiliar with BTIA may guess Gulf (energy trade) or SCO (regional grouping India joined) over the EU.",
+      "answer_justification": {
+        "fact": "BTIA = India-EU Broad-based Trade and Investment Agreement; negotiations launched 2007, stalled repeatedly over tariffs and data norms.",
+        "elimination_path": "GCC = Gulf energy partner, no BTIA. OECD = developed-country forum, India not a member. SCO = Eurasian security grouping. EU = correct bilateral FTA context.",
+        "hook": "BTIA = India-EU; 'broad-based' = comprehensive FTA covering goods, services, investments."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "India-GCC ties centre on energy and remittances; there is no BTIA framework with the GCC.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "OECD is a developed-country economic forum; India is not a member and has no BTIA with it.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "SCO is a Eurasian security-focused grouping; India-SCO engagement is not BTIA-based.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "BTIA India-EU FTA",
+        "India-EU trade negotiations 2007",
+        "broad-based trade agreement",
+        "EU trade partnerships"
+      ]
+    },
+    "1467": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S3 substitutes 'January 2016' for the actual entry-into-force date of 22 February 2017 — a 13-month inversion that students who know 'TFA came into force recently' may not catch.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "India has ratified the Trade Facilitation Agreement (TFA) of WTO",
+          "verdict": "true",
+          "reason": "India ratified WTO TFA in April 2016 — a required step to trigger the two-thirds-of-WTO-members threshold for entry into force."
+        },
+        {
+          "id": 2,
+          "text": "TFA is a part of WTO's Bali Ministerial Package of 2013",
+          "verdict": "true",
+          "reason": "TFA was concluded at WTO's 9th Ministerial Conference in Bali (December 2013) as the landmark Bali Package outcome."
+        },
+        {
+          "id": 3,
+          "text": "TFA came into force in January 2016",
+          "verdict": "false",
+          "reason": "TFA entered into force on 22 February 2017 — the two-thirds ratification threshold was met then, not in January 2016."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✓ (India ratified April 2016). S2 ✓ (Bali 2013). S3 ✗ (force: 22 Feb 2017, not Jan 2016) → (a).",
+        "elimination_path": "S1 and S2 unambiguous. S3: January 2016 predates required ratification threshold. Correct date = 22 February 2017.",
+        "hook": "TFA in force: 22 Feb 2017. Bali Ministerial: Dec 2013. India ratified: April 2016."
+      },
+      "concept_hooks": [
+        "WTO TFA entry into force 2017",
+        "Bali Ministerial Package 2013",
+        "trade facilitation customs",
+        "India WTO TFA ratification"
+      ]
+    },
+    "1535": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "S3 (millet promotion) and S4 (poultry eggs) are plausible nutrition programme objectives that students may accept without verifying NNM/POSHAN's actual scope — both belong to separate schemes.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "To create awareness relating to malnutrition among pregnant women and lactating mothers",
+          "verdict": "true",
+          "reason": "NNM/POSHAN Abhiyaan explicitly targets pregnant women and lactating mothers for malnutrition awareness and behaviour change."
+        },
+        {
+          "id": 2,
+          "text": "To reduce the incidence of anaemia among young children, adolescent girls and women",
+          "verdict": "true",
+          "reason": "Reducing anaemia is a specific, measurable NNM target for children under 5, adolescent girls, and women."
+        },
+        {
+          "id": 3,
+          "text": "To promote the consumption of millets, coarse cereals and unpolished rice",
+          "verdict": "false",
+          "reason": "Millet promotion falls under separate schemes (National Year of Millets). NNM focuses on nutrient status targets, not specific food-type promotion."
+        },
+        {
+          "id": 4,
+          "text": "To promote the consumption of poultry eggs",
+          "verdict": "false",
+          "reason": "Poultry/egg promotion is a separate ICDS/animal husbandry component — not a stated NNM/POSHAN Abhiyaan objective."
+        }
+      ],
+      "answer_justification": {
+        "fact": "NNM objectives: malnutrition awareness (S1) + anaemia reduction (S2). Millet and egg promotion are outside NNM scope → (a).",
+        "elimination_path": "S1+S2 match POSHAN Abhiyaan's stated targets. S3 (millets) and S4 (eggs) are nutrition-adjacent but different programmes.",
+        "hook": "POSHAN = awareness + anaemia. Millets and eggs = separate schemes."
+      },
+      "concept_hooks": [
+        "NNM POSHAN Abhiyaan objectives",
+        "anaemia malnutrition targets",
+        "National Year of Millets vs NNM",
+        "nutrition schemes India"
+      ]
+    },
+    "1536": {
+      "question_type": "statement_eval",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "S1 (foreign campuses) sounds like a 'knowledge offering' measure consistent with Vidyanjali's name meaning; S3 conflates volunteer time with monetary infrastructure donations — a different scheme design.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "To enable famous foreign educational institutions to open their campuses in India",
+          "verdict": "false",
+          "reason": "Foreign campus entry is governed by FEHEI Bill/UGC regulations — separate from Vidyanjali, which focuses on domestic volunteer support."
+        },
+        {
+          "id": 2,
+          "text": "To increase the quality of education in government schools by taking help from the private sector and the community",
+          "verdict": "true",
+          "reason": "Vidyanjali Yojana mobilises private sector employees, retired teachers, and community volunteers to support government school quality."
+        },
+        {
+          "id": 3,
+          "text": "To encourage voluntary monetary contributions from private individuals and organizations for school infrastructure",
+          "verdict": "false",
+          "reason": "Vidyanjali mobilises volunteer expertise and time, not direct monetary infrastructure donations — those fall under CSR/school adoption schemes."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Vidyanjali = volunteer skills for government schools (S2 only). S1 (foreign campuses) and S3 (monetary donations) describe other programmes → (a).",
+        "elimination_path": "S1 → foreign campus = separate bill. S3 → monetary infra = CSR/school adoption scheme. Only S2 matches Vidyanjali's design.",
+        "hook": "Vidyanjali = professionals volunteering expertise to govt schools — not money, not foreign institutions."
+      },
+      "concept_hooks": [
+        "Vidyanjali Yojana MoE",
+        "community volunteer school support",
+        "CSR vs Vidyanjali",
+        "government school quality"
+      ]
+    },
+    "1537": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "Options a/c/d describe legitimate government objectives (literacy, research, rural human capital) that plausibly fit under 'Unnat Bharat' branding — only option b captures the HEI-village technology linkage model.",
+      "answer_justification": {
+        "fact": "Unnat Bharat Abhiyan (MHRD, 2014) = IITs/NITs/HEIs adopt surrounding villages, providing technology-based solutions to local development challenges.",
+        "elimination_path": "(a) 100% literacy = NLM/ULLAS scheme. (c) Scientific research = DST programmes. (d) Rural poor human capital = PMKVY/MGNREGA. (b) = HEI-village linkage.",
+        "hook": "Unnat Bharat = higher education institutions adopt villages for tech-based development."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "100% literacy is the National Literacy Mission/ULLAS's objective, not Unnat Bharat Abhiyan.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Strengthening research institutions is DST/SERB's mandate; Unnat Bharat is community-outreach focused.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Rural poor human capital schemes include PMKVY and MGNREGA — not Unnat Bharat's HEI-village model.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Unnat Bharat Abhiyan MHRD",
+        "IIT NIT village adoption",
+        "higher education community development",
+        "appropriate technology rural India"
+      ]
+    },
+    "1575": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 inverts NSQF's defining feature — 'only formal learning' contradicts the Recognition of Prior Learning pathway, which is NSQF's core innovation for informally skilled workers.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Under NSQF, a learner can acquire the certification for competency only through formal learning",
+          "verdict": "false",
+          "reason": "NSQF explicitly includes Recognition of Prior Learning — non-formal and informal learning pathways are its key innovation. 'Only formal' is an inversion."
+        },
+        {
+          "id": 2,
+          "text": "An outcome expected from the implementation of NSQF is the mobility between vocational and general education",
+          "verdict": "true",
+          "reason": "NSQF's level-based framework enables horizontal mobility — vocational qualifications can count toward general education progression."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 false: NSQF includes RPL/non-formal pathways. S2 true: vocational-to-general mobility is a stated NSQF outcome → (b).",
+        "elimination_path": "S1: 'only formal' contradicts RPL — NSQF's defining feature. S2: cross-stream mobility = core NSQF rationale. Only S2 correct.",
+        "hook": "NSQF = levels framework for formal + informal + RPL pathways."
+      },
+      "concept_hooks": [
+        "NSQF levels framework India",
+        "Recognition of Prior Learning RPL",
+        "vocational general education mobility",
+        "skills qualification certification"
+      ]
+    },
+    "1576": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 misattributes NCS to DOPT (personnel ministry) instead of Ministry of Labour; S2 restricts NCS to 'uneducated youth' inverting the universal scope — NCS serves all job seekers across skill levels.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "National Career Service is an initiative of the Department of Personnel and Training, Government of India",
+          "verdict": "false",
+          "reason": "NCS Portal is an initiative of the Ministry of Labour and Employment — not DOPT, which handles civil services recruitment, not labour market services."
+        },
+        {
+          "id": 2,
+          "text": "National Career Service has been launched in a Mission Mode to improve employment opportunities to uneducated youth",
+          "verdict": "false",
+          "reason": "NCS targets ALL job seekers — skilled professionals, semi-skilled, and unskilled alike — not exclusively uneducated youth."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Both false: NCS = Ministry of Labour & Employment (not DOPT); targets all job seekers (not only uneducated youth) → (d).",
+        "elimination_path": "S1: NCS → Ministry of Labour & Employment, not DOPT. S2: NCS = universal job portal across all skill levels. Both inversions → (d).",
+        "hook": "NCS = MoL&E portal for all job seekers — skilled, semi-skilled, educated, uneducated."
+      },
+      "concept_hooks": [
+        "National Career Service Portal",
+        "Ministry of Labour Employment",
+        "NCS universal job seekers",
+        "employment exchange modernisation"
+      ]
+    },
+    "1577": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'Recognition of Prior Learning' sounds like academic credit recognition (option b) or skills-job reservation (option c) — students unfamiliar with PMKVY's RPL component conflate it with adjacent schemes.",
+      "answer_justification": {
+        "fact": "RPL = PMKVY component that formally certifies skills acquired informally by workers through traditional/non-formal channels → (a).",
+        "elimination_path": "(b) Distance learning recognition = university equivalence, not RPL. (c) Job reservation = employment policy. (d) NSDP trainees have formal training; RPL targets informally skilled. (a) = correct.",
+        "hook": "RPL = certifying what workers already know from practice — construction workers are the flagship target."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "University distance learning credit recognition is an academic equivalence process, not RPL skill certification.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Reserving skilled jobs in PSUs is an employment quota policy, unrelated to RPL certification.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "NSDP trainees receive formal structured training; RPL targets those who gained skills outside formal channels.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "RPL Recognition of Prior Learning PMKVY",
+        "informal skill certification",
+        "construction worker RPL",
+        "PMKVY components"
+      ]
+    },
+    "1604": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students may doubt S2 (quality-based pricing) as aspirational rather than actual — but e-NAM was specifically designed around assaying-based price discovery, making quality-linked pricing a core feature.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "It is a pan-India electronic trading portal for agricultural commodities",
+          "verdict": "true",
+          "reason": "e-NAM = electronic National Agriculture Market; pan-India online trading platform for agri commodities launched April 2016."
+        },
+        {
+          "id": 2,
+          "text": "It provides the farmers access to nationwide market, with prices commensurate with the quality of their produce",
+          "verdict": "true",
+          "reason": "e-NAM enables price discovery based on quality assaying at mandis — farmers receive bids from national buyers reflecting produce quality."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Both correct: e-NAM = pan-India agri trading portal (S1) with quality-based price discovery for farmers (S2) → (c).",
+        "elimination_path": "S1 unambiguous. S2 = assaying-based pricing is e-NAM's specific design feature. Both true → (c).",
+        "hook": "e-NAM = APMC mandi + online platform + quality assay → nationwide price discovery."
+      },
+      "concept_hooks": [
+        "e-NAM National Agriculture Market",
+        "agri price discovery quality assay",
+        "APMC mandi digitisation",
+        "online agri trading platform"
+      ]
+    },
+    "1605": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "S1 (irrigation expansion) and S2 (bank loan assessment by soil quality) sound like plausible agri-programme aims — students may accept all three as objectives of any soil-linked scheme.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Expanding the cultivable area under irrigation",
+          "verdict": "false",
+          "reason": "Irrigation expansion is PMKSY's mandate. Soil Health Card informs fertilizer decisions on existing farmland — not irrigation coverage expansion."
+        },
+        {
+          "id": 2,
+          "text": "Enabling the banks to assess the quantum of loans to be granted to farmers on the basis of soil quality",
+          "verdict": "false",
+          "reason": "Banks assess farm loans on landholding, income, and credit history — not soil quality. Soil Health Cards are farmer input-decision tools."
+        },
+        {
+          "id": 3,
+          "text": "Checking the overuse of fertilizers in farmlands",
+          "verdict": "true",
+          "reason": "SHC reports NPK and micronutrient levels, enabling farmers to apply fertilizers in correct quantities — directly reducing overuse."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Only S3 correct — SHC identifies nutrient status to prevent fertilizer overuse. S1 (irrigation) and S2 (bank loans) are outside scheme scope → (b).",
+        "elimination_path": "S1 = irrigation = PMKSY. S2 = bank loan criteria ≠ soil quality. S3 = nutrient report → balanced fertilizer = direct SHC purpose.",
+        "hook": "SHC = nutrient report card for balanced fertilizer — not irrigation, not bank loans."
+      },
+      "concept_hooks": [
+        "Soil Health Card scheme",
+        "fertilizer overuse NPK",
+        "PMKSY vs Soil Health Card",
+        "soil nutrient testing"
+      ]
+    },
+    "1634": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "FAO is a credible-sounding international issuer for an agricultural quality mark — students may accept S2 without knowing AGMARK is India's own 1937 domestic law, predating FAO's founding in 1945.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "The Standard Mark of Bureau of Indian Standards (BIS) is mandatory for automotive tyres and tubes",
+          "verdict": "true",
+          "reason": "BIS Standard Mark is compulsory for automotive tyres and tubes under Quality Control Orders — classified as safety-critical products."
+        },
+        {
+          "id": 2,
+          "text": "AGMARK is a quality Certification Mark issued by the Food and Agriculture Organisation (FAO)",
+          "verdict": "false",
+          "reason": "AGMARK is issued by India's Directorate of Marketing & Inspection (DMI), Ministry of Agriculture, under the AP (G&M) Act 1937. FAO has no role."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✓ (BIS mandatory for tyres). S2 ✗ (AGMARK = India's DMI/Ministry of Agriculture, NOT FAO) → (a).",
+        "elimination_path": "S2 is the trap: AGMARK sounds international, but it predates FAO (1937 vs 1945) and is purely an Indian domestic grading mark.",
+        "hook": "AGMARK = DMI India (1937 law). FAO = UN body founded 1945. No connection."
+      },
+      "concept_hooks": [
+        "AGMARK Directorate of Marketing Inspection",
+        "BIS mandatory products India",
+        "quality certification marks India",
+        "FAO vs Indian standards body"
+      ]
+    },
+    "1635": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students may doubt S2 (PM appointing QCI chair on industry recommendation) as unusual or constitutionally odd — it is, in fact, QCI's deliberate PPP design where industry nominates the chair.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "QCI was set up jointly by the Government of India and the Indian Industry",
+          "verdict": "true",
+          "reason": "QCI (1997) was jointly established by Ministry of Commerce & Industry and apex industry bodies (CII, FICCI, ASSOCHAM) as a PPP quality institution."
+        },
+        {
+          "id": 2,
+          "text": "Chairman of QCI is appointed by the Prime Minister on the recommendations of the industry to the Government",
+          "verdict": "true",
+          "reason": "This PM-appointment-on-industry-recommendation process is QCI's actual governance design — reflecting its PPP character."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Both correct: QCI = joint Govt+Industry body (S1); Chairman appointed by PM on industry recommendation (S2) → (c).",
+        "elimination_path": "S1 unambiguous. S2 unusual but accurate — PPP design where industry nominates, PM appoints. Both true → (c).",
+        "hook": "QCI PPP model: Govt + Industry create it; industry nominates chair; PM appoints."
+      },
+      "concept_hooks": [
+        "Quality Council of India QCI",
+        "PPP quality institution India",
+        "QCI PM appointment",
+        "accreditation quality India"
+      ]
+    },
+    "1636": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students may doubt S2 (DIPP as IP nodal agency) thinking DIPP handles only industrial investment/licences — its expanded post-2016 mandate includes IP regime oversight and National IPR Policy implementation.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "It reiterates India's commitment to the Doha Development Agenda and the TRIPS Agreement",
+          "verdict": "true",
+          "reason": "National IPR Policy (2016) explicitly reaffirms TRIPS obligations while emphasising Doha Development flexibilities for public health."
+        },
+        {
+          "id": 2,
+          "text": "Department of Industrial Policy and Promotion is the nodal agency for regulating intellectual property rights in India",
+          "verdict": "true",
+          "reason": "DIPP (now DPIIT) is designated the nodal department for National IPR Policy implementation and IP administration oversight."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Both correct: National IPR Policy (2016) reiterates TRIPS/Doha (S1); DIPP/DPIIT is nodal for IP (S2) → (c).",
+        "elimination_path": "S1 confirmed by policy text. S2: DIPP's IPR mandate formalised in National IPR Policy 2016. Both true → (c).",
+        "hook": "DIPP → DPIIT: nodal for both industrial investment AND intellectual property."
+      },
+      "concept_hooks": [
+        "National IPR Policy 2016",
+        "DIPP DPIIT IP nodal agency",
+        "TRIPS Doha Development Agenda",
+        "India intellectual property regime"
+      ]
+    },
+    "1637": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "NITI Aayog is India's apex planning body — students may assume NIIF falls under it. S2's ₹4,00,000 crore is a 10x inflation of the actual corpus, testing numerical precision under time pressure.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "It is an organ of NITI Aayog",
+          "verdict": "false",
+          "reason": "NIIF is set up by the Ministry of Finance as a Category II Alternative Investment Fund — structurally independent of NITI Aayog."
+        },
+        {
+          "id": 2,
+          "text": "It has a corpus of Rs. 4,00,000 crore at present",
+          "verdict": "false",
+          "reason": "NIIF's target corpus is ~₹40,000 crore (₹20,000 crore government + matching private). ₹4,00,000 crore is 10x the actual figure."
+        }
+      ],
+      "answer_justification": {
+        "fact": "NIIF = Ministry of Finance Category II AIF (not NITI Aayog). Corpus ~₹40,000 crore, not ₹4,00,000 crore. Both false → (d).",
+        "elimination_path": "S1: NIIF is under MoF, not NITI Aayog. S2: ₹4 lakh crore = 10x actual ~₹40,000 crore. Both anchors wrong → (d).",
+        "hook": "NIIF = MoF Category II AIF. Corpus ~₹40,000 crore — not 4 lakh crore."
+      },
+      "concept_hooks": [
+        "NIIF National Investment Infrastructure Fund",
+        "Ministry of Finance AIF",
+        "NIIF corpus target",
+        "NITI Aayog vs NIIF distinction"
+      ]
+    },
+    "1638": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 inverts the legal test — 'owner unaware' is NOT a PBPT exemption. S3 inverts the appellate structure — the Act DOES establish an Appellate Tribunal. Both are designed to sound like reasonable legal provisions.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "A property transaction is not treated as a benami transaction if the owner of the property is not aware of the transaction",
+          "verdict": "false",
+          "reason": "PBPT Act defines benami by beneficial ownership separation — not owner awareness. Exemptions apply to spouse/children/HUF coparceners, not unawareness."
+        },
+        {
+          "id": 2,
+          "text": "Properties held benami are liable for confiscation by the Government",
+          "verdict": "true",
+          "reason": "PBPT Act 1988 (amended 2016) explicitly empowers confiscation of benami properties by Initiating Officer/Adjudicating Authority."
+        },
+        {
+          "id": 3,
+          "text": "The Act provides for three authorities for investigations but does not provide for any appellate mechanism",
+          "verdict": "false",
+          "reason": "PBPT Act establishes both an Adjudicating Authority AND an Appellate Tribunal — an appellate mechanism clearly exists."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S2 ✓ (confiscation). S1 ✗ (awareness ≠ exemption). S3 ✗ (Appellate Tribunal exists) → (b) 2 only.",
+        "elimination_path": "S1: exemptions = spouse/child/HUF, not unawareness. S3: Appellate Tribunal in PBPT Act contradicts 'no appellate mechanism'. Only S2 survives.",
+        "hook": "PBPT: confiscation ✓, unawareness exemption ✗, Appellate Tribunal ✓ — S1 and S3 both inverted."
+      },
+      "concept_hooks": [
+        "Benami PBPT Act 2016",
+        "benami confiscation",
+        "PBPT Appellate Tribunal",
+        "beneficial ownership definition benami"
+      ]
+    },
+    "2137": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "S2 (fungal infections) inserts a plausible-sounding ecological harm that has no causal link to butterflies — students may accept it without recognising butterflies play no role in fungal pathogen suppression.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Pollination of some plants could be adversely affected",
+          "verdict": "true",
+          "reason": "Butterflies are important pollinators for many flowering plants; population fall reduces pollination services for butterfly-dependent species."
+        },
+        {
+          "id": 2,
+          "text": "There could be a drastic increase in the fungal infections of some cultivated plants",
+          "verdict": "false",
+          "reason": "Butterflies have no documented role in controlling fungal pathogens of plants. Fungal infections are controlled by soil microbes, not butterfly populations."
+        },
+        {
+          "id": 3,
+          "text": "It could lead to a fall in the population of some species of wasps, spiders and birds",
+          "verdict": "true",
+          "reason": "Butterflies and caterpillars are prey for wasps, spiders, and insectivorous birds — population fall triggers trophic cascade upward."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Butterfly decline: pollination loss (S1) + trophic cascade to predators (S3). No butterfly-fungal pathogen link → S2 false → (c).",
+        "elimination_path": "S1 = pollinator function. S3 = prey item in food chain. S2 = fabricated butterfly-fungus link. Eliminate options with S2.",
+        "hook": "Butterflies = pollinators + prey. No role in fungal suppression."
+      },
+      "concept_hooks": [
+        "butterfly pollination",
+        "trophic cascade food chain",
+        "butterfly predators wasps spiders birds",
+        "ecosystem services insects"
+      ]
+    },
+    "2183": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "Bhitarkanika (saltwater crocodile territory) and Deepor Beel (Assam wetland) are both reptile/wildlife-rich sites that could plausibly host gharials — students unfamiliar with gharial's river-specific habitat may choose them.",
+      "answer_justification": {
+        "fact": "Gharials (Gavialis gangeticus) are confined to deep, fast-flowing rivers — best remaining wild population is in National Chambal Sanctuary.",
+        "elimination_path": "Bhitarkanika = mangroves + saltwater crocodiles, not gharials. Pulicat = coastal lagoon. Deepor Beel = Assam wetland, Gangetic range. Chambal = correct.",
+        "hook": "Gharial = Chambal. Saltwater croc = Bhitarkanika. Mugger = everywhere in peninsular rivers."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Bhitarkanika is known for saltwater crocodiles, not gharials — different species, different habitat.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Pulicat Lake is a coastal lagoon in AP — not a fast-flowing river habitat suitable for gharials.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Deepor Beel is an Assam wetland/Ramsar site — outside the Gangetic plains gharial range and habitat type.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "gharial Chambal River habitat",
+        "National Chambal Sanctuary",
+        "Gavialis gangeticus conservation",
+        "crocodilian species habitats India"
+      ]
+    },
+    "2264": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S2 inverts bioremediation's limitation for heavy metals — 'readily and completely treated' is false because heavy metals (Cd, Pb) cannot be biodegraded, only sequestered or bioaccumulated.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature",
+          "verdict": "true",
+          "reason": "Bioremediation accelerates natural microbial degradation of organic pollutants — it is nature-based pollution remediation."
+        },
+        {
+          "id": 2,
+          "text": "Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation",
+          "verdict": "false",
+          "reason": "Heavy metals are non-biodegradable. Bioremediation can only sequester or bioaccumulate them — 'readily and completely treated' overstates the technique."
+        },
+        {
+          "id": 3,
+          "text": "Genetic engineering can be used to create microorganisms specifically designed for bioremediation",
+          "verdict": "true",
+          "reason": "Engineered bacteria (e.g., Deinococcus radiodurans for radioactive sites, Pseudomonas variants) are established in bioremediation research."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✓ (natural biodegradation enhancement). S2 ✗ (heavy metals not biodegradable — only sequestered). S3 ✓ (GMO bioremediation) → (c).",
+        "elimination_path": "S2 is the trap: heavy metals like Pb and Cd are elements — microbes cannot degrade them, only bind/immobilise. S1 and S3 are standard bioremediation facts.",
+        "hook": "Bioremediation degrades organic pollutants. Heavy metals = non-degradable — only stabilised."
+      },
+      "concept_hooks": [
+        "bioremediation organic pollutants",
+        "heavy metals non-biodegradable",
+        "GMO bioremediation",
+        "phytoremediation vs bioremediation"
+      ]
+    },
+    "2265": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'Oxygen demand' pulls students toward blood oxygen (SpO₂) or altitude oxygen — the 'biological' qualifier and the 'standard criterion' framing point specifically to water quality assessment, not physiological oxygen.",
+      "answer_justification": {
+        "fact": "BOD = Biological Oxygen Demand = measure of organic pollutant load in water bodies; standard metric for aquatic pollution severity.",
+        "elimination_path": "(a) Blood oxygen = SpO₂/PaO₂ in clinical settings. (b) Forest oxygen = photosynthesis/respiration balance. (d) Altitude = partial pressure. BOD = aquatic pollution → (c).",
+        "hook": "BOD = mg O₂/L over 5 days at 20°C — water quality test, not physiological."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Blood oxygen levels are measured by pulse oximetry (SpO₂) or arterial blood gas (PaO₂), not BOD.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Forest ecosystem oxygen balance uses net ecosystem productivity measurements, not BOD.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "High-altitude oxygen levels relate to atmospheric pressure, measured by barometry — not BOD.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "BOD biological oxygen demand",
+        "water quality pollution assay",
+        "organic load aquatic ecosystem",
+        "BOD vs COD"
+      ]
+    },
+    "2303": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students may accept coal seams and depleted reservoirs while doubting deep saline formations (S3) as an unfamiliar option — but saline aquifers have the largest global carbon storage capacity.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Abandoned and uneconomic coal seams",
+          "verdict": "true",
+          "reason": "CO₂ injected into coal seams displaces adsorbed coalbed methane — a proven enhanced CBM recovery and sequestration technique."
+        },
+        {
+          "id": 2,
+          "text": "Depleted oil and gas reservoirs",
+          "verdict": "true",
+          "reason": "Depleted reservoirs have proven geological traps; CO₂ enhanced oil recovery (CO₂-EOR) also sequesters carbon."
+        },
+        {
+          "id": 3,
+          "text": "Subterranean deep saline formations",
+          "verdict": "true",
+          "reason": "Deep saline aquifers have the largest theoretical global CO₂ storage capacity — brine-bearing porous rock formations."
+        }
+      ],
+      "answer_justification": {
+        "fact": "All three are proven geological carbon sequestration sites: coal seams, depleted reservoirs, and deep saline formations → (d).",
+        "elimination_path": "S1 and S2 are the known options. S3 (deep saline) is the most important globally by volume. All three → (d).",
+        "hook": "Deep saline formations = largest CO₂ storage globally. All three sites are IPCC-endorsed."
+      },
+      "concept_hooks": [
+        "carbon sequestration CCS",
+        "deep saline aquifer storage",
+        "coal seam CO₂ injection",
+        "depleted reservoir carbon storage"
+      ]
+    },
+    "2334": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "Students may be uncertain about wild buffalo or Indian wild ass being in Schedule I — both are rare enough to warrant highest protection, though they are less iconic than gharial.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Gharial",
+          "verdict": "true",
+          "reason": "Gharial is in Schedule I of WPA 1972 — highest protection; critically endangered with <200 adults remaining."
+        },
+        {
+          "id": 2,
+          "text": "Indian wild ass",
+          "verdict": "true",
+          "reason": "Indian wild ass (Equus hemionus khur), confined to Rann of Kutch, is Schedule I — cannot be hunted except under law."
+        },
+        {
+          "id": 3,
+          "text": "Wild buffalo",
+          "verdict": "true",
+          "reason": "Wild buffalo (Bubalus arnee), found in Chhattisgarh/Assam, is Schedule I under WPA 1972."
+        }
+      ],
+      "answer_justification": {
+        "fact": "All three — gharial, Indian wild ass, wild buffalo — are Schedule I of WPA 1972, granting highest protection against hunting → (d).",
+        "elimination_path": "Gharial = iconic Schedule I. Indian wild ass (Rann of Kutch) = Schedule I. Wild buffalo (Chhattisgarh/Assam) = Schedule I. All three → (d).",
+        "hook": "All three are Schedule I — highest WPA protection alongside tiger, lion, rhino."
+      },
+      "concept_hooks": [
+        "WPA 1972 Schedule I",
+        "gharial Indian wild ass wild buffalo",
+        "wildlife protection hunting prohibition",
+        "Schedule I endangered species"
+      ]
+    },
+    "2335": {
+      "question_type": "standard",
+      "trap_pattern": "distractor_by_topic_association",
+      "trap_explanation": "'M-STrIPES' has 'stripes' suggesting tigers but the abbreviation is unfamiliar; option (a) 'captive breeding' and option (c) 'satellite navigation' are plausible guesses from the letters M/S.",
+      "answer_justification": {
+        "fact": "M-STrIPES = Monitoring System for Tigers — Intensive Protection and Ecological Status; NTCA app for tiger reserve patrolling.",
+        "elimination_path": "(a) Captive breeding = CCMB/Zoo programmes, not M-STrIPES. (c) Satellite navigation = NAVIC/GPS. (d) Highway security = NHAI/police. (b) = tiger reserve monitoring.",
+        "hook": "M-STrIPES = tiger patrol app used by NTCA forest guards in tiger reserves."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Captive breeding programmes for wild fauna are managed separately by CCMB and national zoological institutions.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Indigenous satellite navigation = NavIC (formerly IRNSS), a ISRO project — unrelated to M-STrIPES.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "National highway security uses NHAI/police infrastructure, not M-STrIPES.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "M-STrIPES NTCA tiger monitoring",
+        "tiger reserve patrol app",
+        "NTCA technology tools",
+        "wildlife monitoring systems India"
+      ]
+    },
+    "2336": {
+      "question_type": "standard",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "Options b/c/d describe specific biological or conservation statuses — students may conflate Schedule I with extinction status or endemism, when it simply means maximum legal protection parity.",
+      "answer_justification": {
+        "fact": "Schedule I of WPA 1972 = highest legal protection. A tortoise in Schedule I enjoys identical statutory protection as the tiger (also Schedule I).",
+        "elimination_path": "(b) 'No longer exists in wild' = Critically Endangered/Extinct — not what Schedule I means. (c) Endemism is a biogeographic fact, not a Schedule I implication. (d) Combines b+c, both wrong. (a) = correct.",
+        "hook": "Schedule I = maximum protection parity — tortoise = tiger, legally."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Schedule I does not mean extinct in wild — it means cannot be hunted. Many Schedule I animals exist in wild populations.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Endemism is a biogeographic characteristic, not a consequence of Schedule I classification.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Combines (b) and (c), both incorrect — Schedule I implies protection level, not extinction or endemism.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "WPA 1972 Schedule I protection",
+        "Schedule I equals maximum protection",
+        "wildlife schedules India",
+        "Schedule I not extinction status"
+      ]
+    },
+    "2337": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "Corbett, Mudumalai, and Sariska are prominent wildlife sanctuaries — all plausible lion translocation sites. Only Kuno Palpur (MP) was specifically designated by the SC for lion translocation from Gir.",
+      "answer_justification": {
+        "fact": "SC 2013 ordered translocation of Asiatic lions from Gir (Gujarat) to Kuno Palpur Wildlife Sanctuary (MP) as a second home.",
+        "elimination_path": "Corbett = tigers/elephants, Uttarakhand. Mudumalai = TN, on WG, not designated. Sariska = tiger reserve, Rajasthan. Kuno Palpur = SC-ordered second lion home.",
+        "hook": "Kuno Palpur = Asiatic lion second home, SC order 2013. (Later used for cheetah 2022 — context is 2017 lion plan.)"
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Corbett National Park is a tiger reserve in Uttarakhand — not considered for Asiatic lion translocation.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Mudumalai is a tiger/elephant reserve in Tamil Nadu — not the designated lion translocation site.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Sariska is a tiger reserve in Rajasthan — not designated for lion translocation.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Asiatic lion translocation Kuno Palpur",
+        "Gir lion Gujarat",
+        "SC 2013 lion order",
+        "Kuno National Park MP"
+      ]
+    },
+    "2338": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "Nallamala (EG), Nagarhole (WG), and Seshachalam (EG) are all ecologically significant forests — but none serves as an EG-WG bridge. Only Sathyamangalam spans the Nilgiri-Eastern Ghats junction.",
+      "answer_justification": {
+        "fact": "Sathyamangalam Tiger Reserve (Tamil Nadu) forms the ecological corridor linking Bandipur-Mudumalai (Western Ghats) to Eastern Ghats via Nilgiri-Eastern Ghats junction.",
+        "elimination_path": "Nallamala = Eastern Ghats AP only. Nagarhole = Western Ghats Karnataka only. Seshachalam = Eastern Ghats AP only. Sathyamangalam = the EG-WG bridge.",
+        "hook": "Sathyamangalam = Nilgiri junction corridor = EG-WG ecological bridge."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Nallamala Forest is in the Eastern Ghats (AP) and does not extend to the Western Ghats.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Nagarhole is a Western Ghats forest (Karnataka) — it is part of the WG cluster, not the EG-WG link.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Seshachalam Biosphere Reserve is in the Eastern Ghats (AP) — not a WG-EG corridor.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Sathyamangalam Tiger Reserve EG-WG corridor",
+        "Nilgiri Biosphere Reserve",
+        "Eastern Western Ghats ecological link",
+        "wildlife corridor India"
+      ]
+    },
+    "2393": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "WRI and WBCSD are credible-sounding climate research bodies that could plausibly coordinate GCCA — students may accept S3 without knowing GCCA is coordinated by the EU Commission directly.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "It is an initiative of the European Union",
+          "verdict": "true",
+          "reason": "Global Climate Change Alliance was launched by the EU in 2007 as an EU Commission initiative for climate-development integration in vulnerable developing countries."
+        },
+        {
+          "id": 2,
+          "text": "It provides technical and financial support to developing countries to integrate climate change into their development policies",
+          "verdict": "true",
+          "reason": "GCCA's stated purpose is integrating climate change adaptation and mitigation into development plans of most vulnerable developing countries."
+        },
+        {
+          "id": 3,
+          "text": "It is coordinated by World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD)",
+          "verdict": "false",
+          "reason": "GCCA is coordinated by the EU Commission itself — WRI and WBCSD are separate private climate research organisations with no GCCA coordination role."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✓ (EU initiative). S2 ✓ (climate-development integration for vulnerable countries). S3 ✗ (EU Commission coordinates GCCA, not WRI/WBCSD) → (a).",
+        "elimination_path": "S1+S2 confirmed by GCCA mandate. S3: WRI/WBCSD are US-based private organisations — no coordination role in an EU initiative.",
+        "hook": "GCCA = EU Commission initiative. WRI/WBCSD = separate private bodies, not GCCA coordinators."
+      },
+      "concept_hooks": [
+        "Global Climate Change Alliance EU",
+        "climate-development integration",
+        "WRI WBCSD separate from GCCA",
+        "EU climate aid developing countries"
+      ]
+    },
+    "2394": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 inverts CCAC's founding structure — 'G20 initiative' sounds plausible (G20 has climate mandates) but CCAC was a multi-stakeholder UNEP-led coalition, not a G20 exclusive initiative.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Climate and Clean Air Coalition (CCAC) is a unique initiative of G20 group of countries",
+          "verdict": "false",
+          "reason": "CCAC was launched in 2012 by 6 founding countries + UNEP as a multi-stakeholder coalition — not a G20 initiative. It includes many non-G20 members."
+        },
+        {
+          "id": 2,
+          "text": "The CCAC focuses on methane, black carbon and hydrofluorocarbons",
+          "verdict": "true",
+          "reason": "CCAC specifically targets Short-Lived Climate Pollutants (SLCPs): methane, black carbon, HFCs, and tropospheric ozone."
+        }
+      ],
+      "answer_justification": {
+        "fact": "CCAC = multi-stakeholder UNEP-led coalition (not G20). S2 correct: focuses on methane, black carbon, HFCs → (b).",
+        "elimination_path": "S1: 'G20 initiative' is wrong — CCAC is a voluntary multi-country coalition outside G20. S2: SLCPs (methane/BC/HFCs) is correct scope.",
+        "hook": "CCAC = Short-Lived Climate Pollutants coalition (UNEP + countries), not G20."
+      },
+      "concept_hooks": [
+        "CCAC Short-Lived Climate Pollutants",
+        "methane black carbon HFCs",
+        "UNEP CCAC coalition",
+        "climate pollutants vs CO₂"
+      ]
+    },
+    "2395": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories",
+      "trap_explanation": "TRAFFIC monitors wildlife trade — UNEP (also wildlife-focused) is a plausible institutional home. Students may accept S1 without knowing TRAFFIC is actually a joint IUCN+WWF programme founded 1976.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "TRAFFIC is a bureau under United Nations Environment Programme (UNEP)",
+          "verdict": "false",
+          "reason": "TRAFFIC is a joint programme of IUCN and WWF founded in 1976 — it has no formal institutional relationship with UNEP."
+        },
+        {
+          "id": 2,
+          "text": "The mission of TRAFFIC is to ensure that trade in wild plants and animals is not a threat to the conservation of nature",
+          "verdict": "true",
+          "reason": "TRAFFIC's stated mission is monitoring wildlife trade to ensure it does not threaten wild species' conservation — including CITES implementation."
+        }
+      ],
+      "answer_justification": {
+        "fact": "TRAFFIC = IUCN + WWF joint programme (not UNEP). Mission correctly described in S2 → (b).",
+        "elimination_path": "S1: UNEP runs CITES Secretariat, not TRAFFIC. TRAFFIC = IUCN+WWF since 1976. S2 = standard TRAFFIC mission statement.",
+        "hook": "TRAFFIC = IUCN + WWF. CITES Secretariat = UNEP. Distinct bodies."
+      },
+      "concept_hooks": [
+        "TRAFFIC IUCN WWF wildlife trade",
+        "CITES vs TRAFFIC",
+        "wildlife trade monitoring",
+        "UNEP CITES secretariat"
+      ]
+    },
+    "2455": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion",
+      "trap_explanation": "S1 inverts algae biofuel production geography — 'only in seas' is false because photobioreactors and freshwater ponds on land are the primary production systems used globally.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Production of algae based biofuels is possible in seas only and not on continents",
+          "verdict": "false",
+          "reason": "Algae biofuels are produced in land-based photobioreactors and open raceway ponds — 'seas only' is an inversion of actual production systems."
+        },
+        {
+          "id": 2,
+          "text": "Setting up and engineering algae based biofuel production requires high level of expertise/technology",
+          "verdict": "true",
+          "reason": "Algae cultivation, lipid extraction, and fuel conversion at scale require specialised biotechnology infrastructure — a genuine developing-country constraint."
+        },
+        {
+          "id": 3,
+          "text": "Economically viable production necessitates large scale facilities which may raise ecological and social concerns",
+          "verdict": "true",
+          "reason": "Large open pond systems require land and water; potential for contamination and displacement of existing land uses raises ecological/social issues."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✗ (algae grown on land in photobioreactors, not only seas). S2 ✓ (high technology requirement). S3 ✓ (large-scale concerns) → (b).",
+        "elimination_path": "S1: algae biofuel industry uses land-based PBRs and ponds — 'seas only' is wrong. S2 and S3 are real documented limitations.",
+        "hook": "Algae biofuel = land photobioreactors + open ponds. Not seas-only."
+      },
+      "concept_hooks": [
+        "algae biofuel photobioreactor",
+        "algae cultivation land-based",
+        "biofuel developing country constraints",
+        "algae scale-up limitations"
+      ]
+    },
+    "1732": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "S1 substitutes 'Eastern Pacific Ocean' (ENSO/El Niño domain) for the correct 'Eastern Indian Ocean' — a deliberate ocean-basin swap that sounds plausible because students associate Pacific with climate anomalies.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "IOD is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean",
+          "verdict": "false",
+          "reason": "IOD = SST difference between tropical Western Indian Ocean and tropical EASTERN INDIAN Ocean — not Eastern Pacific. Eastern Pacific = ENSO domain."
+        },
+        {
+          "id": 2,
+          "text": "An IOD phenomenon can influence an El Niño's impact on the monsoon",
+          "verdict": "true",
+          "reason": "Positive IOD (warm WIO, cool EIO) can partially offset El Niño's suppressive effect on Indian monsoon — documented modulation."
+        }
+      ],
+      "answer_justification": {
+        "fact": "IOD = Western Indian Ocean vs Eastern Indian Ocean SST difference. S1 wrong (Pacific, not Indian Ocean). S2 correct → (b).",
+        "elimination_path": "S1: 'Eastern Pacific' is ENSO (El Niño), not IOD. IOD = within Indian Ocean. S2 = established IOD-monsoon interaction. Only S2 correct.",
+        "hook": "IOD = Indian Ocean Dipole. Both poles are in the Indian Ocean — not Pacific."
+      },
+      "concept_hooks": [
+        "Indian Ocean Dipole IOD",
+        "IOD vs ENSO El Niño",
+        "monsoon modulation IOD",
+        "SST sea surface temperature Indian Ocean"
+      ]
+    },
+    "1808": {
+      "question_type": "standard",
+      "trap_pattern": "numerical_proximity",
+      "trap_explanation": "Students may miscount by skipping a state or confuse Jharkhand/Bihar as necessary route states — the minimum-state route via Nagaland-Assam-WB-Odisha-AP-TN-Kerala gives exactly 7.",
+      "answer_justification": {
+        "fact": "Minimum route: Nagaland (Kohima) → Assam → West Bengal → Odisha → Andhra Pradesh → Tamil Nadu → Kerala (Kottayam) = 7 states.",
+        "elimination_path": "Count including origin+destination: Nagaland(1) Assam(2) WB(3) Odisha(4) AP(5) TN(6) Kerala(7). No state can be skipped on this minimum-border route.",
+        "hook": "Kohima→Kottayam: 7 states. N-A-WB-O-A-T-K."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "6 states would require skipping one border state — no valid road route bypasses all 7 on this N-S traverse.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "8 states would mean traversing through an additional state like Jharkhand or Telangana — not the minimum.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "9 states is further from minimum; no route needs this many states for Kohima to Kottayam.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "India state borders connectivity",
+        "northeast to southwest road traverse",
+        "minimum states path India"
+      ]
+    },
+    "1809": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "Borneo, Java, and Sri Lanka are all large islands in the Indo-Pacific region — students may pick Sri Lanka (on the 'Indian side') or Java (large, prominent) without knowing Great Nicobar's proximity to Sumatra's northern tip.",
+      "answer_justification": {
+        "fact": "Great Nicobar (southernmost A&N island) is ~163 km from Aceh, Sumatra (Indonesia) via the Six Degree Channel.",
+        "elimination_path": "Sri Lanka = across BoB, ~1500 km NW. Borneo = far east, beyond Strait of Malacca. Java = SE of Sumatra, much farther. Sumatra = 163 km via Six Degree Channel.",
+        "hook": "Great Nicobar → Sumatra (Aceh tip): Six Degree Channel, ~163 km."
+      },
+      "distractor_analysis": [
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Borneo is east of Sumatra, across the Strait of Malacca — much farther from Great Nicobar.",
+          "confused_with": null
+        },
+        {
+          "option": "c",
+          "verdict": "wrong",
+          "reason": "Java lies southeast of Sumatra; it is significantly more distant from Great Nicobar than Sumatra's north tip.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Sri Lanka is northwest of the Andaman & Nicobar chain across the Bay of Bengal — roughly 1500+ km away.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Great Nicobar Island location",
+        "Six Degree Channel",
+        "Andaman Nicobar nearest foreign territory",
+        "Sumatra Aceh Indonesia"
+      ]
+    },
+    "1886": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "S1 falsely co-locates Teesta's and Brahmaputra's origins — both rise in the eastern Himalaya but from different watersheds. S3 falsely ends Teesta at the Bay of Bengal when it actually joins the Brahmaputra in Bangladesh.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim",
+          "verdict": "false",
+          "reason": "Teesta originates from Pauhunri/Gurudongmar Lake, Sikkim. Brahmaputra originates from Chemayungdung Glacier, Tibet. Different source regions."
+        },
+        {
+          "id": 2,
+          "text": "River Rangeet originates in Sikkim and it is a tributary of river Teesta",
+          "verdict": "true",
+          "reason": "Rangeet (or Rungeet) originates in the Singalila Range of Sikkim and joins Teesta at Triveni/Teesta-Rangeet confluence."
+        },
+        {
+          "id": 3,
+          "text": "River Teesta flows into Bay of Bengal on the border of India and Bangladesh",
+          "verdict": "false",
+          "reason": "Teesta does not reach the Bay of Bengal directly — it merges with the Brahmaputra (Jamuna) in northern Bangladesh before reaching the sea."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✗ (different sources — Sikkim vs Tibet). S2 ✓ (Rangeet tributary in Sikkim). S3 ✗ (joins Brahmaputra in Bangladesh, not BoB directly) → (b).",
+        "elimination_path": "S1: Teesta = Gurudongmar Lake, Sikkim; Brahmaputra = Chemayungdung, Tibet. S3: Teesta → Brahmaputra (Bangladesh). Only S2 survives.",
+        "hook": "Teesta: Gurudongmar Lake (Sikkim) → WB → Bangladesh → Brahmaputra. Not Bay of Bengal directly."
+      },
+      "concept_hooks": [
+        "Teesta River source Gurudongmar",
+        "Rangeet tributary Teesta",
+        "Teesta Brahmaputra confluence Bangladesh",
+        "Sikkim rivers"
+      ]
+    },
+    "1921": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "Bhavnagar (Gulf of Khambhat, Gujarat) also has extreme tidal range — students familiar with Khambhat tides may pick it. Chandipur (Odisha) is the specific 'vanishing sea' phenomenon where the sea floor is walkable.",
+      "answer_justification": {
+        "fact": "Chandipur (Balasore, Odisha) = 'hide-and-seek beach' — sea recedes ~5 km exposing the seafloor twice daily due to gentle intertidal slope.",
+        "elimination_path": "Bhavnagar (Gulf of Khambhat) has large tidal range but not walkable seafloor exposure. Bheemunipatnam/Nagapattinam = Tamil Nadu/AP coasts. Chandipur = specific phenomenon.",
+        "hook": "Chandipur = Odisha 'vanishing beach.' Near DRDO missile test range, Balasore."
+      },
+      "distractor_analysis": [
+        {
+          "option": "a",
+          "verdict": "wrong",
+          "reason": "Bhavnagar (Gulf of Khambhat, Gujarat) has extreme tidal range but the seafloor exposure at Chandipur is the specific named phenomenon.",
+          "confused_with": null
+        },
+        {
+          "option": "b",
+          "verdict": "wrong",
+          "reason": "Bheemunipatnam is near Visakhapatnam, AP — no specific tidal seafloor exposure phenomenon documented there.",
+          "confused_with": null
+        },
+        {
+          "option": "d",
+          "verdict": "wrong",
+          "reason": "Nagapattinam is a Tamil Nadu coastal town — no comparable tidal seafloor-walkable phenomenon.",
+          "confused_with": null
+        }
+      ],
+      "concept_hooks": [
+        "Chandipur Odisha vanishing beach",
+        "intertidal beach phenomenon",
+        "Balasore DRDO coast",
+        "tidal range India coastline"
+      ]
+    },
+    "1961": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth",
+      "trap_explanation": "S2 (gypsum) sounds like a soil amendment that could improve water retention — but gypsum specifically addresses sodic soil (calcium replaces sodium), not water conservation. Students may accept all three as 'good agricultural practice'.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Reduced or zero tillage of the land",
+          "verdict": "true",
+          "reason": "Reduced/zero tillage preserves soil structure and organic matter, reducing evaporation from the topsoil and retaining moisture."
+        },
+        {
+          "id": 2,
+          "text": "Applying gypsum before irrigating the field",
+          "verdict": "false",
+          "reason": "Gypsum (calcium sulphate) treats sodic/alkaline soils by replacing sodium — its purpose is soil reclamation, not water conservation."
+        },
+        {
+          "id": 3,
+          "text": "Allowing crop residue to remain in the field",
+          "verdict": "true",
+          "reason": "Crop residue mulch reduces soil surface evaporation, conserves soil moisture, and improves infiltration — a proven water conservation practice."
+        }
+      ],
+      "answer_justification": {
+        "fact": "S1 ✓ (no-till retains moisture). S2 ✗ (gypsum = sodic soil reclamation, not water conservation). S3 ✓ (mulch reduces evaporation) → (c).",
+        "elimination_path": "S2 is the trap: gypsum targets soil chemistry (sodium → calcium exchange), not water storage. S1 and S3 directly reduce evaporation.",
+        "hook": "Gypsum = sodic soil fix. For water conservation: no-till + crop residue."
+      },
+      "concept_hooks": [
+        "zero tillage water conservation",
+        "gypsum sodic soil reclamation",
+        "crop residue mulching moisture",
+        "soil water conservation practices"
+      ]
+    },
+    "2082": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution",
+      "trap_explanation": "Jordan and Iraq are Middle Eastern nations with sea access, making them plausible Mediterranean border countries — students may not recall that Jordan's coast is the Gulf of Aqaba (Red Sea) and Iraq's is the Persian Gulf.",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Jordan borders the Mediterranean Sea",
+          "verdict": "false",
+          "reason": "Jordan's only sea access is a short Gulf of Aqaba coastline (Red Sea arm) at Aqaba — it has no Mediterranean coast."
+        },
+        {
+          "id": 2,
+          "text": "Iraq borders the Mediterranean Sea",
+          "verdict": "false",
+          "reason": "Iraq's coast is on the Persian Gulf (Shatt al-Arab/Basra area) — it has no Mediterranean coastline."
+        },
+        {
+          "id": 3,
+          "text": "Lebanon borders the Mediterranean Sea",
+          "verdict": "true",
+          "reason": "Lebanon has an entirely Mediterranean coastline running through Beirut, Tyre, Sidon — Mediterranean is Lebanon's western border."
+        },
+        {
+          "id": 4,
+          "text": "Syria borders the Mediterranean Sea",
+          "verdict": "true",
+          "reason": "Syria has a northwest Mediterranean coastline (Latakia region) — a relatively short but real Mediterranean frontage."
+        }
+      ],
+      "answer_justification": {
+        "fact": "Jordan = Gulf of Aqaba (Red Sea). Iraq = Persian Gulf. Lebanon + Syria = Mediterranean. → (c) 3 and 4 only.",
+        "elimination_path": "Jordan: Aqaba = Red Sea. Iraq: Basra = Persian Gulf. Lebanon: Beirut = Mediterranean. Syria: Latakia = Mediterranean. Only 3+4 → (c).",
+        "hook": "Jordan-Aqaba=Red Sea. Iraq-Basra=Persian Gulf. Lebanon+Syria=Mediterranean."
+      },
+      "concept_hooks": [
+        "Mediterranean Sea bordering countries",
+        "Jordan Gulf of Aqaba Red Sea",
+        "Iraq Persian Gulf",
+        "Lebanon Syria Mediterranean coast"
+      ]
+    }
+  }
+}

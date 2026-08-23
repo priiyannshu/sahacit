@@ -1,0 +1,60 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 19,
+    "chapter_title_en": "Abdul in the Garden",
+    "chapter_title_hi": "जड़ों का जाल",
+    "ncert_code_en": "deap119",
+    "ncert_code_hi": "dhap119",
+    "theme_mapping": "Unit 2: Flora, Seeds, Forest Rights & Agriculture",
+    "unit_id": 2
+  },
+  "factual_entities": [
+    {
+      "name_en": "Roots, Desert Oak & Banyan Tree Adaptations",
+      "name_hi": "जड़ें, रेगिस्तानी ओक और बरगद का पेड़",
+      "category": "Dendrology / Plant Physiology",
+      "attributes": [
+        "Root Functions: Anchorage, absorption of water and minerals",
+        "Desert Oak (रेगिस्तानी ओक): 1. Found in deserts of AUSTRALIA; 2. Height of classroom wall (~4m); 3. Very few leaves; 4. ROOTS GO VERY DEEP — APPROXIMATELY 30 TIMES THE HEIGHT OF TREE — until reaching water table; 5. Water is STORED IN THE TREE TRUNK; 6. Local people insert a THIN PIPE/STRAW into trunk to drink water during scarcity",
+        "Banyan Tree (बरगद): Hanging structures are ROOTS (Prop roots) growing down from branches into ground to support heavy branches",
+        "Legal protection: Government permission required to fell/prune public trees"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Australian Deserts",
+      "region": "Australia",
+      "context": "Arid ecosystem of Desert Oak"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Desert Oak root depth",
+      "value": "~30 times tree height deep into ground"
+    },
+    {
+      "metric": "Desert Oak location",
+      "value": "Deserts of Australia"
+    },
+    {
+      "metric": "Desert Oak water storage",
+      "value": "Stored in tree trunk, accessed with thin pipe"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Diagram of Desert Oak root-to-height ratio (1:30), Banyan hanging prop roots"
+  ],
+  "key_vocabulary_bilingual": {
+    "Desert Oak": "रेगिस्तानी ओक (ऑस्ट्रेलिया का पेड़)",
+    "Roots depth": "पेड़ की ऊँचाई का लगभग 30 गुना गहरी जड़ें",
+    "Water in trunk": "तने में पानी जमा होता है (पतला पाइप डालकर पीते हैं)",
+    "Banyan prop roots": "बरगद की लटकती जड़ें"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 19: 'Abdul in the Garden' / 'जड़ों का जाल' covers Unit 2: Flora, Seeds, Forest Rights & Agriculture foundational facts, regional adaptations, and ecological concepts."
+}

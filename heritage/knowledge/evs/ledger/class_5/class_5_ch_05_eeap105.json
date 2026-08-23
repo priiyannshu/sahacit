@@ -1,0 +1,67 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 5,
+    "chapter_title_en": "Seeds and Seeds",
+    "chapter_title_hi": "बीज, बीज, बीज",
+    "ncert_code_en": "eeap105",
+    "ncert_code_hi": "ehap105",
+    "theme_mapping": "Unit 2: Flora, Seeds, Forest Rights & Agriculture",
+    "unit_id": 2
+  },
+  "factual_entities": [
+    {
+      "name_en": "Seed Germination, Pitcher Plant, Velcro & Crop Migration",
+      "name_hi": "बीज अंकुरण, शिकारी पौधा (नेपेंथीस), वेल्क्रो और फसलों का वैश्विक आवागमन",
+      "category": "Botany / Trade History",
+      "attributes": [
+        "Germination: Requires AIR, WATER, and WARMTH",
+        "Pitcher Plant (Nepenthes): Found in AUSTRALIA, INDONESIA, and MEGHALAYA (India); pitcher shape with leaf lid; emits SWEET SCENT (not sound) to trap frogs, insects, mice",
+        "Velcro: Invented by GEORGE MESTRAL in 1948 in Switzerland after observing Xanthium burr seed hooks sticking to dog's fur",
+        "Global Crop Origins: South America -> Green Chillies, Tomatoes, Potatoes; Europe -> Cabbage, Peas; Africa -> Coffee, Bhindi (Okra); China -> Soyabean; Native to India -> Mango, Orange, Banana, Spinach, Radish"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "George Mestral",
+      "role": "Inventor",
+      "era": "1907–1990 (Switzerland)",
+      "key_contributions": "Invented Velcro in 1948 inspired by plant burrs"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Meghalaya (India), Australia, Indonesia",
+      "region": "North-East India / Australasia",
+      "context": "Habitat of Pitcher plant"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Chana Sprouting Conditions",
+      "procedure": "Comparing dry, soaked, and damp-cloth wrapped seeds",
+      "findings": "Germination requires simultaneous moisture and aeration"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Velcro invention year",
+      "value": "1948"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Microscopic Velcro hooks, Pitcher plant trap, global crop trade map"
+  ],
+  "key_vocabulary_bilingual": {
+    "Pitcher Plant": "नेपेंथीस / शिकारी पौधा (मेघालय, ऑस्ट्रेलिया, इंडोनेशिया - खुशबू से आकर्षित करता है)",
+    "Velcro": "वेल्क्रो (जॉर्ज मेस्ट्रल 1948 - हुक और लूप)",
+    "Green chilli/Tomato/Potato": "दक्षिण अमेरिका",
+    "Cabbage and Pea": "यूरोप",
+    "Coffee and Bhindi": "अफ्रीका",
+    "Soyabean": "चीन"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 5: 'Seeds and Seeds' / 'बीज, बीज, बीज' covers Unit 2: Flora, Seeds, Forest Rights & Agriculture foundational facts, regional adaptations, and ecological concepts."
+}

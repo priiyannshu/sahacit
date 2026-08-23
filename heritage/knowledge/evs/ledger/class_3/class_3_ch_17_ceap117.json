@@ -1,0 +1,50 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 17,
+    "chapter_title_en": "Here comes a Letter",
+    "chapter_title_hi": "चिट्ठी आई है",
+    "ncert_code_en": "ceap117",
+    "ncert_code_hi": "chap117",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Postal System & PIN Routing",
+      "name_hi": "डाक व्यवस्था और पिन कोड",
+      "category": "Logistics",
+      "attributes": [
+        "Postal sequence: Writing postcard -> Red postbox -> Postal van -> Post office date stamping -> Regional sorting -> Transport via train/air -> Postman delivery",
+        "PIN Code: 6-digit Postal Index Number for algorithmic geographical sorting"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Agartala (Tripura) to New Delhi",
+      "region": "Tripura / Delhi",
+      "context": "Interstate mail routing"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "PIN code digits",
+      "value": "6 digits"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Postcard template with 6-box PIN grid, post office cancellation stamp"
+  ],
+  "key_vocabulary_bilingual": {
+    "Postcard": "पोस्टकार्ड",
+    "PIN Code": "पिन कोड (6 अंक)",
+    "Postman": "डाकिया",
+    "Sorting": "छंटाई"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 17: 'Here comes a Letter' / 'चिट्ठी आई है' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

@@ -1,0 +1,28 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: #0b0f19; color: #f8fafc; line-height: 1.5; }
+.app-container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+.app-header { text-align: center; margin-bottom: 20px; border-bottom: 1px solid #1e293b; padding-bottom: 15px; }
+.app-header h1 { font-size: 26px; color: #38bdf8; }
+.subtitle { font-size: 14px; color: #94a3b8; }
+.unit-nav { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; justify-content: center; }
+.unit-btn { background: #1e293b; color: #cbd5e1; border: 1px solid #334155; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.2s; }
+.unit-btn:hover { background: #334155; }
+.unit-btn.active { background: #0284c7; color: #fff; border-color: #38bdf8; box-shadow: 0 0 10px rgba(56, 189, 248, 0.4); }
+.player-container { background: #020617; border: 2px solid #1e293b; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
+.viewport { height: 420px; position: relative; padding: 30px; display: flex; flex-direction: column; justify-content: center; align-items: center; background: radial-gradient(circle at center, #1e293b 0%, #020617 100%); }
+.player-controls { display: flex; align-items: center; gap: 15px; background: #0f172a; padding: 12px 20px; border-top: 1px solid #1e293b; }
+.ctrl-btn { background: #1e293b; color: #fff; border: 1px solid #334155; padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 600; }
+.ctrl-btn:hover { background: #334155; }
+.play-btn { background: #0284c7; border-color: #38bdf8; }
+.timeline-bar { flex: 1; height: 6px; background: #334155; border-radius: 3px; overflow: hidden; cursor: pointer; }
+.timeline-progress { width: 25%; height: 100%; background: #38bdf8; transition: width 0.3s; }
+.scene-counter { font-size: 12px; color: #94a3b8; font-weight: bold; }
+.teleprompter-card { background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; margin-top: 20px; }
+.teleprompter-card h3 { font-size: 16px; color: #38bdf8; margin-bottom: 10px; }
+.narration-en { font-size: 15px; color: #f1f5f9; margin-bottom: 8px; font-weight: 500; }
+.narration-hi { font-size: 15px; color: #cbd5e1; font-style: italic; }
+.visual-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; max-width: 650px; width: 100%; text-align: center; animation: fadeIn 0.5s ease-out; }
+.card-title { font-size: 22px; color: #38bdf8; margin-bottom: 12px; font-weight: bold; }
+.card-badge { display: inline-block; background: #0369a1; color: #e0f2fe; padding: 4px 12px; border-radius: 12px; font-size: 12px; font-weight: bold; margin-bottom: 15px; }
+.card-facts { text-align: left; margin: 15px 0; font-size: 14px; color: #e2e8f0; line-height: 1.8; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }

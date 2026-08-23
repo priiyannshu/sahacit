@@ -1,0 +1,56 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 16,
+    "chapter_title_en": "Who will do this Work?",
+    "chapter_title_hi": "कौन करेगा यह काम?",
+    "ncert_code_en": "eeap116",
+    "ncert_code_hi": "ehap116",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Dignity of Labour, Babasaheb Ambedkar & Sabarmati Ashram",
+      "name_hi": "श्रम की गरिमा, डॉ. भीमराव अंबेडकर और साबरमती आश्रम",
+      "category": "Social Justice / Constitution",
+      "attributes": [
+        "Sanitation work and eradication of untouchability; Mahatma Gandhi's Sabarmati Ashram cleaning rules; Dr. Bhimrao Ambedkar: Born in Goregaon (Maharashtra), fought against caste inequality, Architect of the CONSTITUTION OF INDIA"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Dr. B. R. Ambedkar",
+      "role": "Father of the Constitution",
+      "era": "1891–1956",
+      "key_contributions": "Architect of Indian Constitution; civil rights leader"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "role": "Father of the Nation",
+      "era": "1869–1948",
+      "key_contributions": "Promoted sanitation and dignity of labour at Sabarmati"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Goregaon (Maharashtra), Sabarmati (Gujarat)",
+      "region": "West India",
+      "context": "Social equality movements"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Portraits of Dr. Ambedkar and Gandhi, Sabarmati ashram"
+  ],
+  "key_vocabulary_bilingual": {
+    "Dr. B. R. Ambedkar": "डॉ. भीमराव अंबेडकर (संविधान निर्माता - गोरेगाँव, महाराष्ट्र)",
+    "Sabarmati": "साबरमती आश्रम (महात्मा गांधी)",
+    "Dignity of labour": "श्रम की गरिमा"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 16: 'Who will do this Work?' / 'कौन करेगा यह काम?' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

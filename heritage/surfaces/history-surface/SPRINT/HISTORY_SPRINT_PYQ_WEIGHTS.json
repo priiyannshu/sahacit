@@ -1,0 +1,4844 @@
+{
+  "metadata": {
+    "task": "Task 1 — PYQ-entity frequency weighting",
+    "method": "word-boundary regex of normalized node labels (+ aliases) vs question+options text. Stop-list filters generic single-word labels.",
+    "generated": "2026-05-16",
+    "per_era": {
+      "prehistoric": {
+        "nodes_total": 71,
+        "nodes_matched": 3,
+        "pyqs_pool": 2,
+        "pyqs_zero": 0,
+        "pyqs_list_questions": 0
+      },
+      "ancient-indus": {
+        "nodes_total": 115,
+        "nodes_matched": 13,
+        "pyqs_pool": 18,
+        "pyqs_zero": 10,
+        "pyqs_list_questions": 0
+      },
+      "ancient-classical": {
+        "nodes_total": 266,
+        "nodes_matched": 71,
+        "pyqs_pool": 127,
+        "pyqs_zero": 58,
+        "pyqs_list_questions": 0
+      },
+      "early-medieval": {
+        "nodes_total": 214,
+        "nodes_matched": 12,
+        "pyqs_pool": 48,
+        "pyqs_zero": 37,
+        "pyqs_list_questions": 0
+      },
+      "delhi-sultanate": {
+        "nodes_total": 204,
+        "nodes_matched": 25,
+        "pyqs_pool": 85,
+        "pyqs_zero": 50,
+        "pyqs_list_questions": 0
+      },
+      "mughal": {
+        "nodes_total": 263,
+        "nodes_matched": 36,
+        "pyqs_pool": 72,
+        "pyqs_zero": 29,
+        "pyqs_list_questions": 4
+      },
+      "early-colonial": {
+        "nodes_total": 283,
+        "nodes_matched": 34,
+        "pyqs_pool": 188,
+        "pyqs_zero": 143,
+        "pyqs_list_questions": 0
+      },
+      "high-colonial": {
+        "nodes_total": 233,
+        "nodes_matched": 44,
+        "pyqs_pool": 176,
+        "pyqs_zero": 88,
+        "pyqs_list_questions": 0
+      },
+      "freedom-struggle": {
+        "nodes_total": 389,
+        "nodes_matched": 76,
+        "pyqs_pool": 248,
+        "pyqs_zero": 115,
+        "pyqs_list_questions": 5
+      },
+      "post-independence": {
+        "nodes_total": 516,
+        "nodes_matched": 70,
+        "pyqs_pool": 259,
+        "pyqs_zero": 147,
+        "pyqs_list_questions": 1
+      },
+      "contemporary": {
+        "nodes_total": 542,
+        "nodes_matched": 45,
+        "pyqs_pool": 773,
+        "pyqs_zero": 697,
+        "pyqs_list_questions": 0
+      }
+    },
+    "anchor_thresholds": {
+      "prehistoric": {
+        "threshold": 1,
+        "anchor_count": 3,
+        "type_mix": {
+          "place": 2,
+          "period": 1
+        }
+      },
+      "ancient-indus": {
+        "threshold": 1,
+        "anchor_count": 13,
+        "type_mix": {
+          "place": 7,
+          "concept": 5,
+          "period": 1
+        }
+      },
+      "ancient-classical": {
+        "threshold": 2,
+        "anchor_count": 20,
+        "type_mix": {
+          "concept": 8,
+          "person": 10,
+          "empire": 1,
+          "place": 1
+        }
+      },
+      "early-medieval": {
+        "threshold": 1,
+        "anchor_count": 12,
+        "type_mix": {
+          "person": 6,
+          "place": 1,
+          "institution": 1,
+          "movement": 1,
+          "dynasty": 1,
+          "concept": 1,
+          "period": 1
+        }
+      },
+      "delhi-sultanate": {
+        "threshold": 1,
+        "anchor_count": 25,
+        "type_mix": {
+          "person": 17,
+          "place": 2,
+          "empire": 2,
+          "concept": 2,
+          "dynasty": 2
+        }
+      },
+      "mughal": {
+        "threshold": 1,
+        "anchor_count": 36,
+        "type_mix": {
+          "person": 22,
+          "period": 3,
+          "empire": 2,
+          "place": 2,
+          "concept": 4,
+          "event": 2,
+          "institution": 1
+        }
+      },
+      "early-colonial": {
+        "threshold": 2,
+        "anchor_count": 22,
+        "type_mix": {
+          "law": 4,
+          "person": 7,
+          "period": 1,
+          "event": 5,
+          "place": 1,
+          "institution": 3,
+          "concept": 1
+        }
+      },
+      "high-colonial": {
+        "threshold": 2,
+        "anchor_count": 23,
+        "type_mix": {
+          "person": 11,
+          "concept": 2,
+          "event": 3,
+          "movement": 1,
+          "institution": 5,
+          "reform": 1
+        }
+      },
+      "freedom-struggle": {
+        "threshold": 5,
+        "anchor_count": 20,
+        "type_mix": {
+          "person": 5,
+          "institution": 2,
+          "movement": 6,
+          "event": 6,
+          "concept": 1
+        }
+      },
+      "post-independence": {
+        "threshold": 3,
+        "anchor_count": 20,
+        "type_mix": {
+          "institution": 12,
+          "provision": 2,
+          "period": 1,
+          "event": 1,
+          "policy": 1,
+          "person": 2,
+          "amendment": 1
+        }
+      },
+      "contemporary": {
+        "threshold": 1,
+        "anchor_count": 45,
+        "type_mix": {
+          "organisation": 2,
+          "treaty": 6,
+          "institution": 12,
+          "policy": 9,
+          "event": 3,
+          "concept": 3,
+          "scheme": 4,
+          "technology": 1,
+          "law": 1,
+          "person": 3,
+          "amendment": 1
+        }
+      }
+    },
+    "threshold_rationale": "Per-era threshold chosen so that the anchor-deserving set lands in [20,50] nodes (target = ~10-15 short stories × ~3 anchors). Where the pool is too small (prehistoric, ancient-indus, early-medieval) the threshold defaults to ≥1 and the full PYQ-matched set becomes the anchor pool. Threshold is a proposal — Task 2 (bundling) may push back based on what coheres as a short story."
+  },
+  "eras": {
+    "prehistoric": {
+      "nodes_total": 71,
+      "pyqs_pool": 2,
+      "pyqs_with_zero_hits": 0,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_burzahom",
+          "label": "Burzahom",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            68
+          ]
+        },
+        {
+          "node_id": "hist_chalcolithic_period",
+          "label": "Chalcolithic",
+          "type": "period",
+          "pyq_count": 1,
+          "pyq_ids": [
+            128
+          ]
+        },
+        {
+          "node_id": "hist_inamgaon",
+          "label": "Inamgaon",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            128
+          ]
+        }
+      ]
+    },
+    "ancient-indus": {
+      "nodes_total": 115,
+      "pyqs_pool": 18,
+      "pyqs_with_zero_hits": 10,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_dholavira",
+          "label": "Dholavira",
+          "type": "place",
+          "pyq_count": 2,
+          "pyq_ids": [
+            73,
+            136
+          ]
+        },
+        {
+          "node_id": "hist_kalibangan",
+          "label": "Kalibangan",
+          "type": "place",
+          "pyq_count": 2,
+          "pyq_ids": [
+            73,
+            136
+          ]
+        },
+        {
+          "node_id": "hist_lothal",
+          "label": "Lothal",
+          "type": "place",
+          "pyq_count": 2,
+          "pyq_ids": [
+            73,
+            88
+          ]
+        },
+        {
+          "node_id": "hist_banawali",
+          "label": "Banawali",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            73
+          ]
+        },
+        {
+          "node_id": "hist_chanhudaro",
+          "label": "Chanhudaro",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            70
+          ]
+        },
+        {
+          "node_id": "hist_dancing_girl",
+          "label": "Dancing Girl",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            69
+          ]
+        },
+        {
+          "node_id": "hist_harappan_civilisation",
+          "label": "Harappan Civilisation",
+          "type": "period",
+          "pyq_count": 1,
+          "pyq_ids": [
+            165
+          ]
+        },
+        {
+          "node_id": "hist_harappan_script",
+          "label": "Harappan Script",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            73
+          ]
+        },
+        {
+          "node_id": "hist_painted_grey_ware",
+          "label": "Painted Grey Ware",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            165
+          ]
+        },
+        {
+          "node_id": "hist_rakhigarhi",
+          "label": "Rakhigarhi",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            136
+          ]
+        },
+        {
+          "node_id": "hist_ropar",
+          "label": "Ropar",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            136
+          ]
+        },
+        {
+          "node_id": "hist_vedas",
+          "label": "The Vedas",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            203
+          ]
+        },
+        {
+          "node_id": "hist_yajnas",
+          "label": "Yajnas (Sacrifices)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            76
+          ]
+        }
+      ]
+    },
+    "ancient-classical": {
+      "nodes_total": 266,
+      "pyqs_pool": 127,
+      "pyqs_with_zero_hits": 58,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_buddhism",
+          "label": "Buddhism",
+          "type": "concept",
+          "pyq_count": 15,
+          "pyq_ids": [
+            100,
+            106,
+            114,
+            127,
+            206,
+            213,
+            214,
+            215,
+            216,
+            219,
+            224,
+            227,
+            237,
+            239,
+            244
+          ]
+        },
+        {
+          "node_id": "hist_jainism",
+          "label": "Jainism",
+          "type": "concept",
+          "pyq_count": 8,
+          "pyq_ids": [
+            206,
+            216,
+            218,
+            227,
+            229,
+            235,
+            239,
+            244
+          ]
+        },
+        {
+          "node_id": "hist_ashoka",
+          "label": "Ashoka",
+          "type": "person",
+          "pyq_count": 6,
+          "pyq_ids": [
+            91,
+            94,
+            132,
+            137,
+            140,
+            159
+          ]
+        },
+        {
+          "node_id": "hist_samudragupta",
+          "label": "Samudragupta",
+          "type": "person",
+          "pyq_count": 5,
+          "pyq_ids": [
+            91,
+            96,
+            159,
+            175,
+            189
+          ]
+        },
+        {
+          "node_id": "hist_harshavardhana",
+          "label": "Harshavardhana",
+          "type": "person",
+          "pyq_count": 4,
+          "pyq_ids": [
+            91,
+            112,
+            114,
+            183
+          ]
+        },
+        {
+          "node_id": "hist_mahayana_buddhism",
+          "label": "Mahayana Buddhism",
+          "type": "concept",
+          "pyq_count": 4,
+          "pyq_ids": [
+            213,
+            215,
+            237,
+            244
+          ]
+        },
+        {
+          "node_id": "hist_chandragupta_maurya",
+          "label": "Chandragupta Maurya",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            146,
+            159,
+            190
+          ]
+        },
+        {
+          "node_id": "hist_magadha",
+          "label": "Magadha",
+          "type": "empire",
+          "pyq_count": 3,
+          "pyq_ids": [
+            84,
+            112,
+            207
+          ]
+        },
+        {
+          "node_id": "hist_nagarjuna_philosopher",
+          "label": "Nagarjuna (Madhyamaka)",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            179,
+            197,
+            233
+          ]
+        },
+        {
+          "node_id": "hist_varahamihira",
+          "label": "Varahamihira",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            63,
+            65,
+            198
+          ]
+        },
+        {
+          "node_id": "hist_arthashastra",
+          "label": "Arthashastra",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            90,
+            202
+          ]
+        },
+        {
+          "node_id": "hist_ashokan_inscriptions",
+          "label": "Ashokan Inscriptions",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            89,
+            116
+          ]
+        },
+        {
+          "node_id": "hist_chandragupta_ii",
+          "label": "Chandragupta II",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            175,
+            189
+          ]
+        },
+        {
+          "node_id": "hist_gautama_buddha",
+          "label": "Gautama Buddha",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            86,
+            205
+          ]
+        },
+        {
+          "node_id": "hist_kanishka",
+          "label": "Kanishka",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            106,
+            233
+          ]
+        },
+        {
+          "node_id": "hist_karma_concept",
+          "label": "Karma",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            225,
+            243
+          ]
+        },
+        {
+          "node_id": "hist_sanchi_stupa",
+          "label": "Sanchi Stupa",
+          "type": "place",
+          "pyq_count": 2,
+          "pyq_ids": [
+            134,
+            147
+          ]
+        },
+        {
+          "node_id": "hist_shaivism",
+          "label": "Shaivism",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            206,
+            216
+          ]
+        },
+        {
+          "node_id": "hist_shudraka",
+          "label": "Shudraka",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            189,
+            193
+          ]
+        },
+        {
+          "node_id": "hist_vaishnavism",
+          "label": "Vaishnavism",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            206,
+            216
+          ]
+        },
+        {
+          "node_id": "hist_ahimsa",
+          "label": "Ahimsa",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            235
+          ]
+        },
+        {
+          "node_id": "hist_ajanta_paintings",
+          "label": "Ajanta Paintings",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            165
+          ]
+        },
+        {
+          "node_id": "hist_ajivikas",
+          "label": "Ajivikas",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            146
+          ]
+        },
+        {
+          "node_id": "hist_amarasimha",
+          "label": "Amarasimha",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            183
+          ]
+        },
+        {
+          "node_id": "hist_amaravati_stupa",
+          "label": "Amaravati Stupa",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            134
+          ]
+        },
+        {
+          "node_id": "hist_aryabhata",
+          "label": "Aryabhata",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            65
+          ]
+        },
+        {
+          "node_id": "hist_banabhatta",
+          "label": "Banabhatta",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            193
+          ]
+        },
+        {
+          "node_id": "hist_bhadrabahu",
+          "label": "Bhadrabahu",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            229
+          ]
+        },
+        {
+          "node_id": "hist_bhasa",
+          "label": "Bhasa",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            177
+          ]
+        },
+        {
+          "node_id": "hist_bimbisara",
+          "label": "Bimbisara",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            86
+          ]
+        },
+        {
+          "node_id": "hist_bodhisattvas",
+          "label": "Bodhisattvas",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            215
+          ]
+        },
+        {
+          "node_id": "hist_buddhacharita",
+          "label": "Buddhacharita",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            193
+          ]
+        },
+        {
+          "node_id": "hist_buddhist_sangha",
+          "label": "Buddhist Sangha",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            232
+          ]
+        },
+        {
+          "node_id": "hist_charaka",
+          "label": "Charaka",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            63
+          ]
+        },
+        {
+          "node_id": "hist_gupta_empire",
+          "label": "Gupta Empire",
+          "type": "empire",
+          "pyq_count": 1,
+          "pyq_ids": [
+            104
+          ]
+        },
+        {
+          "node_id": "hist_gupta_era",
+          "label": "Gupta Era (Samvat)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            64
+          ]
+        },
+        {
+          "node_id": "hist_harshacharita",
+          "label": "Harshacharita",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            193
+          ]
+        },
+        {
+          "node_id": "hist_kalidasa",
+          "label": "Kalidasa",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            183
+          ]
+        },
+        {
+          "node_id": "hist_kamasutra",
+          "label": "Kamasutra",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            202
+          ]
+        },
+        {
+          "node_id": "hist_kanauj",
+          "label": "Kanauj",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            112
+          ]
+        },
+        {
+          "node_id": "hist_kanva_dynasty",
+          "label": "Kanva Dynasty",
+          "type": "dynasty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            92
+          ]
+        },
+        {
+          "node_id": "hist_kharavela",
+          "label": "Kharavela",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            229
+          ]
+        },
+        {
+          "node_id": "hist_kumaragupta_i",
+          "label": "Kumaragupta I",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            175
+          ]
+        },
+        {
+          "node_id": "hist_mahabharata",
+          "label": "Mahabharata",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            194
+          ]
+        },
+        {
+          "node_id": "hist_mahapadma_nanda",
+          "label": "Mahapadma Nanda",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            159
+          ]
+        },
+        {
+          "node_id": "hist_mahavira",
+          "label": "Vardhamana Mahavira",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            231
+          ]
+        },
+        {
+          "node_id": "hist_mathura",
+          "label": "Mathura",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            171
+          ]
+        },
+        {
+          "node_id": "hist_mauryan_empire",
+          "label": "Mauryan Empire",
+          "type": "empire",
+          "pyq_count": 1,
+          "pyq_ids": [
+            94
+          ]
+        },
+        {
+          "node_id": "hist_menander",
+          "label": "Menander (Milinda)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            197
+          ]
+        },
+        {
+          "node_id": "hist_milindapanho",
+          "label": "Milindapanho",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            197
+          ]
+        },
+        {
+          "node_id": "hist_mudrarakshasa",
+          "label": "Mudrarakshasa",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            190
+          ]
+        },
+        {
+          "node_id": "hist_nalanda",
+          "label": "Nalanda",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            88
+          ]
+        },
+        {
+          "node_id": "hist_nasik_caves",
+          "label": "Nasik Caves (Pandavleni)",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            149
+          ]
+        },
+        {
+          "node_id": "hist_natyashastra",
+          "label": "Natyashastra",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            177
+          ]
+        },
+        {
+          "node_id": "hist_pali",
+          "label": "Pali",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            111
+          ]
+        },
+        {
+          "node_id": "hist_panini",
+          "label": "Panini",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            183
+          ]
+        },
+        {
+          "node_id": "hist_parshvanatha",
+          "label": "Parshvanatha",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            231
+          ]
+        },
+        {
+          "node_id": "hist_pataliputra",
+          "label": "Pataliputra",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            229
+          ]
+        },
+        {
+          "node_id": "hist_pulakesin_ii",
+          "label": "Pulakesin II",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            113
+          ]
+        },
+        {
+          "node_id": "hist_puranas",
+          "label": "Puranas",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            176
+          ]
+        },
+        {
+          "node_id": "hist_ramayana",
+          "label": "Ramayana",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            187
+          ]
+        },
+        {
+          "node_id": "hist_roman_empire",
+          "label": "Roman Empire",
+          "type": "empire",
+          "pyq_count": 1,
+          "pyq_ids": [
+            98
+          ]
+        },
+        {
+          "node_id": "hist_sarnath",
+          "label": "Sarnath",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            88
+          ]
+        },
+        {
+          "node_id": "hist_shakas",
+          "label": "Shakas (Indo-Scythians)",
+          "type": "dynasty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            100
+          ]
+        },
+        {
+          "node_id": "hist_skandagupta",
+          "label": "Skandagupta",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            175
+          ]
+        },
+        {
+          "node_id": "hist_thanesar",
+          "label": "Thanesar",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            112
+          ]
+        },
+        {
+          "node_id": "hist_therigatha",
+          "label": "Therigatha",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            238
+          ]
+        },
+        {
+          "node_id": "hist_udayagiri_caves_mp",
+          "label": "Udayagiri Caves (Madhya Pradesh)",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            156
+          ]
+        },
+        {
+          "node_id": "hist_upanishads",
+          "label": "Upanishads",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            176
+          ]
+        },
+        {
+          "node_id": "hist_valabhi",
+          "label": "Valabhi",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            112
+          ]
+        },
+        {
+          "node_id": "hist_viharas",
+          "label": "Viharas (Monasteries)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            145
+          ]
+        }
+      ]
+    },
+    "early-medieval": {
+      "nodes_total": 214,
+      "pyqs_pool": 48,
+      "pyqs_with_zero_hits": 37,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_ramanuja",
+          "label": "Ramanuja",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            208,
+            230
+          ]
+        },
+        {
+          "node_id": "hist_al_biruni",
+          "label": "Al-Biruni",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            133
+          ]
+        },
+        {
+          "node_id": "hist_ellora_caves",
+          "label": "Ellora Caves",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            149
+          ]
+        },
+        {
+          "node_id": "hist_gopala_pala",
+          "label": "Gopala",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            125
+          ]
+        },
+        {
+          "node_id": "hist_guilds",
+          "label": "Guilds",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            263
+          ]
+        },
+        {
+          "node_id": "hist_lingayats",
+          "label": "Lingayats (Virashaivas)",
+          "type": "movement",
+          "pyq_count": 1,
+          "pyq_ids": [
+            342
+          ]
+        },
+        {
+          "node_id": "hist_mahendravarman_i",
+          "label": "Mahendravarman I",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            115
+          ]
+        },
+        {
+          "node_id": "hist_pala_dynasty",
+          "label": "Pala Dynasty",
+          "type": "dynasty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            125
+          ]
+        },
+        {
+          "node_id": "hist_rajaraja_i",
+          "label": "Rajaraja I",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            120
+          ]
+        },
+        {
+          "node_id": "hist_rajputs",
+          "label": "Rajputs",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            201
+          ]
+        },
+        {
+          "node_id": "hist_shankaracharya",
+          "label": "Shankaracharya",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            230
+          ]
+        },
+        {
+          "node_id": "period_east_pala",
+          "label": "Eastern India (Pala → Sena)",
+          "type": "period",
+          "pyq_count": 1,
+          "pyq_ids": [
+            127
+          ]
+        }
+      ]
+    },
+    "delhi-sultanate": {
+      "nodes_total": 204,
+      "pyqs_pool": 85,
+      "pyqs_with_zero_hits": 50,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_kabir",
+          "label": "Kabir",
+          "type": "person",
+          "pyq_count": 5,
+          "pyq_ids": [
+            10,
+            199,
+            234,
+            341,
+            350
+          ]
+        },
+        {
+          "node_id": "hist_hampi",
+          "label": "Hampi (Vijayanagara)",
+          "type": "place",
+          "pyq_count": 4,
+          "pyq_ids": [
+            55,
+            150,
+            154,
+            164
+          ]
+        },
+        {
+          "node_id": "hist_muhammad_bin_tughlaq",
+          "label": "Muhammad bin Tughlaq",
+          "type": "person",
+          "pyq_count": 4,
+          "pyq_ids": [
+            265,
+            279,
+            281,
+            284
+          ]
+        },
+        {
+          "node_id": "hist_vijayanagara_empire",
+          "label": "Vijayanagara Empire",
+          "type": "empire",
+          "pyq_count": 4,
+          "pyq_ids": [
+            247,
+            252,
+            312,
+            324
+          ]
+        },
+        {
+          "node_id": "hist_alauddin_khalji",
+          "label": "Alauddin Khalji",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            279,
+            334
+          ]
+        },
+        {
+          "node_id": "hist_amir_khusrau",
+          "label": "Amir Khusrau",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            331,
+            338
+          ]
+        },
+        {
+          "node_id": "hist_delhi_sultanate",
+          "label": "Delhi Sultanate",
+          "type": "empire",
+          "pyq_count": 2,
+          "pyq_ids": [
+            255,
+            268
+          ]
+        },
+        {
+          "node_id": "hist_ghiyasuddin_tughlaq",
+          "label": "Ghiyasuddin Tughlaq",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            302,
+            340
+          ]
+        },
+        {
+          "node_id": "hist_sikandar_lodi",
+          "label": "Sikandar Lodi",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            292,
+            302
+          ]
+        },
+        {
+          "node_id": "hist_baba_farid",
+          "label": "Baba Farid (Farid-ud-Din Ganj-i-Shakar)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            240
+          ]
+        },
+        {
+          "node_id": "hist_banjaras",
+          "label": "Banjaras",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            256
+          ]
+        },
+        {
+          "node_id": "hist_deva_raya_ii",
+          "label": "Deva Raya II",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            252
+          ]
+        },
+        {
+          "node_id": "hist_guru_nanak",
+          "label": "Guru Nanak",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            343
+          ]
+        },
+        {
+          "node_id": "hist_krishnadeva_raya",
+          "label": "Krishnadeva Raya",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            271
+          ]
+        },
+        {
+          "node_id": "hist_lodi_dynasty",
+          "label": "Lodi Dynasty",
+          "type": "dynasty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            343
+          ]
+        },
+        {
+          "node_id": "hist_mahmud_begarha",
+          "label": "Mahmud Begarha",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            311
+          ]
+        },
+        {
+          "node_id": "hist_malik_kafur",
+          "label": "Malik Kafur",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            309
+          ]
+        },
+        {
+          "node_id": "hist_nizamuddin_auliya",
+          "label": "Nizamuddin Auliya",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            349
+          ]
+        },
+        {
+          "node_id": "hist_ramananda",
+          "label": "Ramananda",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            350
+          ]
+        },
+        {
+          "node_id": "hist_rana_sanga",
+          "label": "Rana Sanga (Sangram Singh)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            282
+          ]
+        },
+        {
+          "node_id": "hist_sangama_dynasty",
+          "label": "Sangama Dynasty",
+          "type": "dynasty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            271
+          ]
+        },
+        {
+          "node_id": "hist_sufism",
+          "label": "Sufism",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            349
+          ]
+        },
+        {
+          "node_id": "hist_timur",
+          "label": "Timur (Tamerlane)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            264
+          ]
+        },
+        {
+          "node_id": "hist_vallabhacharya",
+          "label": "Vallabhacharya",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            346
+          ]
+        },
+        {
+          "node_id": "hist_virupaksha_temple",
+          "label": "Virupaksha Temple",
+          "type": "place",
+          "pyq_count": 1,
+          "pyq_ids": [
+            150
+          ]
+        }
+      ]
+    },
+    "mughal": {
+      "nodes_total": 263,
+      "pyqs_pool": 72,
+      "pyqs_with_zero_hits": 29,
+      "pyqs_likely_list_questions": [
+        {
+          "id": 322,
+          "n_hits": 6
+        },
+        {
+          "id": 330,
+          "n_hits": 7
+        },
+        {
+          "id": 316,
+          "n_hits": 6
+        },
+        {
+          "id": 326,
+          "n_hits": 6
+        }
+      ],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_akbar",
+          "label": "Akbar (1556-1605)",
+          "type": "person",
+          "pyq_count": 17,
+          "pyq_ids": [
+            276,
+            288,
+            293,
+            297,
+            298,
+            304,
+            316,
+            317,
+            322,
+            323,
+            325,
+            326,
+            329,
+            330,
+            339,
+            341,
+            347
+          ]
+        },
+        {
+          "node_id": "period_akbar",
+          "label": "Akbar",
+          "type": "period",
+          "pyq_count": 17,
+          "pyq_ids": [
+            276,
+            288,
+            293,
+            297,
+            298,
+            304,
+            316,
+            317,
+            322,
+            323,
+            325,
+            326,
+            329,
+            330,
+            339,
+            341,
+            347
+          ]
+        },
+        {
+          "node_id": "hist_aurangzeb",
+          "label": "Aurangzeb (1658-1707)",
+          "type": "person",
+          "pyq_count": 10,
+          "pyq_ids": [
+            274,
+            283,
+            288,
+            316,
+            317,
+            322,
+            323,
+            330,
+            347,
+            349
+          ]
+        },
+        {
+          "node_id": "period_aurangzeb",
+          "label": "Aurangzeb",
+          "type": "period",
+          "pyq_count": 10,
+          "pyq_ids": [
+            274,
+            283,
+            288,
+            316,
+            317,
+            322,
+            323,
+            330,
+            347,
+            349
+          ]
+        },
+        {
+          "node_id": "hist_jahangir",
+          "label": "Jahangir (1605-1627)",
+          "type": "person",
+          "pyq_count": 6,
+          "pyq_ids": [
+            316,
+            317,
+            322,
+            326,
+            339,
+            347
+          ]
+        },
+        {
+          "node_id": "hist_mughal_empire",
+          "label": "Mughal Empire",
+          "type": "empire",
+          "pyq_count": 4,
+          "pyq_ids": [
+            269,
+            280,
+            300,
+            374
+          ]
+        },
+        {
+          "node_id": "hist_fatehpur_sikri",
+          "label": "Fatehpur Sikri",
+          "type": "place",
+          "pyq_count": 3,
+          "pyq_ids": [
+            328,
+            329,
+            336
+          ]
+        },
+        {
+          "node_id": "hist_humayun",
+          "label": "Humayun",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            323,
+            326,
+            339
+          ]
+        },
+        {
+          "node_id": "hist_shah_jahan",
+          "label": "Shah Jahan (1628-1658)",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            283,
+            326,
+            330
+          ]
+        },
+        {
+          "node_id": "hist_shivaji",
+          "label": "Shivaji",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            297,
+            299,
+            620
+          ]
+        },
+        {
+          "node_id": "period_shah_jahan",
+          "label": "Shah Jahan",
+          "type": "period",
+          "pyq_count": 3,
+          "pyq_ids": [
+            283,
+            326,
+            330
+          ]
+        },
+        {
+          "node_id": "hist_babur",
+          "label": "Babur (1526-1530)",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            261,
+            343
+          ]
+        },
+        {
+          "node_id": "hist_guru_arjan",
+          "label": "Guru Arjan Dev",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            348,
+            352
+          ]
+        },
+        {
+          "node_id": "hist_jama_masjid_delhi",
+          "label": "Jama Masjid (Delhi)",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            333,
+            340
+          ]
+        },
+        {
+          "node_id": "hist_surat",
+          "label": "Surat",
+          "type": "place",
+          "pyq_count": 2,
+          "pyq_ids": [
+            285,
+            316
+          ]
+        },
+        {
+          "node_id": "hist_tulsidas",
+          "label": "Tulsidas",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            10,
+            350
+          ]
+        },
+        {
+          "node_id": "hist_abdul_hamid_lahori",
+          "label": "Abdul Hamid Lahori",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            330
+          ]
+        },
+        {
+          "node_id": "hist_abul_fazl",
+          "label": "Abu'l Fazl",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            338
+          ]
+        },
+        {
+          "node_id": "hist_banda_bahadur",
+          "label": "Banda Bahadur",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            348
+          ]
+        },
+        {
+          "node_id": "hist_battle_panipat_1526",
+          "label": "First Battle of Panipat (1526)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            282
+          ]
+        },
+        {
+          "node_id": "hist_dadu_dayal",
+          "label": "Dadu Dayal",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            343
+          ]
+        },
+        {
+          "node_id": "hist_gol_gumbaz",
+          "label": "Gol Gumbaz (Bijapur)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            340
+          ]
+        },
+        {
+          "node_id": "hist_guru_gobind_singh",
+          "label": "Guru Gobind Singh",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            352
+          ]
+        },
+        {
+          "node_id": "hist_guru_tegh_bahadur",
+          "label": "Guru Tegh Bahadur",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            348
+          ]
+        },
+        {
+          "node_id": "hist_hyderabad_state",
+          "label": "Hyderabad State",
+          "type": "empire",
+          "pyq_count": 1,
+          "pyq_ids": [
+            354
+          ]
+        },
+        {
+          "node_id": "hist_ibadat_khana",
+          "label": "Ibadat Khana (House of Worship)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            329
+          ]
+        },
+        {
+          "node_id": "hist_khalsa",
+          "label": "Khalsa",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            352
+          ]
+        },
+        {
+          "node_id": "hist_malik_ambar",
+          "label": "Malik Ambar",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            269
+          ]
+        },
+        {
+          "node_id": "hist_mansabdari_system",
+          "label": "Mansabdari System",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            306
+          ]
+        },
+        {
+          "node_id": "hist_mirabai",
+          "label": "Mirabai",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            10
+          ]
+        },
+        {
+          "node_id": "hist_mughal_decline",
+          "label": "Decline of Mughal Empire",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            374
+          ]
+        },
+        {
+          "node_id": "hist_sambhaji",
+          "label": "Sambhaji",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            381
+          ]
+        },
+        {
+          "node_id": "hist_sawai_jai_singh",
+          "label": "Sawai Jai Singh",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            375
+          ]
+        },
+        {
+          "node_id": "hist_shaikh_ahmad_sirhindi",
+          "label": "Shaikh Ahmad Sirhindi",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            341
+          ]
+        },
+        {
+          "node_id": "hist_tansen",
+          "label": "Mian Tansen",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            325
+          ]
+        },
+        {
+          "node_id": "hist_thomas_roe",
+          "label": "Sir Thomas Roe",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            322
+          ]
+        }
+      ]
+    },
+    "early-colonial": {
+      "nodes_total": 283,
+      "pyqs_pool": 188,
+      "pyqs_with_zero_hits": 143,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_charter_act_1813",
+          "label": "Charter Act (1813)",
+          "type": "law",
+          "pyq_count": 7,
+          "pyq_ids": [
+            353,
+            356,
+            376,
+            377,
+            389,
+            412,
+            653
+          ]
+        },
+        {
+          "node_id": "hist_charter_act_1833",
+          "label": "Charter Act (1833)",
+          "type": "law",
+          "pyq_count": 7,
+          "pyq_ids": [
+            353,
+            356,
+            376,
+            377,
+            389,
+            412,
+            653
+          ]
+        },
+        {
+          "node_id": "hist_charter_act_1853",
+          "label": "Charter Act (1853)",
+          "type": "law",
+          "pyq_count": 7,
+          "pyq_ids": [
+            353,
+            356,
+            376,
+            377,
+            389,
+            412,
+            653
+          ]
+        },
+        {
+          "node_id": "hist_warren_hastings",
+          "label": "Warren Hastings",
+          "type": "person",
+          "pyq_count": 6,
+          "pyq_ids": [
+            363,
+            370,
+            373,
+            385,
+            391,
+            654
+          ]
+        },
+        {
+          "node_id": "_period_revolt_1857",
+          "label": "Revolt of 1857",
+          "type": "period",
+          "pyq_count": 5,
+          "pyq_ids": [
+            398,
+            399,
+            400,
+            401,
+            661
+          ]
+        },
+        {
+          "node_id": "hist_revolt_1857",
+          "label": "Revolt of 1857",
+          "type": "event",
+          "pyq_count": 5,
+          "pyq_ids": [
+            398,
+            399,
+            400,
+            401,
+            661
+          ]
+        },
+        {
+          "node_id": "hist_fort_william",
+          "label": "Fort William (Calcutta)",
+          "type": "place",
+          "pyq_count": 4,
+          "pyq_ids": [
+            368,
+            389,
+            651,
+            654
+          ]
+        },
+        {
+          "node_id": "hist_lord_cornwallis",
+          "label": "Lord Cornwallis",
+          "type": "person",
+          "pyq_count": 4,
+          "pyq_ids": [
+            359,
+            362,
+            364,
+            385
+          ]
+        },
+        {
+          "node_id": "hist_regulating_act_1773",
+          "label": "Regulating Act (1773)",
+          "type": "law",
+          "pyq_count": 4,
+          "pyq_ids": [
+            353,
+            370,
+            377,
+            389
+          ]
+        },
+        {
+          "node_id": "hist_william_jones",
+          "label": "William Jones",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            140,
+            631,
+            654
+          ]
+        },
+        {
+          "node_id": "hist_battle_buxar",
+          "label": "Battle of Buxar (1764)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            369,
+            395
+          ]
+        },
+        {
+          "node_id": "hist_battle_plassey",
+          "label": "Battle of Plassey (1757)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            270,
+            369
+          ]
+        },
+        {
+          "node_id": "hist_brahmo_samaj",
+          "label": "Brahmo Samaj",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            612,
+            614
+          ]
+        },
+        {
+          "node_id": "hist_doctrine_of_lapse",
+          "label": "Doctrine of Lapse",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            373,
+            490
+          ]
+        },
+        {
+          "node_id": "hist_kunwar_singh",
+          "label": "Kunwar Singh",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            397,
+            398
+          ]
+        },
+        {
+          "node_id": "hist_lord_wellesley",
+          "label": "Lord Wellesley",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            358,
+            385
+          ]
+        },
+        {
+          "node_id": "hist_mir_jafar",
+          "label": "Mir Jafar",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            270,
+            395
+          ]
+        },
+        {
+          "node_id": "hist_permanent_settlement",
+          "label": "Permanent Settlement (1793)",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            380,
+            473
+          ]
+        },
+        {
+          "node_id": "hist_ryotwari_settlement",
+          "label": "Ryotwari Settlement",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            359,
+            361
+          ]
+        },
+        {
+          "node_id": "hist_sanyasi_rebellion",
+          "label": "Sanyasi Rebellion (1763-1800)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            630,
+            664
+          ]
+        },
+        {
+          "node_id": "hist_third_battle_panipat",
+          "label": "Third Battle of Panipat (1761)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            264,
+            270
+          ]
+        },
+        {
+          "node_id": "hist_tipu_sultan",
+          "label": "Tipu Sultan",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            270,
+            379
+          ]
+        },
+        {
+          "node_id": "hist_industrial_revolution",
+          "label": "Industrial Revolution",
+          "type": "revolution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            355
+          ]
+        },
+        {
+          "node_id": "hist_james_prinsep",
+          "label": "James Prinsep",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            140
+          ]
+        },
+        {
+          "node_id": "hist_lord_dalhousie",
+          "label": "Lord Dalhousie",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            396
+          ]
+        },
+        {
+          "node_id": "hist_mir_qasim",
+          "label": "Mir Qasim",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            379
+          ]
+        },
+        {
+          "node_id": "hist_nana_sahib",
+          "label": "Nana Sahib",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            397
+          ]
+        },
+        {
+          "node_id": "hist_railways",
+          "label": "Railways",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            355
+          ]
+        },
+        {
+          "node_id": "hist_ranjit_singh",
+          "label": "Maharaja Ranjit Singh",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            375
+          ]
+        },
+        {
+          "node_id": "hist_robert_clive",
+          "label": "Robert Clive",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            367
+          ]
+        },
+        {
+          "node_id": "hist_subsidiary_alliance",
+          "label": "Subsidiary Alliance (Wellesley)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            358
+          ]
+        },
+        {
+          "node_id": "hist_tantia_tope",
+          "label": "Tantia Tope",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            397
+          ]
+        },
+        {
+          "node_id": "hist_thomas_munro",
+          "label": "Thomas Munro",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            359
+          ]
+        },
+        {
+          "node_id": "hist_trade_unions",
+          "label": "Trade Unions",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            404
+          ]
+        }
+      ]
+    },
+    "high-colonial": {
+      "nodes_total": 233,
+      "pyqs_pool": 176,
+      "pyqs_with_zero_hits": 88,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_mahatma_gandhi",
+          "label": "Mahatma Gandhi",
+          "type": "person",
+          "pyq_count": 13,
+          "pyq_ids": [
+            443,
+            449,
+            457,
+            464,
+            473,
+            474,
+            475,
+            480,
+            505,
+            514,
+            601,
+            615,
+            1067
+          ]
+        },
+        {
+          "node_id": "hist_satyagraha_concept",
+          "label": "Satyagraha",
+          "type": "concept",
+          "pyq_count": 10,
+          "pyq_ids": [
+            400,
+            465,
+            470,
+            473,
+            480,
+            482,
+            493,
+            494,
+            503,
+            616
+          ]
+        },
+        {
+          "node_id": "eco_dadabhai_naoroji",
+          "label": "Dadabhai Naoroji",
+          "type": "person",
+          "pyq_count": 9,
+          "pyq_ids": [
+            407,
+            409,
+            417,
+            432,
+            435,
+            437,
+            451,
+            616,
+            641
+          ]
+        },
+        {
+          "node_id": "hist_rowlatt_act",
+          "label": "Rowlatt Act (1919)",
+          "type": "event",
+          "pyq_count": 9,
+          "pyq_ids": [
+            470,
+            471,
+            476,
+            478,
+            479,
+            488,
+            500,
+            501,
+            521
+          ]
+        },
+        {
+          "node_id": "hist_swadeshi_movement",
+          "label": "Swadeshi Movement (1905-08)",
+          "type": "movement",
+          "pyq_count": 8,
+          "pyq_ids": [
+            421,
+            422,
+            425,
+            430,
+            432,
+            567,
+            570,
+            627
+          ]
+        },
+        {
+          "node_id": "hist_annie_besant",
+          "label": "Annie Besant",
+          "type": "person",
+          "pyq_count": 5,
+          "pyq_ids": [
+            452,
+            508,
+            623,
+            632,
+            650
+          ]
+        },
+        {
+          "node_id": "hist_lord_curzon",
+          "label": "Lord Curzon (Viceroy 1899-1905)",
+          "type": "person",
+          "pyq_count": 5,
+          "pyq_ids": [
+            413,
+            427,
+            430,
+            447,
+            486
+          ]
+        },
+        {
+          "node_id": "hist_lala_lajpat_rai",
+          "label": "Lala Lajpat Rai",
+          "type": "person",
+          "pyq_count": 4,
+          "pyq_ids": [
+            443,
+            614,
+            616,
+            620
+          ]
+        },
+        {
+          "node_id": "hist_champaran_satyagraha",
+          "label": "Champaran Satyagraha (1917)",
+          "type": "event",
+          "pyq_count": 3,
+          "pyq_ids": [
+            400,
+            465,
+            503
+          ]
+        },
+        {
+          "node_id": "hist_keshab_chandra_sen",
+          "label": "Keshab Chandra Sen",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            406,
+            614,
+            655
+          ]
+        },
+        {
+          "node_id": "hist_anushilan_samiti",
+          "label": "Anushilan Samiti",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            644,
+            648
+          ]
+        },
+        {
+          "node_id": "hist_arya_samaj",
+          "label": "Arya Samaj",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            614,
+            621
+          ]
+        },
+        {
+          "node_id": "hist_bankim_chandra",
+          "label": "Bankim Chandra Chattopadhyay",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            613,
+            621
+          ]
+        },
+        {
+          "node_id": "hist_birsa_munda",
+          "label": "Birsa Munda",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            661,
+            666
+          ]
+        },
+        {
+          "node_id": "hist_gk_gokhale",
+          "label": "Gopal Krishna Gokhale",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            449,
+            517
+          ]
+        },
+        {
+          "node_id": "hist_indian_association_1876",
+          "label": "Indian Association (Bengal)",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            405,
+            415
+          ]
+        },
+        {
+          "node_id": "hist_indian_forest_act_1865",
+          "label": "Indian Forest Act",
+          "type": "reform",
+          "pyq_count": 2,
+          "pyq_ids": [
+            1037,
+            2354
+          ]
+        },
+        {
+          "node_id": "hist_jallianwala_bagh",
+          "label": "Jallianwala Bagh Massacre (1919)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            521,
+            527
+          ]
+        },
+        {
+          "node_id": "hist_madan_mohan_malaviya",
+          "label": "Madan Mohan Malaviya",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            449,
+            461
+          ]
+        },
+        {
+          "node_id": "hist_separate_electorates",
+          "label": "Separate Electorates",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            439,
+            518
+          ]
+        },
+        {
+          "node_id": "hist_servants_of_india_society",
+          "label": "Servants of India Society",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            448,
+            466
+          ]
+        },
+        {
+          "node_id": "hist_surendranath_banerjee",
+          "label": "Surendranath Banerjee",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            405,
+            629
+          ]
+        },
+        {
+          "node_id": "hist_theosophical_society",
+          "label": "Theosophical Society",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            452,
+            618
+          ]
+        },
+        {
+          "node_id": "hist_abanindranath_tagore",
+          "label": "Abanindranath Tagore",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            31
+          ]
+        },
+        {
+          "node_id": "hist_bande_mataram_song",
+          "label": "Bande Mataram",
+          "type": "text",
+          "pyq_count": 1,
+          "pyq_ids": [
+            632
+          ]
+        },
+        {
+          "node_id": "hist_bengal_national_college",
+          "label": "Bengal National College",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            438
+          ]
+        },
+        {
+          "node_id": "hist_bipin_chandra_pal",
+          "label": "Bipin Chandra Pal",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            620
+          ]
+        },
+        {
+          "node_id": "hist_british_indian_association_bengal",
+          "label": "British Indian Association (Bengal)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            405
+          ]
+        },
+        {
+          "node_id": "hist_cunningham",
+          "label": "Alexander Cunningham",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            631
+          ]
+        },
+        {
+          "node_id": "hist_hind_swaraj_1909",
+          "label": "Hind Swaraj (1909)",
+          "type": "text",
+          "pyq_count": 1,
+          "pyq_ids": [
+            635
+          ]
+        },
+        {
+          "node_id": "hist_jagdish_chandra_bose",
+          "label": "Jagdish Chandra Bose",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2563
+          ]
+        },
+        {
+          "node_id": "hist_madame_bhikaji_cama",
+          "label": "Madame Bhikaji Cama",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            632
+          ]
+        },
+        {
+          "node_id": "hist_morley_minto_reforms_1909",
+          "label": "Morley-Minto Reforms (Indian Councils Act 1909)",
+          "type": "reform",
+          "pyq_count": 1,
+          "pyq_ids": [
+            539
+          ]
+        },
+        {
+          "node_id": "hist_neel_darpan",
+          "label": "Neel Darpan (1860)",
+          "type": "text",
+          "pyq_count": 1,
+          "pyq_ids": [
+            633
+          ]
+        },
+        {
+          "node_id": "hist_parsi_theatre",
+          "label": "Parsi Theatre",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            633
+          ]
+        },
+        {
+          "node_id": "hist_pherozeshah_mehta",
+          "label": "Pherozeshah Mehta",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            435
+          ]
+        },
+        {
+          "node_id": "hist_poona_sarvajanik_sabha",
+          "label": "Poona Sarvajanik Sabha",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            415
+          ]
+        },
+        {
+          "node_id": "hist_rash_behari_bose",
+          "label": "Rash Behari Bose",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            638
+          ]
+        },
+        {
+          "node_id": "hist_scientific_forestry",
+          "label": "Scientific Forestry",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2405
+          ]
+        },
+        {
+          "node_id": "hist_shyamji_krishna_varma",
+          "label": "Shyamji Krishna Varma",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            632
+          ]
+        },
+        {
+          "node_id": "hist_syed_ahmed_khan",
+          "label": "Syed Ahmed Khan",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            451
+          ]
+        },
+        {
+          "node_id": "hist_tisco",
+          "label": "TISCO",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2032
+          ]
+        },
+        {
+          "node_id": "hist_vd_paluskar",
+          "label": "Vishnu Digambar Paluskar",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1
+          ]
+        },
+        {
+          "node_id": "hist_vd_savarkar",
+          "label": "Vinayak Damodar Savarkar",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            634
+          ]
+        }
+      ]
+    },
+    "freedom-struggle": {
+      "nodes_total": 389,
+      "pyqs_pool": 248,
+      "pyqs_with_zero_hits": 115,
+      "pyqs_likely_list_questions": [
+        {
+          "id": 555,
+          "n_hits": 7
+        },
+        {
+          "id": 570,
+          "n_hits": 7
+        },
+        {
+          "id": 591,
+          "n_hits": 6
+        },
+        {
+          "id": 425,
+          "n_hits": 6
+        },
+        {
+          "id": 640,
+          "n_hits": 7
+        }
+      ],
+      "weighted_nodes": [
+        {
+          "node_id": "hist_nehru",
+          "label": "Jawaharlal Nehru",
+          "type": "person",
+          "pyq_count": 18,
+          "pyq_ids": [
+            492,
+            514,
+            517,
+            520,
+            533,
+            549,
+            568,
+            576,
+            579,
+            581,
+            584,
+            590,
+            591,
+            599,
+            605,
+            617,
+            640,
+            1067
+          ]
+        },
+        {
+          "node_id": "hist_mahatma_gandhi",
+          "label": "Mahatma Gandhi",
+          "type": "person",
+          "pyq_count": 17,
+          "pyq_ids": [
+            443,
+            475,
+            505,
+            512,
+            514,
+            522,
+            529,
+            534,
+            564,
+            565,
+            577,
+            591,
+            597,
+            601,
+            609,
+            622,
+            1067
+          ]
+        },
+        {
+          "node_id": "hist_constituent_assembly",
+          "label": "Constituent Assembly",
+          "type": "institution",
+          "pyq_count": 15,
+          "pyq_ids": [
+            39,
+            59,
+            552,
+            553,
+            555,
+            556,
+            563,
+            576,
+            579,
+            583,
+            599,
+            602,
+            604,
+            710,
+            747
+          ]
+        },
+        {
+          "node_id": "pol_constituent_assembly",
+          "label": "Constituent Assembly",
+          "type": "institution",
+          "pyq_count": 15,
+          "pyq_ids": [
+            39,
+            59,
+            552,
+            553,
+            555,
+            556,
+            563,
+            576,
+            579,
+            583,
+            599,
+            602,
+            604,
+            710,
+            747
+          ]
+        },
+        {
+          "node_id": "hist_quit_india_1942",
+          "label": "Quit India Movement",
+          "type": "movement",
+          "pyq_count": 14,
+          "pyq_ids": [
+            425,
+            502,
+            503,
+            516,
+            558,
+            562,
+            564,
+            566,
+            567,
+            570,
+            577,
+            598,
+            618,
+            640
+          ]
+        },
+        {
+          "node_id": "hist_quit_india_movement",
+          "label": "Quit India Movement (1942)",
+          "type": "movement",
+          "pyq_count": 14,
+          "pyq_ids": [
+            425,
+            502,
+            503,
+            516,
+            558,
+            562,
+            564,
+            566,
+            567,
+            570,
+            577,
+            598,
+            618,
+            640
+          ]
+        },
+        {
+          "node_id": "hist_rajendra_prasad",
+          "label": "Rajendra Prasad",
+          "type": "person",
+          "pyq_count": 9,
+          "pyq_ids": [
+            482,
+            514,
+            520,
+            552,
+            565,
+            568,
+            575,
+            581,
+            605
+          ]
+        },
+        {
+          "node_id": "hist_simon_commission",
+          "label": "Simon Commission",
+          "type": "event",
+          "pyq_count": 9,
+          "pyq_ids": [
+            423,
+            470,
+            510,
+            515,
+            526,
+            528,
+            562,
+            573,
+            589
+          ]
+        },
+        {
+          "node_id": "hist_cdm_detailed",
+          "label": "Civil Disobedience Movement",
+          "type": "movement",
+          "pyq_count": 7,
+          "pyq_ids": [
+            425,
+            427,
+            504,
+            516,
+            534,
+            567,
+            570
+          ]
+        },
+        {
+          "node_id": "hist_civil_disobedience",
+          "label": "Civil Disobedience Movement (1930-34)",
+          "type": "movement",
+          "pyq_count": 7,
+          "pyq_ids": [
+            425,
+            427,
+            504,
+            516,
+            534,
+            567,
+            570
+          ]
+        },
+        {
+          "node_id": "hist_cripps_mission",
+          "label": "Cripps Mission (1942)",
+          "type": "event",
+          "pyq_count": 7,
+          "pyq_ids": [
+            553,
+            565,
+            571,
+            580,
+            582,
+            589,
+            594
+          ]
+        },
+        {
+          "node_id": "hist_dyarchy",
+          "label": "Dyarchy (1919 Provincial Government)",
+          "type": "concept",
+          "pyq_count": 7,
+          "pyq_ids": [
+            467,
+            472,
+            490,
+            501,
+            510,
+            527,
+            550
+          ]
+        },
+        {
+          "node_id": "hist_sardar_patel",
+          "label": "Sardar Vallabhbhai Patel",
+          "type": "person",
+          "pyq_count": 7,
+          "pyq_ids": [
+            475,
+            520,
+            522,
+            549,
+            568,
+            579,
+            581
+          ]
+        },
+        {
+          "node_id": "hist_cabinet_mission_1946",
+          "label": "Cabinet Mission (1946)",
+          "type": "event",
+          "pyq_count": 6,
+          "pyq_ids": [
+            560,
+            573,
+            582,
+            589,
+            591,
+            600
+          ]
+        },
+        {
+          "node_id": "hist_ncm_detailed",
+          "label": "Non-Cooperation Movement (Detailed)",
+          "type": "movement",
+          "pyq_count": 6,
+          "pyq_ids": [
+            423,
+            425,
+            460,
+            498,
+            509,
+            570
+          ]
+        },
+        {
+          "node_id": "hist_non_cooperation_movement",
+          "label": "Non-Cooperation Movement (1920-22)",
+          "type": "movement",
+          "pyq_count": 6,
+          "pyq_ids": [
+            423,
+            425,
+            460,
+            498,
+            509,
+            570
+          ]
+        },
+        {
+          "node_id": "hist_partition_1947",
+          "label": "Partition of India (1947)",
+          "type": "event",
+          "pyq_count": 6,
+          "pyq_ids": [
+            427,
+            574,
+            582,
+            584,
+            585,
+            587
+          ]
+        },
+        {
+          "node_id": "hist_interim_government_1946",
+          "label": "Interim Government (1946)",
+          "type": "event",
+          "pyq_count": 5,
+          "pyq_ids": [
+            555,
+            575,
+            595,
+            605,
+            640
+          ]
+        },
+        {
+          "node_id": "hist_interim_govt_details",
+          "label": "Interim Government (Sept 1946)",
+          "type": "event",
+          "pyq_count": 5,
+          "pyq_ids": [
+            555,
+            575,
+            595,
+            605,
+            640
+          ]
+        },
+        {
+          "node_id": "hist_sarojini_naidu",
+          "label": "Sarojini Naidu",
+          "type": "person",
+          "pyq_count": 5,
+          "pyq_ids": [
+            426,
+            440,
+            617,
+            623,
+            650
+          ]
+        },
+        {
+          "node_id": "hist_bhagat_singh",
+          "label": "Bhagat Singh",
+          "type": "person",
+          "pyq_count": 4,
+          "pyq_ids": [
+            499,
+            521,
+            645,
+            646
+          ]
+        },
+        {
+          "node_id": "hist_communal_award_1932",
+          "label": "Communal Award (Aug 1932)",
+          "type": "event",
+          "pyq_count": 4,
+          "pyq_ids": [
+            490,
+            512,
+            530,
+            532
+          ]
+        },
+        {
+          "node_id": "hist_chittagong_armoury_raid",
+          "label": "Chittagong Armoury Raid (April 1930)",
+          "type": "event",
+          "pyq_count": 3,
+          "pyq_ids": [
+            643,
+            644,
+            647
+          ]
+        },
+        {
+          "node_id": "hist_lord_mountbatten",
+          "label": "Lord Mountbatten",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            578,
+            586,
+            593
+          ]
+        },
+        {
+          "node_id": "hist_second_rtc_1931",
+          "label": "Second Round Table Conference (Sept-Dec 1931)",
+          "type": "event",
+          "pyq_count": 3,
+          "pyq_ids": [
+            503,
+            558,
+            640
+          ]
+        },
+        {
+          "node_id": "hist_subhas_chandra_bose",
+          "label": "Subhas Chandra Bose",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            572,
+            590,
+            1067
+          ]
+        },
+        {
+          "node_id": "hist_swaraj_party",
+          "label": "Swaraj Party (Jan 1923)",
+          "type": "party",
+          "pyq_count": 3,
+          "pyq_ids": [
+            448,
+            602,
+            648
+          ]
+        },
+        {
+          "node_id": "hist_vinoba_bhave",
+          "label": "Vinoba Bhave",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            568,
+            614,
+            1060
+          ]
+        },
+        {
+          "node_id": "hist_acharya_narendra_dev",
+          "label": "Acharya Narendra Dev",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            551,
+            1054
+          ]
+        },
+        {
+          "node_id": "hist_ambedkar",
+          "label": "B.R. Ambedkar",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            552,
+            604
+          ]
+        },
+        {
+          "node_id": "hist_aruna_asaf_ali",
+          "label": "Aruna Asaf Ali",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            570,
+            623
+          ]
+        },
+        {
+          "node_id": "hist_august_offer_1940",
+          "label": "August Offer (Aug 1940)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            490,
+            598
+          ]
+        },
+        {
+          "node_id": "hist_br_ambedkar",
+          "label": "B.R. Ambedkar",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            552,
+            604
+          ]
+        },
+        {
+          "node_id": "hist_cabinet_mission_plan",
+          "label": "Cabinet Mission Plan (May 1946)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            591,
+            600
+          ]
+        },
+        {
+          "node_id": "hist_congress_ministries_1937",
+          "label": "Congress Ministries (July 1937 - Oct 1939)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            540,
+            554
+          ]
+        },
+        {
+          "node_id": "hist_congress_socialist_party",
+          "label": "Congress Socialist Party (Oct 1934)",
+          "type": "party",
+          "pyq_count": 2,
+          "pyq_ids": [
+            538,
+            551
+          ]
+        },
+        {
+          "node_id": "hist_drafting_committee",
+          "label": "Drafting Committee",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            555,
+            710
+          ]
+        },
+        {
+          "node_id": "hist_indian_independence_act",
+          "label": "Indian Independence Act (July 1947)",
+          "type": "law",
+          "pyq_count": 2,
+          "pyq_ids": [
+            483,
+            539
+          ]
+        },
+        {
+          "node_id": "hist_khilafat_movement",
+          "label": "Khilafat Movement",
+          "type": "movement",
+          "pyq_count": 2,
+          "pyq_ids": [
+            471,
+            495
+          ]
+        },
+        {
+          "node_id": "hist_maulana_azad",
+          "label": "Maulana Abul Kalam Azad",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            584,
+            591
+          ]
+        },
+        {
+          "node_id": "hist_provincial_autonomy_1937",
+          "label": "Provincial Autonomy (1937)",
+          "type": "concept",
+          "pyq_count": 2,
+          "pyq_ids": [
+            544,
+            550
+          ]
+        },
+        {
+          "node_id": "hist_surya_sen",
+          "label": "Surya Sen (Masterda)",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            643,
+            647
+          ]
+        },
+        {
+          "node_id": "period_constitution_making",
+          "label": "Constitution Making (1946-49)",
+          "type": "period",
+          "pyq_count": 2,
+          "pyq_ids": [
+            566,
+            569
+          ]
+        },
+        {
+          "node_id": "pol_cabinet_mission",
+          "label": "Cabinet Mission Plan",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            591,
+            600
+          ]
+        },
+        {
+          "node_id": "pol_drafting_committee",
+          "label": "Drafting Committee",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            555,
+            710
+          ]
+        },
+        {
+          "node_id": "hist_abanindranath_tagore",
+          "label": "Abanindranath Tagore",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            31
+          ]
+        },
+        {
+          "node_id": "hist_ahmedabad_session_1921",
+          "label": "Ahmedabad Session (Dec 1921)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            492
+          ]
+        },
+        {
+          "node_id": "hist_ahmedabad_tla",
+          "label": "Ahmedabad Textile Labour Association (TLA)",
+          "type": "organisation",
+          "pyq_count": 1,
+          "pyq_ids": [
+            475
+          ]
+        },
+        {
+          "node_id": "hist_all_india_kisan_sabha",
+          "label": "All India Kisan Sabha (April 1936)",
+          "type": "organisation",
+          "pyq_count": 1,
+          "pyq_ids": [
+            609
+          ]
+        },
+        {
+          "node_id": "hist_bardoli_satyagraha_1928",
+          "label": "Bardoli Satyagraha (1928)",
+          "type": "movement",
+          "pyq_count": 1,
+          "pyq_ids": [
+            522
+          ]
+        },
+        {
+          "node_id": "hist_chauri_chaura",
+          "label": "Chauri Chaura Incident (1922)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            461
+          ]
+        },
+        {
+          "node_id": "hist_communalism_definition",
+          "label": "Communalism (Definition & Three Stages)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            424
+          ]
+        },
+        {
+          "node_id": "hist_cpi_founding_kanpur_1925",
+          "label": "Communist Party of India (Kanpur 1925)",
+          "type": "party",
+          "pyq_count": 1,
+          "pyq_ids": [
+            556
+          ]
+        },
+        {
+          "node_id": "hist_cr_das",
+          "label": "C.R. Das (Chittaranjan Das)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            440
+          ]
+        },
+        {
+          "node_id": "hist_eka_movement",
+          "label": "Eka Movement (1921-22)",
+          "type": "movement",
+          "pyq_count": 1,
+          "pyq_ids": [
+            666
+          ]
+        },
+        {
+          "node_id": "hist_first_rtc_1930",
+          "label": "First Round Table Conference (Nov 1930-Jan 1931)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            518
+          ]
+        },
+        {
+          "node_id": "hist_forward_bloc_1939",
+          "label": "Forward Bloc (1939)",
+          "type": "party",
+          "pyq_count": 1,
+          "pyq_ids": [
+            521
+          ]
+        },
+        {
+          "node_id": "hist_gandhi_irwin_pact",
+          "label": "Gandhi-Irwin Pact",
+          "type": "treaty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            504
+          ]
+        },
+        {
+          "node_id": "hist_goi_act_1919",
+          "label": "Government of India Act 1919 (Montagu-Chelmsford Reforms)",
+          "type": "law",
+          "pyq_count": 1,
+          "pyq_ids": [
+            462
+          ]
+        },
+        {
+          "node_id": "hist_government_of_india_act_1935",
+          "label": "Government of India Act 1935",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            729
+          ]
+        },
+        {
+          "node_id": "hist_government_of_india_act_1935_const",
+          "label": "Government of India Act 1935 (as template)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            729
+          ]
+        },
+        {
+          "node_id": "hist_hindu_mahasabha",
+          "label": "Hindu Mahasabha",
+          "type": "party",
+          "pyq_count": 1,
+          "pyq_ids": [
+            466
+          ]
+        },
+        {
+          "node_id": "hist_independence_india_league_1928",
+          "label": "Independence for India League (1928)",
+          "type": "organisation",
+          "pyq_count": 1,
+          "pyq_ids": [
+            533
+          ]
+        },
+        {
+          "node_id": "hist_individual_satyagraha_1940",
+          "label": "Individual Satyagraha (Oct 1940 - Dec 1941)",
+          "type": "movement",
+          "pyq_count": 1,
+          "pyq_ids": [
+            568
+          ]
+        },
+        {
+          "node_id": "hist_jayaprakash_narayan",
+          "label": "Jayaprakash Narayan",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            557
+          ]
+        },
+        {
+          "node_id": "hist_kalpana_dutt",
+          "label": "Kalpana Dutt (Joshi)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            644
+          ]
+        },
+        {
+          "node_id": "hist_khudai_khidmatgars",
+          "label": "Khudai Khidmatgars (Red Shirts)",
+          "type": "organisation",
+          "pyq_count": 1,
+          "pyq_ids": [
+            524
+          ]
+        },
+        {
+          "node_id": "hist_long_march",
+          "label": "Long March (1934-35)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            453
+          ]
+        },
+        {
+          "node_id": "hist_mn_roy",
+          "label": "M.N. Roy",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            637
+          ]
+        },
+        {
+          "node_id": "hist_pc_joshi",
+          "label": "P.C. Joshi",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            556
+          ]
+        },
+        {
+          "node_id": "hist_round_table_conferences",
+          "label": "Round Table Conferences",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            531
+          ]
+        },
+        {
+          "node_id": "hist_shah_nawaz_khan",
+          "label": "Shah Nawaz Khan",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            555
+          ]
+        },
+        {
+          "node_id": "hist_stafford_cripps",
+          "label": "Sir Stafford Cripps",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            559
+          ]
+        },
+        {
+          "node_id": "hist_swami_sahajanand",
+          "label": "Swami Sahajanand Saraswati",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            609
+          ]
+        },
+        {
+          "node_id": "hist_two_nation_theory",
+          "label": "Two-Nation Theory",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            511
+          ]
+        },
+        {
+          "node_id": "hist_usha_mehta_radio",
+          "label": "Congress Radio (Usha Mehta, 1942)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            640
+          ]
+        }
+      ]
+    },
+    "post-independence": {
+      "nodes_total": 516,
+      "pyqs_pool": 259,
+      "pyqs_with_zero_hits": 147,
+      "pyqs_likely_list_questions": [
+        {
+          "id": 921,
+          "n_hits": 6
+        }
+      ],
+      "weighted_nodes": [
+        {
+          "node_id": "pol_finance_commission_1951",
+          "label": "Finance Commission (1951)",
+          "type": "institution",
+          "pyq_count": 16,
+          "pyq_ids": [
+            834,
+            835,
+            977,
+            980,
+            981,
+            988,
+            991,
+            998,
+            1168,
+            1314,
+            1629,
+            1642,
+            1644,
+            1645,
+            1646,
+            1654
+          ]
+        },
+        {
+          "node_id": "pol_president_india",
+          "label": "President of India",
+          "type": "institution",
+          "pyq_count": 10,
+          "pyq_ids": [
+            706,
+            731,
+            834,
+            835,
+            837,
+            854,
+            921,
+            926,
+            929,
+            985
+          ]
+        },
+        {
+          "node_id": "pol_fundamental_duties_42nd",
+          "label": "Fundamental Duties (Part IV-A, 1976)",
+          "type": "provision",
+          "pyq_count": 9,
+          "pyq_ids": [
+            722,
+            772,
+            776,
+            779,
+            781,
+            784,
+            785,
+            786,
+            789
+          ]
+        },
+        {
+          "node_id": "pol_ndc_1952",
+          "label": "National Development Council (NDC, 1952)",
+          "type": "institution",
+          "pyq_count": 9,
+          "pyq_ids": [
+            984,
+            994,
+            1001,
+            1629,
+            1642,
+            1643,
+            1644,
+            1652,
+            1667
+          ]
+        },
+        {
+          "node_id": "eco_planning_commission",
+          "label": "Planning Commission",
+          "type": "institution",
+          "pyq_count": 8,
+          "pyq_ids": [
+            980,
+            984,
+            994,
+            1175,
+            1399,
+            1643,
+            1652,
+            1667
+          ]
+        },
+        {
+          "node_id": "period_s06",
+          "label": "Emergency (1975-77)",
+          "type": "period",
+          "pyq_count": 8,
+          "pyq_ids": [
+            708,
+            731,
+            854,
+            892,
+            902,
+            921,
+            985,
+            1665
+          ]
+        },
+        {
+          "node_id": "pol_emergency_1975",
+          "label": "Emergency (1975-77)",
+          "type": "event",
+          "pyq_count": 8,
+          "pyq_ids": [
+            708,
+            731,
+            854,
+            892,
+            902,
+            921,
+            985,
+            1665
+          ]
+        },
+        {
+          "node_id": "pol_planning_commission_1950",
+          "label": "Planning Commission (March 1950)",
+          "type": "institution",
+          "pyq_count": 8,
+          "pyq_ids": [
+            980,
+            984,
+            994,
+            1175,
+            1399,
+            1643,
+            1652,
+            1667
+          ]
+        },
+        {
+          "node_id": "eco_msp",
+          "label": "Minimum Support Price (MSP)",
+          "type": "policy",
+          "pyq_count": 6,
+          "pyq_ids": [
+            1592,
+            1594,
+            1595,
+            1597,
+            1599,
+            1603
+          ]
+        },
+        {
+          "node_id": "pol_supreme_court",
+          "label": "Supreme Court of India",
+          "type": "institution",
+          "pyq_count": 6,
+          "pyq_ids": [
+            920,
+            921,
+            926,
+            929,
+            947,
+            1036
+          ]
+        },
+        {
+          "node_id": "pol_ninth_schedule",
+          "label": "Ninth Schedule",
+          "type": "provision",
+          "pyq_count": 5,
+          "pyq_ids": [
+            717,
+            718,
+            719,
+            784,
+            1047
+          ]
+        },
+        {
+          "node_id": "pol_rajagopalachari",
+          "label": "C. Rajagopalachari (Rajaji)",
+          "type": "person",
+          "pyq_count": 5,
+          "pyq_ids": [
+            508,
+            552,
+            565,
+            590,
+            605
+          ]
+        },
+        {
+          "node_id": "eco_rbi_1935",
+          "label": "Reserve Bank of India (1935/1949)",
+          "type": "institution",
+          "pyq_count": 4,
+          "pyq_ids": [
+            1166,
+            1175,
+            1283,
+            1284
+          ]
+        },
+        {
+          "node_id": "hist_vinoba_bhave",
+          "label": "Vinoba Bhave",
+          "type": "person",
+          "pyq_count": 3,
+          "pyq_ids": [
+            568,
+            614,
+            1060
+          ]
+        },
+        {
+          "node_id": "pol_42nd_amendment",
+          "label": "42nd Amendment (1976)",
+          "type": "amendment",
+          "pyq_count": 3,
+          "pyq_ids": [
+            777,
+            1029,
+            1044
+          ]
+        },
+        {
+          "node_id": "pol_courts",
+          "label": "Courts",
+          "type": "institution",
+          "pyq_count": 3,
+          "pyq_ids": [
+            695,
+            731,
+            916
+          ]
+        },
+        {
+          "node_id": "pol_eci_1950",
+          "label": "Election Commission of India (25 Jan 1950)",
+          "type": "institution",
+          "pyq_count": 3,
+          "pyq_ids": [
+            921,
+            957,
+            960
+          ]
+        },
+        {
+          "node_id": "pol_election_commission",
+          "label": "Election Commission of India",
+          "type": "institution",
+          "pyq_count": 3,
+          "pyq_ids": [
+            921,
+            957,
+            960
+          ]
+        },
+        {
+          "node_id": "pol_inter_state_council",
+          "label": "Inter-State Council (Article 263)",
+          "type": "institution",
+          "pyq_count": 3,
+          "pyq_ids": [
+            972,
+            1168,
+            1629
+          ]
+        },
+        {
+          "node_id": "pol_zonal_councils_1957",
+          "label": "Zonal Councils (1957)",
+          "type": "institution",
+          "pyq_count": 3,
+          "pyq_ids": [
+            972,
+            984,
+            1001
+          ]
+        },
+        {
+          "node_id": "eco_essential_commodities_1955",
+          "label": "Essential Commodities Act (1955)",
+          "type": "law",
+          "pyq_count": 2,
+          "pyq_ids": [
+            1610,
+            1614
+          ]
+        },
+        {
+          "node_id": "eco_green_revolution",
+          "label": "Green Revolution",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            1616,
+            2340
+          ]
+        },
+        {
+          "node_id": "eco_nabard",
+          "label": "NABARD (National Bank for Agriculture and Rural Development)",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            1626,
+            1657
+          ]
+        },
+        {
+          "node_id": "eco_sbi_1955",
+          "label": "State Bank of India (1955)",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            1119,
+            1289
+          ]
+        },
+        {
+          "node_id": "hist_rajiv_gandhi",
+          "label": "Rajiv Gandhi",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            1553,
+            1582
+          ]
+        },
+        {
+          "node_id": "pol_constituent_assembly_india",
+          "label": "Constituent Assembly of India",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            579,
+            710
+          ]
+        },
+        {
+          "node_id": "pol_cpi",
+          "label": "Communist Party of India (CPI)",
+          "type": "party",
+          "pyq_count": 2,
+          "pyq_ids": [
+            481,
+            556
+          ]
+        },
+        {
+          "node_id": "pol_high_courts",
+          "label": "High Courts",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            731,
+            916
+          ]
+        },
+        {
+          "node_id": "pol_k_kamaraj",
+          "label": "K. Kamaraj",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            508,
+            557
+          ]
+        },
+        {
+          "node_id": "pol_morarji_desai",
+          "label": "Morarji Desai",
+          "type": "person",
+          "pyq_count": 2,
+          "pyq_ids": [
+            482,
+            717
+          ]
+        },
+        {
+          "node_id": "pol_nhrc",
+          "label": "National Human Rights Commission (NHRC)",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            959,
+            976
+          ]
+        },
+        {
+          "node_id": "eco_bhoodan_movement",
+          "label": "Bhoodan Movement",
+          "type": "movement",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1060
+          ]
+        },
+        {
+          "node_id": "eco_damodar_valley",
+          "label": "Damodar Valley Corporation (1948)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2022
+          ]
+        },
+        {
+          "node_id": "eco_fci_1965",
+          "label": "Food Corporation of India (1965)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1599
+          ]
+        },
+        {
+          "node_id": "eco_icici_1955",
+          "label": "ICICI (1955)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1657
+          ]
+        },
+        {
+          "node_id": "eco_idbi_1964",
+          "label": "IDBI (1964)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1657
+          ]
+        },
+        {
+          "node_id": "eco_ifci_1948",
+          "label": "IFCI (1948)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1657
+          ]
+        },
+        {
+          "node_id": "eco_irdp_1978",
+          "label": "Integrated Rural Development Programme (IRDP, 1978)",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1567
+          ]
+        },
+        {
+          "node_id": "eco_jawahar_rozgar_yojana",
+          "label": "Jawahar Rozgar Yojana (1989)",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1570
+          ]
+        },
+        {
+          "node_id": "eco_national_social_assistance",
+          "label": "National Social Assistance Programme",
+          "type": "scheme",
+          "pyq_count": 1,
+          "pyq_ids": [
+            789
+          ]
+        },
+        {
+          "node_id": "hist_sahitya_akademi_1954",
+          "label": "Sahitya Akademi (1954)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            19
+          ]
+        },
+        {
+          "node_id": "hist_sangeet_natak_akademi",
+          "label": "Sangeet Natak Akademi (1952)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            19
+          ]
+        },
+        {
+          "node_id": "period_s11",
+          "label": "Constitutional Amendments (1951-91)",
+          "type": "period",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1029
+          ]
+        },
+        {
+          "node_id": "pol_44th_amendment",
+          "label": "44th Constitutional Amendment (1978)",
+          "type": "amendment",
+          "pyq_count": 1,
+          "pyq_ids": [
+            764
+          ]
+        },
+        {
+          "node_id": "pol_all_india_services",
+          "label": "All India Services (IAS, IPS, IFoS)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            883
+          ]
+        },
+        {
+          "node_id": "pol_anti_defection_law",
+          "label": "Anti-Defection Law",
+          "type": "law",
+          "pyq_count": 1,
+          "pyq_ids": [
+            856
+          ]
+        },
+        {
+          "node_id": "pol_bandung_conference",
+          "label": "Bandung Conference (1955)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1478
+          ]
+        },
+        {
+          "node_id": "pol_cat_1985",
+          "label": "Central Administrative Tribunal (CAT, 1985)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            989
+          ]
+        },
+        {
+          "node_id": "pol_cvc_1964",
+          "label": "Central Vigilance Commission (CVC, 1964)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            959
+          ]
+        },
+        {
+          "node_id": "pol_dr_ambedkar",
+          "label": "Dr. B.R. Ambedkar",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            552
+          ]
+        },
+        {
+          "node_id": "pol_ems_namboodiripad",
+          "label": "E.M.S. Namboodiripad",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            557
+          ]
+        },
+        {
+          "node_id": "pol_fakhruddin_ali_ahmed",
+          "label": "Fakhruddin Ali Ahmed (5th President)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            837
+          ]
+        },
+        {
+          "node_id": "pol_janata_party",
+          "label": "Janata Party",
+          "type": "party",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1665
+          ]
+        },
+        {
+          "node_id": "pol_jayaprakash_narayan",
+          "label": "Jayaprakash Narayan (JP)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            557
+          ]
+        },
+        {
+          "node_id": "pol_nam",
+          "label": "Non-Aligned Movement (NAM)",
+          "type": "organisation",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1022
+          ]
+        },
+        {
+          "node_id": "pol_panchsheel",
+          "label": "Panchsheel (Five Principles of Peaceful Coexistence)",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1026
+          ]
+        },
+        {
+          "node_id": "pol_parliament_india",
+          "label": "Parliament of India",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            719
+          ]
+        },
+        {
+          "node_id": "pol_radhakrishnan",
+          "label": "S. Radhakrishnan (2nd President, 1962-67)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            605
+          ]
+        },
+        {
+          "node_id": "pol_sarkaria_commission",
+          "label": "Sarkaria Commission (1983)",
+          "type": "body",
+          "pyq_count": 1,
+          "pyq_ids": [
+            829
+          ]
+        },
+        {
+          "node_id": "pol_sheikh_abdullah",
+          "label": "Sheikh Abdullah",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            549
+          ]
+        },
+        {
+          "node_id": "pol_states_reorganisation",
+          "label": "States Reorganisation Act (1956)",
+          "type": "law",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1062
+          ]
+        },
+        {
+          "node_id": "pol_swatantra_party",
+          "label": "Swatantra Party",
+          "type": "party",
+          "pyq_count": 1,
+          "pyq_ids": [
+            864
+          ]
+        },
+        {
+          "node_id": "pol_swatantra_party_1959",
+          "label": "Swatantra Party (1959)",
+          "type": "party",
+          "pyq_count": 1,
+          "pyq_ids": [
+            864
+          ]
+        },
+        {
+          "node_id": "pol_tt_krishnamachari",
+          "label": "T.T. Krishnamachari (TTK)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            552
+          ]
+        },
+        {
+          "node_id": "pol_udhr",
+          "label": "Universal Declaration of Human Rights",
+          "type": "law",
+          "pyq_count": 1,
+          "pyq_ids": [
+            776
+          ]
+        },
+        {
+          "node_id": "pol_united_nations",
+          "label": "United Nations (UN)",
+          "type": "organisation",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1478
+          ]
+        },
+        {
+          "node_id": "pol_upsc_1950",
+          "label": "Union Public Service Commission (UPSC, 1950)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            991
+          ]
+        },
+        {
+          "node_id": "pol_vp_singh",
+          "label": "V.P. Singh",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            812
+          ]
+        },
+        {
+          "node_id": "pol_zail_singh",
+          "label": "Giani Zail Singh (7th President, 1982-87)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1022
+          ]
+        },
+        {
+          "node_id": "sci_drdo_1958",
+          "label": "DRDO (Defence Research and Development Organisation, 1958)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2715
+          ]
+        }
+      ]
+    },
+    "contemporary": {
+      "nodes_total": 542,
+      "pyqs_pool": 773,
+      "pyqs_with_zero_hits": 697,
+      "pyqs_likely_list_questions": [],
+      "weighted_nodes": [
+        {
+          "node_id": "pol_eu",
+          "label": "European Union (EU)",
+          "type": "organisation",
+          "pyq_count": 13,
+          "pyq_ids": [
+            1010,
+            1204,
+            2382,
+            2383,
+            2393,
+            2544,
+            2730,
+            2743,
+            2759,
+            2773,
+            2774,
+            2785,
+            2816
+          ]
+        },
+        {
+          "node_id": "env_kyoto_protocol_1997",
+          "label": "Kyoto Protocol (1997)",
+          "type": "treaty",
+          "pyq_count": 6,
+          "pyq_ids": [
+            2398,
+            2406,
+            2410,
+            2414,
+            2417,
+            2420
+          ]
+        },
+        {
+          "node_id": "pol_kyoto_protocol",
+          "label": "Kyoto Protocol",
+          "type": "treaty",
+          "pyq_count": 6,
+          "pyq_ids": [
+            2398,
+            2406,
+            2410,
+            2414,
+            2417,
+            2420
+          ]
+        },
+        {
+          "node_id": "pol_niti_aayog_2015",
+          "label": "NITI Aayog (2015)",
+          "type": "institution",
+          "pyq_count": 5,
+          "pyq_ids": [
+            862,
+            980,
+            1532,
+            1637,
+            1641
+          ]
+        },
+        {
+          "node_id": "eco_disinvestment",
+          "label": "Disinvestment",
+          "type": "policy",
+          "pyq_count": 4,
+          "pyq_ids": [
+            1139,
+            1159,
+            1293,
+            1659
+          ]
+        },
+        {
+          "node_id": "eco_frbma",
+          "label": "Fiscal Responsibility and Budget Management Act (FRBMA)",
+          "type": "policy",
+          "pyq_count": 3,
+          "pyq_ids": [
+            1143,
+            1163,
+            1164
+          ]
+        },
+        {
+          "node_id": "eco_gst",
+          "label": "Goods and Services Tax (GST)",
+          "type": "policy",
+          "pyq_count": 3,
+          "pyq_ids": [
+            1182,
+            1183,
+            1645
+          ]
+        },
+        {
+          "node_id": "env_cbd_1992",
+          "label": "Convention on Biological Diversity (CBD, 1992)",
+          "type": "treaty",
+          "pyq_count": 3,
+          "pyq_ids": [
+            2407,
+            2409,
+            2419
+          ]
+        },
+        {
+          "node_id": "env_unfccc_1992",
+          "label": "United Nations Framework Convention on Climate Change (UNFCCC, 1992)",
+          "type": "treaty",
+          "pyq_count": 3,
+          "pyq_ids": [
+            2386,
+            2392,
+            2409
+          ]
+        },
+        {
+          "node_id": "env_sdgs_2015",
+          "label": "Sustainable Development Goals (SDGs, 2015)",
+          "type": "policy",
+          "pyq_count": 2,
+          "pyq_ids": [
+            2402,
+            2403
+          ]
+        },
+        {
+          "node_id": "pol_earth_summit",
+          "label": "Earth Summit (Rio 1992)",
+          "type": "event",
+          "pyq_count": 2,
+          "pyq_ids": [
+            2392,
+            2414
+          ]
+        },
+        {
+          "node_id": "pol_national_green_tribunal_2010",
+          "label": "National Green Tribunal (NGT, 2010)",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            1040,
+            2263
+          ]
+        },
+        {
+          "node_id": "pol_nhrc_1993",
+          "label": "National Human Rights Commission (NHRC, 1993)",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            976,
+            993
+          ]
+        },
+        {
+          "node_id": "pol_state_finance_commission",
+          "label": "State Finance Commission",
+          "type": "institution",
+          "pyq_count": 2,
+          "pyq_ids": [
+            988,
+            1078
+          ]
+        },
+        {
+          "node_id": "cul_chhau_ich_2010",
+          "label": "Chhau (UNESCO ICH, 2010)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2
+          ]
+        },
+        {
+          "node_id": "cul_kumbh_mela_ich_2017",
+          "label": "Kumbh Mela (UNESCO ICH, 2017)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2
+          ]
+        },
+        {
+          "node_id": "cul_sankirtana_ich_2013",
+          "label": "Sankirtana (UNESCO ICH, 2013)",
+          "type": "concept",
+          "pyq_count": 1,
+          "pyq_ids": [
+            8
+          ]
+        },
+        {
+          "node_id": "eco_aay",
+          "label": "Antyodaya Anna Yojana (AAY)",
+          "type": "scheme",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1557
+          ]
+        },
+        {
+          "node_id": "eco_digital_india_2015",
+          "label": "Digital India Programme (2015)",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2818
+          ]
+        },
+        {
+          "node_id": "eco_fc_15th",
+          "label": "15th Finance Commission (N.K. Singh, 2020-26)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            973
+          ]
+        },
+        {
+          "node_id": "eco_fii_introduction",
+          "label": "Foreign Institutional Investors (FIIs, 1992)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1346
+          ]
+        },
+        {
+          "node_id": "eco_financial_sector_reforms",
+          "label": "Financial Sector Reforms",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1264
+          ]
+        },
+        {
+          "node_id": "eco_jan_dhan_2014",
+          "label": "Pradhan Mantri Jan Dhan Yojana (PMJDY, 2014)",
+          "type": "scheme",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1300
+          ]
+        },
+        {
+          "node_id": "eco_liberalisation",
+          "label": "Liberalisation",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1419
+          ]
+        },
+        {
+          "node_id": "eco_mpc_2016",
+          "label": "Monetary Policy Committee (MPC, 2016)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1216
+          ]
+        },
+        {
+          "node_id": "eco_npci_2008",
+          "label": "National Payments Corporation of India (NPCI, 2008)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1294
+          ]
+        },
+        {
+          "node_id": "eco_nse_1994",
+          "label": "National Stock Exchange (NSE, 1994)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1361
+          ]
+        },
+        {
+          "node_id": "eco_upi_launch_2016",
+          "label": "Unified Payments Interface (UPI, 2016)",
+          "type": "technology",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1292
+          ]
+        },
+        {
+          "node_id": "env_agenda_21_1992",
+          "label": "Agenda 21 (1992)",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2400
+          ]
+        },
+        {
+          "node_id": "env_cartagena_protocol_2000",
+          "label": "Cartagena Protocol on Biosafety (2000)",
+          "type": "treaty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2359
+          ]
+        },
+        {
+          "node_id": "env_compensatory_afforestation_2016",
+          "label": "Compensatory Afforestation Fund Act (CAMPA, 2016)",
+          "type": "law",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2331
+          ]
+        },
+        {
+          "node_id": "env_isa_2015",
+          "label": "International Solar Alliance (ISA, 2015)",
+          "type": "organisation",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1019
+          ]
+        },
+        {
+          "node_id": "env_nba_2003",
+          "label": "National Biodiversity Authority (NBA, 2003)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2352
+          ]
+        },
+        {
+          "node_id": "env_paris_agreement_2015",
+          "label": "Paris Agreement (2015)",
+          "type": "treaty",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2380
+          ]
+        },
+        {
+          "node_id": "hist_chandra_shekhar_pm",
+          "label": "Chandra Shekhar (Interim PM, Nov 1990 - Jun 1991)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1061
+          ]
+        },
+        {
+          "node_id": "pol_73rd_amendment",
+          "label": "73rd Constitutional Amendment (1992)",
+          "type": "amendment",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1089
+          ]
+        },
+        {
+          "node_id": "pol_arab_spring_2010",
+          "label": "Arab Spring (2010-12)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2834
+          ]
+        },
+        {
+          "node_id": "pol_cds_2019",
+          "label": "Chief of Defence Staff (CDS, 2019)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2704
+          ]
+        },
+        {
+          "node_id": "pol_chandra_shekhar_pm",
+          "label": "Chandra Shekhar (PM 1990-91)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1061
+          ]
+        },
+        {
+          "node_id": "pol_lokpal_2014",
+          "label": "Lokpal (2014)",
+          "type": "institution",
+          "pyq_count": 1,
+          "pyq_ids": [
+            974
+          ]
+        },
+        {
+          "node_id": "pol_midday_meal_scheme",
+          "label": "Mid-Day Meal Scheme",
+          "type": "policy",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1555
+          ]
+        },
+        {
+          "node_id": "pol_mission_indradhanush_2014",
+          "label": "Mission Indradhanush (December 2014)",
+          "type": "scheme",
+          "pyq_count": 1,
+          "pyq_ids": [
+            1540
+          ]
+        },
+        {
+          "node_id": "pol_vajpayee_pm",
+          "label": "Atal Bihari Vajpayee (PM, full term 1999-2004)",
+          "type": "person",
+          "pyq_count": 1,
+          "pyq_ids": [
+            625
+          ]
+        },
+        {
+          "node_id": "sci_astrosat_2015",
+          "label": "Astrosat (September 2015)",
+          "type": "event",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2524
+          ]
+        },
+        {
+          "node_id": "sci_gaganyaan",
+          "label": "Gaganyaan (Indian Human Spaceflight Programme)",
+          "type": "scheme",
+          "pyq_count": 1,
+          "pyq_ids": [
+            2505
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "chapter_metadata": {
+    "grade": 6,
+    "subject": "Bridge Science & Geography",
+    "chapter_number": 2,
+    "chapter_title_en": "Getting to Know Plants",
+    "chapter_title_hi": "पौधों को जानिए",
+    "ncert_code_en": "fesc107",
+    "ncert_code_hi": "fhsc107",
+    "theme_mapping": "Unit 2: Flora, Seeds, Forest Rights & Agriculture",
+    "unit_id": 2
+  },
+  "factual_entities": [
+    {
+      "name_en": "Plant Morphology, Venation Patterns & Root Invariant",
+      "name_hi": "पादप आकारिकी, शिरा-विन्यास और जड़ तंत्र",
+      "category": "Botany",
+      "attributes": [
+        "Classification: Herbs, Shrubs, Trees, Creepers, Climbers",
+        "Venation: Reticulate (net-like - Peepal, Neem, Mustard) vs Parallel (parallel lines - Grass, Banana, Wheat)",
+        "The Venation-Root Rule: Reticulate Venation = TAPROOT (मूसला जड़); Parallel Venation = FIBROUS ROOTS (झकड़ा/रेशेदार जड़)",
+        "Transpiration: Water vapor loss through leaf stomata; Flower: Sepals, Petals, Stamens (male), Pistil/Carpel (female)"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Transpiration Polythene Bag Test",
+      "procedure": "Tying plastic bag on leafy branch in sun",
+      "findings": "Transpired condensation droplets"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Venation to Root correlation",
+      "value": "Reticulate = Taproot; Parallel = Fibrous roots"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Taproot vs Fibrous root diagrams, Reticulate vs Parallel leaf venation"
+  ],
+  "key_vocabulary_bilingual": {
+    "Taproot": "मूसला जड़ (जालिका शिरा-विन्यास)",
+    "Fibrous root": "झकड़ा/रेशेदार जड़ (समांतर शिरा-विन्यास)",
+    "Reticulate venation": "जालिका शिरा-विन्यास",
+    "Parallel venation": "समांतर शिरा-विन्यास",
+    "Transpiration": "वाष्पोत्सर्जन"
+  },
+  "ncert_source_text_summary": "Class 6 Bridge Chapter 2: 'Getting to Know Plants' / 'पौधों को जानिए' provides quantitative and scientific depth to Unit 2: Flora, Seeds, Forest Rights & Agriculture."
+}

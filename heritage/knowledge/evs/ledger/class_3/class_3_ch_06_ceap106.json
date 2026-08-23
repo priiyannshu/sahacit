@@ -1,0 +1,55 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 6,
+    "chapter_title_en": "Foods We Eat",
+    "chapter_title_hi": "खाना अपना-अपना",
+    "ncert_code_en": "ceap106",
+    "ncert_code_hi": "chap106",
+    "theme_mapping": "Unit 3: Food, Digestion, Cooking & Vector Diseases",
+    "unit_id": 3
+  },
+  "factual_entities": [
+    {
+      "name_en": "Regional Staple Cuisines",
+      "name_hi": "क्षेत्रीय खान-पान",
+      "category": "Food Culture",
+      "attributes": [
+        "Hong Kong: Snake meat dish and soup called Ling-hu-fen (लिंग-हू-फेन)",
+        "Kashmir: Freshwater fish cooked in mustard oil (सरसों का तेल)",
+        "Goa: Marine sea fish cooked in coconut oil (नारियल का तेल)",
+        "Kerala: Boiled tapioca (कप्पा) with coconut curry; grown in domestic yards",
+        "Gujarat/Maharashtra: Sweetened dal (दाल में चीनी) with dalia/rice"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Hong Kong, Kashmir, Goa, Kerala",
+      "region": "Global / India",
+      "context": "Ecological cuisine adaptation"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [
+    {
+      "name": "Ling-hu-fen & Tapioca",
+      "category": "Food",
+      "region": "Hong Kong / Kerala",
+      "description": "Locally harvested delicacies"
+    }
+  ],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Geographical food origin map, tapioca root and plant, coconut trees"
+  ],
+  "key_vocabulary_bilingual": {
+    "Ling-hu-fen": "लिंग-हू-फेन (सांप का मांस)",
+    "Tapioca": "टैपियोका (कप्पा)",
+    "Mustard Oil": "सरसों का तेल",
+    "Coconut Oil": "नारियल का तेल"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 6: 'Foods We Eat' / 'खाना अपना-अपना' covers Unit 3: Food, Digestion, Cooking & Vector Diseases foundational facts, regional adaptations, and ecological concepts."
+}

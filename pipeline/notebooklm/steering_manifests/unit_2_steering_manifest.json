@@ -1,0 +1,20 @@
+{
+  "unit_id": 2,
+  "unit_title": "Flora, Seeds & Forests",
+  "source_document": "units/unit_2_flora_seeds_forests.md",
+  "audio_overview_spec": {
+    "podcast_title": "CTET EVS Master Class — Unit 2: Flora, Seeds & Forests",
+    "hosts": {
+      "host_a": "Environmental Historian",
+      "host_b": "Agronomy Analyst"
+    },
+    "tone": "Conversational, highly factual, zero-hallucination, interactive debate",
+    "steering_prompt": "Examine Desert Oak root depth (30x), Pitcher plant sweet scent mechanism, Velcro invention (1948), and Jhum cultivation rules.",
+    "language_pair": "Bilingual (English with authentic Hindi NCERT terminology anchors)",
+    "anti_hallucination_guardrails": [
+      "Adhere strictly to canonical NCERT numerical invariants.",
+      "Do not extrapolate or introduce speculative biology.",
+      "State specific units of measurement clearly."
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 25,
+    "chapter_title_en": "Spicy Riddles",
+    "chapter_title_hi": "चटपटी पहेलियाँ",
+    "ncert_code_en": "deap125",
+    "ncert_code_hi": "dhap125",
+    "theme_mapping": "Unit 3: Food, Digestion, Cooking & Vector Diseases",
+    "unit_id": 3
+  },
+  "factual_entities": [
+    {
+      "name_en": "Indian Spices, Botanical Identification & Medicinal Properties",
+      "name_hi": "मसाले, वानस्पतिक पहचान और औषधीय गुण",
+      "category": "Spices / Herbal Medicine",
+      "attributes": [
+        "Kerala: 'Land of Spices' (Cardamom, Clove, Black Pepper, Cinnamon, Tejpatta)",
+        "Spice Riddles: 1. Tejpatta: Aromatic leaf; 2. Cardamom (इलायची): Small/big pod with black seeds, mouth freshener; 3. Black Pepper: Wrinkled black bead; 4. Clove (लौंग): Looks like a NAIL (कील जैसी), brown, soothes toothache; 5. Turmeric (हल्दी): Yellow powder from rhizome, heals wounds; 6. Fennel (सौंफ): Green seed for digestion; 7. Garam Masala: Roasted spice powder mix"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Kerala",
+      "region": "South India",
+      "context": "Spices garden of India"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Sketches of whole spices: Clove nail shape, green cardamom pod, wrinkled peppercorn"
+  ],
+  "key_vocabulary_bilingual": {
+    "Land of Spices": "मसालों का बगीचा (केरल)",
+    "Clove": "लौंग (कील जैसी बनावट - दाँत दर्द में उपयोगी)",
+    "Turmeric": "हल्दी (घाव भरने में)",
+    "Fennel": "सौंफ (पाचन और ताजगी)",
+    "Garam Masala": "गरम मसाला"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 25: 'Spicy Riddles' / 'चटपटी पहेलियाँ' covers Unit 3: Food, Digestion, Cooking & Vector Diseases foundational facts, regional adaptations, and ecological concepts."
+}

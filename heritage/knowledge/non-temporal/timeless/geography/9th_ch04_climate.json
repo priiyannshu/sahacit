@@ -1,0 +1,77 @@
+{
+  "chapter_title": "Climate",
+  "book": "9th",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_monsoon_breaks",
+      "label": "Monsoon Breaks",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Wet and dry spells during monsoon season. When ITCZ is over Himalayan foothills, plains get rain. When it moves to plains, hills get rain. Frequency and duration affect crop production.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "9th",
+      "chapter_title": "Climate",
+      "chapter_file": "9th_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -1009
+      }
+    },
+    {
+      "id": "geo_indian_climate_unity",
+      "label": "Monsoon as Unifying Bond",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Despite regional climate variations, monsoon rhythm binds India. Agricultural calendar, festivals, daily life all tied to monsoon. Uncertainty of monsoon affects millions of farmers.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "9th",
+      "chapter_title": "Climate",
+      "chapter_file": "9th_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_india_climate_factors",
+      "label": "Factors Affecting India's Climate",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Latitude (Tropic of Cancer divides India), altitude (Himalayas block cold winds), pressure and winds (NE trade winds, SW monsoon), distance from sea (continental vs maritime), ocean currents, relief.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "9th",
+      "chapter_title": "Climate",
+      "chapter_file": "9th_ch04_climate",
+      "year_approx": 365,
+      "temporal_type": "approx",
+      "pyq_ids": [],
+      "_parked_from": "ancient_classical"
+    },
+    {
+      "id": "geo_jet_streams",
+      "label": "Jet Streams",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Fast-flowing air currents in upper atmosphere. Subtropical westerly jet stream positioned over plains in winter. Tropical easterly jet stream over peninsula in summer helps monsoon advance. Withdrawal of westerly jet from plains marks monsoon onset.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "9th",
+      "chapter_title": "Climate",
+      "chapter_file": "9th_ch04_climate",
+      "year_approx": 448,
+      "temporal_type": "approx",
+      "pyq_ids": [],
+      "_parked_from": "ancient_classical"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "chapter_title": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+  "book": "8th",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_water_resource",
+      "label": "Water Resources",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Vital renewable resource. 71% earth covered but only 2.7% fresh water. 70% of fresh water is ice in glaciers. Only 1% available for human use. Water can neither be added nor subtracted from earth.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "8th",
+      "chapter_title": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+      "chapter_file": "8th_ch02_land_soil_water_natural_vegetation_and_wildlife",
+      "year_approx": -280,
+      "temporal_type": "approx",
+      "pyq_ids": [],
+      "_parked_from": "ancient_classical"
+    }
+  ]
+}

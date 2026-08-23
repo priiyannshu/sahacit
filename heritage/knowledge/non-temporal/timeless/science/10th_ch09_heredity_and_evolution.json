@@ -1,0 +1,24 @@
+{
+  "chapter_title": "Heredity and Evolution",
+  "book": "10th",
+  "subject": "science",
+  "nodes": [
+    {
+      "id": "sci_fossils",
+      "label": "Fossils",
+      "type": "concept",
+      "subject": "science",
+      "detail": "Preserved traces of living organisms from the past. Form when organisms die in environments preventing complete decomposition (e.g., hot mud, sediment). Dating methods: relative dating (deeper fossils are older) and isotope ratio dating. Notable example: Rajasaurus dinosaur skull fossil found in the Narmada valley. Fossils provide direct evidence of extinct species and evolutionary history.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "10th",
+      "chapter_title": "Heredity and Evolution",
+      "chapter_file": "10th_ch09_heredity_and_evolution",
+      "year_approx": -2999077,
+      "temporal_type": "approx",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": "prehistoric (mis-tagged)"
+    }
+  ]
+}

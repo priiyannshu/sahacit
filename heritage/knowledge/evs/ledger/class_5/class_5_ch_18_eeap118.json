@@ -1,0 +1,43 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 18,
+    "chapter_title_en": "No Place for Us?",
+    "chapter_title_hi": "जाएँ तो जाएँ कहाँ",
+    "ncert_code_en": "eeap118",
+    "ncert_code_hi": "ehap118",
+    "theme_mapping": "Unit 4: Shelter, Architecture & Climatic Adaptations",
+    "unit_id": 4
+  },
+  "factual_entities": [
+    {
+      "name_en": "Dam Displacement & Forced Resettlement",
+      "name_hi": "बांध विस्थापन और पुनर्वास का संघर्ष",
+      "category": "Human Geography",
+      "attributes": [
+        "Jatrya Bhai's migration: Khedi village (forests of MP) submerged by dam -> Sinduri village (tin roof shacks) -> Mumbai slums; loss of ancestral forest livelihoods"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Khedi village (MP), Sinduri, Mumbai",
+      "region": "Central & West India",
+      "context": "Dam displacement corridor"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "River dam submergence area, Khedi forest vs tin shanty"
+  ],
+  "key_vocabulary_bilingual": {
+    "Displacement": "विस्थापन (बांध निर्माण)",
+    "Khedi village": "खेड़ी गाँव (मध्य प्रदेश)",
+    "Sinduri": "सिंदूरी गाँव"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 18: 'No Place for Us?' / 'जाएँ तो जाएँ कहाँ' covers Unit 4: Shelter, Architecture & Climatic Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

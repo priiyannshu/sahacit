@@ -1,0 +1,25 @@
+{
+  "from_era": "freedom_struggle",
+  "audit_date": "2026-04-18",
+  "count": 1,
+  "note": "Commercialisation of Agriculture \u2014 colonial-era economic process, belongs in earlier colonial eras (7-8) if anywhere, not freedom_struggle.",
+  "nodes": [
+    {
+      "id": "eco_commercialisation_of_agriculture",
+      "label": "Commercialisation of Agriculture",
+      "type": "concept",
+      "subject": "economics",
+      "detail": "British policies forced Indian farmers to shift from food crops to cash crops (indigo, cotton, jute) for British industries. While some areas showed higher yields in cash crops, this did not improve farmers' economic condition and created food scarcity domestically.",
+      "pyq_count": 0,
+      "importance": "high",
+      "year": null,
+      "book": "11th",
+      "chapter_title": "Indian Economy on the Eve of Independence",
+      "chapter_file": "11th_ch01_indian_economy_on_the_eve_of_independence",
+      "year_approx": 1930,
+      "temporal_type": "approx",
+      "era": "freedom_struggle",
+      "pyq_ids": []
+    }
+  ]
+}

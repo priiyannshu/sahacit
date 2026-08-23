@@ -1,0 +1,66 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 3,
+    "chapter_title_en": "From Tasting to Digesting",
+    "chapter_title_hi": "चखने से पचने तक",
+    "ncert_code_en": "eeap103",
+    "ncert_code_hi": "ehap103",
+    "theme_mapping": "Unit 3: Food, Digestion, Cooking & Vector Diseases",
+    "unit_id": 3
+  },
+  "factual_entities": [
+    {
+      "name_en": "Taste Buds, Digestive Physiology & Dr. Beaumont's Experiments",
+      "name_hi": "स्वाद कलिकाएं, पाचन क्रिया और डॉ. ब्यूमोंट के प्रयोग",
+      "category": "Human Physiology / History of Science",
+      "attributes": [
+        "Tongue Taste Zones: Sweet (tip), Salty (front sides), Sour (back sides), Bitter (back)",
+        "Saliva & Chewing: Salivary amylase breaks starch to sweet sugars upon chewing 30-32 times",
+        "Dr. William Beaumont & Alexis St. Martin (1822): Studied soldier Martin's stomach hole for 9 YEARS; discovered digestion is faster INSIDE STOMACH than in test tube due to peristaltic churning; stomach juices are ACIDIC",
+        "Digestion Times: Boiled milk 2 hrs (stomach) vs 4h15m (glass); Boiled egg 3h30m vs 8h; Raw egg 1h30m vs 4h",
+        "Kalahandi (Odisha): Largest rice producing area where rice is exported, yet poor tribal labourers starve"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Dr. William Beaumont",
+      "role": "Physiologist",
+      "era": "1785–1853",
+      "key_contributions": "Pioneered gastric digestion research on Alexis St. Martin over 9 years"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Kalahandi district",
+      "region": "Odisha",
+      "context": "Rice surplus with acute poverty"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "In-Vitro vs In-Vivo Gastric Digestion",
+      "procedure": "Comparing digestion times in stomach vs test tube juice",
+      "findings": "Gastric churning and acidity accelerate protein breakdown"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Dr. Beaumont experimental duration",
+      "value": "9 years (1822 onwards)"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Tongue taste zones, stomach fistula diagram, peristaltic churning"
+  ],
+  "key_vocabulary_bilingual": {
+    "Dr. William Beaumont": "डॉ. विलियम ब्यूमोंट (1822 - पेट के प्रयोग)",
+    "Alexis St. Martin": "मार्टिन (पेट में छेद वाला सिपाही)",
+    "Stomach juices are acidic": "पेट के पाचक रस अम्लीय होते हैं",
+    "Kalahandi": "कालाहांडी (ओडिशा)"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 3: 'From Tasting to Digesting' / 'चखने से पचने तक' covers Unit 3: Food, Digestion, Cooking & Vector Diseases foundational facts, regional adaptations, and ecological concepts."
+}

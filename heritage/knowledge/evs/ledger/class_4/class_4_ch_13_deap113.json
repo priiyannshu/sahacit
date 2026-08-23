@@ -1,0 +1,46 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 13,
+    "chapter_title_en": "A River's Tale",
+    "chapter_title_hi": "पहाड़ों से समुन्दर तक",
+    "ncert_code_en": "deap113",
+    "ncert_code_hi": "dhap113",
+    "theme_mapping": "Unit 5: Water Systems, Conservation & Historical Science",
+    "unit_id": 5
+  },
+  "factual_entities": [
+    {
+      "name_en": "River Ecology, Pollution & Water Solubility",
+      "name_hi": "नदी का सफर, जल प्रदूषण और घुलनशीलता",
+      "category": "Hydrology / Water Chemistry",
+      "attributes": [
+        "River Course: Mountain source (clean) -> Plains/villages -> Cities (polluted, sewage) -> Ocean",
+        "Solubility: Soluble (Sugar, Salt, Lemon juice); Insoluble (Oil, Sand, Chalk powder, Sawdust); Oil floats as top layer",
+        "Purification: Boiling water is the simplest and best method to kill disease germs; Alum settles clay"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Water Solubility & Boiling",
+      "procedure": "Testing miscibility of oil/salt/chalk; boiling water",
+      "findings": "Boiling thermal sterilization kills microbes; oil remains immiscible"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "River landscape from mountain glacier to polluted urban mouth"
+  ],
+  "key_vocabulary_bilingual": {
+    "River pollution": "नदी प्रदूषण",
+    "Soluble": "घुलनशील (नमक, चीनी)",
+    "Insoluble": "अघुलनशील (तेल, रेत, चॉक)",
+    "Boiling": "उबालना (कीटाणु नष्ट करना)"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 13: 'A River's Tale' / 'पहाड़ों से समुन्दर तक' covers Unit 5: Water Systems, Conservation & Historical Science foundational facts, regional adaptations, and ecological concepts."
+}

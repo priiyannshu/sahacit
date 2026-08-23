@@ -1,0 +1,43 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 17,
+    "chapter_title_en": "Across the Wall",
+    "chapter_title_hi": "फाँद ली दीवार",
+    "ncert_code_en": "eeap117",
+    "ncert_code_hi": "ehap117",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Gender Barriers in Sports & Nagpada Basketball",
+      "name_hi": "खेलों में लैंगिक समानता और नागपाड़ा बास्केटबॉल",
+      "category": "Sports Sociology",
+      "attributes": [
+        "Nagpada Basketball Association (Mumbai) coached by Noor Khan; girls team (Afsana, Zareen, Khushnoor, Afreen) overcoming gender prejudice through team spirit"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Nagpada, Mumbai",
+      "region": "Maharashtra",
+      "context": "Grassroots sports movement"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Basketball court, team spirit huddle"
+  ],
+  "key_vocabulary_bilingual": {
+    "Across the Wall": "फाँद ली दीवार",
+    "Nagpada Basketball": "नागपाड़ा बास्केटबॉल (मुंबई)",
+    "Noor Khan": "नूर खान (कोच)"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 17: 'Across the Wall' / 'फाँद ली दीवार' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

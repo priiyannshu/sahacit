@@ -1,0 +1,59 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 13,
+    "chapter_title_en": "Sharing Our Feelings",
+    "chapter_title_hi": "छूकर देखें",
+    "ncert_code_en": "ceap113",
+    "ncert_code_hi": "chap113",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Braille Embossed Tactile System",
+      "name_hi": "ब्रेल लिपि और स्पर्श संवेदन",
+      "category": "Assistive Technology",
+      "attributes": [
+        "Invented by Louis Braille from France (blinded by tool accident at age 3)",
+        "Embossed dots on thick paper read by finger touch",
+        "Standard Braille is based on 6 DOTS arranged in 2x3 matrix cells",
+        "Can now be typed on computerized braille embossers"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Louis Braille",
+      "role": "Inventor",
+      "era": "1809–1852 (France)",
+      "key_contributions": "Created the 6-dot embossed tactile Braille writing code"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "France",
+      "region": "Europe",
+      "context": "Invention of Braille system"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Braille matrix dots",
+      "value": "6 raised dots in 2x3 cell"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Braille 6-dot cell diagram with alphabet representations"
+  ],
+  "key_vocabulary_bilingual": {
+    "Braille": "ब्रेल लिपि",
+    "Louis Braille": "लुई ब्रेल",
+    "6 Raised Dots": "6 उभरे बिंदु",
+    "Tactile": "स्पर्शनीय"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 13: 'Sharing Our Feelings' / 'छूकर देखें' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

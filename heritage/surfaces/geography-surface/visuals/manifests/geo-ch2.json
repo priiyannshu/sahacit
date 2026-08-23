@@ -1,0 +1,327 @@
+{
+  "chapter": 2,
+  "title": "The mountains that aren't done yet",
+  "ncert_sources": [
+    "11th_p2_ch02_structure_and_physiography",
+    "9th_ch02_physical_features_of_india",
+    "11th_p1_ch04_distribution_of_oceans_and_continents"
+  ],
+  "reference_sources": [],
+  "pending_references": ["leong", "majid"],
+  "concepts": [
+    {
+      "id": "frost-wedging",
+      "label": "Frost Wedging",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Freeze-thaw weathering: water in rock cracks expands ~9% on freezing, progressively fracturing rock; dominant weathering process at Himalayan altitudes."
+    },
+    {
+      "id": "fold-mountains",
+      "label": "Fold Mountains",
+      "source": "ncert",
+      "ncert_node": "6th_ch06_major_landforms_of_the_earth:geo_fold_mountains",
+      "what": "Mountains formed at convergent plate boundaries by compressional forces folding and thrusting crustal layers upward; Earth's highest ranges are fold mountains."
+    },
+    {
+      "id": "alpine-himalayan-belt",
+      "label": "Alpine-Himalayan Belt",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Continuous mountain arc from Atlas Mountains (Morocco) through Alps, Caucasus, Zagros, Hindu Kush, Karakoram, Himalayas, bending south as Burmese arc into Indonesia."
+    },
+    {
+      "id": "american-cordilleras",
+      "label": "American Cordilleras",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "North-to-south mountain arc: Rockies (North America) + Andes (South America); formed by subduction along Pacific margin; world's longest continuous mountain chain."
+    },
+    {
+      "id": "east-asian-arcs",
+      "label": "East Asian Island Arcs",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Pacific island arc system (Japan, Philippines, western Pacific); formed by oceanic-plate subduction under Asian margin, not continent-continent collision."
+    },
+    {
+      "id": "himalayas",
+      "label": "Himalayas",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch02_structure_and_physiography:geo_himalayas",
+      "what": "Young fold mountain system running 2,400 km from Indus gorge (west) to Brahmaputra gorge (east); three to four parallel ridges stacked south to north; still tectonically active."
+    },
+    {
+      "id": "trans-himalayas",
+      "label": "Trans-Himalayas",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Northernmost Himalayan zone (Karakoram, Ladakh ranges); absolute altitude peaks here (K2: 8,611 m); largest glacial ice mass in the system; inner side of India-Eurasia collision."
+    },
+    {
+      "id": "greater-himalayas",
+      "label": "Greater Himalayas (Himadri)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch02_structure_and_physiography:geo_greater_himalayas",
+      "what": "Main Himalayan watershed; crests rarely below 6,000 m; permanently snow-covered; holds all 8,000+ m peaks; composed of ancient upthrust Indian basement granite."
+    },
+    {
+      "id": "sagarmatha",
+      "label": "Sagarmatha (Everest)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "World's highest peak at 8,849 m in Nepal Himalayas; also called Everest (English) and Chomolungma (Tibetan); part of Greater Himalayas."
+    },
+    {
+      "id": "kanchenjunga",
+      "label": "Kanchenjunga",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "World's third-highest peak at 8,586 m; at Nepal-Sikkim junction; marks transition to wetter, narrower eastern Himalayan section."
+    },
+    {
+      "id": "nanda-devi",
+      "label": "Nanda Devi",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Highest summit entirely within India at 7,816 m; in Garhwal (Uttarakhand) Himalayas; within Nanda Devi Biosphere Reserve."
+    },
+    {
+      "id": "nanga-parbat",
+      "label": "Nanga Parbat (Western Syntaxis)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "8,126 m; western anchor of Greater Himalayas at the western syntaxis where the Himalayan arc bends sharply; known for vast south face relief."
+    },
+    {
+      "id": "namcha-barwa",
+      "label": "Namcha Barwa (Eastern Syntaxis)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "7,782 m; eastern syntaxis point where Greater Himalayas bend abruptly south; beyond this the range continues north-south as Purvanchal."
+    },
+    {
+      "id": "lesser-himalayas",
+      "label": "Lesser Himalayas (Himachal)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch02_structure_and_physiography:geo_lesser_himalayas",
+      "what": "Second Himalayan zone south of Greater Himalayas; 3,700–4,500 m average altitude; location of major hill stations and three examiner-tested sub-ranges."
+    },
+    {
+      "id": "pir-panjal",
+      "label": "Pir Panjal Range",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Longest sub-range of Lesser Himalayas; runs through Jammu, Kashmir, and Himachal Pradesh; southern wall of the Kashmir Valley."
+    },
+    {
+      "id": "dhauladhar",
+      "label": "Dhauladhar Range",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Sub-range of Lesser Himalayas through Himachal Pradesh; one of three examiner-tested Lesser Himalayan sub-ranges (Pir Panjal, Dhauladhar, Mahabharat)."
+    },
+    {
+      "id": "mahabharat-range",
+      "label": "Mahabharat Range",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Sub-range of Lesser Himalayas through Nepal; one of three examiner-tested Lesser Himalayan sub-ranges; separates inner and outer Himalayan Nepal."
+    },
+    {
+      "id": "kashmir-valley",
+      "label": "Kashmir Valley",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Intermontane basin cradled between Pir Panjal (south) and Greater Himalayas (north); ~130 km × 40 km; one of world's most celebrated high-altitude structural basins."
+    },
+    {
+      "id": "main-central-thrust",
+      "label": "Main Central Thrust (MCT)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Major fault plane at the boundary between Greater and Lesser Himalayas; rock slabs thrust southward over each other; primary locus of Himalayan earthquakes."
+    },
+    {
+      "id": "main-boundary-thrust",
+      "label": "Main Boundary Thrust (MBT)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Major fault plane between Lesser Himalayas and Shivaliks; marks the active collision frontier; associated with ongoing seismic activity."
+    },
+    {
+      "id": "shiwaliks",
+      "label": "Shivaliks (Outer Himalayas)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch02_structure_and_physiography:geo_shiwaliks",
+      "what": "Outermost, youngest Himalayan range; 900–1,100 m; made of unconsolidated river sediment folded by the advancing collision front; still sweeping southward."
+    },
+    {
+      "id": "duns",
+      "label": "Duns (Longitudinal Valleys)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Flat-floored longitudinal valleys between Shivaliks and Lesser Himalayas; carved by erosion of softer rock between thrust ridges; Dehradun is the most famous example."
+    },
+    {
+      "id": "himalayan-regional-sections",
+      "label": "Himalayan Regional Sections (West to East)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Himalayan arc divided into regional sections: Punjab-Kashmir (widest, ~400 km, densely glaciated), Kumaon-Garhwal, Nepal (Sagarmatha), Sikkim-Darjeeling (narrow, wet), Arunachal (eastern syntaxis)."
+    },
+    {
+      "id": "purvanchal",
+      "label": "Purvanchal (Eastern Highlands)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch02_structure_and_physiography:geo_purvanchal",
+      "what": "Himalayan fold system reoriented north-south beyond eastern syntaxis; Patkai, Naga, Manipur, Mizo hills; same collision origin as Himalayas, different orientation."
+    },
+    {
+      "id": "burmese-arc",
+      "label": "Burmese Arc",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Continuation of the Alpine-Himalayan fold system running south through Myanmar and Indonesia; begins where Purvanchal bends past the eastern syntaxis."
+    },
+    {
+      "id": "tethys-marine-fossils",
+      "label": "Tethys Marine Fossils at Altitude",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Marine fossils (ammonites) at 4,000–5,000 m in Ladakh and Spiti; ancient Tethys sea-floor sediment compressed and uplifted during India-Eurasia collision; vivid proof of plate tectonics."
+    },
+    {
+      "id": "third-pole",
+      "label": "The Third Pole",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Karakoram-Hindu Kush-Pamir-Himalaya cluster holds largest glacial ice mass outside Antarctica and Greenland; informally called the Third Pole; feeds major Asian river systems."
+    },
+    {
+      "id": "siachen-glacier",
+      "label": "Siachen Glacier",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "~76 km mountain glacier in Karakoram; among world's longest; source of Nubra river; holds strategic military significance (India-Pakistan)."
+    },
+    {
+      "id": "gangotri-glacier",
+      "label": "Gangotri Glacier",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid",
+      "enhancement_target": true,
+      "what": "Major glacier in Garhwal (Uttarakhand); primary source of Ganga river system; retreating under climate change; located within Gangotri National Park."
+    },
+    {
+      "id": "himalayan-glacial-meltwater",
+      "label": "Himalayan Glacial Meltwater Dependency",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Major rivers (Indus, Ganga, Yamuna, Brahmaputra) depend on Himalayan glacial meltwater as a slow seasonal reservoir; agricultural calendars across Indo-Gangetic plains calibrated to melt rhythms."
+    },
+    {
+      "id": "himalayan-seismic-hazard",
+      "label": "Himalayan Seismic Hazard",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Entire Himalayan front above active collision interface; Hindu Kush–Pamir knot among most seismically active zones globally; Bihar-Nepal 1934, Kashmir 2005, Nepal 2015 are landmark events."
+    },
+    {
+      "id": "aravalli",
+      "label": "Aravalli Range",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch02_structure_and_physiography:geo_aravalli",
+      "what": "Fold mountains (~800 km, near Delhi to Gujarat); among world's oldest — Precambrian, 2–3 billion years; Guru Shikhar (1,722 m) is highest point; heavily eroded over eons."
+    }
+  ],
+  "forward_references": [
+    {"id": "endogenic-forces", "owned_by_chapter": 3},
+    {"id": "exogenic-forces", "owned_by_chapter": 3},
+    {"id": "weathering", "owned_by_chapter": 3},
+    {"id": "erosion", "owned_by_chapter": 3},
+    {"id": "deposition", "owned_by_chapter": 3},
+    {"id": "chemical-weathering", "owned_by_chapter": 3},
+    {"id": "physical-weathering", "owned_by_chapter": 3},
+    {"id": "diastrophism", "owned_by_chapter": 3},
+    {"id": "folding", "owned_by_chapter": 3},
+    {"id": "u-shaped-valley", "owned_by_chapter": 3},
+    {"id": "cirque", "owned_by_chapter": 3},
+    {"id": "moraine", "owned_by_chapter": 3},
+    {"id": "fluvial-landforms", "owned_by_chapter": 3},
+    {"id": "northern-plains", "owned_by_chapter": 3},
+    {"id": "peninsular-plateau", "owned_by_chapter": 3},
+    {"id": "indo-gangetic-plain", "owned_by_chapter": 3},
+    {"id": "indus", "owned_by_chapter": 4},
+    {"id": "ganga", "owned_by_chapter": 4},
+    {"id": "yamuna", "owned_by_chapter": 4},
+    {"id": "brahmaputra", "owned_by_chapter": 4},
+    {"id": "laterites", "owned_by_chapter": 7},
+    {"id": "glof", "owned_by_chapter": 12},
+    {"id": "seismic-zones-india", "owned_by_chapter": 12},
+    {"id": "glacial-retreat-climate-change", "owned_by_chapter": 12}
+  ],
+  "excluded": [
+    {"passage": "Para 1 'The planet is running a ledger with two columns...'", "reason": "endogenic/exogenic balance metaphor; underlying concepts are forward-refs to ch3"},
+    {"passage": "'Mountains are not permanent; they are the temporary winners...'", "reason": "rhetorical synthesis; underlying concepts captured by fold-mountains and aravalli"},
+    {"passage": "Para 5 'The specific story — how the Indian plate... was set out in the last chapter.'", "reason": "explicit back-reference to ch1; no new concepts introduced"},
+    {"passage": "'One of the most visceral single pieces of evidence for plate tectonics...'", "reason": "tutor-voice editorial; underlying concept captured by tethys-marine-fossils"},
+    {"passage": "Ganga '~one billion tonnes of sediment per year'", "reason": "quantitative detail within fluvial erosion (forward-ref to ch3); not a separate concept"},
+    {"passage": "Closing synthesis 'The Himalayas will, eventually, go the same way…'", "reason": "rhetorical callback to aravalli; no new concept"}
+  ],
+  "counts": {
+    "total": 32,
+    "ncert": 7,
+    "writer_ai": 25,
+    "forward_references": 24
+  }
+}

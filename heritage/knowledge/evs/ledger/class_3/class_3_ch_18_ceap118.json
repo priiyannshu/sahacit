@@ -1,0 +1,56 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 18,
+    "chapter_title_en": "A House Like This",
+    "chapter_title_hi": "ऐसे भी होते हैं घर",
+    "ncert_code_en": "ceap118",
+    "ncert_code_hi": "chap118",
+    "theme_mapping": "Unit 4: Shelter, Architecture & Climatic Adaptations",
+    "unit_id": 4
+  },
+  "factual_entities": [
+    {
+      "name_en": "Climatic Vernacular Architecture of India",
+      "name_hi": "जलवायु आधारित भारतीय क्षेत्रीय आवास",
+      "category": "Vernacular Architecture",
+      "attributes": [
+        "Assam (Molan village): High rainfall; houses built 10 to 12 feet (3-3.5 m) high on strong bamboo pillars; sloping roofs of wood/thatch",
+        "Manali (HP): Mountainous heavy snowfall and rain; stone and wood houses with sloping roofs",
+        "Rajasthan: Arid hot desert; thick mud walls keep interior cool; plastered with cow dung; roofs of thorny Keekar bushes (कंटीली झाड़ियाँ)",
+        "Leh Ladakh: Cold desert; 2-storey stone houses coated with mud/lime; windowless ground floor for livestock/winter storage; flat poplar trunk roofs",
+        "Srinagar (Kashmir): Houseboats on Dal lake (up to 80 ft long); Donga boats; Shikara; Khatamband ceiling puzzle woodwork",
+        "Plains/Delhi: Multi-storey brick, cement, and steel apartments",
+        "Polar regions: Igloo dome shelters of compressed snow blocks"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Molan (Assam), Manali (HP), Rajasthan, Leh, Srinagar",
+      "region": "Pan-India",
+      "context": "Climatic architectural adaptation"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Assam bamboo stilt height",
+      "value": "10 to 12 feet (3 to 3.5 meters)"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Drawings of Assam bamboo stilt house, Rajasthan mud hut, Manali sloping roof, Dal Lake houseboat"
+  ],
+  "key_vocabulary_bilingual": {
+    "Bamboo stilts": "बांस के खंभे (10-12 फीट)",
+    "Sloping roof": "ढलवां छत",
+    "Mud walls": "मिट्टी की मोटी दीवारें",
+    "Thorny bushes": "कंटीली झाड़ियाँ",
+    "Houseboat": "हाउसबोट"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 18: 'A House Like This' / 'ऐसे भी होते हैं घर' covers Unit 4: Shelter, Architecture & Climatic Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

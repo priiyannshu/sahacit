@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hyperframes Interactive EVS Visual State Machine</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <h1>🎬 Hyperframes HTML5 Interactive Video & State Machine</h1>
+      <p class="subtitle">Zero-Loss CTET EVS Thematic Storyboards (Units 1 to 7)</p>
+    </header>
+
+    <main class="main-layout">
+      <!-- Unit Selection Bar -->
+      <nav class="unit-nav" id="unitNav">
+        <button class="unit-btn active" data-unit="1">Unit 1: Animals</button>
+        <button class="unit-btn" data-unit="2">Unit 2: Flora & Forests</button>
+        <button class="unit-btn" data-unit="3">Unit 3: Food & Health</button>
+        <button class="unit-btn" data-unit="4">Unit 4: Shelter</button>
+        <button class="unit-btn" data-unit="5">Unit 5: Water Systems</button>
+        <button class="unit-btn" data-unit="6">Unit 6: Travel & Space</button>
+        <button class="unit-btn" data-unit="7">Unit 7: Quantitative</button>
+      </nav>
+
+      <!-- Interactive Scene Player Viewport -->
+      <div class="player-container">
+        <div class="viewport" id="playerViewport">
+          <!-- Dynamic Scene Content Injected by JS -->
+        </div>
+
+        <!-- Video Timeline Controls -->
+        <div class="player-controls">
+          <button id="btnPrev" class="ctrl-btn">⏮ Prev Scene</button>
+          <button id="btnPlayPause" class="ctrl-btn play-btn">▶ Play Animation</button>
+          <button id="btnNext" class="ctrl-btn">Next Scene ⏭</button>
+          <div class="timeline-bar">
+            <div class="timeline-progress" id="timelineProgress"></div>
+          </div>
+          <span class="scene-counter" id="sceneCounter">Scene 1 / 4</span>
+        </div>
+      </div>
+
+      <!-- Bilingual Script & Narration Teleprompter -->
+      <section class="teleprompter-card">
+        <h3>🎙️ Synchronized Bilingual Audio Narration Script</h3>
+        <p id="narrationTextEn" class="narration-en"></p>
+        <p id="narrationTextHi" class="narration-hi"></p>
+      </section>
+    </main>
+  </div>
+  <script src="player.js"></script>
+</body>
+</html>

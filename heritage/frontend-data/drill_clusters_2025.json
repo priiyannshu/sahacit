@@ -1,0 +1,1044 @@
+{
+  "metadata": {
+    "year": 2025,
+    "subject_filter": "GS Paper 1",
+    "n_clusters": 34,
+    "n_pyqs": 99
+  },
+  "clusters": [
+    {
+      "cluster_id": "anc_polity_admin",
+      "title": "Ancient India: Polity & Administration",
+      "subject_focus": "Ancient History",
+      "study_keywords": [
+        "Mauryan administration: Pradeshika / Rajuka / Yukta",
+        "Pre-Mauryan India 600–322 BCE: Mahajanapadas, polity",
+        "Ancient Indian rulers and their titles (Vikramaditya, etc)"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "person_attribution"
+      ],
+      "linked_pyqs": [
+        81,
+        89,
+        115,
+        116
+      ]
+    },
+    {
+      "cluster_id": "anc_indus_foreign",
+      "title": "Indus Valley & Foreign Travellers",
+      "subject_focus": "Ancient History",
+      "study_keywords": [
+        "Indus Valley Civilisation artefacts (Dancing Girl, seals)",
+        "Mohenjo-daro and Harappa material culture",
+        "Foreign travellers to India: Fa-hien (Faxian), Hsuan-Tsang, Megasthenes"
+      ],
+      "common_traps": [
+        "famous_association_bias",
+        "period_attribution"
+      ],
+      "linked_pyqs": [
+        69,
+        175
+      ]
+    },
+    {
+      "cluster_id": "med_tech_society",
+      "title": "Medieval India: Technology & Society",
+      "subject_focus": "Medieval History",
+      "study_keywords": [
+        "Araghatta (Persian wheel) and irrigation devices",
+        "Medieval agrarian and craft technology"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning"
+      ],
+      "linked_pyqs": [
+        246
+      ]
+    },
+    {
+      "cluster_id": "mod_gandhian_movements",
+      "title": "Gandhian Movements: Non-Cooperation to Civil Disobedience",
+      "subject_focus": "Modern History",
+      "study_keywords": [
+        "Non-Cooperation Movement (1920–22): programme, withdrawal",
+        "Chauri Chaura incident",
+        "Civil Disobedience Movement (1930): Salt March, Round Table",
+        "Gandhi's writings and famous statements ('Sedition has become my religion')",
+        "Legal defence in revolutionary trials (Bhagat Singh, etc)"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "famous_association_bias"
+      ],
+      "linked_pyqs": [
+        459,
+        460,
+        461,
+        502,
+        503
+      ]
+    },
+    {
+      "cluster_id": "mod_social_reformers",
+      "title": "19th Century Social Reformers",
+      "subject_focus": "Modern History",
+      "study_keywords": [
+        "Raja Ram Mohan Roy: Brahmo Samaj, sati abolition, languages",
+        "Self-Respect Movement: Periyar E.V. Ramasamy",
+        "Reformers' linguistic + scriptural backgrounds"
+      ],
+      "common_traps": [
+        "person_attribution",
+        "famous_association_bias"
+      ],
+      "linked_pyqs": [
+        606,
+        607
+      ]
+    },
+    {
+      "cluster_id": "artcul_institutions_awards",
+      "title": "Cultural Institutions & National Awards",
+      "subject_focus": "Art and Culture",
+      "study_keywords": [
+        "Gandharva Mahavidyalaya — Vishnu Digambar Paluskar (1901)",
+        "Gandhi Peace Prize: jury composition (President / PM / CJI / Lok Sabha Speaker / LoP)"
+      ],
+      "common_traps": [
+        "distractor_by_topic_association",
+        "statement_subtle_inversion"
+      ],
+      "linked_pyqs": [
+        1,
+        36
+      ]
+    },
+    {
+      "cluster_id": "pol_president_governor",
+      "title": "President, VP, Governor & Pardoning Power",
+      "subject_focus": "Indian Polity",
+      "study_keywords": [
+        "Ordinance-making power: scope, limits, retrospective effect",
+        "Governor's discretionary powers (constitutional + situational)",
+        "Reservation of state bills for President's consideration",
+        "Governor's immunity: civil + criminal proceedings during term",
+        "Article 194: state legislators' privileges and immunity",
+        "Pardoning power: Articles 72/161; judicial review scope; advice of Council of Ministers"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "statement_partial_truth"
+      ],
+      "linked_pyqs": [
+        822,
+        823,
+        824,
+        825
+      ]
+    },
+    {
+      "cluster_id": "pol_constitutional_bodies",
+      "title": "Constitutional & Statutory Bodies",
+      "subject_focus": "Indian Polity",
+      "study_keywords": [
+        "Inter-State Council: Article 263, recommendations",
+        "Lokpal: powers, jurisdiction over PM, removal procedure",
+        "Election Commission: structure, removal, scope",
+        "Statutory vs constitutional body distinction"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "technical_vs_common_meaning"
+      ],
+      "linked_pyqs": [
+        971,
+        972,
+        973,
+        974
+      ]
+    },
+    {
+      "cluster_id": "pol_constitution_provisions",
+      "title": "Indian Constitution: Provisions & Schedules",
+      "subject_focus": "Indian Polity",
+      "study_keywords": [
+        "Schedules of the Constitution (1st through 12th)",
+        "DPSPs vs Fundamental Rights vs Fundamental Duties",
+        "Subjects under Constitution (lists, schedules)",
+        "Provision–article matching"
+      ],
+      "common_traps": [
+        "statement_partial_truth",
+        "overlapping_categories"
+      ],
+      "linked_pyqs": [
+        705,
+        706,
+        772
+      ]
+    },
+    {
+      "cluster_id": "pol_intl_engagements",
+      "title": "India's International Engagements",
+      "subject_focus": "Indian Polity",
+      "study_keywords": [
+        "INSTC (International North-South Transport Corridor): members, route",
+        "BIMSTEC: regional grouping, members, focus areas",
+        "BRICS: 16th BRICS Summit (2024 Kazan), expansion"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "famous_association_bias"
+      ],
+      "linked_pyqs": [
+        1003,
+        1004,
+        1005
+      ]
+    },
+    {
+      "cluster_id": "pol_legislature",
+      "title": "Parliament & Legislature",
+      "subject_focus": "Indian Polity",
+      "study_keywords": [
+        "Lok Sabha dissolution: pending bills, fate",
+        "Speaker's role: Money Bill certification, finality of decision"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion"
+      ],
+      "linked_pyqs": [
+        846,
+        847
+      ]
+    },
+    {
+      "cluster_id": "pol_local_govt",
+      "title": "Local Government & Federalism",
+      "subject_focus": "Indian Polity",
+      "study_keywords": [
+        "Panchayati Raj: 73rd Amendment, intermediate-level panchayats, state variations",
+        "States and their special provisions (e.g., Arunachal Pradesh)"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "geographic_attribution"
+      ],
+      "linked_pyqs": [
+        1053,
+        1072
+      ]
+    },
+    {
+      "cluster_id": "eco_agriculture",
+      "title": "Agriculture & Allied Schemes",
+      "subject_focus": "Indian Economy",
+      "study_keywords": [
+        "Turmeric production and exports (2022–23 data)",
+        "Rashtriya Gokul Mission: indigenous bovine breeds"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion"
+      ],
+      "linked_pyqs": [
+        1588,
+        1589
+      ]
+    },
+    {
+      "cluster_id": "eco_banking_payments",
+      "title": "Banking & Payments Systems",
+      "subject_focus": "Indian Economy",
+      "study_keywords": [
+        "RBI sources of income: interest, forex, seigniorage",
+        "RTGS vs NEFT: thresholds, settlement, timing",
+        "UPI internationalisation: which countries accept it"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "numerical_proximity"
+      ],
+      "linked_pyqs": [
+        1265,
+        1266,
+        1267
+      ]
+    },
+    {
+      "cluster_id": "eco_capital_markets",
+      "title": "Capital Markets & Securities",
+      "subject_focus": "Indian Economy",
+      "study_keywords": [
+        "Investment instruments: bonds, hedge funds, derivatives",
+        "RBI mandates on investments",
+        "Returns from different asset classes (equity, debt, gold)",
+        "India's share in global market capitalisation"
+      ],
+      "common_traps": [
+        "overlapping_categories",
+        "numerical_proximity"
+      ],
+      "linked_pyqs": [
+        1329,
+        1330,
+        1331,
+        1332
+      ]
+    },
+    {
+      "cluster_id": "eco_fiscal_budget",
+      "title": "Fiscal & Budget Concepts",
+      "subject_focus": "Indian Economy",
+      "study_keywords": [
+        "Capital receipts vs revenue receipts: liability creation",
+        "Revenue expenditure / receipts arithmetic — surplus vs deficit",
+        "Fiscal deficit and its computation (with grants, borrowings)"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning",
+        "numerical_proximity"
+      ],
+      "linked_pyqs": [
+        1139,
+        1140,
+        1141
+      ]
+    },
+    {
+      "cluster_id": "eco_industries_minerals",
+      "title": "Industries & Mineral Resources",
+      "subject_focus": "Indian Economy",
+      "study_keywords": [
+        "Minerals Security Partnership: India's membership, members",
+        "Industry organisations and their UN/intergovernmental status",
+        "Crude oil sector activities: production, refining, marketing classification"
+      ],
+      "common_traps": [
+        "overlapping_categories"
+      ],
+      "linked_pyqs": [
+        1370,
+        1371,
+        1372
+      ]
+    },
+    {
+      "cluster_id": "eco_taxation",
+      "title": "Taxation in India",
+      "subject_focus": "Indian Economy",
+      "study_keywords": [
+        "Income tax: classification of agricultural income",
+        "Direct vs indirect tax distinctions"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning"
+      ],
+      "linked_pyqs": [
+        1179
+      ]
+    },
+    {
+      "cluster_id": "geo_climate_atm",
+      "title": "Climate, Atmosphere & Oceans",
+      "subject_focus": "Geography",
+      "study_keywords": [
+        "Atmospheric processes: dust particles, temperature regulation",
+        "Greenhouse effect: without atmosphere consequences",
+        "Ocean currents in January (Northern Hemisphere subtropics)"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion"
+      ],
+      "linked_pyqs": [
+        1717,
+        1718,
+        1786
+      ]
+    },
+    {
+      "cluster_id": "geo_physical_earth",
+      "title": "Physical Geography: Earth Processes",
+      "subject_focus": "Geography",
+      "study_keywords": [
+        "Continental drift: evidences (geological, palaeontological, fit)",
+        "Effective heat / temperature regulation",
+        "Earth's interior and seismic phenomena",
+        "Time zones: Anadyr (Siberia), Nome (Alaska) and date-line"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "geographic_attribution"
+      ],
+      "linked_pyqs": [
+        1673,
+        1674,
+        1675,
+        1676
+      ]
+    },
+    {
+      "cluster_id": "geo_world_features",
+      "title": "World Geography: Countries & Resources",
+      "subject_focus": "Geography",
+      "study_keywords": [
+        "South American countries and major resources",
+        "Botswana–diamonds and similar country–resource pairs"
+      ],
+      "common_traps": [
+        "geographic_attribution",
+        "person_attribution"
+      ],
+      "linked_pyqs": [
+        2034,
+        2035
+      ]
+    },
+    {
+      "cluster_id": "geo_world_maps",
+      "title": "World Geography: Map-Based",
+      "subject_focus": "Geography",
+      "study_keywords": [
+        "Major lakes: Tanganyika, Tonle Sap, Aral, etc",
+        "European countries: UK, Denmark, Netherlands grouping",
+        "Region–country pairs: Mallorca/Spain, etc"
+      ],
+      "common_traps": [
+        "geographic_attribution"
+      ],
+      "linked_pyqs": [
+        2071,
+        2072,
+        2073
+      ]
+    },
+    {
+      "cluster_id": "env_biodiversity",
+      "title": "Biodiversity & Species Identification",
+      "subject_focus": "Environment",
+      "study_keywords": [
+        "Peacock (Gooty) tarantula: range, conservation",
+        "Plant identification: Cassava and habit (woody shrub etc)",
+        "Botanical classification: papaya, pineapple, guava (true fruits / berries)"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning",
+        "famous_association_bias"
+      ],
+      "linked_pyqs": [
+        2158,
+        2159,
+        2160
+      ]
+    },
+    {
+      "cluster_id": "env_climate_change",
+      "title": "Climate Change: Concepts, Impacts, Policy",
+      "subject_focus": "Environment",
+      "study_keywords": [
+        "Circular economy and emissions reduction",
+        "Climate-impact studies: heatwaves, monsoon patterns",
+        "Direct Air Capture (DAC) technology",
+        "CO2 emissions in India: sectoral split",
+        "World Bank India climate warnings (heat-zero / wet-bulb thresholds)",
+        "Earth's climate-system tipping points"
+      ],
+      "common_traps": [
+        "statement_subtle_inversion",
+        "technical_vs_common_meaning"
+      ],
+      "linked_pyqs": [
+        2119,
+        2285,
+        2286,
+        2287,
+        2288,
+        2289
+      ]
+    },
+    {
+      "cluster_id": "env_global_initiatives",
+      "title": "Global Environment Treaties & Initiatives",
+      "subject_focus": "Environment",
+      "study_keywords": [
+        "UNFCCC COP28 outcomes",
+        "Paris Agreement Article 6 (carbon markets)",
+        "Nature Solutions Finance Hub (Asia-Pacific)",
+        "Nature Restoration Law (NRL) — EU"
+      ],
+      "common_traps": [
+        "famous_association_bias",
+        "geographic_attribution"
+      ],
+      "linked_pyqs": [
+        2379,
+        2380,
+        2381,
+        2382
+      ]
+    },
+    {
+      "cluster_id": "env_pollution",
+      "title": "Pollution & Remediation",
+      "subject_focus": "Environment",
+      "study_keywords": [
+        "Pollution items: cigarette butts, microplastics, eyeglass lenses",
+        "Activated carbon: properties, water treatment uses",
+        "Cloud seeding (artificial rainfall) for air pollution"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning",
+        "statement_subtle_inversion"
+      ],
+      "linked_pyqs": [
+        2239,
+        2240,
+        2241
+      ]
+    },
+    {
+      "cluster_id": "env_renewable_energy",
+      "title": "Renewable Energy & Clean Tech",
+      "subject_focus": "Environment",
+      "study_keywords": [
+        "Electric vehicle types: full battery EV, hybrid, plug-in",
+        "Ethanol blending in India: E20 progress, feedstocks",
+        "PM Surya Ghar Muft Bijli Yojana — features, eligibility"
+      ],
+      "common_traps": [
+        "overlapping_categories",
+        "statement_subtle_inversion"
+      ],
+      "linked_pyqs": [
+        2443,
+        2444,
+        2445
+      ]
+    },
+    {
+      "cluster_id": "st_space",
+      "title": "Space Missions & Aerospace Tech",
+      "subject_focus": "Science & Tech",
+      "study_keywords": [
+        "Unmanned Aerial Vehicles (UAVs): types, regulation",
+        "Space missions: Axiom-4, SpaDeX, Gaganyaan"
+      ],
+      "common_traps": [
+        "overlapping_categories",
+        "famous_association_bias"
+      ],
+      "linked_pyqs": [
+        2504,
+        2505
+      ]
+    },
+    {
+      "cluster_id": "st_biotech_biology",
+      "title": "Biology & Medical Biotech",
+      "subject_focus": "Science & Tech",
+      "study_keywords": [
+        "Monoclonal antibodies: production, therapeutic uses",
+        "Virus survival in environments (ocean water, soil)"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning"
+      ],
+      "linked_pyqs": [
+        2506,
+        2577,
+        2654
+      ]
+    },
+    {
+      "cluster_id": "st_chemistry",
+      "title": "Chemistry: Substances & Reactions",
+      "subject_focus": "Science & Tech",
+      "study_keywords": [
+        "Common substances: ethanol, nitroglycerine — uses, hazards"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning"
+      ],
+      "linked_pyqs": [
+        2642
+      ]
+    },
+    {
+      "cluster_id": "st_energy_electronics",
+      "title": "Energy Tech & Electronics",
+      "subject_focus": "Science & Tech",
+      "study_keywords": [
+        "EV battery chemistries (Li-ion, LFP, sodium-ion)",
+        "Majorana 1 chip and quantum computing",
+        "Rare earth elements: applications and supply",
+        "Indian Railways tech initiatives"
+      ],
+      "common_traps": [
+        "technical_vs_common_meaning",
+        "statement_subtle_inversion"
+      ],
+      "linked_pyqs": [
+        2463,
+        2464,
+        2465,
+        2466
+      ]
+    },
+    {
+      "cluster_id": "ca_defence",
+      "title": "Defence & Security",
+      "subject_focus": "Current Affairs",
+      "study_keywords": [
+        "Chemical substances in defence applications",
+        "Aircraft and defence equipment pairs (origin / role)"
+      ],
+      "common_traps": [
+        "person_attribution",
+        "famous_association_bias"
+      ],
+      "linked_pyqs": [
+        2700,
+        2701
+      ]
+    },
+    {
+      "cluster_id": "ca_intl_events",
+      "title": "Recent International Events",
+      "subject_focus": "Current Affairs",
+      "study_keywords": [
+        "AI Action Summit (Paris 2025)",
+        "International Year of the Woman Farmer 2026",
+        "Kho Kho World Cup",
+        "45th Chess Olympiad (Budapest 2024)"
+      ],
+      "common_traps": [
+        "recency_bias",
+        "famous_association_bias"
+      ],
+      "linked_pyqs": [
+        2775,
+        2776,
+        2777,
+        2778
+      ]
+    },
+    {
+      "cluster_id": "ca_intl_orgs",
+      "title": "International Organisations & Treaties",
+      "subject_focus": "Current Affairs",
+      "study_keywords": [
+        "European country groupings (Schengen, EU, NATO members)",
+        "International Bank for Reconstruction and Development (IBRD)"
+      ],
+      "common_traps": [
+        "overlapping_categories",
+        "geographic_attribution"
+      ],
+      "linked_pyqs": [
+        2734,
+        2735
+      ]
+    }
+  ],
+  "pyq_meta": {
+    "1": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution"
+    },
+    "36": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "69": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "81": {
+      "question_type": "matching",
+      "trap_pattern": "geographic_attribution"
+    },
+    "89": {
+      "question_type": "standard",
+      "trap_pattern": "period_attribution"
+    },
+    "115": {
+      "question_type": "standard",
+      "trap_pattern": "person_attribution"
+    },
+    "116": {
+      "question_type": "standard",
+      "trap_pattern": "period_attribution"
+    },
+    "175": {
+      "question_type": "standard",
+      "trap_pattern": "period_attribution"
+    },
+    "246": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "459": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "460": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "461": {
+      "question_type": "standard",
+      "trap_pattern": "person_attribution"
+    },
+    "502": {
+      "question_type": "standard",
+      "trap_pattern": "period_attribution"
+    },
+    "503": {
+      "question_type": "standard",
+      "trap_pattern": "period_attribution"
+    },
+    "606": {
+      "question_type": "statement_eval",
+      "trap_pattern": "famous_association_bias"
+    },
+    "607": {
+      "question_type": "standard",
+      "trap_pattern": "famous_association_bias"
+    },
+    "705": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "706": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "772": {
+      "question_type": "matching",
+      "trap_pattern": "overlapping_categories"
+    },
+    "822": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_partial_truth"
+    },
+    "823": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "824": {
+      "question_type": "statement_eval",
+      "trap_pattern": "famous_association_bias"
+    },
+    "825": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "846": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "847": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "971": {
+      "question_type": "matching",
+      "trap_pattern": "overlapping_categories"
+    },
+    "972": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "973": {
+      "question_type": "statement_eval",
+      "trap_pattern": "numerical_proximity"
+    },
+    "974": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1003": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution"
+    },
+    "1004": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1005": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1053": {
+      "question_type": "matching",
+      "trap_pattern": "geographic_attribution"
+    },
+    "1072": {
+      "question_type": "statement_eval",
+      "trap_pattern": "negation_trap"
+    },
+    "1139": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1140": {
+      "question_type": "statement_eval",
+      "trap_pattern": "numerical_proximity"
+    },
+    "1141": {
+      "question_type": "standard",
+      "trap_pattern": "numerical_proximity"
+    },
+    "1179": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "1265": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "1266": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1267": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution"
+    },
+    "1329": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "1330": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1331": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "1332": {
+      "question_type": "statement_eval",
+      "trap_pattern": "numerical_proximity"
+    },
+    "1370": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1371": {
+      "question_type": "matching",
+      "trap_pattern": "overlapping_categories"
+    },
+    "1372": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "1588": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1589": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1673": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1674": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "1675": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "1676": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "1717": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "1718": {
+      "question_type": "statement_eval",
+      "trap_pattern": "causal_correlation"
+    },
+    "1786": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2034": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution"
+    },
+    "2035": {
+      "question_type": "matching",
+      "trap_pattern": "geographic_attribution"
+    },
+    "2071": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution"
+    },
+    "2072": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution"
+    },
+    "2073": {
+      "question_type": "matching",
+      "trap_pattern": "geographic_attribution"
+    },
+    "2119": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2158": {
+      "question_type": "statement_eval",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "2159": {
+      "question_type": "matching",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "2160": {
+      "question_type": "statement_eval",
+      "trap_pattern": "period_attribution"
+    },
+    "2239": {
+      "question_type": "statement_eval",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "2240": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2241": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "2285": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2286": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2287": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2288": {
+      "question_type": "statement_eval",
+      "trap_pattern": "numerical_proximity"
+    },
+    "2289": {
+      "question_type": "statement_eval",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "2379": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2380": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2381": {
+      "question_type": "standard",
+      "trap_pattern": "famous_association_bias"
+    },
+    "2382": {
+      "question_type": "standard",
+      "trap_pattern": "geographic_attribution"
+    },
+    "2443": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "2444": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2445": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2463": {
+      "question_type": "statement_eval",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "2464": {
+      "question_type": "statement_eval",
+      "trap_pattern": "person_attribution"
+    },
+    "2465": {
+      "question_type": "assertion_reason",
+      "trap_pattern": "explanatory_chain"
+    },
+    "2466": {
+      "question_type": "statement_eval",
+      "trap_pattern": "negation_trap"
+    },
+    "2504": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_overgeneralization"
+    },
+    "2505": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "2506": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2577": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2642": {
+      "question_type": "statement_eval",
+      "trap_pattern": "overlapping_categories"
+    },
+    "2654": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_overgeneralization"
+    },
+    "2700": {
+      "question_type": "standard",
+      "trap_pattern": "technical_vs_common_meaning"
+    },
+    "2701": {
+      "question_type": "matching",
+      "trap_pattern": "person_attribution"
+    },
+    "2734": {
+      "question_type": "statement_eval",
+      "trap_pattern": "geographic_attribution"
+    },
+    "2735": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2775": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2776": {
+      "question_type": "matching",
+      "trap_pattern": "recency_bias"
+    },
+    "2777": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    },
+    "2778": {
+      "question_type": "statement_eval",
+      "trap_pattern": "statement_subtle_inversion"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "chapter_title": "Bhakti-Sufi Traditions",
+  "book": "12th_p2",
+  "subject": "history",
+  "parked_from": [
+    {
+      "from_era": "delhi_sultanate (universal Islamic concept, not era-specific)",
+      "parked_on": "2026-04-18",
+      "added_ids": [
+        "hist_five_pillars_islam",
+        "hist_shari_a_law"
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "hist_five_pillars_islam",
+      "label": "Five Pillars of Islam",
+      "type": "concept",
+      "subject": "history",
+      "detail": "Universal practices accepted by all Muslims: shahada (declaration of faith), namaz/salat (five daily prayers), zakat (alms), sawm (fasting during Ramzan), hajj (pilgrimage to Mecca). In India, overlaid with local customs and sectarian practices (Sunni, Shia, Ismaili).",
+      "pyq_count": 1,
+      "importance": "high",
+      "year": null,
+      "year_approx": null,
+      "temporal_type": "concept",
+      "pyq_ids": []
+    },
+    {
+      "id": "hist_shari_a_law",
+      "label": "Sharia Law",
+      "type": "concept",
+      "subject": "history",
+      "detail": "Islamic law governing Muslim community based on Quran, hadis (Prophet's traditions), qiyas (reasoning by analogy) and ijma (community consensus). Ulama expected to ensure rulers governed by sharia. In Indian subcontinent, applied flexibly given diverse non-Muslim populations.",
+      "pyq_count": 1,
+      "importance": "high",
+      "year": null,
+      "year_approx": null,
+      "temporal_type": "concept",
+      "pyq_ids": []
+    }
+  ]
+}

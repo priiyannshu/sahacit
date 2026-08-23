@@ -1,0 +1,71 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 2,
+    "chapter_title_en": "The Plant Fairy",
+    "chapter_title_hi": "पौधों की परी",
+    "ncert_code_en": "ceap102",
+    "ncert_code_hi": "chap102",
+    "theme_mapping": "Unit 2: Flora, Seeds, Forest Rights & Agriculture",
+    "unit_id": 2
+  },
+  "factual_entities": [
+    {
+      "name_en": "Leaves and Trunks",
+      "name_hi": "पत्तियाँ और तने",
+      "category": "Plant",
+      "attributes": [
+        "Leaves have diverse shapes, margins (straight, saw-toothed), colors, and smells",
+        "Lemon, mango, neem, tulsi, pudina, dhaniya identified by rubbing and smelling"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Vishnu Chinchalkar",
+      "role": "Artist",
+      "era": "20th Century (Indore, MP)",
+      "key_contributions": "Created famous artistic collages and animal pictures using dry fallen leaves"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Neighbourhood garden",
+      "region": "India",
+      "context": "Flora diversity"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Leaf Venation and Bark Rubbing",
+      "procedure": "Rubbing crayons over paper pressed on leaf veins or tree bark",
+      "findings": "Reveals surface texture and structural vein patterns"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [
+    {
+      "name": "Dry leaf collage art",
+      "category": "Craft",
+      "region": "Indore, MP",
+      "description": "Vishnu Chinchalkar's technique of dry leaf mosaics"
+    }
+  ],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Leaf margin types",
+      "value": "Smooth, serrated/saw-toothed, lobed"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Visual cues for tree bark rubbing, dry leaves collage art by Vishnu Chinchalkar"
+  ],
+  "key_vocabulary_bilingual": {
+    "Plant Fairy": "पौधों की परी",
+    "Trunk": "तना",
+    "Margin": "किनारा",
+    "Bark": "छाल",
+    "Rubbing": "छाप"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 2: 'The Plant Fairy' / 'पौधों की परी' covers Unit 2: Flora, Seeds, Forest Rights & Agriculture foundational facts, regional adaptations, and ecological concepts."
+}

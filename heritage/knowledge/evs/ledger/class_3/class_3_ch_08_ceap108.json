@@ -1,0 +1,54 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 8,
+    "chapter_title_en": "Flying High",
+    "chapter_title_hi": "पंख फैलाएं",
+    "ncert_code_en": "ceap108",
+    "ncert_code_hi": "chap108",
+    "theme_mapping": "Unit 1: Living World, Animal Behavior & Adaptations",
+    "unit_id": 1
+  },
+  "factual_entities": [
+    {
+      "name_en": "Avian Diversity, Beak Structures & Neck Mobility",
+      "name_hi": "पक्षी, चोंच की बनावट और गर्दन की गति",
+      "category": "Ornithology",
+      "attributes": [
+        "Peacock: National bird, iridescent crest and tail plumes, rain dance",
+        "Eagle/Hawk: Grooved tail, high-altitude flight, rodent predator",
+        "Parrot: Red hooked beak, green feathers, eats chillies/guava, vocal mimicry",
+        "Koel: Sings 'kuhoo-kuhoo', brood parasite laying eggs in crow nests",
+        "Vulture: Scavenger eating carrion, bald head, environmental sanitation",
+        "Woodpecker: Chisel beak boring tree trunks for insects",
+        "Owl: Rotates neck backwards to a large extent (~270 degrees), nocturnal",
+        "Myna: Moves neck back and forth with a jerk (झटके से गर्दन हिलाना)",
+        "Feathers: Provide aerodynamic lift, insulation, molting cycles"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Neck rotation comparison",
+      "value": "Owl = ~270° backward rotation; Myna = Jerky back-and-forth motion"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Beak types: Hooked (meat), Chisel (wood), Probe (nectar), Strainer (mud)"
+  ],
+  "key_vocabulary_bilingual": {
+    "Peacock": "मोर",
+    "Woodpecker": "कटफोड़वा",
+    "Owl": "उल्लू",
+    "Myna": "मैना",
+    "Vulture": "गिद्ध",
+    "Beak": "चोंच",
+    "Jerk": "झटका"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 8: 'Flying High' / 'पंख फैलाएं' covers Unit 1: Living World, Animal Behavior & Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

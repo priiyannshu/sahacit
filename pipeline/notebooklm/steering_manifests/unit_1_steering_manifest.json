@@ -1,0 +1,20 @@
+{
+  "unit_id": 1,
+  "unit_title": "Living World & Animals",
+  "source_document": "units/unit_1_living_world_animals.md",
+  "audio_overview_spec": {
+    "podcast_title": "CTET EVS Master Class — Unit 1: Living World & Animals",
+    "hosts": {
+      "host_a": "Lead Comparative Biologist",
+      "host_b": "Skeptical Naturalist"
+    },
+    "tone": "Conversational, highly factual, zero-hallucination, interactive debate",
+    "steering_prompt": "Debate animal sleeping extremes (Sloth 17h vs Elephant 2-4h), tiger night vision (6x), and only 4 poisonous snake species in India.",
+    "language_pair": "Bilingual (English with authentic Hindi NCERT terminology anchors)",
+    "anti_hallucination_guardrails": [
+      "Adhere strictly to canonical NCERT numerical invariants.",
+      "Do not extrapolate or introduce speculative biology.",
+      "State specific units of measurement clearly."
+    ]
+  }
+}

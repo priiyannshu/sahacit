@@ -1,0 +1,23 @@
+{
+  "chapter_title": "Water",
+  "book": "7th",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_water_cycle",
+      "label": "Water Cycle",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Process by which water continually changes form and circulates between oceans, atmosphere and land through evaporation, condensation, precipitation and run-off. Same water recycled for centuries.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "7th",
+      "chapter_title": "Water",
+      "chapter_file": "7th_ch05_water",
+      "year_approx": -280,
+      "temporal_type": "approx",
+      "pyq_ids": [],
+      "_parked_from": "ancient_classical"
+    }
+  ]
+}

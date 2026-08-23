@@ -1,0 +1,37 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 19,
+    "chapter_title_en": "Our Friends - Animals",
+    "chapter_title_hi": "हमारे साथी जानवर",
+    "ncert_code_en": "ceap119",
+    "ncert_code_hi": "chap119",
+    "theme_mapping": "Unit 1: Living World, Animal Behavior & Adaptations",
+    "unit_id": 1
+  },
+  "factual_entities": [
+    {
+      "name_en": "Faunal Coexistence & Biological Pest Control",
+      "name_hi": "जीव सह-अस्तित्व और जैविक कीट नियंत्रण",
+      "category": "Animal Care/Ecology",
+      "attributes": [
+        "Bird baths for summer hydration; Queen's mango orchard lesson: birds consume agricultural insect pests, maintaining orchard health"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Bird bath setup, ecological food web balance diagram"
+  ],
+  "key_vocabulary_bilingual": {
+    "Bird bath": "पक्षियों का जलपात्र",
+    "Pest control": "जैविक कीट नियंत्रण",
+    "Coexistence": "सह-अस्तित्व"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 19: 'Our Friends - Animals' / 'हमारे साथी जानवर' covers Unit 1: Living World, Animal Behavior & Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

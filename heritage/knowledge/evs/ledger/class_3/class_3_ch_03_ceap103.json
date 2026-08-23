@@ -1,0 +1,65 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 3,
+    "chapter_title_en": "Water O' Water!",
+    "chapter_title_hi": "पानी रे पानी!",
+    "ncert_code_en": "ceap103",
+    "ncert_code_hi": "chap103",
+    "theme_mapping": "Unit 5: Water Systems, Conservation & Historical Science",
+    "unit_id": 5
+  },
+  "factual_entities": [
+    {
+      "name_en": "Water Forms & Sources",
+      "name_hi": "जल के रूप और स्रोत",
+      "category": "Natural Resource",
+      "attributes": [
+        "Exists as liquid (rivers, lakes, taps), solid (ice, snow), gas (steam, water vapor)",
+        "Essential for drinking, agriculture, cooking, sanitation"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Shri Prasad",
+      "role": "Poet",
+      "era": "Modern",
+      "key_contributions": "Composed poem 'Water O' Water!' celebrating hydrological diversity"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "River, Lake, Spring, Waterfall",
+      "region": "Pan-India",
+      "context": "Freshwater sources"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "States of Water",
+      "procedure": "Freezing and heating water",
+      "findings": "Demonstrates three reversible states of matter"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Primary water sources",
+      "value": "Ponds, rivers, springs, tubewells, handpumps, bawris"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Water cycle illustrations, container capacity comparisons, traditional earthen water pots"
+  ],
+  "key_vocabulary_bilingual": {
+    "Water": "पानी/जल",
+    "Spring": "झरना",
+    "Snow": "बर्फ",
+    "Steam": "भाप",
+    "Drought": "सूखा",
+    "Flood": "बाढ़"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 3: 'Water O' Water!' / 'पानी रे पानी!' covers Unit 5: Water Systems, Conservation & Historical Science foundational facts, regional adaptations, and ecological concepts."
+}

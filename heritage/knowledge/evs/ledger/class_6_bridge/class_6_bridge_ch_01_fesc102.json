@@ -1,0 +1,62 @@
+{
+  "chapter_metadata": {
+    "grade": 6,
+    "subject": "Bridge Science & Geography",
+    "chapter_number": 1,
+    "chapter_title_en": "Components of Food",
+    "chapter_title_hi": "भोजन के घटक",
+    "ncert_code_en": "fesc102",
+    "ncert_code_hi": "fhsc102",
+    "theme_mapping": "Unit 3: Food, Digestion, Cooking & Vector Diseases",
+    "unit_id": 3
+  },
+  "factual_entities": [
+    {
+      "name_en": "Nutritional Biochemistry, Food Tests & Deficiency Diseases",
+      "name_hi": "पोषक तत्व, खाद्य परीक्षण और हीनताजन्य रोग",
+      "category": "Biochemistry / Nutrition",
+      "attributes": [
+        "Nutrients: Carbohydrates, Fats, Proteins, Vitamins, Minerals, Roughage, Water",
+        "Food Tests: 1. Starch: Dilute Iodine solution -> BLUE-BLACK; 2. Protein: 2 drops Copper Sulphate + 10 drops Caustic Soda -> VIOLET; 3. Fat: Oily translucent patch on paper",
+        "Deficiencies: Vit A -> Night blindness; Vit B1 -> Beriberi; Vit C -> Scurvy (bleeding gums); Vit D -> Rickets (soft/bent bones); Iodine -> Goitre (swollen neck); Iron -> Anaemia"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Iodine Starch Test",
+      "procedure": "Food + dilute Iodine -> Blue-black",
+      "findings": "Amylose detection"
+    },
+    {
+      "name": "Biuret Protein Test",
+      "procedure": "Food + CuSO4 + NaOH -> Violet",
+      "findings": "Peptide bond detection"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Starch test",
+      "value": "Iodine -> Blue-black"
+    },
+    {
+      "metric": "Protein test",
+      "value": "CuSO4 + NaOH -> Violet"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Biochemical test tube colors, rickets skeletal deformation"
+  ],
+  "key_vocabulary_bilingual": {
+    "Starch test": "मंड परीक्षण (आयोडीन -> नीला-काला)",
+    "Protein test": "प्रोटीन परीक्षण (कॉपर सल्फेट + कास्टिक सोडा -> बैंगनी)",
+    "Scurvy": "स्कर्वी (विटामिन C)",
+    "Rickets": "रिकेट्स (विटामिन D)",
+    "Beriberi": "बेरी-बेरी (विटामिन B1)",
+    "Goitre": "घेंघा (आयोडीन)"
+  },
+  "ncert_source_text_summary": "Class 6 Bridge Chapter 1: 'Components of Food' / 'भोजन के घटक' provides quantitative and scientific depth to Unit 3: Food, Digestion, Cooking & Vector Diseases."
+}

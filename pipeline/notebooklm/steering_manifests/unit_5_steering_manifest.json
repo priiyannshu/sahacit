@@ -1,0 +1,20 @@
+{
+  "unit_id": 5,
+  "unit_title": "Water Systems & History",
+  "source_document": "units/unit_5_water_systems_conservation.md",
+  "audio_overview_spec": {
+    "podcast_title": "CTET EVS Master Class — Unit 5: Water Systems & History",
+    "hosts": {
+      "host_a": "Civil Hydraulic Historian",
+      "host_b": "Fluid Physicist"
+    },
+    "tone": "Conversational, highly factual, zero-hallucination, interactive debate",
+    "steering_prompt": "Explore Al-Biruni's stepwell accounts from 11th century Uzbekistan, Ghadsisar 9-lake network, and Dead Sea 300g salt/L flotation.",
+    "language_pair": "Bilingual (English with authentic Hindi NCERT terminology anchors)",
+    "anti_hallucination_guardrails": [
+      "Adhere strictly to canonical NCERT numerical invariants.",
+      "Do not extrapolate or introduce speculative biology.",
+      "State specific units of measurement clearly."
+    ]
+  }
+}

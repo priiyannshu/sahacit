@@ -1,0 +1,57 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 1,
+    "chapter_title_en": "Poonam's Day Out",
+    "chapter_title_hi": "पूनम की दया",
+    "ncert_code_en": "ceap101",
+    "ncert_code_hi": "chap101",
+    "theme_mapping": "Unit 1: Living World, Animal Behavior & Adaptations",
+    "unit_id": 1
+  },
+  "factual_entities": [
+    {
+      "name_en": "Pond Animals",
+      "name_hi": "तालाब के जीव",
+      "category": "Animal",
+      "attributes": [
+        "Goat, tortoise, crane (बगुला), frog, buffalo, egret",
+        "Locomotion modes: flying, crawling, walking, hopping, swimming"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Local pond/garden",
+      "region": "Rural/Suburban India",
+      "context": "Freshwater habitat"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Animal Locomotion Observation",
+      "procedure": "Classifying animals by feet, wings, crawling, swimming",
+      "findings": "Different anatomical adaptations dictate movement"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Locomotion classification",
+      "value": "Wings (birds), 6 legs (insects), 4 legs (mammals)"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Drawings of crow, pigeon, squirrel, monkey, butterfly, frog on tree and in pond"
+  ],
+  "key_vocabulary_bilingual": {
+    "Pond": "तालाब",
+    "Crane": "बगुला",
+    "Tortoise": "कछुआ",
+    "Frog": "मेंढक",
+    "Locomotion": "चाल"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 1: 'Poonam's Day Out' / 'पूनम की दया' covers Unit 1: Living World, Animal Behavior & Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

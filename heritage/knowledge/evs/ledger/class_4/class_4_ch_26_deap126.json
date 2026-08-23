@@ -1,0 +1,63 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 26,
+    "chapter_title_en": "Defence Officer: Wahida",
+    "chapter_title_hi": "फौजी वहीदा",
+    "ncert_code_en": "deap126",
+    "ncert_code_hi": "dhap126",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Lt. Commander Wahida Prism & Naval Parade Command",
+      "name_hi": "लेफ्टिनेंट कमांडर वहीदा प्रिज्म और नौसेना परेड",
+      "category": "Armed Forces / Role Models",
+      "attributes": [
+        "Lt. Commander Wahida Prism: Naval Doctor from Thannamandi in Rajouri (J&K); first woman to lead a FULL PASSING OUT PARADE in Indian Armed Forces",
+        "Parade: Must give 36 COMMANDS in a loud clear voice across the entire parade ground",
+        "Name 'Prism': Named by father because a glass prism reflects and disperses 7 COLORS of light"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Wahida Prism",
+      "role": "Naval Medical Officer",
+      "era": "Born ~1972 (J&K)",
+      "key_contributions": "First woman to lead armed forces passing-out parade"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Thannamandi, Rajouri",
+      "region": "Jammu & Kashmir",
+      "context": "Poonch-Rajouri border district"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Parade commands",
+      "value": "36 continuous commands"
+    },
+    {
+      "metric": "Prism optical property",
+      "value": "Reflects and disperses 7 colors of light"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Photo of Naval Doctor Wahida Prism, prism light refraction diagram"
+  ],
+  "key_vocabulary_bilingual": {
+    "Wahida Prism": "वहीदा प्रिज्म (नौसेना में डॉक्टर)",
+    "Thannamandi": "थन्नामंडी (राजौरी, जम्मू-कश्मीर)",
+    "First woman parade leader": "पूरी परेड की कमान संभालने वाली पहली महिला",
+    "36 commands": "परेड में 36 कमान/निर्देश",
+    "Prism": "प्रिज्म (सात रंग दिखाने वाला कांच)"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 26: 'Defence Officer: Wahida' / 'फौजी वहीदा' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

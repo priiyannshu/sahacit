@@ -1,0 +1,98 @@
+{
+  "chapter_title": "India: Climate, Vegetation and Wildlife",
+  "book": "6th",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_india_monsoon",
+      "label": "Monsoon Climate of India",
+      "type": "climate_zone",
+      "subject": "geography",
+      "detail": "India's climate broadly described as monsoon type. Four seasons: Cold (Dec-Feb), Hot (Mar-May), SW Monsoon/Rainy (Jun-Sep), Retreating Monsoon/Autumn (Oct-Nov). Agriculture dependent on monsoon rains.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "6th",
+      "chapter_title": "India: Climate, Vegetation and Wildlife",
+      "chapter_file": "6th_ch08_india_climate_vegetation_and_wildlife",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_sw_monsoon",
+      "label": "Southwest Monsoon",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Moisture-laden winds blow from Arabian Sea and Bay of Bengal towards land during June-September. When striking mountain barriers, cause rainfall. Good monsoons mean bountiful crops.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "6th",
+      "chapter_title": "India: Climate, Vegetation and Wildlife",
+      "chapter_file": "6th_ch08_india_climate_vegetation_and_wildlife",
+      "year_approx": 502,
+      "temporal_type": "approx",
+      "pyq_ids": [],
+      "_parked_from": "ancient_classical"
+    },
+    {
+      "id": "geo_tropical_deciduous",
+      "label": "Tropical Deciduous Forests",
+      "type": "ecosystem",
+      "subject": "geography",
+      "detail": "Also called monsoon forests. Less dense, shed leaves at a particular time. Trees: sal, teak, peepal, neem, shisham. Found in MP, UP, Bihar, Jharkhand, Chhattisgarh, Odisha, Maharashtra.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "6th",
+      "chapter_title": "India: Climate, Vegetation and Wildlife",
+      "chapter_file": "6th_ch08_india_climate_vegetation_and_wildlife",
+      "year_approx": 502,
+      "temporal_type": "approx",
+      "pyq_ids": [],
+      "_parked_from": "ancient_classical"
+    },
+    {
+      "id": "geo_tropical_evergreen",
+      "label": "Tropical Evergreen Forests",
+      "type": "ecosystem",
+      "subject": "geography",
+      "detail": "Found in areas of heavy rainfall. So dense that sunlight doesn't reach ground. Trees like mahogany, ebony, rosewood. Found in Andaman-Nicobar, NE states, western slope of Western Ghats.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "6th",
+      "chapter_title": "India: Climate, Vegetation and Wildlife",
+      "chapter_file": "6th_ch08_india_climate_vegetation_and_wildlife",
+      "year_approx": 1226,
+      "temporal_type": "approx",
+      "pyq_ids": []
+    },
+    {
+      "id": "geo_mountain_vegetation",
+      "label": "Mountain Vegetation",
+      "type": "ecosystem",
+      "subject": "geography",
+      "detail": "Varies with altitude. Between 1500-2500m, conical coniferous trees like Chir, Pine, Deodar. Temperature decreases with height causing vegetation zonation.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "6th",
+      "chapter_title": "India: Climate, Vegetation and Wildlife",
+      "chapter_file": "6th_ch08_india_climate_vegetation_and_wildlife",
+      "year_approx": 1500,
+      "temporal_type": "approx",
+      "pyq_ids": []
+    }
+  ],
+  "parked_from": [
+    {
+      "from_era": "delhi_sultanate (mis-tagged)",
+      "parked_on": "2026-04-18",
+      "added_ids": [
+        "geo_tropical_evergreen",
+        "geo_mountain_vegetation"
+      ]
+    }
+  ]
+}

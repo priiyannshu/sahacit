@@ -1,0 +1,66 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 3,
+    "chapter_title_en": "A Day with Nandu",
+    "chapter_title_hi": "नन्दू हाथी",
+    "ncert_code_en": "deap103",
+    "ncert_code_hi": "dhap103",
+    "theme_mapping": "Unit 1: Living World, Animal Behavior & Adaptations",
+    "unit_id": 1
+  },
+  "factual_entities": [
+    {
+      "name_en": "Asian Elephant Herd Dynamics & Biology",
+      "name_hi": "हाथी का झुंड और जीव विज्ञान",
+      "category": "Mammal Biology",
+      "attributes": [
+        "Herd Leadership: An elephant herd has ONLY females and baby elephants; the OLDEST FEMALE (बुजुर्ग हथनी) is the leader of the herd",
+        "Herd Composition: 10 to 12 adult female elephants and young calves live together",
+        "Male Elephants: Male elephants stay in the herd only until they are 14 to 15 years old; then they leave the herd and wander alone",
+        "Daily Food Intake: An adult elephant eats MORE THAN 100 KILOGRAMS (1 QUINTAL) of leaves and twigs in one day",
+        "Sleep Duration: Elephants sleep very little — ONLY 2 TO 4 HOURS in a single day",
+        "Thermoregulation & Mud Bath: Elephants love to play in mud and water; mud keeps their skin cool; their huge flap-like ears act as fans to keep them cool",
+        "Calf Weight: A 3-month-old baby elephant (like Nandu) weighs around 200 KILOGRAMS (2 QUINTALS)"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Adult elephant daily food",
+      "value": "> 100 kg (leaves and twigs)"
+    },
+    {
+      "metric": "Adult elephant daily sleep",
+      "value": "2 to 4 hours per day"
+    },
+    {
+      "metric": "3-month-old elephant weight",
+      "value": "~200 kg (2 quintals)"
+    },
+    {
+      "metric": "Herd composition",
+      "value": "10-12 female elephants + calves"
+    },
+    {
+      "metric": "Male elephant exit age",
+      "value": "14 to 15 years"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Elephant herd hierarchy diagram, mud bath illustration, ear flapping thermoregulation cue"
+  ],
+  "key_vocabulary_bilingual": {
+    "Oldest female": "बुजुर्ग हथनी (झुंड की मुखिया)",
+    "Elephant sleep": "2 से 4 घंटे",
+    "Elephant diet": "100 किग्रा से अधिक पत्तियां",
+    "Calf weight": "200 किग्रा (3 महीने)",
+    "Mud bath": "कीचड़ और पानी में खेलना"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 3: 'A Day with Nandu' / 'नन्दू हाथी' covers Unit 1: Living World, Animal Behavior & Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

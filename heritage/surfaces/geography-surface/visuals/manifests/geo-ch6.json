@@ -1,0 +1,474 @@
+{
+  "chapter": 6,
+  "title": "What the rocks gave us",
+  "ncert_sources": [
+    "11th_p1_ch05_minerals_and_rocks",
+    "10th_ch05_minerals_and_energy_resources",
+    "8th_ch03_mineral_and_power_resources",
+    "12th_p1_ch07_mineral_and_energy_resources"
+  ],
+  "ncert_source_note": "Plan listed 12th_p2_ch07 but that chapter does not exist in geo_universe.json. Correct file is 12th_p1_ch07_mineral_and_energy_resources — verified by node lookup.",
+  "reference_sources": [],
+  "pending_references": ["leong", "majid-india", "oxford-atlas"],
+  "concepts": [
+    {
+      "id": "igneous-rock",
+      "label": "Igneous Rock",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_igneous_rock",
+      "what": "Rocks formed by cooling and solidification of magma or lava; intrusive types (granite) cool slowly underground, coarse-grained; extrusive types (basalt) cool fast at surface, fine-grained."
+    },
+    {
+      "id": "granite",
+      "label": "Granite",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_granite",
+      "what": "Coarse-grained intrusive igneous rock composed of quartz, feldspar, and mica; hard, light-coloured; forms continental interiors and ancient shields."
+    },
+    {
+      "id": "basalt",
+      "label": "Basalt",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_basalt",
+      "what": "Fine-grained extrusive igneous rock; dark, dense; poured out at surface; Deccan Plateau is basalt at continental scale — 66 Ma lava outpour, now parent of fertile black soils."
+    },
+    {
+      "id": "sedimentary-rock",
+      "label": "Sedimentary Rock",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_sedimentary_rock",
+      "what": "Formed by weathering, transport, deposition, and lithification of sediments; layered; fossil-bearing; hosts coal, oil, and natural gas in sedimentary basins."
+    },
+    {
+      "id": "sandstone",
+      "label": "Sandstone",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_sandstone",
+      "what": "Mechanically formed sedimentary rock of cemented sand grains (mainly quartz); common building stone."
+    },
+    {
+      "id": "limestone",
+      "label": "Limestone",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_limestone",
+      "what": "Organically formed sedimentary rock of calcium carbonate (CaCO3); raw material for cement and steelmaking flux; wide domestic distribution lowers transport costs."
+    },
+    {
+      "id": "metamorphic-rock",
+      "label": "Metamorphic Rock",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_metamorphic_rock",
+      "what": "Existing rocks transformed by heat and pressure without fully melting; marble from limestone, slate from shale, schist and gneiss from igneous rocks under mountain-building pressure."
+    },
+    {
+      "id": "marble",
+      "label": "Marble",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_marble",
+      "what": "Non-foliated metamorphic rock formed from limestone under heat and pressure; used in construction and sculpture."
+    },
+    {
+      "id": "slate",
+      "label": "Slate",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_slate",
+      "what": "Fine-grained foliated metamorphic rock from low-grade metamorphism of shale; splits into thin layers; used as roofing material."
+    },
+    {
+      "id": "rock-cycle",
+      "label": "Rock Cycle",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_rock_cycle",
+      "what": "Continuous process linking all three rock families — igneous weathers to sediment, which lithifies and may metamorphose, and eventually melts back to magma."
+    },
+    {
+      "id": "mineral",
+      "label": "Mineral",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch05_minerals_and_rocks:geo_mineral",
+      "what": "Naturally occurring inorganic substance with a definite chemical composition and characteristic physical properties; over 3,000 known; only a handful form common rocks."
+    },
+    {
+      "id": "ore-formation-processes",
+      "label": "Ore Formation Processes",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Geological processes concentrating minerals into economically viable deposits — hydrothermal deposition in fractures, sedimentary accumulation, weathering-residual concentration, placer deposits on coastlines."
+    },
+    {
+      "id": "mineral-types",
+      "label": "Mineral Classification",
+      "source": "ncert",
+      "ncert_node": "8th_ch03_mineral_and_power_resources:geo_mineral_types",
+      "what": "Three working categories — metallic (ferrous: iron, manganese, chromite; non-ferrous: copper, gold, bauxite); non-metallic (limestone, mica, gypsum, salt); energy minerals (coal, petroleum, uranium, thorium)."
+    },
+    {
+      "id": "world-mineral-distribution",
+      "label": "World Mineral Distribution",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "enhancement_target": true,
+      "what": "Global mineral map is a map of ancient geological events — Congo cobalt, South Africa gold/platinum/chromite/diamonds, Russia gas/nickel, Middle East petroleum, Australia iron/bauxite, Chile copper/lithium, China rare earths."
+    },
+    {
+      "id": "tethys-sea-petroleum",
+      "label": "Tethys Sea and Middle East Petroleum",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "leong",
+      "enhancement_target": true,
+      "what": "Ancient Tethys Sea separated Gondwana from Laurasia; shallow marine basins deposited organic material that became Middle East petroleum reserves after pressure-cooking under sediment."
+    },
+    {
+      "id": "mineral-belts",
+      "label": "India's Four Mineral Belts",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_mineral_belts",
+      "what": "NE Plateau (Chotanagpur — Gondwana shield), SW Plateau (Karnataka/Goa — Dharwar system), NW Belt (Aravalli — ancient non-ferrous), Himalayan Belt (under-explored); each belt reflects distinct geological history."
+    },
+    {
+      "id": "northeastern-plateau-belt",
+      "label": "North-Eastern Plateau Belt (Chotanagpur)",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_chota_nagpur",
+      "what": "Precambrian shield across Jharkhand, Odisha, Chhattisgarh, West Bengal; densest mineral zone in India — coal, iron ore, manganese, mica, bauxite, chromite, copper concentrated by 2 billion years of geological time."
+    },
+    {
+      "id": "singhbhum",
+      "label": "Singhbhum (Iron Ore and Copper)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Jharkhand district; primary location for iron ore and copper within the NE Plateau Belt; sits on Precambrian Dharwar-type basement rocks."
+    },
+    {
+      "id": "hazaribagh-kodarma-mica",
+      "label": "Hazaribagh-Kodarma Mica Belt",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_mica",
+      "what": "Districts in Jharkhand; produce India's highest-quality muscovite mica used in electrical and electronics insulation; India was world's leading mica exporter through the 20th century."
+    },
+    {
+      "id": "southwestern-plateau-belt",
+      "label": "South-Western Plateau Belt (Karnataka/Goa)",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_mineral_belts",
+      "what": "Iron ore at Kudremukh and Bellary-Hospet (Karnataka), gold at Kolar (closed 2001) and Hutti; Goa iron ore exported through Mormugao port to Japan and South Korea."
+    },
+    {
+      "id": "kolar-gold-mine",
+      "label": "Kolar Gold Mine",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "One of world's deepest gold mines, Karnataka; produced ore for over a century; closed 2001 after exhaustion; historically India's largest gold source."
+    },
+    {
+      "id": "northwestern-belt",
+      "label": "North-Western Belt (Aravalli)",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Aravalli Range through Rajasthan into Gujarat; among Earth's oldest fold mountains; non-ferrous metals from ancient hydrothermal processes — copper at Khetri, lead-zinc at Zawar and Rampura-Agucha."
+    },
+    {
+      "id": "khetri-copper",
+      "label": "Khetri Copper Mine",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Rajasthan; one of India's largest copper-mining complexes, in the Aravalli belt."
+    },
+    {
+      "id": "zawar-rampura-agucha",
+      "label": "Zawar and Rampura-Agucha Lead-Zinc Mines",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Rajasthan; Zawar is one of world's oldest continuously worked mines (ancient smelting evidence); Rampura-Agucha among world's largest zinc-lead deposits."
+    },
+    {
+      "id": "himalayan-mineral-belt",
+      "label": "Himalayan Mineral Belt",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "Under-explored — copper, lead, zinc, cobalt, tungsten identified in scattered pockets; young Himalayan erosion has not yet exposed deeper deposits; strategic future unwritten."
+    },
+    {
+      "id": "india-iron-ore",
+      "label": "India's Iron Ore",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_india_iron_ore",
+      "what": "India holds some of world's largest haematite reserves; among top global producers — Singhbhum (Jharkhand), Bailadila (Chhattisgarh), Kudremukh (Karnataka), Keonjhar-Sundergarh (Odisha leads production)."
+    },
+    {
+      "id": "bailadila",
+      "label": "Bailadila Iron Ore Complex",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_iron_ore",
+      "what": "Fourteen-deposit complex in Bastar hills, Chhattisgarh; much exported to Japan and South Korea under trade arrangements dating to the 1960s."
+    },
+    {
+      "id": "haematite-magnetite",
+      "label": "Haematite and Magnetite Grades",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Haematite — high iron content, found across Gondwana-shield zones (Jharkhand, Odisha, Chhattisgarh); magnetite — harder to process, found in Karnataka."
+    },
+    {
+      "id": "india-coal",
+      "label": "India's Coal",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_india_coal",
+      "what": "India among world's three largest coal producers; 98% is Gondwana coal (Permian, ~250 Ma); predominantly non-coking bituminous; fuels ~55% of electricity generation."
+    },
+    {
+      "id": "damodar-valley-coalfields",
+      "label": "Damodar Valley Coalfields",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_coal_india",
+      "what": "India's largest coalfield cluster — Raniganj (West Bengal), Jharia (Jharkhand, largest by reserve, underground fires burning over a century), Bokaro, Giridih."
+    },
+    {
+      "id": "gondwana-coal",
+      "label": "Gondwana Coal",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_coal_india",
+      "what": "Permian-age coal (~250 Ma) from buried Gondwana forests; 98% of India's reserves; in Damodar Valley and Mahanadi, Godavari, Wardha basins."
+    },
+    {
+      "id": "tertiary-coal",
+      "label": "Tertiary Coal (Northeast India)",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_coal_india",
+      "what": "Younger coal (15-20 Ma) in Assam, Meghalaya, Arunachal Pradesh; lower carbon content than Gondwana coal."
+    },
+    {
+      "id": "coking-coal-deficit",
+      "label": "India's Coking Coal Deficit",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "India imports millions of tonnes of coking coal annually; domestic coal is overwhelmingly non-coking bituminous; steelmaking requires coking coal that India's geology does not supply adequately."
+    },
+    {
+      "id": "india-mica",
+      "label": "Mica in India",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_india_mica",
+      "what": "India was world's leading mica exporter; Hazaribagh-Kodarma (Jharkhand) produces highest-quality muscovite; also Nellore (Andhra Pradesh) and Jaipur-Bhilwara-Udaipur (Rajasthan)."
+    },
+    {
+      "id": "bauxite-india",
+      "label": "Bauxite in India",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_bauxite",
+      "what": "Ore of aluminium found in laterite rocks; Odisha leads (Kalahandi, Sambalpur); also Jharkhand, Chhattisgarh, Maharashtra, Gujarat."
+    },
+    {
+      "id": "manganese-india",
+      "label": "Manganese in India",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_india_manganese",
+      "what": "Used in steel alloying and battery technology; mainly from Odisha, Karnataka, Madhya Pradesh."
+    },
+    {
+      "id": "limestone-distribution",
+      "label": "Limestone Distribution in India",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Widely distributed — Chhattisgarh, Madhya Pradesh, Andhra Pradesh, Rajasthan; proximity to cement plants and steel mills economically significant given limestone's low value-to-weight ratio."
+    },
+    {
+      "id": "gypsum-india",
+      "label": "Gypsum in India",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "Used in cement and fertiliser; mainly from Rajasthan."
+    },
+    {
+      "id": "salt-production-india",
+      "label": "Salt Production in India",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "Two sources — sea brine evaporation (Gujarat's Kutch coast is largest; Tamil Nadu coast) and lake brine from Sambhar lake (Rajasthan, largest inland salt lake in India)."
+    },
+    {
+      "id": "sambhar-lake",
+      "label": "Sambhar Lake",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Largest inland salt lake in India, Rajasthan; produces salt from lake brine evaporation; located in the North-Western Belt zone."
+    },
+    {
+      "id": "kerala-tn-beach-sands",
+      "label": "Kerala-Tamil Nadu Coastal Heavy Mineral Suite",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": "majid-india",
+      "enhancement_target": true,
+      "what": "Beach sands of Kerala-TN coast contain ilmenite and rutile (titanium sources), zircon, sillimanite, and monazite; concentrated by marine processes; legally a strategic resource."
+    },
+    {
+      "id": "monazite",
+      "label": "Monazite",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_nuclear_energy",
+      "what": "Mineral in Kerala-TN beach sands containing thorium and rare-earth elements; prescribed substance — only government bodies can process or export it."
+    },
+    {
+      "id": "thorium-nuclear-strategy",
+      "label": "India's Thorium-Based Nuclear Strategy",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_nuclear_energy",
+      "what": "India's three-stage nuclear programme designed to eventually use thorium as fuel; monazite sands hold one of world's largest known thorium reserves; current reactor technology cannot yet use it."
+    },
+    {
+      "id": "india-petroleum",
+      "label": "India's Petroleum",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_india_petroleum",
+      "what": "India imports ~85% of crude oil; geology is coal-rich and oil-poor; major fields — Digboi (Assam, 1889), Mumbai High (largest), KG basin, Cambay (Gujarat), Barmer (Rajasthan)."
+    },
+    {
+      "id": "digboi",
+      "label": "Digboi Oilfield",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_petroleum_india",
+      "what": "Assam; discovered 1889; one of world's oldest continuously worked oilfields; India's first oil discovery."
+    },
+    {
+      "id": "mumbai-high",
+      "label": "Mumbai High Offshore Field",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_india_petroleum",
+      "what": "India's largest producing oilfield in Arabian Sea; discovered 1974; accounted for ~40% of domestic crude at peak; reserves declining."
+    },
+    {
+      "id": "krishna-godavari-basin",
+      "label": "Krishna-Godavari Basin",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_natural_gas",
+      "what": "Major natural gas province offshore Andhra Pradesh (Reliance D6 block); emerged 2000s as significant gas source; part of India's eastern coastal energy zone."
+    },
+    {
+      "id": "natural-gas-india",
+      "label": "Natural Gas in India",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_india_natural_gas",
+      "what": "Same geography as petroleum — Mumbai High, KG basin, Cambay, Tripura, Rajasthan; GAIL built national pipeline network to move gas from producing areas to industrial consumers."
+    },
+    {
+      "id": "solar-energy-india",
+      "label": "Solar Energy in India",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_solar_potential",
+      "what": "~300 clear sunny days annually especially in Rajasthan and Gujarat; major parks — Bhadla (Rajasthan, Thar Desert), Pavagada (Karnataka), Kurnool (Andhra Pradesh)."
+    },
+    {
+      "id": "international-solar-alliance",
+      "label": "International Solar Alliance",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "India co-founded; headquartered at Gurugram; groups tropical countries to accelerate solar deployment; energy diplomacy rooted in India's high-insolation geography."
+    },
+    {
+      "id": "wind-energy-india",
+      "label": "Wind Energy in India",
+      "source": "ncert",
+      "ncert_node": "10th_ch05_minerals_and_energy_resources:geo_wind_power_india",
+      "what": "Strongest along southern peninsula coasts and Western Ghats passes; major farms — Muppandal (Tamil Nadu, largest in Asia), Jaisalmer, Kutch coast; 5th-largest installed wind capacity globally."
+    },
+    {
+      "id": "nuclear-energy-india",
+      "label": "Nuclear Energy in India",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_nuclear_energy",
+      "what": "Uranium at Jaduguda (Jharkhand, main mine) and Tummalapalle (Andhra Pradesh); limited uranium reserves; three-stage programme makes thorium the long-term fuel base."
+    },
+    {
+      "id": "jaduguda",
+      "label": "Jaduguda Uranium Mine",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "Main operational uranium mine in India, Singhbhum district, Jharkhand; only major uranium mining complex currently in operation."
+    },
+    {
+      "id": "geothermal-india",
+      "label": "Geothermal Energy in India",
+      "source": "ncert",
+      "ncert_node": "8th_ch03_mineral_and_power_resources:geo_geothermal_energy",
+      "what": "Sites at Manikaran (Himachal Pradesh) and Puga Valley (Ladakh); not commercially significant yet."
+    },
+    {
+      "id": "tidal-energy-india",
+      "label": "Tidal Energy in India",
+      "source": "ncert",
+      "ncert_node": "12th_p1_ch07_mineral_and_energy_resources:geo_non_conventional_energy",
+      "what": "Theoretically feasible in Gulf of Kutch and Gulf of Khambhat (large tidal ranges); no commercial plant exists."
+    },
+    {
+      "id": "adivasi-mineral-overlap",
+      "label": "Adivasi-Mineral Structural Overlap",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "India's Gondwana coal and Chotanagpur minerals are concentrated in Scheduled V tribal homelands — thin soils on ancient shield rock left land as forest; mining directly conflicts with Adivasi customary forest and land rights."
+    },
+    {
+      "id": "pesa-act-1996",
+      "label": "PESA Act 1996",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "Panchayats (Extension to Scheduled Areas) Act; extends gram sabha governance to Schedule V tribal areas; requires gram sabha consent for land acquisition in tribal regions."
+    },
+    {
+      "id": "forest-rights-act-2006",
+      "label": "Forest Rights Act 2006",
+      "source": "writer-ai",
+      "ncert_node": null,
+      "pending_reference": null,
+      "what": "Recognises forest rights of Scheduled Tribes and other traditional forest dwellers on land they have historically occupied; intended to remedy colonial-era dispossession of forest access."
+    }
+  ],
+  "forward_references": [
+    {"id": "deccan-plateau-basalt", "note": "basalt as parent of black cotton soils", "owned_by_chapter": 3},
+    {"id": "black-cotton-soil", "note": "regur — Deccan basalt weathering product", "owned_by_chapter": 7},
+    {"id": "laterite-soil", "note": "bauxite forms in laterite zones — intense tropical weathering residual", "owned_by_chapter": 7}
+  ],
+  "excluded": [
+    {"passage": "Opening 'Everything that India has ever built out of metal...'", "reason": "rhetorical frame establishing the chapter"},
+    {"passage": "'Before any of those things could exist, someone had to know...'", "reason": "motivational lead-in"},
+    {"passage": "'The chapter does not need to dwell on it longer than this...'", "reason": "tutor-voice transition"},
+    {"passage": "'Geology produced the wealth; politics determined who captured it.'", "reason": "reflective aside; Bellary context captured under southwestern-plateau-belt"},
+    {"passage": "'Every kilowatt of Indian thermal power... runs on a Permian forest...'", "reason": "rhetorical register — concept captured by gondwana-coal"},
+    {"passage": "'...a patience that only makes sense if you think in geological time.'", "reason": "rhetorical close on thorium — concept captured by thorium-nuclear-strategy"},
+    {"passage": "Final paragraph ('Minerals are what rocks contain...')", "reason": "cross-reference bridge to ch7"}
+  ],
+  "counts": {
+    "total": 58,
+    "ncert": 37,
+    "writer_ai": 21,
+    "forward_references": 3,
+    "pct_sourced": 64
+  }
+}

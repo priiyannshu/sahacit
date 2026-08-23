@@ -1,0 +1,57 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 5,
+    "chapter_title_en": "Chhotu's House",
+    "chapter_title_hi": "छोटू का घर",
+    "ncert_code_en": "ceap105",
+    "ncert_code_hi": "chap105",
+    "theme_mapping": "Unit 4: Shelter, Architecture & Climatic Adaptations",
+    "unit_id": 4
+  },
+  "factual_entities": [
+    {
+      "name_en": "Uninvited Household Organisms & Makeshift Housing",
+      "name_hi": "घर के बिन बुलाए जीव और अस्थायी आवास",
+      "category": "Shelter/Fauna",
+      "attributes": [
+        "Rats (poor vision, high olfactory and tactile sensitivity), lizards, spiders, mosquitoes",
+        "Chhotu transformed a large concrete pipe into a multi-utility shelter in Mumbai"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Mumbai",
+      "region": "Maharashtra",
+      "context": "Urban migration and shelter adaptation"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [
+    {
+      "name": "Rangoli",
+      "category": "Art",
+      "region": "India",
+      "description": "Floor and courtyard decoration"
+    }
+  ],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Rat senses",
+      "value": "Poor eyesight, acute smell, touch, and taste"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Concrete pipe home layout (cooking, sleeping, storage divisions)"
+  ],
+  "key_vocabulary_bilingual": {
+    "House": "घर",
+    "Concrete Pipe": "सीमेंट का पाइप",
+    "Uninvited Guests": "बिन बुलाए मेहमान",
+    "Rangoli": "रंगोली"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 5: 'Chhotu's House' / 'छोटू का घर' covers Unit 4: Shelter, Architecture & Climatic Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

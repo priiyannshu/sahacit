@@ -1,0 +1,55 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 10,
+    "chapter_title_en": "Walls Tell Stories",
+    "chapter_title_hi": "बोलती इमारतें",
+    "ncert_code_en": "eeap110",
+    "ncert_code_hi": "ehap110",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Golconda Fort Architecture, Metallurgy & Medieval Engineering",
+      "name_hi": "गोलकुंडा किला, धातु विज्ञान और मध्यकालीन जल अभियांत्रिकी",
+      "category": "Architectural History / Metallurgy",
+      "attributes": [
+        "Golconda Fort (Hyderabad, Telangana): Qutb Shahi Sultans (1518-1687); 87 BASTIONS (बुर्ज) with surveillance holes; Fateh Darwaza acoustic design",
+        "Aurangzeb's army camped 8 MONTHS outside fort; bronze cannon ('Neelam Top'); BRONZE IS AN ALLOY OF COPPER AND TIN (तांबा और टिन)",
+        "Persian bullock-gear water wheels lifted water to high palace gardens"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Golconda Fort, Hyderabad",
+      "region": "Telangana",
+      "context": "Medieval Deccan architecture"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Bastions count",
+      "value": "87 bastions"
+    },
+    {
+      "metric": "Siege duration",
+      "value": "8 months"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Golconda bastion layout, bronze cannon, Persian water wheel"
+  ],
+  "key_vocabulary_bilingual": {
+    "Golconda Fort": "गोलकुंडा किला (हैदराबाद, तेलंगाना)",
+    "Bastions": "बुर्ज (87 बुर्ज)",
+    "Bronze alloy": "कांसा (तांबा और टिन का मिश्रण)",
+    "Qutb Shahi": "कुतुबशाही सुल्तान (1518-1687)"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 10: 'Walls Tell Stories' / 'बोलती इमारतें' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

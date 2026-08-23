@@ -1,0 +1,200 @@
+{
+  "chapter_title": "Climate",
+  "book": "11th_p2",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_climate_regions_india",
+      "label": "India's Climatic Regions",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Koppen classification for India: A (tropical wet, Kerala/NE), Aw (tropical savanna, most of peninsula), BS (semi-arid, Rajasthan/Gujarat), BW (arid, Thar), Cwg (humid subtropical, Gangetic plains), Dfc (cold humid, Himalayan region), ET (tundra, highest Himalayas). India spans multiple climate zones due to its geographic diversity.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "year_approx": -10000,
+      "temporal_type": "approx",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": "prehistoric (mis-tagged)"
+    },
+    {
+      "id": "geo_indian_monsoon",
+      "label": "Indian Monsoon",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Seasonal wind system bringing about 75% of India's annual rainfall between June-September. Southwest monsoon is driven by: ITCZ shift over Gangetic plain, differential heating of land and sea, cross-equatorial flow from Southern Hemisphere, subtropical jet stream withdrawal, and Somali jet. Two branches: Arabian Sea and Bay of Bengal.",
+      "pyq_count": 4,
+      "importance": "critical",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [
+        1782,
+        1832,
+        1926,
+        1944
+      ],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_monsoon_onset",
+      "label": "Monsoon Onset (Burst)",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Monsoon arrives at Kerala coast around June 1 with sudden heavy rainfall (monsoon burst). Advances in two branches: Arabian Sea branch (along Western Ghats, then Gujarat) and Bay of Bengal branch (northeast India, then up the Ganga valley). Covers entire country by mid-July. Onset marked by sharp temperature drop and continuous rainfall.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_arabian_sea_branch",
+      "label": "Arabian Sea Branch of Monsoon",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Branch of the southwest monsoon from the Arabian Sea. Hits Kerala coast first (June 1), moves northward along Western Ghats causing heavy orographic rainfall on windward side. Further splits: one part toward Gujarat-Rajasthan (blocked by Aravallis), another toward Ganga plain from the west. Carries more moisture than Bay of Bengal branch.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_bay_of_bengal_branch",
+      "label": "Bay of Bengal Branch of Monsoon",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Branch of southwest monsoon from Bay of Bengal. Strikes northeast India first (early June), deflected westward by the Himalayas through the Ganga plain. Brings maximum rainfall to the eastern Himalayas (Mawsynram: wettest place on earth, ~11,871mm). Progressively weakens moving westward as moisture depletes.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_monsoon_break",
+      "label": "Monsoon Break",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Period during the monsoon season when rainfall pauses for days or weeks over a region. Caused by northward shift of the monsoon trough to the foothills of the Himalayas. During breaks, rainfall occurs in hill areas while plains experience dry spells. Can cause drought-like conditions if prolonged. Linked to ITCZ oscillation.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_mawsynram",
+      "label": "Mawsynram (Wettest Place)",
+      "type": "place",
+      "subject": "geography",
+      "detail": "Village in East Khasi Hills, Meghalaya - wettest place on earth with average annual rainfall of about 11,871mm. Located on the windward side of Khasi Hills where Bay of Bengal branch of monsoon is forced to rise over the plateau. Nearby Cherrapunji (Sohra) was previously considered wettest. Funnel-shaped topography intensifies rainfall.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_subtropical_jet",
+      "label": "Subtropical Westerly Jet Stream over India",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Upper-level wind blowing from west to east south of the Himalayas during winter. Drives western disturbances bringing winter rainfall to north India. Shifts north of the Himalayas in June, which is a key trigger for monsoon onset. Reappears south of Himalayas in October, coinciding with monsoon withdrawal.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_somali_jet",
+      "label": "Somali Jet (Findlater Jet)",
+      "type": "phenomenon",
+      "subject": "geography",
+      "detail": "Low-level cross-equatorial jet stream blowing from East Africa across the Arabian Sea to India during summer monsoon. Named after Joseph Findlater. Carries moisture from the Indian Ocean to India. Drives the Arabian Sea branch of the monsoon. Linked to the Somali Current causing upwelling off East Africa. Crucial for monsoon strength.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    },
+    {
+      "id": "geo_monsoon_mechanism",
+      "label": "Monsoon Mechanism (Theories)",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Multiple factors explain the Indian monsoon: (1) Differential heating of land and sea, (2) Northward shift of ITCZ over Gangetic plain in summer, (3) Cross-equatorial flow (Somali Jet), (4) Tibetan Plateau heating creating an upper-level anticyclone, (5) Subtropical jet shift, (6) El Nino/La Nina and IOD influence. No single factor fully explains it.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "11th_p2",
+      "chapter_title": "Climate",
+      "chapter_file": "11th_p2_ch04_climate",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -994
+      }
+    }
+  ]
+}

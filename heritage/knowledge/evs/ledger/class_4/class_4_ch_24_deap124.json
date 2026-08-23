@@ -1,0 +1,59 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 24,
+    "chapter_title_en": "Home and Abroad",
+    "chapter_title_hi": "दूर देश की बात",
+    "ncert_code_en": "deap124",
+    "ncert_code_hi": "dhap124",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Comparative Geography: Abu Dhabi (UAE) vs Kerala (India)",
+      "name_hi": "तुलनात्मक भूगोल: अबू धाबी (यूएई) बनाम केरल (भारत)",
+      "category": "International Geography",
+      "attributes": [
+        "Abu Dhabi (UAE): Desert with sand dunes; extremely hot; air-conditioned sealed buildings; loose cotton clothes with head covered; rain is very scarce; WATER IS SCARCER AND MORE EXPENSIVE THAN PETROL (petroleum is found underground); dominant tree is DATE PALM (खजूर); currency is DIRHAM (दिरहम) with Arabic script; flight takes ~2 hours from India",
+        "Kerala: Lush greenery, coconut/banana trees, abundant monsoon rains, Indian Rupee currency"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Abu Dhabi (UAE) & Kerala (India)",
+      "region": "Middle East / South India",
+      "context": "Desert petroleum ecology vs Tropical monsoon ecology"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Abu Dhabi currency",
+      "value": "Dirham (दिरहम)"
+    },
+    {
+      "metric": "Desert flora dominance",
+      "value": "Date Palm (खजूर)"
+    },
+    {
+      "metric": "Fluid economics",
+      "value": "Petrol is cheaper than drinking water underground"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Sand dunes photos, date palms, Dirham coins and notes with Arabic script"
+  ],
+  "key_vocabulary_bilingual": {
+    "Abu Dhabi": "अबू धाबी (संयुक्त अरब अमीरात - यूएई)",
+    "Dirham": "दिरहम (अबू धाबी की मुद्रा)",
+    "Sand dunes": "रेत के टीले",
+    "Date Palm": "खजूर का पेड़",
+    "Petrol cheaper than water": "पेट्रोल पानी से सस्ता"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 24: 'Home and Abroad' / 'दूर देश की बात' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

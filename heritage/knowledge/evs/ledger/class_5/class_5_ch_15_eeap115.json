@@ -1,0 +1,56 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 15,
+    "chapter_title_en": "Blow Hot, Blow Cold",
+    "chapter_title_hi": "उसी से ठंडा, उसी से गर्म",
+    "ncert_code_en": "eeap115",
+    "ncert_code_hi": "ehap115",
+    "theme_mapping": "Unit 4: Shelter, Architecture & Climatic Adaptations",
+    "unit_id": 4
+  },
+  "factual_entities": [
+    {
+      "name_en": "Respiratory Thermodynamics & Dr. Zakir Hussain's Story",
+      "name_hi": "श्वसन ऊष्मागतिकी और डॉ. जाकिर हुसैन की कहानी",
+      "category": "Thermal Physics",
+      "attributes": [
+        "Story by Dr. Zakir Hussain (Former President of India); Woodcutter and Mian Balishtiye; Exhaled breath warms cold hands (breath warmer than winter air) and cools hot potatoes (forced convection); Stethoscope listens to heartbeat; Wind instruments (Flute, Shehnai, Been, Tumba)"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Dr. Zakir Hussain",
+      "role": "President of India / Author",
+      "era": "1897–1969",
+      "key_contributions": "Wrote educational scientific stories"
+    }
+  ],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Mirror Breath Condensation",
+      "procedure": "Exhaling on cool mirror",
+      "findings": "Condensation of water vapor in breath"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Core body temp",
+      "value": "37°C"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Mian Balishtiye, stethoscope, paper convection snake"
+  ],
+  "key_vocabulary_bilingual": {
+    "Dr. Zakir Hussain": "डॉ. जाकिर हुसैन",
+    "Blow Hot Blow Cold": "उसी से ठंडा, उसी से गर्म",
+    "Mian Balishtiye": "मियां बालिश्तिए",
+    "Stethoscope": "स्टेथोस्कोप"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 15: 'Blow Hot, Blow Cold' / 'उसी से ठंडा, उसी से गर्म' covers Unit 4: Shelter, Architecture & Climatic Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

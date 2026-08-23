@@ -1,0 +1,22 @@
+{
+  "chapter_title": "The Making of Regional Cultures",
+  "book": "7th",
+  "subject": "history",
+  "nodes": [
+    {
+      "id": "hist_classical_dances",
+      "label": "Classical Dance Forms",
+      "type": "concept",
+      "subject": "history",
+      "detail": "Six recognised classical forms: Bharatanatyam (Tamil Nadu), Kathakali (Kerala), Odissi (Odisha), Kuchipudi (Andhra Pradesh), Manipuri (Manipur) and Kathak (north India). Many 'folk' forms share similar characteristics.",
+      "pyq_count": 2,
+      "importance": "high",
+      "year": null,
+      "chapter_file": "7th_ch09_the_making_of_regional_cultures",
+      "book": "7th",
+      "chapter_title": "The Making of Regional Cultures",
+      "_parked_from": "early_medieval",
+      "era": null
+    }
+  ]
+}

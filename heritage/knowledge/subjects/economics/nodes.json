@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eco_inflation_control",
+    "subject": "economics",
+    "topic": "Monetary Policy",
+    "title": "Inflation & Price Stability",
+    "summary": "Mechanisms used by central banks (such as RBI repo rate adjustments) to maintain price stability and manage economic growth.",
+    "canonical_facts": [
+      "Inflation targets in India are set by the Monetary Policy Committee (MPC) at 4% +/- 2%.",
+      "Demand-pull inflation occurs when aggregate demand exceeds supply capacity.",
+      "Cost-push inflation stems from supply shocks like rising oil or raw material prices."
+    ]
+  },
+  {
+    "id": "eco_fiscal_policy",
+    "subject": "economics",
+    "topic": "Macroeconomics",
+    "title": "Fiscal Policy & Budgeting",
+    "summary": "Use of government spending, taxation, and borrowing to influence economy-level aggregate demand and redistribution.",
+    "canonical_facts": [
+      "FRBM Act targets fiscal deficit reduction to maintain macroeconomic sustainability.",
+      "Capital expenditure creates long-term revenue-generating public assets.",
+      "Revenue deficit represents excess of routine operational expenditure over receipts."
+    ]
+  }
+]

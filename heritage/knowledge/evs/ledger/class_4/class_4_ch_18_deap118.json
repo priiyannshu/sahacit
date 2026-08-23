@@ -1,0 +1,56 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 18,
+    "chapter_title_en": "Too Much Water, Too Little Water",
+    "chapter_title_hi": "पानी कहीं ज्यादा, कहीं कम",
+    "ncert_code_en": "deap118",
+    "ncert_code_hi": "dhap118",
+    "theme_mapping": "Unit 5: Water Systems, Conservation & Historical Science",
+    "unit_id": 5
+  },
+  "factual_entities": [
+    {
+      "name_en": "Water Sanitation, ORS Preparation & Bhima Sangh",
+      "name_hi": "जल स्वच्छता, ओआरएस का घोल और भीमा संघ",
+      "category": "Public Health / Community Action",
+      "attributes": [
+        "Contaminated municipal pipelines in Cuffe Parade (Mumbai) causing diarrhea and vomiting",
+        "ORS (Oral Rehydration Solution): 1 glass boiled cooled water + 1 teaspoon sugar + 1 pinch of salt (एक चुटकी नमक); prevents dehydration",
+        "Bhima Sangh: Children's Panchayat in HOLGUNDI village in KARNATAKA; cleaned debris, repaired hill tank, revived dried groundwater aquifers"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Holgundi (Karnataka), Nalgonda (AP), Mumbai",
+      "region": "South & West India",
+      "context": "Water crisis and youth ecological restoration"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "ORS Formulation",
+      "procedure": "1 glass boiled water + 1 tsp sugar + 1 pinch salt",
+      "findings": "Restores cellular electrolyte balance"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "ORS formulation",
+      "value": "1 glass boiled water + 1 tsp sugar + 1 pinch salt"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Bhima Sangh hill tank restoration, step-by-step ORS preparation chart"
+  ],
+  "key_vocabulary_bilingual": {
+    "ORS solution": "ओआरएस (1 गिलास उबला पानी + 1 चम्मच चीनी + 1 चुटकी नमक)",
+    "Bhima Sangh": "भीमा संघ (होलगुंडी, कर्नाटक - बच्चों की पंचायत)",
+    "Holgundi": "होलगुंडी (कर्नाटक)"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 18: 'Too Much Water, Too Little Water' / 'पानी कहीं ज्यादा, कहीं कम' covers Unit 5: Water Systems, Conservation & Historical Science foundational facts, regional adaptations, and ecological concepts."
+}

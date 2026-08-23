@@ -1,0 +1,59 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 1,
+    "chapter_title_en": "Going to School",
+    "chapter_title_hi": "चलो, चलें स्कूल!",
+    "ncert_code_en": "deap101",
+    "ncert_code_hi": "dhap101",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Regional Modes of School Commute",
+      "name_hi": "स्कूल पहुँचने के साधन",
+      "category": "Transport Adaptation",
+      "attributes": [
+        "Bamboo Bridge (बांस का पुल): Assam (heavy rain, water knee-high; children carry books in one hand and hold bamboo with other)",
+        "Trolley (ट्रॉली - Open wooden box): Ladakh (wide and deep river; strong iron rope tied across two rocks/trees; pulley runs on rope; 4-5 children sit in trolley)",
+        "Cement Bridge (सीमेंट का पुल): Plains and rivers (made of bricks, cement, iron rods; has steps)",
+        "Vallam (वल्लम - Small wooden boat): Kerala (to reach school across rivers/backwaters)",
+        "Camel-cart (ऊँट-गाड़ी): Rajasthan (desert sand is very hot in daytime)",
+        "Bullock-cart (बैलगाड़ी): Plains/villages (moving slowly through green fields; use umbrellas in rain or sun)",
+        "Bicycle ride (साइकिल की सवारी): Long roads from distant villages to school",
+        "Jugaad (जुगाड़): Gujarat (front looks like a motorcycle, back made of wooden planks; goes phat-phat-phat; made by putting together available materials)",
+        "Moving on Snow: Northern Hills (walking holding hands carefully; if snow is soft, feet sink; if snow is frozen, may slip and fall)",
+        "Rocky Paths (उबड़-खाबड़ पथरीले रास्ते): Uttarakhand (children living in plains find it difficult, but mountain children easily race up and down)"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Assam, Ladakh, Kerala, Rajasthan, Gujarat, Uttarakhand, Northern Hills",
+      "region": "Pan-India",
+      "context": "Geographical terrains affecting daily student commute"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Trolley capacity",
+      "value": "4 to 5 children cross wide river using pulley on iron rope"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Drawings: Bamboo bridge in Assam, Trolley in Ladakh, Vallam boat in Kerala, Jugaad vehicle in Gujarat"
+  ],
+  "key_vocabulary_bilingual": {
+    "Bamboo Bridge": "बांस का पुल (असम)",
+    "Trolley": "ट्रॉली (लद्दाख)",
+    "Vallam": "वल्लम - छोटी लकड़ी की नाव (केरल)",
+    "Jugaad": "जुगाड़ (गुजरात)",
+    "Camel Cart": "ऊँट-गाड़ी (राजस्थान)"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 1: 'Going to School' / 'चलो, चलें स्कूल!' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

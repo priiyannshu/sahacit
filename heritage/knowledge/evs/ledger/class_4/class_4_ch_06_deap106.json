@@ -1,0 +1,53 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 6,
+    "chapter_title_en": "Omana's Journey",
+    "chapter_title_hi": "ओमाना का सफ़र",
+    "ncert_code_en": "deap106",
+    "ncert_code_hi": "dhap106",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Railway Travel & Station Geography",
+      "name_hi": "रेल यात्रा और स्टेशन का भूगोल",
+      "category": "Travel / Railway Systems",
+      "attributes": [
+        "Journey Start: Omana and Radha from Gandhidham (Kutch, Gujarat) traveling to Kerala (Kottayam)",
+        "Station Scene: Coolies carrying luggage in red shirts with brass armbands; ticket checker checking tickets for seat confirmation",
+        "Foods at Gujarat stations: Dhokla with chutney, lemon rice, fafda, jalebi, batata vada"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Gandhidham (Kutch), Ahmedabad, Valsad (Gujarat)",
+      "region": "Gujarat",
+      "context": "Western railway corridor"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [
+    {
+      "name": "Gujarati railway snacks",
+      "category": "Food",
+      "region": "Gujarat",
+      "description": "Dhokla, Khandvi, Lemon rice, Batata vada"
+    }
+  ],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Train carriage layout, ticket examiner checking chart, platform coolie uniforms"
+  ],
+  "key_vocabulary_bilingual": {
+    "Gandhidham": "गांधीधाम (कच्छ, गुजरात)",
+    "Dhokla": "ढोकला चटनी",
+    "Coolie": "कुली",
+    "Ticket Examiner": "टिकट चेकर (TTE)"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 6: 'Omana's Journey' / 'ओमाना का सफ़र' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

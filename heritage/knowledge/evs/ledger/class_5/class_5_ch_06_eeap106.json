@@ -1,0 +1,76 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 6,
+    "chapter_title_en": "Every Drop Counts",
+    "chapter_title_hi": "बूँद-बूँद, दरिया-दरिया",
+    "ncert_code_en": "eeap106",
+    "ncert_code_hi": "ehap106",
+    "theme_mapping": "Unit 5: Water Systems, Conservation & Historical Science",
+    "unit_id": 5
+  },
+  "factual_entities": [
+    {
+      "name_en": "Ghadsisar Lake, Stepwells (Bawris), Al-Biruni & Johads",
+      "name_hi": "घड़सीसर झील, बावड़ी, अल-बिरूनी और जोहड़",
+      "category": "Historical Water Architecture / Hydrology",
+      "attributes": [
+        "Ghadsisar: Built 650 years ago by King Ghadsi of Jaisalmer (Rajasthan); 9 interconnected lakes filling sequentially from rain runoff",
+        "Al-Biruni: Traveler from UZBEKISTAN who visited India 1000+ years ago (11th century); praised Indian stone chabutras and stepwells with separate ascending/descending stairs; stamp issued in 1973",
+        "Stepwells (Bawri): Multi-tiered underground stepwells for groundwater access",
+        "Tarun Bharat Sangh & Darki Mai (Alwar, Rajasthan): Built community Johads (check dams) reviving dried aquifers and pastures"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Al-Biruni",
+      "role": "Traveler/Historian",
+      "era": "973–1050 AD (Uzbekistan)",
+      "key_contributions": "Documented 11th-century Indian hydraulic architecture and stepwells"
+    },
+    {
+      "name": "Darki Mai & Rajendra Singh",
+      "role": "Water Activists",
+      "era": "Contemporary",
+      "key_contributions": "Revived Rajasthan desert water harvesting with Johads"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Jaisalmer, Alwar",
+      "region": "Rajasthan",
+      "context": "Traditional desert water systems"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [
+    {
+      "name": "Johad Construction",
+      "category": "Traditional Engineering",
+      "region": "Rajasthan",
+      "description": "Earthen check dams holding monsoon runoff"
+    }
+  ],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Ghadsisar lake count",
+      "value": "9 interconnected lakes"
+    },
+    {
+      "metric": "Al-Biruni arrival",
+      "value": "> 1000 years ago"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Bawri stepwell cross-section, Ghadsisar 9-lake network, Al-Biruni stamp"
+  ],
+  "key_vocabulary_bilingual": {
+    "Ghadsisar": "घड़सीसर (जैसलमेर, राजस्थान - 9 जुड़ी हुई झीलें)",
+    "Al-Biruni": "अल-बिरूनी (उज्बेकिस्तान का यात्री - 1000 वर्ष पूर्व)",
+    "Bawri": "बावड़ी (सीढ़ीदार कुआँ)",
+    "Tarun Bharat Sangh": "तरुण भारत संघ (दड़की माई - जोहड़ निर्माण)"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 6: 'Every Drop Counts' / 'बूँद-बूँद, दरिया-दरिया' covers Unit 5: Water Systems, Conservation & Historical Science foundational facts, regional adaptations, and ecological concepts."
+}

@@ -1,0 +1,26 @@
+{
+  "chapter_title": "Minerals and Energy Resources",
+  "book": "10th",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_india_iron_ore",
+      "label": "Iron Ore in India",
+      "type": "resource",
+      "subject": "geography",
+      "detail": "India has high-grade magnetite and haematite deposits. Major belts: Odisha-Jharkhand (25% of reserves), Durg-Bastar-Chandrapur, Bellary-Chitradurga-Tumkur (Karnataka), Goa-Maharashtra. India among top producers.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "10th",
+      "chapter_title": "Minerals and Energy Resources",
+      "chapter_file": "10th_ch05_minerals_and_energy_resources",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -1000
+      }
+    }
+  ]
+}

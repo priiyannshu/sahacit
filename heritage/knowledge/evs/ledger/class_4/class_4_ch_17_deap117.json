@@ -1,0 +1,48 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 17,
+    "chapter_title_en": "Nandita in Mumbai",
+    "chapter_title_hi": "नंदिता मुम्बई में",
+    "ncert_code_en": "deap117",
+    "ncert_code_hi": "dhap117",
+    "theme_mapping": "Unit 4: Shelter, Architecture & Climatic Adaptations",
+    "unit_id": 4
+  },
+  "factual_entities": [
+    {
+      "name_en": "Urban Housing Disparities",
+      "name_hi": "शहरी आवास और झुग्गी-झोपड़ी",
+      "category": "Urban Sociology",
+      "attributes": [
+        "Contrast between single-room chawl with shared public street tap and 35th-floor luxury apartment with running water and elevator"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Mumbai, Maharashtra",
+      "region": "Maharashtra",
+      "context": "Urban shelter contrast"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Apartment floor",
+      "value": "35th floor"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Chawl layout vs high-rise apartment view"
+  ],
+  "key_vocabulary_bilingual": {
+    "Chawl": "चाल / झुग्गी",
+    "Public tap": "सार्वजनिक नल",
+    "Elevator": "लिफ्ट"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 17: 'Nandita in Mumbai' / 'नंदिता मुम्बई में' covers Unit 4: Shelter, Architecture & Climatic Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

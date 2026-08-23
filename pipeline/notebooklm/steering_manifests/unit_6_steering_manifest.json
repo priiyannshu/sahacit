@@ -1,0 +1,20 @@
+{
+  "unit_id": 6,
+  "unit_title": "Travel, Culture & Space",
+  "source_document": "units/unit_6_travel_culture_space.md",
+  "audio_overview_spec": {
+    "podcast_title": "CTET EVS Master Class — Unit 6: Travel, Culture & Space",
+    "hosts": {
+      "host_a": "Cultural Historian",
+      "host_b": "Spaceflight Biographer"
+    },
+    "tone": "Conversational, highly factual, zero-hallucination, interactive debate",
+    "steering_prompt": "Profile Bachendri Pal's Everest summit (8848m on 23 May 1984), Sunita Williams zero gravity in orbit, and Pochampally silk weaving.",
+    "language_pair": "Bilingual (English with authentic Hindi NCERT terminology anchors)",
+    "anti_hallucination_guardrails": [
+      "Adhere strictly to canonical NCERT numerical invariants.",
+      "Do not extrapolate or introduce speculative biology.",
+      "State specific units of measurement clearly."
+    ]
+  }
+}

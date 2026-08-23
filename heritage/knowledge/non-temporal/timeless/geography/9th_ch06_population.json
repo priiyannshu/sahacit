@@ -1,0 +1,50 @@
+{
+  "chapter_title": "Population",
+  "book": "9th",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_india_age_structure",
+      "label": "Age Structure of India",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "0-14 years: 29%, 15-64 years: 64%, 65+: 7%. Large young population means growing labour force. Declining dependency ratio. Demographic dividend opportunity. But needs investment in education and health.",
+      "pyq_count": 4,
+      "importance": "high",
+      "book": "9th",
+      "chapter_title": "Population",
+      "chapter_file": "9th_ch06_population",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [
+        1489,
+        1496,
+        1497,
+        1524
+      ],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -1000
+      }
+    },
+    {
+      "id": "geo_demographic_dividend",
+      "label": "Demographic Dividend",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Economic growth potential from large proportion of working-age population (15-64 years). India has window of opportunity. Requires investment in health, education and skill development to realize the benefit.",
+      "pyq_count": 2,
+      "importance": "high",
+      "book": "9th",
+      "chapter_title": "Population",
+      "chapter_file": "9th_ch06_population",
+      "year_approx": 500,
+      "temporal_type": "approx",
+      "pyq_ids": [
+        1487,
+        1489
+      ],
+      "_parked_from": "ancient_classical"
+    }
+  ]
+}

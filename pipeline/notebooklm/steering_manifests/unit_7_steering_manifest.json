@@ -1,0 +1,20 @@
+{
+  "unit_id": 7,
+  "unit_title": "Quantitative & Spatial Bridge",
+  "source_document": "units/unit_7_quantitative_spatial_bridge.md",
+  "audio_overview_spec": {
+    "podcast_title": "CTET EVS Master Class — Unit 7: Quantitative & Spatial Bridge",
+    "hosts": {
+      "host_a": "Cartography Specialist",
+      "host_b": "Quantitative Logic Coach"
+    },
+    "tone": "Conversational, highly factual, zero-hallucination, interactive debate",
+    "steering_prompt": "Guide through step-by-step map scale calculation (1 cm = 110 m), train average speed formulas, and Indian coastal states geography.",
+    "language_pair": "Bilingual (English with authentic Hindi NCERT terminology anchors)",
+    "anti_hallucination_guardrails": [
+      "Adhere strictly to canonical NCERT numerical invariants.",
+      "Do not extrapolate or introduce speculative biology.",
+      "State specific units of measurement clearly."
+    ]
+  }
+}

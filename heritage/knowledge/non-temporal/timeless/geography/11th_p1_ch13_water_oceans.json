@@ -1,0 +1,63 @@
+{
+  "chapter_title": "Water (Oceans)",
+  "book": "11th_p1",
+  "subject": "geography",
+  "nodes": [
+    {
+      "id": "geo_pacific_ocean",
+      "label": "Pacific Ocean",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Largest and deepest ocean covering about one-third of earth's surface. Contains the deepest point - Mariana Trench (11,034 m). Surrounded by the Ring of Fire with active volcanic and earthquake zones. Circular ocean current systems (gyres). El Nino and La Nina occur in the equatorial Pacific.",
+      "pyq_count": 1,
+      "importance": "high",
+      "book": "11th_p1",
+      "chapter_title": "Water (Oceans)",
+      "chapter_file": "11th_p1_ch13_water_oceans",
+      "year_approx": -3996,
+      "temporal_type": "approx",
+      "era": null,
+      "pyq_ids": [
+        1701
+      ],
+      "_migrated_from": "prehistoric (mis-tagged)"
+    },
+    {
+      "id": "geo_atlantic_ocean",
+      "label": "Atlantic Ocean",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Second largest ocean, S-shaped, separating Americas from Europe and Africa. Mid-Atlantic Ridge runs through its center. Most commercially important ocean with busiest shipping routes. Receives most of the world's river water. Gulf Stream and North Atlantic Drift moderate climate of western Europe.",
+      "pyq_count": 0,
+      "importance": "high",
+      "book": "11th_p1",
+      "chapter_title": "Water (Oceans)",
+      "chapter_file": "11th_p1_ch13_water_oceans",
+      "temporal_type": "timeless",
+      "era": null,
+      "pyq_ids": [],
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "year_approx": -1042
+      }
+    },
+    {
+      "id": "geo_indian_ocean",
+      "label": "Indian Ocean",
+      "type": "concept",
+      "subject": "geography",
+      "detail": "Third largest ocean, bounded by Asia, Africa, and Australia. Warmest ocean. Unique for seasonal reversal of currents due to monsoon winds. Important for global trade routes (Suez Canal, Strait of Malacca). Contains important island nations (Madagascar, Sri Lanka, Maldives). Indian Ocean Dipole affects monsoon strength.",
+      "pyq_count": 1,
+      "importance": "high",
+      "book": "11th_p1",
+      "chapter_title": "Water (Oceans)",
+      "chapter_file": "11th_p1_ch13_water_oceans",
+      "year_approx": 482,
+      "temporal_type": "approx",
+      "pyq_ids": [
+        2050
+      ],
+      "_parked_from": "ancient_classical"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 21,
+    "chapter_title_en": "Like Father, Like Daughter",
+    "chapter_title_hi": "किसकी झलक? किसकी छाप?",
+    "ncert_code_en": "eeap121",
+    "ncert_code_hi": "ehap121",
+    "theme_mapping": "Unit 1: Living World, Animal Behavior & Adaptations",
+    "unit_id": 1
+  },
+  "factual_entities": [
+    {
+      "name_en": "Genetics, Gregor Mendel's Experiments & Inherited vs Acquired Traits",
+      "name_hi": "आनुवंशिकी, ग्रेगर मेंडल के मटर प्रयोग और अर्जित लक्षण",
+      "category": "Genetics History",
+      "attributes": [
+        "Identical twins; Inherited traits (eye color, nose shape, earlobe attachment) vs Acquired traits (language, skills); Polio is caused by a VIRUS (NOT INHERITED)",
+        "Gregor Johann Mendel: Born in AUSTRIA in 1822; monk who performed experiments on 28,000 PEA PLANTS over 7 years; discovered traits come in pairs (smooth/rough, yellow/green seeds) with no intermediate blends"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Gregor Johann Mendel",
+      "role": "Father of Genetics",
+      "era": "1822–1884 (Austria)",
+      "key_contributions": "Discovered laws of genetic inheritance with 28,000 pea plants"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Brno, Austria",
+      "region": "Central Europe",
+      "context": "Birthplace of genetics"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Pea Hybridization",
+      "procedure": "Crossing smooth and rough seeded Pisum sativum",
+      "findings": "Discrete particulate inheritance"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Mendel birth",
+      "value": "1822 in Austria"
+    },
+    {
+      "metric": "Pea plants",
+      "value": "28,000 plants over 7 years"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Gregor Mendel portrait, pea seed inheritance grid"
+  ],
+  "key_vocabulary_bilingual": {
+    "Gregor Mendel": "ग्रेगर मेंडल (1822 ऑस्ट्रिया - 28,000 मटर के पौधे)",
+    "Pea traits in pairs": "मटर के लक्षण जोड़ों में (चिकने/खुरदरे, पीले/हरे)",
+    "Polio caused by virus": "पोलियो वायरस से होता है (आनुवंशिक नहीं)"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 21: 'Like Father, Like Daughter' / 'किसकी झलक? किसकी छाप?' covers Unit 1: Living World, Animal Behavior & Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

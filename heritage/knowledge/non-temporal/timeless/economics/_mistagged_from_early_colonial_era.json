@@ -1,0 +1,44 @@
+{
+  "source": "draft/universe.json era=early_colonial, subject=economics — bulk extraction mis-tagged",
+  "staged_on": "2026-04-18",
+  "reason": "Generic economic concepts (sectors, foreign investment) not era-specific.",
+  "count": 2,
+  "nodes": [
+    {
+      "id": "eco_secondary_sector",
+      "label": "Secondary Sector (Industrial)",
+      "type": "sector",
+      "subject": "economics",
+      "detail": "Activities where natural products are changed into manufactured goods through industrial processes. Includes factories, workshops, and cottage industry. Examples: spinning yarn from cotton, making sugar from sugarcane, converting earth into bricks. Production rose 8x but employment only 2.5x.",
+      "pyq_count": 3,
+      "importance": "critical",
+      "book": "10th",
+      "chapter_title": "Sectors of the Indian Economy",
+      "chapter_file": "10th_ch02_sectors_of_the_indian_economy",
+      "year_approx": 1760,
+      "temporal_type": "approx",
+      "era": "early_colonial",
+      "pyq_ids": [
+        1092,
+        1096,
+        1425
+      ]
+    },
+    {
+      "id": "eco_foreign_investment",
+      "label": "Foreign Investment",
+      "type": "concept",
+      "subject": "economics",
+      "detail": "Money spent by MNCs to buy assets (land, building, machines, equipment) in other countries. Ford Motors invested Rs 1700 crore in India (1995) near Chennai with Mahindra and Mahindra. Most common route: buying up local companies to expand production (e.g., Cargill buying Parakh Foods).",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "10th",
+      "chapter_title": "Globalisation and the Indian Economy",
+      "chapter_file": "10th_ch04_globalisation_and_the_indian_economy",
+      "year_approx": 1847,
+      "temporal_type": "approx",
+      "era": "early_colonial",
+      "pyq_ids": []
+    }
+  ]
+}

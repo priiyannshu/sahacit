@@ -1,0 +1,327 @@
+{
+  "chapter": 7,
+  "title": "What the substrate permits to grow",
+  "ncert_sources": [
+    "10th_ch01_resources_and_development",
+    "11th_p2_ch06_soils",
+    "11th_p2_ch05_natural_vegetation",
+    "11th_p1_ch15_life_on_the_earth",
+    "7th_ch06_natural_vegetation_and_wildlife",
+    "8th_ch02_land_soil_water_natural_vegetation_and_wildlife",
+    "9th_ch05_natural_vegetation_and_wildlife"
+  ],
+  "reference_sources": [],
+  "pending_references": ["leong", "majid-india"],
+  "concepts": [
+    {
+      "id": "soil-four-components",
+      "label": "Soil as Four-Component System",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_india_soils",
+      "what": "Soil is simultaneously weathered rock (mineral particles), water (in films and pockets), air (in pore spaces), and life (bacteria, fungi, earthworms, organic matter). Remove any one and you no longer have soil. All terrestrial agriculture rests on this meeting point of the four spheres."
+    },
+    {
+      "id": "soil-formation-rate",
+      "label": "Soil Formation Rate",
+      "source": "writer-ai",
+      "what": "Soil forms at approximately 1 cm per thousand years. A typical productive soil runs to about 1 metre depth — meaning roughly 100,000 years of formation. Industrial agriculture can degrade that thickness in decades. This asymmetry between build-time and destroy-time is the central constraint of soil management.",
+      "enhancement_target": true
+    },
+    {
+      "id": "soil-formation-factors",
+      "label": "Five Factors of Soil Formation",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch06_geomorphic_processes:geo_soil_formation",
+      "what": "Parent material (rock type: granite yields sandy acidic soils; basalt yields heavy mineral-rich soils), climate (temperature and rainfall govern weathering rate and character), topography (slopes produce thin coarse soils; valleys accumulate fine fertile material), biological activity (plant roots, decomposers, humus formation), and time (deeper, more developed profiles with age)."
+    },
+    {
+      "id": "soil-profile",
+      "label": "Soil Profile and Horizons",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_soil_profile",
+      "what": "Vertical cross-section of soil: O horizon (fresh/partially decomposed organic matter at top), A horizon (topsoil — humus mixed with mineral particles; what farmers care about), B horizon (subsoil enriched by minerals leached down from A), C horizon (weathered parent material, barely processed), R layer (unweathered parent rock at base). A mature soil has all layers in sequence; young soils may have only a nascent A horizon."
+    },
+    {
+      "id": "humus",
+      "label": "Humus",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_humus",
+      "what": "Organic component of soil formed by decomposition of plant and animal matter; dark brown/black; improves soil structure, water retention, aeration, and nutrient supply. Accumulates where decomposition rate is slower than organic matter input (temperate grasslands); stripped away where decomposition is fast (tropical rainforest)."
+    },
+    {
+      "id": "leaching",
+      "label": "Leaching",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_leaching",
+      "what": "Washing away of soluble soil nutrients by percolating rainwater into groundwater; most intense in heavy-rainfall tropical zones. Produces laterite soils (silica leached out, iron-aluminium oxides concentrated) and nutrient-poor latosols under rainforests. Also strips the B horizon and eventually impoverishes topsoil."
+    },
+    {
+      "id": "chernozem",
+      "label": "Chernozem (Black Earth)",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_temperate_grassland",
+      "what": "Deep, humus-rich black earths of the Eurasian steppes and North American prairies; most productive agricultural soils on Earth. Form under temperate grasslands where organic matter accumulates faster than it decomposes. Wheat belts of Russia, Ukraine, and Canada sit on chernozems."
+    },
+    {
+      "id": "latosol",
+      "label": "Latosol (Tropical Forest Soil)",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_tropical_rainforest_biome",
+      "what": "Soils of the tropical rainforest belt (Amazon, Congo, Indo-Malayan arc); appear rich but are nutrient-poor — warm wet climate decomposes organic matter so fast that humus barely accumulates, and intense leaching strips soluble minerals from topsoil. Nutrients are locked in living biomass, not soil; clearing the forest exhausts the soil within seasons."
+    },
+    {
+      "id": "podzol",
+      "label": "Podzol (Taiga Soil)",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_taiga_biome",
+      "what": "Strongly acidic, heavily leached soils under cold coniferous taiga (Russia, Canada); grey-coloured from iron and humus eluviation. Low nutrient availability; poor agricultural value. Characterises the boreal forest belt."
+    },
+    {
+      "id": "alluvial-soil",
+      "label": "Alluvial Soil",
+      "source": "ncert",
+      "ncert_node": "10th_ch01_resources_and_development:geo_alluvial_soil",
+      "what": "Most extensive soil type in India — roughly 40% of land area. Blankets the entire Indo-Gangetic plains (Brahmaputra valley to Punjab) and coastal deltas. Parent material is river-deposited silt — Himalayan rivers bring glacial debris, peninsular rivers older crystalline material. Rich in potash, poor in phosphorus and nitrogen. Grows rice, wheat, sugarcane, jute, oilseeds — the agricultural heartland."
+    },
+    {
+      "id": "bhangar",
+      "label": "Bhangar (Old Alluvium)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_bhangar",
+      "what": "Older alluvial soil above the active floodplain; slightly elevated, more compact, darker, contains calcium carbonate nodules (kankar). Less fertile than khadar. Settlement historically preferred bhangar for flood safety."
+    },
+    {
+      "id": "khadar",
+      "label": "Khadar (New Alluvium)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_khadar",
+      "what": "Younger alluvium deposited in active floodplains and renewed with fresh silt every flood season; lighter, sandier, more fertile than bhangar. Farming historically went to khadar for productivity despite flood risk."
+    },
+    {
+      "id": "black-soil",
+      "label": "Black Soil (Regur / Black Cotton Soil)",
+      "source": "ncert",
+      "ncert_node": "10th_ch01_resources_and_development:geo_black_soil",
+      "what": "Weathered product of 66 Ma Deccan Trap basalt; occupies Maharashtra, MP, Gujarat, Karnataka, Andhra Pradesh. Clay-heavy, rich in iron, lime, calcium, magnesium. Self-ploughing: swells when wet, cracks deeply when dry, pulling organic matter downward. Retains moisture far longer than any other Indian type — ideal for cotton. Poor in nitrogen and phosphorus."
+    },
+    {
+      "id": "red-yellow-soil",
+      "label": "Red and Yellow Soil",
+      "source": "ncert",
+      "ncert_node": "10th_ch01_resources_and_development:geo_red_yellow_soil",
+      "what": "Develops on ancient crystalline/metamorphic rock (granite, gneiss) of the Gondwana shield; peninsular fringes — Tamil Nadu, Karnataka, Andhra Pradesh, Odisha, Chhattisgarh, Bundelkhand. Red from iron oxide diffusion; yellow when iron is hydrated. Porous and friable, low in nitrogen and humus; responds to fertiliser and irrigation. Supports millets, groundnut, pulses."
+    },
+    {
+      "id": "laterite-soil",
+      "label": "Laterite Soil",
+      "source": "ncert",
+      "ncert_node": "10th_ch01_resources_and_development:geo_laterite_soil",
+      "what": "Forms under high rainfall alternating with dry season: intense leaching removes silica, concentrating iron and aluminium oxides in upper layers. Hard when dry, soft when wet; poor in most plant nutrients. Western Ghats windward slopes, Eastern Ghats, Kerala, Karnataka, Maharashtra, Jharkhand, Meghalaya. Historically quarried as building stone (temples, forts in Kerala and Karnataka). Supports cashew, tea, coffee, rubber with significant inputs."
+    },
+    {
+      "id": "arid-soil",
+      "label": "Arid/Desert Soil",
+      "source": "ncert",
+      "ncert_node": "10th_ch01_resources_and_development:geo_arid_soil",
+      "what": "Sandy, low in organic matter, high salt content from high evaporation; hard calcium carbonate (kankar) layer blocks water infiltration. Rajasthan, parts of Gujarat and Haryana. Productive with irrigation (Indira Gandhi Canal demonstration) but salt accumulation risk is constant."
+    },
+    {
+      "id": "saline-alkaline-soil",
+      "label": "Saline and Alkaline Soil (Reh/Usar/Kallar)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_saline_soil",
+      "what": "High salt concentration from poor drainage, high evaporation, or waterlogging. Coastal soils from seawater influence. Critically, spreading in irrigated plains of Punjab, Haryana, UP where canal irrigation without adequate drainage has raised water tables, drawing salts to the surface by capillary action. White crust forms; hostile to most crops. Reclaimed slowly with gypsum and drainage."
+    },
+    {
+      "id": "peaty-soil",
+      "label": "Peaty/Marshy Soil",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_peaty_soil",
+      "what": "High organic matter (humus), very acidic, poorly aerated; found in waterlogged, high-humidity environments. Kerala backwaters (especially Kuttanad, where farming happens below sea level), parts of Bengal and coastal Odisha, Sundarbans fringe. Supports rice when drained."
+    },
+    {
+      "id": "forest-mountain-soil",
+      "label": "Forest and Mountain Soil",
+      "source": "ncert",
+      "ncert_node": "10th_ch01_resources_and_development:geo_forest_soil",
+      "what": "Covers Himalayan slopes and parts of Western and Eastern Ghats; heterogeneous — thin and acidic on steep faces, thicker and richer in valley pockets. Changes character with altitude. Supports tea gardens of Darjeeling and Assam, orchards of Himachal Pradesh."
+    },
+    {
+      "id": "chambal-ravines",
+      "label": "Chambal Ravines and Gully Erosion",
+      "source": "ncert",
+      "ncert_node": "10th_ch01_resources_and_development:geo_soil_erosion_10",
+      "what": "Overgrazing and vegetation removal over centuries allowed rainfall to cut channels → gullies → ravines across Madhya Pradesh and Rajasthan. Textbook case of gully erosion converting productive agricultural land to badland. Tens of thousands of square kilometres unrecoverable. India loses an estimated 5 billion tonnes of topsoil annually to erosion."
+    },
+    {
+      "id": "soil-conservation-methods",
+      "label": "Soil Conservation Methods",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch06_soils:geo_soil_conservation_india",
+      "what": "Terracing (flat steps on hill slopes), contour bunding (earthen barriers along contours to slow runoff), strip cropping (alternate strips of crops and grasses), shelterbelts (planted tree rows in arid/semi-arid zones to break wind), watershed management (catchment-scale intervention). The toolkit is well-established; what is lacking is sustained land-use discipline to apply it."
+    },
+    {
+      "id": "world-biomes",
+      "label": "World Biomes Concept",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_biome",
+      "what": "Large-scale ecological communities of plants and animals adapted to a particular climatic region. Major biomes — tropical rainforest, tropical savanna, desert, Mediterranean, temperate grassland, temperate deciduous forest, boreal forest (taiga), tundra — map so closely onto the Köppen climate classification that the two almost overlay."
+    },
+    {
+      "id": "tropical-rainforest-biome",
+      "label": "Tropical Rainforest Biome",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_tropical_rainforest_biome",
+      "what": "Near the equator; high temperature (~25-30°C), heavy rainfall (>2000 mm) year-round; no dry season. Most biodiverse biome — multi-layered canopy, epiphytes, lianas. Amazon Basin, Congo Basin, Indo-Malayan arc. Soils (latosols) are nutrient-poor; nutrients are locked in living biomass."
+    },
+    {
+      "id": "tropical-savanna-biome",
+      "label": "Tropical Savanna Biome",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_savanna_biome",
+      "what": "Tropical grassland with scattered trees between forest and desert. Distinct wet and dry seasons; grasses dominate; fire-resistant drought-adapted trees. East African savannas, Llanos of Venezuela, Cerrado of Brazil. Campos (Brazil) and Llanos (Venezuela) are regional names."
+    },
+    {
+      "id": "desert-biome",
+      "label": "Desert Biome and Vegetation",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_desert_biome",
+      "what": "<250 mm annual rainfall; extreme temperature variations. Sahara, Thar, Atacama, Kalahari. Convergent plant adaptations across deserts: deep roots, small waxy leaves, water storage, dormancy. Desert soils have low organic matter and often a calcium carbonate layer near surface."
+    },
+    {
+      "id": "mediterranean-vegetation",
+      "label": "Mediterranean Vegetation",
+      "source": "ncert",
+      "ncert_node": "7th_ch06_natural_vegetation_and_wildlife:geo_mediterranean_veg",
+      "what": "West and SW margins of continents; hot dry summers, mild rainy winters. Hard-leaved, fire-adapted shrubs and dry forest. Thick bark, wax-coated leaves reduce transpiration. Called 'Orchards of the World' for citrus production. Rings the Mediterranean Sea and appears on coasts of California, central Chile, and SW Australia."
+    },
+    {
+      "id": "temperate-grassland-biome",
+      "label": "Temperate Grasslands — Global Names",
+      "source": "ncert",
+      "ncert_node": "7th_ch06_natural_vegetation_and_wildlife:geo_grassland_names",
+      "what": "Mid-latitude grassland on chernozem soils; hot summers, cold winters. Regional names: Prairies (North America), Pampas (Argentina/Uruguay), Steppes (Eurasia), Veld (South Africa), Downs (Australia). Heavily converted to grain agriculture. Wheat belts of Russia, Ukraine, Canada sit on chernozems."
+    },
+    {
+      "id": "temperate-deciduous-forest",
+      "label": "Temperate Deciduous Forest",
+      "source": "ncert",
+      "ncert_node": "7th_ch06_natural_vegetation_and_wildlife:geo_temp_deciduous",
+      "what": "Oaks, beeches, maples; cover Europe, eastern USA, East Asia. Shed leaves in dry/cold season. Higher latitudes than Mediterranean, lower than boreal. Moderate diversity; support deer, foxes, wolves."
+    },
+    {
+      "id": "taiga-boreal-forest",
+      "label": "Taiga (Boreal Forest)",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_taiga_biome",
+      "what": "Largest terrestrial biome; 50-70°N across Russia, Canada, Scandinavia. Dominated by coniferous trees (spruce, pine, fir) on podzol soils; minimal understory diversity. Long harsh winters, short cool summers. Beyond temperate deciduous, before tundra."
+    },
+    {
+      "id": "tundra-biome",
+      "label": "Tundra Biome",
+      "source": "ncert",
+      "ncert_node": "11th_p1_ch15_life_on_the_earth:geo_tundra_biome",
+      "what": "Polar regions and above treeline on mountains; permafrost underlies the surface. Vegetation limited to mosses, lichens, grasses, dwarf shrubs. Very short growing season (6-10 weeks). No trees. Beyond taiga, approaching permanent ice."
+    },
+    {
+      "id": "india-vegetation-overview",
+      "label": "India's Vegetation Diversity",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_india_vegetation",
+      "what": "India — compressed by its latitude range and the dramatic altitude gradient of the Himalayas — contains representatives of several global biome types within one national territory. Vegetation sorted primarily by rainfall: >200 cm (evergreen), 100-200 cm (moist deciduous), 70-100 cm (dry deciduous), <70 cm (thorn), plus montane zonation and coastal mangroves."
+    },
+    {
+      "id": "tropical-evergreen-forest",
+      "label": "Tropical Evergreen Forest (India)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_tropical_evergreen_forest",
+      "what": ">200 cm rainfall with no significant dry season. Western Ghats windward slopes, Andaman and Nicobar Islands, northeastern hill ranges (Meghalaya, Arunachal, Assam hills, Nagaland). Multi-layered canopy; different species shed leaves at different times — perpetually green. Rosewood, mahogany, ebony, bamboo. High species diversity and endemism."
+    },
+    {
+      "id": "shola-forests",
+      "label": "Shola Forests",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_shola_forest",
+      "what": "Unique tropical montane evergreen patches in valley floors and sheltered slopes of Western Ghats above 1,500 m (Nilgiri, Anaimalai, Palani Hills), interspersed with montane grassland on hilltops. Stunted evergreen canopy. Among India's most endemic and fragile ecosystems."
+    },
+    {
+      "id": "moist-deciduous-forest",
+      "label": "Moist Deciduous Forest (India)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_moist_deciduous",
+      "what": "100-200 cm rainfall; trees shed leaves for short dry season of 6-8 weeks. Eastern slopes of Western Ghats, northeastern Himalayan foothills, Jharkhand, Odisha. Commercially significant — teak, sal, shisham, mahua, bamboo. Heart of India's timber economy."
+    },
+    {
+      "id": "dry-deciduous-forest",
+      "label": "Dry Deciduous Forest (India)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_dry_deciduous",
+      "what": "70-100 cm rainfall; open canopy, longer dry season. MP, Maharashtra interior, UP, drier parts of the peninsula. Peepal, neem, sheesham, dry-adapted bamboo. Together with moist deciduous, forms the core of commercial forestry; teak and sal are the two species around which it has historically been organised."
+    },
+    {
+      "id": "thorn-forest",
+      "label": "Tropical Thorn Forest (India)",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_thorn_forest",
+      "what": "<70 cm annual rainfall; Rajasthan, Saurashtra, parts of MP and southern Punjab. Stunted, thorned trees — acacia (babul), khejri (Rajasthan's state tree), wild date palm. Small waxy leaves, thick bark, deep roots — all solutions to the same problem: water is scarce and soil holds almost none. Cacti and euphorbia as rainfall drops further."
+    },
+    {
+      "id": "bishnoi-khejri",
+      "label": "Bishnoi Community and Khejri",
+      "source": "writer-ai",
+      "what": "The Bishnoi community of Rajasthan has organised an ethic of wildlife and forest protection specifically around the khejri tree (Prosopis cineraria) — the most drought-resistant tree of the Thar, providing fodder, fuel, and nitrogen to the soil. Bishnoi opposition to tree-felling is historically documented from the 18th century.",
+      "enhancement_target": true
+    },
+    {
+      "id": "montane-forest",
+      "label": "Montane Forest — Himalayan Zonation",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_montane_forest",
+      "what": "Altitude compresses latitudinal biome zonation: tropical/subtropical broadleaf in foothills → wet temperate oak and chestnut (1,000-2,000 m) → temperate coniferous (2,000-3,000 m: deodar, blue pine, silver fir, spruce) → alpine scrub and meadow (3,000-4,000 m: rhododendrons) → mosses and lichens thinning toward permanent snow. Tea gardens of Darjeeling sit in lower/middle belt; HP orchards in coniferous zone."
+    },
+    {
+      "id": "mangrove-forest",
+      "label": "Mangrove Forest — Sundarbans and Coasts",
+      "source": "ncert",
+      "ncert_node": "11th_p2_ch05_natural_vegetation:geo_mangrove_forest",
+      "what": "Tidal coastal forests. Sundarbans (Ganges-Brahmaputra delta, West Bengal/Bangladesh) is the largest single mangrove tract in the world. Other locations: Bhitarkanika (Odisha), Pichavaram (Tamil Nadu), Gulf of Kachchh, Andaman and Nicobar Islands. Deltas of Mahanadi, Godavari, Krishna, Cauvery. The Sundari tree gives the Sundarbans its name; hosts the Bengal tiger."
+    },
+    {
+      "id": "mangrove-adaptations-and-role",
+      "label": "Mangrove Adaptations and Ecological Role",
+      "source": "writer-ai",
+      "what": "Structural adaptations: pneumatophores (breathing roots projecting upward above waterlogged mud), stilt roots (anchor in shifting tidal substrate), viviparous seeds (germinate on the tree, giving seedlings a head start). Ecological role: cyclone storm-surge buffer, sediment trap, fish nursery habitat. The 2004 Indian Ocean tsunami showed measurably less damage to coastlines with intact mangroves.",
+      "enhancement_target": true
+    },
+    {
+      "id": "species-habitat-dependency",
+      "label": "Species-Habitat Dependency",
+      "source": "writer-ai",
+      "what": "Each flagship species depends on one specific vegetation community, not 'India in general': Sundarbans tiger → coastal mangrove; Western Ghats lion-tailed macaque → multi-layered evergreen forest; Kaziranga one-horned rhinoceros → Brahmaputra floodplain grassland (seasonal flooding, large undisturbed tract). When the vegetation community shrinks or is destroyed, the species has nowhere else to go.",
+      "enhancement_target": true
+    }
+  ],
+  "forward_references": [
+    {"id": "biosphere-ecology", "note": "biosphere system, energy flows, matter cycles — next chapter is about how the system works and India's conservation architecture", "owned_by_chapter": 8}
+  ],
+  "received_forward_references": [
+    {"id": "deccan-plateau-basalt", "note": "basalt as parent rock of black cotton soil — owned by ch6 (rocks), realised here as regur", "from_chapter": 6},
+    {"id": "laterite-soil", "note": "bauxite forms in laterite zones — intense tropical weathering residual; ch6 introduced leaching, ch7 owns the soil type", "from_chapter": 6}
+  ],
+  "excluded": [
+    {"passage": "Opening 'Pick up a handful of soil anywhere in India...'", "reason": "rhetorical frame establishing four-component definition; substance captured in soil-four-components"},
+    {"passage": "'...a rate worth sitting with...'", "reason": "tutor-voice rhetorical pause; asymmetry captured in soil-formation-rate"},
+    {"passage": "Detailed world biome list intro ('A few types are worth knowing...')", "reason": "transition sentence; biome types are each captured individually"},
+    {"passage": "Final paragraph ('Vegetation is the substrate and cover...')", "reason": "cross-reference bridge to ch8 biosphere chapter"},
+    {"passage": "Chambal 'inheritance of a degradation that no single actor started'", "reason": "reflective aside; core Chambal fact captured in chambal-ravines"},
+    {"passage": "'India's vegetation types... and the animals they support'", "reason": "bridge sentence to ch8; species dependency captured in species-habitat-dependency"}
+  ],
+  "counts": {
+    "total": 40,
+    "ncert": 29,
+    "writer_ai": 11,
+    "forward_references": 1,
+    "received_forward_references": 2,
+    "pct_sourced": 73
+  }
+}

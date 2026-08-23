@@ -1,0 +1,37 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 24,
+    "chapter_title_en": "Web of Life",
+    "chapter_title_hi": "जीवन का जाल",
+    "ncert_code_en": "ceap124",
+    "ncert_code_hi": "chap124",
+    "theme_mapping": "Unit 1: Living World, Animal Behavior & Adaptations",
+    "unit_id": 1
+  },
+  "factual_entities": [
+    {
+      "name_en": "Biotic-Abiotic Ecological Interdependence",
+      "name_hi": "पारिस्थितिक जीवन जाल",
+      "category": "Ecology",
+      "attributes": [
+        "Sunlight, soil, air, water sustain plants; trophic food webs link herbivores, carnivores, decomposers, and humans"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Web of life string network diagram"
+  ],
+  "key_vocabulary_bilingual": {
+    "Web of Life": "जीवन का जाल",
+    "Food Web": "खाद्य जाल",
+    "Interdependence": "पारस्परिक निर्भरता"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 24: 'Web of Life' / 'जीवन का जाल' covers Unit 1: Living World, Animal Behavior & Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

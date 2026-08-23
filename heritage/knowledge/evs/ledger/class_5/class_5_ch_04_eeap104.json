@@ -1,0 +1,63 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 4,
+    "chapter_title_en": "Mangoes Round the Year",
+    "chapter_title_hi": "खाएँ आम बारहों महीने!",
+    "ncert_code_en": "eeap104",
+    "ncert_code_hi": "ehap104",
+    "theme_mapping": "Unit 3: Food, Digestion, Cooking & Vector Diseases",
+    "unit_id": 3
+  },
+  "factual_entities": [
+    {
+      "name_en": "Food Preservation & Mamidi Tandra",
+      "name_hi": "खाद्य संरक्षण और मामिडी तांड्रा (आम पापड़)",
+      "category": "Food Technology",
+      "attributes": [
+        "Mamidi Tandra (Aam Papad): Made in ATREYAPURAM (Andhra Pradesh); ripe mango pulp mixed with equal parts Jaggery and Sugar; layered daily on palm mats for 4 WEEKS in sun until 4 cm thick golden cake",
+        "Glass Jar Sterilization: Jars dried in bright SUN before filling pickles to REMOVE MOISTURE and prevent fungal/bacterial growth",
+        "Preservation methods: Boiling milk, cooling dal in water bath, damp cloth on coriander, dry storage for onions/garlic"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Atreyapuram",
+      "region": "Andhra Pradesh",
+      "context": "Mamidi Tandra cottage craft"
+    }
+  ],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Bread Mold Growth",
+      "procedure": "Moist bread in dark box for 6 days",
+      "findings": "Fungal spore germination in humid darkness"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [
+    {
+      "name": "Mamidi Tandra",
+      "category": "Food Craft",
+      "region": "Andhra Pradesh",
+      "description": "4-week layered sun-dried mango jelly"
+    }
+  ],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Mamidi Tandra duration",
+      "value": "4 weeks layered drying"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Mamidi Tandra mat drying layers, bread mold spores"
+  ],
+  "key_vocabulary_bilingual": {
+    "Mamidi Tandra": "मामिडी तांड्रा (आम पापड़ - आंध्र प्रदेश)",
+    "Atreyapuram": "आत्रेयपुरम गाँव (आंध्र प्रदेश)",
+    "Sun-drying glass jars": "कांच के जार धूप में सुखाना (नमी हटाने के लिए)"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 4: 'Mangoes Round the Year' / 'खाएँ आम बारहों महीने!' covers Unit 3: Food, Digestion, Cooking & Vector Diseases foundational facts, regional adaptations, and ecological concepts."
+}

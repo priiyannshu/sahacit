@@ -1,0 +1,38 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 22,
+    "chapter_title_en": "Left-Right",
+    "chapter_title_hi": "दायाँ-बायाँ",
+    "ncert_code_en": "ceap122",
+    "ncert_code_hi": "chap122",
+    "theme_mapping": "Unit 7: Quantitative & Spatial Bridge",
+    "unit_id": 7
+  },
+  "factual_entities": [
+    {
+      "name_en": "Spatial Mapping Symbols & Scale",
+      "name_hi": "मानचित्र प्रतीक और पैमाना",
+      "category": "Cartography",
+      "attributes": [
+        "Relative position (left, right, cardinal directions), conventional map symbols, scale representation"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Conventional symbol key (Hospital, School, Well, Tree, Post Office)"
+  ],
+  "key_vocabulary_bilingual": {
+    "Map": "नक्शा",
+    "Symbols": "प्रतीक",
+    "Scale": "पैमाना",
+    "Directions": "दिशाएँ"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 22: 'Left-Right' / 'दायाँ-बायाँ' covers Unit 7: Quantitative & Spatial Bridge foundational facts, regional adaptations, and ecological concepts."
+}

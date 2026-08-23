@@ -1,0 +1,20 @@
+{
+  "unit_id": 3,
+  "unit_title": "Food, Digestion & Diseases",
+  "source_document": "units/unit_3_food_digestion_diseases.md",
+  "audio_overview_spec": {
+    "podcast_title": "CTET EVS Master Class — Unit 3: Food, Digestion & Diseases",
+    "hosts": {
+      "host_a": "Clinical Epidemiologist",
+      "host_b": "Culinary Anthropologist"
+    },
+    "tone": "Conversational, highly factual, zero-hallucination, interactive debate",
+    "steering_prompt": "Deep dive into Dr. Beaumont's gastric fistula discoveries, Ronald Ross's 1902 malaria vector breakthrough, and Anaemia hemoglobin levels (12-16 g/dL).",
+    "language_pair": "Bilingual (English with authentic Hindi NCERT terminology anchors)",
+    "anti_hallucination_guardrails": [
+      "Adhere strictly to canonical NCERT numerical invariants.",
+      "Do not extrapolate or introduce speculative biology.",
+      "State specific units of measurement clearly."
+    ]
+  }
+}

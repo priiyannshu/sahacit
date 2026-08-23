@@ -1,0 +1,67 @@
+{
+  "chapter_metadata": {
+    "grade": 5,
+    "subject": "EVS",
+    "chapter_number": 9,
+    "chapter_title_en": "Up You Go!",
+    "chapter_title_hi": "डायरी: कमर सीधी, ऊपर चढ़ो!",
+    "ncert_code_en": "eeap109",
+    "ncert_code_hi": "ehap109",
+    "theme_mapping": "Unit 6: Travel, Culture, Traditional Arts & Space",
+    "unit_id": 6
+  },
+  "factual_entities": [
+    {
+      "name_en": "Mountaineering, Leadership & Bachendri Pal's Everest Ascent",
+      "name_hi": "पर्वतारोहण, नेतृत्व के गुण और बछेंद्री पाल की एवरेस्ट विजय",
+      "category": "Adventure / Mountaineering History",
+      "attributes": [
+        "NIM (Nehru Institute of Mountaineering) in UTTARKASHI (Uttarakhand); Brigadier Gyan Singh; Group leader assists all, walks last, carries load, arranges food/camp",
+        "Gear: Pitons, carabiner, rope, 90-degree body angle for rappelling, vitamin C/iron breakfast",
+        "Khondonbi from Mizoram speaking Mizo language",
+        "Bachendri Pal: Grew up in NAKURI village in Garhwal Uttarakhand; reached MOUNT EVEREST (SAGARMATHA in Nepal - 8848 METERS) on 23 MAY 1984 AT 1:07 PM; spent 43 MINUTES on peak; FIRST INDIAN WOMAN (5th in world) to summit Everest"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Bachendri Pal",
+      "role": "Mountaineer",
+      "era": "Born 1954",
+      "key_contributions": "First Indian woman to scale Mount Everest (8848m) on 23 May 1984"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Nakuri, Uttarkashi, Mount Everest (Sagarmatha)",
+      "region": "Uttarakhand / Nepal",
+      "context": "Himalayan mountaineering"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Everest summit date and time",
+      "value": "23 May 1984 at 1:07 PM"
+    },
+    {
+      "metric": "Everest altitude",
+      "value": "8848 meters"
+    },
+    {
+      "metric": "Time spent on peak",
+      "value": "43 minutes"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Bachendri Pal on Everest summit with tricolor, 90° rappelling angle"
+  ],
+  "key_vocabulary_bilingual": {
+    "Bachendri Pal": "बछेंद्री पाल (23 मई 1984, 1:07 PM - माउंट एवरेस्ट विजय)",
+    "Sagarmatha": "सागरमाथा (नेपाल में एवरेस्ट - 8848 मीटर)",
+    "NIM": "नेहरू पर्वतारोहण संस्थान (उत्तरकाशी)",
+    "First Indian Woman": "पहली भारतीय महिला एवरेस्ट विजेता"
+  },
+  "ncert_source_text_summary": "Class 5 Chapter 9: 'Up You Go!' / 'डायरी: कमर सीधी, ऊपर चढ़ो!' covers Unit 6: Travel, Culture, Traditional Arts & Space foundational facts, regional adaptations, and ecological concepts."
+}

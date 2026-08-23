@@ -1,0 +1,49 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 10,
+    "chapter_title_en": "What is Cooking",
+    "chapter_title_hi": "पकाएँ, खाएँ",
+    "ncert_code_en": "ceap110",
+    "ncert_code_hi": "chap110",
+    "theme_mapping": "Unit 3: Food, Digestion, Cooking & Vector Diseases",
+    "unit_id": 3
+  },
+  "factual_entities": [
+    {
+      "name_en": "Culinary Thermodynamics & Utensil Metallurgy",
+      "name_hi": "खाना पकाने की विधियाँ और बर्तन धातु विज्ञान",
+      "category": "Food Science",
+      "attributes": [
+        "Methods: Roasting (सेंकना), Boiling (उबालना), Frying (तलना), Baking (बेक करना)",
+        "Utensil materials: Clay, brass (पीतल = copper + zinc), bronze (कांसा = copper + tin), copper, iron, stainless steel",
+        "Fuels & Solar Cooker: Wood, coal, LPG, biogas, electricity, solar cooker (black interior, glass reflector traps radiant heat)"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Solar Cooking",
+      "procedure": "Trapping solar radiation in insulated black-box cooker",
+      "findings": "Converts light energy to heat without smoke or fossil fuels"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Stove schematics: Chulha, Angithi, Biogas burner, Solar oven"
+  ],
+  "key_vocabulary_bilingual": {
+    "Roasting": "सेंकना",
+    "Boiling": "उबालना",
+    "Frying": "तलना",
+    "Baking": "बेक करना",
+    "Solar Cooker": "सौर कुकर",
+    "Bronze": "कांसा",
+    "Brass": "पीतल"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 10: 'What is Cooking' / 'पकाएँ, खाएँ' covers Unit 3: Food, Digestion, Cooking & Vector Diseases foundational facts, regional adaptations, and ecological concepts."
+}

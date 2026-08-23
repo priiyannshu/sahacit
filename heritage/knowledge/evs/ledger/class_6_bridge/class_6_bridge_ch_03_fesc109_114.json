@@ -1,0 +1,46 @@
+{
+  "chapter_metadata": {
+    "grade": 6,
+    "subject": "Bridge Science & Geography",
+    "chapter_number": 3,
+    "chapter_title_en": "Living Organisms & Water Cycles",
+    "chapter_title_hi": "सजीव एवं जल चक्र",
+    "ncert_code_en": "fesc109_114",
+    "ncert_code_hi": "fhsc109_114",
+    "theme_mapping": "Unit 5: Water Systems, Conservation & Historical Science",
+    "unit_id": 5
+  },
+  "factual_entities": [
+    {
+      "name_en": "Habitat Adaptations & Evaporation-Condensation Hydrological Cycle",
+      "name_hi": "आवास अनुकूलन और वाष्पीकरण-संघनन जल चक्र",
+      "category": "Ecology / Hydrology",
+      "attributes": [
+        "Adaptations: Cactus (leaves modified to spines, green photosynthetic water-storing stem, waxy cuticle); Camel (long legs, low concentrated urine, no sweat); Fish (streamlined body, gills, fins)",
+        "Water cycle: Evaporation (liquid to gas by heat) -> Transpiration -> Condensation (vapor cools into cloud droplets) -> Precipitation (rain/snow) -> Groundwater infiltration"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [
+    {
+      "name": "Evaporation Dynamics",
+      "procedure": "Evaporation across surface areas",
+      "findings": "Rate increases with surface area, temperature, and airflow"
+    }
+  ],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Complete water cycle diagram, cactus spines and fleshy stem"
+  ],
+  "key_vocabulary_bilingual": {
+    "Cactus spines": "कैक्टस के कांटे (रूपांतरित पत्तियाँ)",
+    "Streamlined": "धारा-रेखी शरीर",
+    "Evaporation": "वाष्पीकरण",
+    "Condensation": "संघनन",
+    "Water cycle": "जल चक्र"
+  },
+  "ncert_source_text_summary": "Class 6 Bridge Chapter 3: 'Living Organisms & Water Cycles' / 'सजीव एवं जल चक्र' provides quantitative and scientific depth to Unit 5: Water Systems, Conservation & Historical Science."
+}

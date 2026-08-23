@@ -1,0 +1,49 @@
+{
+  "chapter_title": "Harappan Culture: Bronze Age Urbanization in the Indus Valley",
+  "book": "rs_sharma",
+  "subject": "history",
+  "nodes": [
+    {
+      "id": "hist_daya_ram_sahni",
+      "label": "Daya Ram Sahni",
+      "type": "person",
+      "subject": "history",
+      "detail": "Indian archaeologist who began systematic excavation of Harappa in 1921 — the first professional recognition of the site's significance. His work, along with R.D. Banerjee's at Mohenjo-daro, enabled John Marshall's 1924 announcement of the Indus Valley Civilisation.",
+      "pyq_count": 0,
+      "importance": "high",
+      "year_approx": null,
+      "temporal_type": "modern_discovery",
+      "era": null,
+      "stage": "mature_harappan",
+      "pyq_ids": [],
+      "book": "rs_sharma",
+      "chapter_title": "Harappan Culture: Bronze Age Urbanization in the Indus Valley",
+      "chapter_file": "rs_sharma_ch10_harappan_culture",
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "reason": "modern_discovery_node_parked_pending_viz_treatment"
+      }
+    },
+    {
+      "id": "hist_rd_banerjee",
+      "label": "R.D. Banerjee",
+      "type": "person",
+      "subject": "history",
+      "detail": "Indian historian-archaeologist who excavated Mohenjo-daro in the early 1920s, recognising its antiquity alongside Harappa. His work paved the way for the announcement of the Harappan/Indus Valley Civilisation in 1924.",
+      "pyq_count": 0,
+      "importance": "high",
+      "year_approx": null,
+      "temporal_type": "modern_discovery",
+      "era": null,
+      "stage": "mature_harappan",
+      "pyq_ids": [],
+      "book": "rs_sharma",
+      "chapter_title": "Harappan Culture: Bronze Age Urbanization in the Indus Valley",
+      "chapter_file": "rs_sharma_ch10_harappan_culture",
+      "_migrated_from": {
+        "era": "ancient_indus",
+        "reason": "modern_discovery_node_parked_pending_viz_treatment"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4463 @@
+{
+  "ncert": {
+    "history": [
+      {
+        "id": "10th_ch01_the_rise_of_nationalism_in_europe",
+        "class": "10",
+        "title": "The Rise of Nationalism in Europe",
+        "slug": "10th_ch01_the_rise_of_nationalism_in_europe",
+        "bytes": 54780
+      },
+      {
+        "id": "10th_ch02_nationalist_movement_in_indo_china",
+        "class": "10",
+        "title": "Nationalist Movement in Indo-China",
+        "slug": "10th_ch02_nationalist_movement_in_indo_china",
+        "bytes": 51316
+      },
+      {
+        "id": "10th_ch03_nationalism_in_india",
+        "class": "10",
+        "title": "Nationalism in India",
+        "slug": "10th_ch03_nationalism_in_india",
+        "bytes": 66395
+      },
+      {
+        "id": "10th_ch04_the_making_of_a_global_world",
+        "class": "10",
+        "title": "The Making of a Global World",
+        "slug": "10th_ch04_the_making_of_a_global_world",
+        "bytes": 47491
+      },
+      {
+        "id": "10th_ch05_the_age_of_industrialisation",
+        "class": "10",
+        "title": "The Age of Industrialisation",
+        "slug": "10th_ch05_the_age_of_industrialisation",
+        "bytes": 46818
+      },
+      {
+        "id": "10th_ch06_work_life_and_leisure",
+        "class": "10",
+        "title": "Work Life and Leisure",
+        "slug": "10th_ch06_work_life_and_leisure",
+        "bytes": 53335
+      },
+      {
+        "id": "10th_ch07_print_culture_and_the_modern_world",
+        "class": "10",
+        "title": "Print Culture and the Modern World",
+        "slug": "10th_ch07_print_culture_and_the_modern_world",
+        "bytes": 45183
+      },
+      {
+        "id": "10th_ch08_novels_society_and_history",
+        "class": "10",
+        "title": "Novels Society and History",
+        "slug": "10th_ch08_novels_society_and_history",
+        "bytes": 90371
+      },
+      {
+        "id": "11th_ch01_an_empire_across_three_continents",
+        "class": "11",
+        "title": "An Empire Across Three Continents",
+        "slug": "11th_ch01_an_empire_across_three_continents",
+        "bytes": 481915
+      },
+      {
+        "id": "11th_ch01_from_the_beginning_of_time",
+        "class": "11",
+        "title": "From the Beginning of Time",
+        "slug": "11th_ch01_from_the_beginning_of_time",
+        "bytes": 125282
+      },
+      {
+        "id": "11th_ch02_the_three_orders",
+        "class": "11",
+        "title": "The Three Orders",
+        "slug": "11th_ch02_the_three_orders",
+        "bytes": 363901
+      },
+      {
+        "id": "11th_ch02_writing_and_city_life",
+        "class": "11",
+        "title": "Writing and City Life",
+        "slug": "11th_ch02_writing_and_city_life",
+        "bytes": 105369
+      },
+      {
+        "id": "11th_ch03_an_empire_across_three_continents",
+        "class": "11",
+        "title": "An Empire Across Three Continents",
+        "slug": "11th_ch03_an_empire_across_three_continents",
+        "bytes": 357152
+      },
+      {
+        "id": "11th_ch03_the_industrial_revolution",
+        "class": "11",
+        "title": "The Industrial Revolution",
+        "slug": "11th_ch03_the_industrial_revolution",
+        "bytes": 422800
+      },
+      {
+        "id": "11th_ch04_nomadic_empires",
+        "class": "11",
+        "title": "Nomadic Empires",
+        "slug": "11th_ch04_nomadic_empires",
+        "bytes": 156050
+      },
+      {
+        "id": "11th_ch05_the_three_orders",
+        "class": "11",
+        "title": "The Three Orders",
+        "slug": "11th_ch05_the_three_orders",
+        "bytes": 118525
+      },
+      {
+        "id": "11th_ch06_changing_cultural_traditions",
+        "class": "11",
+        "title": "Changing Cultural Traditions",
+        "slug": "11th_ch06_changing_cultural_traditions",
+        "bytes": 214206
+      },
+      {
+        "id": "11th_ch07_the_industrial_revolution",
+        "class": "11",
+        "title": "The Industrial Revolution",
+        "slug": "11th_ch07_the_industrial_revolution",
+        "bytes": 155578
+      },
+      {
+        "id": "11th_ch08_displacing_indigenous_peoples",
+        "class": "11",
+        "title": "Displacing Indigenous Peoples",
+        "slug": "11th_ch08_displacing_indigenous_peoples",
+        "bytes": 101122
+      },
+      {
+        "id": "11th_ch09_paths_to_modernisation",
+        "class": "11",
+        "title": "Paths to Modernisation",
+        "slug": "11th_ch09_paths_to_modernisation",
+        "bytes": 166225
+      },
+      {
+        "id": "12th_p1_ch01_bricks_beads_and_bones_harappan_civilisation",
+        "class": "12",
+        "title": "Bricks Beads and Bones - Harappan Civilisation",
+        "slug": "12th_p1_ch01_bricks_beads_and_bones_harappan_civilisation",
+        "bytes": 54868
+      },
+      {
+        "id": "12th_p1_ch01_bricks_beads_and_bones_the_harappan_civilisation",
+        "class": "12",
+        "title": "Bricks Beads and Bones - The Harappan Civilisation",
+        "slug": "12th_p1_ch01_bricks_beads_and_bones_the_harappan_civilisation",
+        "bytes": 54872
+      },
+      {
+        "id": "12th_p1_ch02_kings_farmers_and_towns_early_states_and_economies",
+        "class": "12",
+        "title": "Kings Farmers and Towns - Early States and Economies",
+        "slug": "12th_p1_ch02_kings_farmers_and_towns_early_states_and_economies",
+        "bytes": 58516
+      },
+      {
+        "id": "12th_p1_ch03_kinship_caste_and_class_early_societies",
+        "class": "12",
+        "title": "Kinship Caste and Class - Early Societies",
+        "slug": "12th_p1_ch03_kinship_caste_and_class_early_societies",
+        "bytes": 64110
+      },
+      {
+        "id": "12th_p1_ch04_thinkers_beliefs_and_buildings",
+        "class": "12",
+        "title": "Thinkers Beliefs and Buildings",
+        "slug": "12th_p1_ch04_thinkers_beliefs_and_buildings",
+        "bytes": 59063
+      },
+      {
+        "id": "12th_p1_ch04_thinkers_beliefs_and_buildings_cultural_developmen",
+        "class": "12",
+        "title": "Thinkers Beliefs and Buildings - Cultural Developments",
+        "slug": "12th_p1_ch04_thinkers_beliefs_and_buildings_cultural_developmen",
+        "bytes": 59087
+      },
+      {
+        "id": "12th_p2_ch05_through_the_eyes_of_travellers",
+        "class": "12",
+        "title": "Through the Eyes of Travellers",
+        "slug": "12th_p2_ch05_through_the_eyes_of_travellers",
+        "bytes": 59942
+      },
+      {
+        "id": "12th_p2_ch06_bhakti_sufi_traditions",
+        "class": "12",
+        "title": "Bhakti-Sufi Traditions",
+        "slug": "12th_p2_ch06_bhakti_sufi_traditions",
+        "bytes": 69529
+      },
+      {
+        "id": "12th_p2_ch07_an_imperial_capital_vijayanagara",
+        "class": "12",
+        "title": "An Imperial Capital Vijayanagara",
+        "slug": "12th_p2_ch07_an_imperial_capital_vijayanagara",
+        "bytes": 47785
+      },
+      {
+        "id": "12th_p2_ch08_peasants_zamindars_and_the_state",
+        "class": "12",
+        "title": "Peasants Zamindars and the State",
+        "slug": "12th_p2_ch08_peasants_zamindars_and_the_state",
+        "bytes": 65373
+      },
+      {
+        "id": "12th_p2_ch08_peasants_zamindars_and_the_state_mughal_empire",
+        "class": "12",
+        "title": "Peasants Zamindars and the State - Mughal Empire",
+        "slug": "12th_p2_ch08_peasants_zamindars_and_the_state_mughal_empire",
+        "bytes": 65389
+      },
+      {
+        "id": "12th_p2_ch09_kings_and_chronicles_mughal_courts",
+        "class": "12",
+        "title": "Kings and Chronicles - Mughal Courts",
+        "slug": "12th_p2_ch09_kings_and_chronicles_mughal_courts",
+        "bytes": 72026
+      },
+      {
+        "id": "12th_p2_ch09_kings_and_chronicles_the_mughal_courts",
+        "class": "12",
+        "title": "Kings and Chronicles - The Mughal Courts",
+        "slug": "12th_p2_ch09_kings_and_chronicles_the_mughal_courts",
+        "bytes": 72030
+      },
+      {
+        "id": "12th_p3_ch10_colonialism_and_the_countryside",
+        "class": "12",
+        "title": "Colonialism and the Countryside",
+        "slug": "12th_p3_ch10_colonialism_and_the_countryside",
+        "bytes": 172141
+      },
+      {
+        "id": "12th_p3_ch11_rebels_and_the_raj_1857_revolt",
+        "class": "12",
+        "title": "Rebels and the Raj - 1857 Revolt",
+        "slug": "12th_p3_ch11_rebels_and_the_raj_1857_revolt",
+        "bytes": 151525
+      },
+      {
+        "id": "12th_p3_ch12_colonial_cities",
+        "class": "12",
+        "title": "Colonial Cities",
+        "slug": "12th_p3_ch12_colonial_cities",
+        "bytes": 178320
+      },
+      {
+        "id": "12th_p3_ch13_mahatma_gandhi_and_the_nationalist_movement",
+        "class": "12",
+        "title": "Mahatma Gandhi and the Nationalist Movement",
+        "slug": "12th_p3_ch13_mahatma_gandhi_and_the_nationalist_movement",
+        "bytes": 164177
+      },
+      {
+        "id": "12th_p3_ch14_understanding_partition",
+        "class": "12",
+        "title": "Understanding Partition",
+        "slug": "12th_p3_ch14_understanding_partition",
+        "bytes": 143425
+      },
+      {
+        "id": "12th_p3_ch15_framing_the_constitution",
+        "class": "12",
+        "title": "Framing the Constitution",
+        "slug": "12th_p3_ch15_framing_the_constitution",
+        "bytes": 158949
+      },
+      {
+        "id": "6th_ch01_what_where_how_and_when",
+        "class": "6",
+        "title": "What Where How and When",
+        "slug": "6th_ch01_what_where_how_and_when",
+        "bytes": 14563
+      },
+      {
+        "id": "6th_ch02_on_the_trail_of_the_earliest_people",
+        "class": "6",
+        "title": "On the Trail of the Earliest People",
+        "slug": "6th_ch02_on_the_trail_of_the_earliest_people",
+        "bytes": 14502
+      },
+      {
+        "id": "6th_ch03_from_gathering_to_growing_food",
+        "class": "6",
+        "title": "From Gathering to Growing Food",
+        "slug": "6th_ch03_from_gathering_to_growing_food",
+        "bytes": 15938
+      },
+      {
+        "id": "6th_ch04_in_the_earliest_cities",
+        "class": "6",
+        "title": "In the Earliest Cities",
+        "slug": "6th_ch04_in_the_earliest_cities",
+        "bytes": 17165
+      },
+      {
+        "id": "6th_ch05_what_books_and_burials_tell_us",
+        "class": "6",
+        "title": "What Books and Burials Tell Us",
+        "slug": "6th_ch05_what_books_and_burials_tell_us",
+        "bytes": 17456
+      },
+      {
+        "id": "6th_ch06_kingdoms_kings_and_an_early_republic",
+        "class": "6",
+        "title": "Kingdoms Kings and an Early Republic",
+        "slug": "6th_ch06_kingdoms_kings_and_an_early_republic",
+        "bytes": 17089
+      },
+      {
+        "id": "6th_ch07_new_questions_and_ideas",
+        "class": "6",
+        "title": "New Questions and Ideas",
+        "slug": "6th_ch07_new_questions_and_ideas",
+        "bytes": 17022
+      },
+      {
+        "id": "6th_ch08_ashoka_the_emperor_who_gave_up_war",
+        "class": "6",
+        "title": "Ashoka the Emperor Who Gave Up War",
+        "slug": "6th_ch08_ashoka_the_emperor_who_gave_up_war",
+        "bytes": 15781
+      },
+      {
+        "id": "6th_ch09_vital_villages_thriving_towns",
+        "class": "6",
+        "title": "Vital Villages Thriving Towns",
+        "slug": "6th_ch09_vital_villages_thriving_towns",
+        "bytes": 20524
+      },
+      {
+        "id": "6th_ch10_traders_kings_and_pilgrims",
+        "class": "6",
+        "title": "Traders Kings and Pilgrims",
+        "slug": "6th_ch10_traders_kings_and_pilgrims",
+        "bytes": 19626
+      },
+      {
+        "id": "6th_ch11_new_empires_and_kingdoms",
+        "class": "6",
+        "title": "New Empires and Kingdoms",
+        "slug": "6th_ch11_new_empires_and_kingdoms",
+        "bytes": 17699
+      },
+      {
+        "id": "6th_ch12_buildings_paintings_and_books",
+        "class": "6",
+        "title": "Buildings Paintings and Books",
+        "slug": "6th_ch12_buildings_paintings_and_books",
+        "bytes": 22158
+      },
+      {
+        "id": "7th_ch01_tracing_changes_through_a_thousand_years",
+        "class": "7",
+        "title": "Tracing Changes Through a Thousand Years",
+        "slug": "7th_ch01_tracing_changes_through_a_thousand_years",
+        "bytes": 23633
+      },
+      {
+        "id": "7th_ch02_new_kings_and_kingdoms",
+        "class": "7",
+        "title": "New Kings and Kingdoms",
+        "slug": "7th_ch02_new_kings_and_kingdoms",
+        "bytes": 21000
+      },
+      {
+        "id": "7th_ch03_the_delhi_sultans",
+        "class": "7",
+        "title": "The Delhi Sultans",
+        "slug": "7th_ch03_the_delhi_sultans",
+        "bytes": 23944
+      },
+      {
+        "id": "7th_ch04_the_mughal_empire",
+        "class": "7",
+        "title": "The Mughal Empire",
+        "slug": "7th_ch04_the_mughal_empire",
+        "bytes": 25914
+      },
+      {
+        "id": "7th_ch05_rulers_and_buildings",
+        "class": "7",
+        "title": "Rulers and Buildings",
+        "slug": "7th_ch05_rulers_and_buildings",
+        "bytes": 22504
+      },
+      {
+        "id": "7th_ch06_towns_traders_and_craftspersons",
+        "class": "7",
+        "title": "Towns Traders and Craftspersons",
+        "slug": "7th_ch06_towns_traders_and_craftspersons",
+        "bytes": 24306
+      },
+      {
+        "id": "7th_ch07_tribes_nomads_and_settled_communities",
+        "class": "7",
+        "title": "Tribes Nomads and Settled Communities",
+        "slug": "7th_ch07_tribes_nomads_and_settled_communities",
+        "bytes": 20630
+      },
+      {
+        "id": "7th_ch08_devotional_paths_to_the_divine",
+        "class": "7",
+        "title": "Devotional Paths to the Divine",
+        "slug": "7th_ch08_devotional_paths_to_the_divine",
+        "bytes": 30266
+      },
+      {
+        "id": "7th_ch09_the_making_of_regional_cultures",
+        "class": "7",
+        "title": "The Making of Regional Cultures",
+        "slug": "7th_ch09_the_making_of_regional_cultures",
+        "bytes": 21855
+      },
+      {
+        "id": "7th_ch10_eighteenth_century_political_formations",
+        "class": "7",
+        "title": "Eighteenth Century Political Formations",
+        "slug": "7th_ch10_eighteenth_century_political_formations",
+        "bytes": 29208
+      },
+      {
+        "id": "8th_ch01_weavers_iron_smelters_and_factory_owners",
+        "class": "8",
+        "title": "Weavers Iron Smelters and Factory Owners",
+        "slug": "8th_ch01_weavers_iron_smelters_and_factory_owners",
+        "bytes": 37733
+      },
+      {
+        "id": "8th_ch02_civilising_the_native_educating_the_nation",
+        "class": "8",
+        "title": "Civilising the Native Educating the Nation",
+        "slug": "8th_ch02_civilising_the_native_educating_the_nation",
+        "bytes": 28672
+      },
+      {
+        "id": "8th_ch03_women_caste_and_reform",
+        "class": "8",
+        "title": "Women Caste and Reform",
+        "slug": "8th_ch03_women_caste_and_reform",
+        "bytes": 35402
+      },
+      {
+        "id": "8th_ch04_the_changing_world_of_visual_arts",
+        "class": "8",
+        "title": "The Changing World of Visual Arts",
+        "slug": "8th_ch04_the_changing_world_of_visual_arts",
+        "bytes": 40117
+      },
+      {
+        "id": "8th_ch05_the_making_of_the_national_movement_1870s_1947",
+        "class": "8",
+        "title": "The Making of the National Movement 1870s-1947",
+        "slug": "8th_ch05_the_making_of_the_national_movement_1870s_1947",
+        "bytes": 44496
+      },
+      {
+        "id": "8th_ch06_india_after_independence",
+        "class": "8",
+        "title": "India After Independence",
+        "slug": "8th_ch06_india_after_independence",
+        "bytes": 41485
+      },
+      {
+        "id": "9th_ch01_india_and_the_contemporary_world",
+        "class": "9",
+        "title": "India and the Contemporary World",
+        "slug": "9th_ch01_india_and_the_contemporary_world",
+        "bytes": 50931
+      },
+      {
+        "id": "9th_ch01_the_french_revolution",
+        "class": "9",
+        "title": "The French Revolution",
+        "slug": "9th_ch01_the_french_revolution",
+        "bytes": 52860
+      },
+      {
+        "id": "9th_ch02_india_and_the_contemporary_world",
+        "class": "9",
+        "title": "India and the Contemporary World",
+        "slug": "9th_ch02_india_and_the_contemporary_world",
+        "bytes": 46387
+      },
+      {
+        "id": "9th_ch02_socialism_in_europe_and_the_russian_revolution",
+        "class": "9",
+        "title": "Socialism in Europe and the Russian Revolution",
+        "slug": "9th_ch02_socialism_in_europe_and_the_russian_revolution",
+        "bytes": 58274
+      },
+      {
+        "id": "9th_ch03_clothing_a_social_history",
+        "class": "9",
+        "title": "Clothing: A Social History",
+        "slug": "9th_ch03_clothing_a_social_history",
+        "bytes": 384
+      },
+      {
+        "id": "9th_ch03_nazism_and_the_rise_of_hitler",
+        "class": "9",
+        "title": "Nazism and the Rise of Hitler",
+        "slug": "9th_ch03_nazism_and_the_rise_of_hitler",
+        "bytes": 53280
+      },
+      {
+        "id": "9th_ch04_forest_society_and_colonialism",
+        "class": "9",
+        "title": "Forest Society and Colonialism",
+        "slug": "9th_ch04_forest_society_and_colonialism",
+        "bytes": 45478
+      },
+      {
+        "id": "9th_ch05_pastoralists_in_the_modern_world",
+        "class": "9",
+        "title": "Pastoralists in the Modern World",
+        "slug": "9th_ch05_pastoralists_in_the_modern_world",
+        "bytes": 41687
+      },
+      {
+        "id": "9th_ch06_peasants_and_farmers",
+        "class": "9",
+        "title": "Peasants and Farmers",
+        "slug": "9th_ch06_peasants_and_farmers",
+        "bytes": 47395
+      },
+      {
+        "id": "9th_ch07_history_and_sport_the_story_of_cricket",
+        "class": "9",
+        "title": "History and Sport The Story of Cricket",
+        "slug": "9th_ch07_history_and_sport_the_story_of_cricket",
+        "bytes": 50937
+      },
+      {
+        "id": "9th_ch08_clothing_a_social_history",
+        "class": "9",
+        "title": "Clothing A Social History",
+        "slug": "9th_ch08_clothing_a_social_history",
+        "bytes": 46525
+      }
+    ],
+    "geography": [
+      {
+        "id": "10th_ch01_resources_and_development",
+        "class": "10",
+        "title": "Resources and Development",
+        "slug": "10th_ch01_resources_and_development",
+        "bytes": 91091
+      },
+      {
+        "id": "10th_ch02_forest_and_wildlife_resources",
+        "class": "10",
+        "title": "Forest and Wildlife Resources",
+        "slug": "10th_ch02_forest_and_wildlife_resources",
+        "bytes": 48643
+      },
+      {
+        "id": "10th_ch03_water_resources",
+        "class": "10",
+        "title": "Water Resources",
+        "slug": "10th_ch03_water_resources",
+        "bytes": 77347
+      },
+      {
+        "id": "10th_ch04_agriculture",
+        "class": "10",
+        "title": "Agriculture",
+        "slug": "10th_ch04_agriculture",
+        "bytes": 98900
+      },
+      {
+        "id": "10th_ch05_minerals_and_energy_resources",
+        "class": "10",
+        "title": "Minerals and Energy Resources",
+        "slug": "10th_ch05_minerals_and_energy_resources",
+        "bytes": 77942
+      },
+      {
+        "id": "10th_ch06_manufacturing_industries",
+        "class": "10",
+        "title": "Manufacturing Industries",
+        "slug": "10th_ch06_manufacturing_industries",
+        "bytes": 97425
+      },
+      {
+        "id": "10th_ch07_lifelines_of_national_economy",
+        "class": "10",
+        "title": "Lifelines of National Economy",
+        "slug": "10th_ch07_lifelines_of_national_economy",
+        "bytes": 644865
+      },
+      {
+        "id": "11th_p1_ch01_geography_as_a_discipline",
+        "class": "11",
+        "title": "Geography as a Discipline",
+        "slug": "11th_p1_ch01_geography_as_a_discipline",
+        "bytes": 81691
+      },
+      {
+        "id": "11th_p1_ch02_origin_and_evolution_of_the_earth",
+        "class": "11",
+        "title": "Origin and Evolution of the Earth",
+        "slug": "11th_p1_ch02_origin_and_evolution_of_the_earth",
+        "bytes": 56711
+      },
+      {
+        "id": "11th_p1_ch03_interior_of_the_earth",
+        "class": "11",
+        "title": "Interior of the Earth",
+        "slug": "11th_p1_ch03_interior_of_the_earth",
+        "bytes": 59548
+      },
+      {
+        "id": "11th_p1_ch04_distribution_of_oceans_and_continents",
+        "class": "11",
+        "title": "Distribution of Oceans and Continents",
+        "slug": "11th_p1_ch04_distribution_of_oceans_and_continents",
+        "bytes": 62145
+      },
+      {
+        "id": "11th_p1_ch05_minerals_and_rocks",
+        "class": "11",
+        "title": "Minerals and Rocks",
+        "slug": "11th_p1_ch05_minerals_and_rocks",
+        "bytes": 38615
+      },
+      {
+        "id": "11th_p1_ch06_geomorphic_processes",
+        "class": "11",
+        "title": "Geomorphic Processes",
+        "slug": "11th_p1_ch06_geomorphic_processes",
+        "bytes": 78417
+      },
+      {
+        "id": "11th_p1_ch07_landforms_and_their_evolution",
+        "class": "11",
+        "title": "Landforms and their Evolution",
+        "slug": "11th_p1_ch07_landforms_and_their_evolution",
+        "bytes": 106347
+      },
+      {
+        "id": "11th_p1_ch08_composition_and_structure_of_atmosphere",
+        "class": "11",
+        "title": "Composition and Structure of Atmosphere",
+        "slug": "11th_p1_ch08_composition_and_structure_of_atmosphere",
+        "bytes": 70771
+      },
+      {
+        "id": "11th_p1_ch09_solar_radiation_heat_balance_and_temperature",
+        "class": "11",
+        "title": "Solar Radiation Heat Balance and Temperature",
+        "slug": "11th_p1_ch09_solar_radiation_heat_balance_and_temperature",
+        "bytes": 68303
+      },
+      {
+        "id": "11th_p1_ch10_atmospheric_circulation_and_weather_systems",
+        "class": "11",
+        "title": "Atmospheric Circulation and Weather Systems",
+        "slug": "11th_p1_ch10_atmospheric_circulation_and_weather_systems",
+        "bytes": 81188
+      },
+      {
+        "id": "11th_p1_ch11_water_in_the_atmosphere",
+        "class": "11",
+        "title": "Water in the Atmosphere",
+        "slug": "11th_p1_ch11_water_in_the_atmosphere",
+        "bytes": 53915
+      },
+      {
+        "id": "11th_p1_ch12_world_climate_and_climate_change",
+        "class": "11",
+        "title": "World Climate and Climate Change",
+        "slug": "11th_p1_ch12_world_climate_and_climate_change",
+        "bytes": 78647
+      },
+      {
+        "id": "11th_p1_ch13_water_oceans",
+        "class": "11",
+        "title": "Water Oceans",
+        "slug": "11th_p1_ch13_water_oceans",
+        "bytes": 62871
+      },
+      {
+        "id": "11th_p1_ch14_movements_of_ocean_water",
+        "class": "11",
+        "title": "Movements of Ocean Water",
+        "slug": "11th_p1_ch14_movements_of_ocean_water",
+        "bytes": 59176
+      },
+      {
+        "id": "11th_p1_ch15_life_on_the_earth",
+        "class": "11",
+        "title": "Life on the Earth",
+        "slug": "11th_p1_ch15_life_on_the_earth",
+        "bytes": 61313
+      },
+      {
+        "id": "11th_p1_ch16_biodiversity_and_conservation",
+        "class": "11",
+        "title": "Biodiversity and Conservation",
+        "slug": "11th_p1_ch16_biodiversity_and_conservation",
+        "bytes": 128985
+      },
+      {
+        "id": "11th_p2_ch01_india_location",
+        "class": "11",
+        "title": "India Location",
+        "slug": "11th_p2_ch01_india_location",
+        "bytes": 35240
+      },
+      {
+        "id": "11th_p2_ch02_structure_and_physiography",
+        "class": "11",
+        "title": "Structure and Physiography",
+        "slug": "11th_p2_ch02_structure_and_physiography",
+        "bytes": 119919
+      },
+      {
+        "id": "11th_p2_ch03_drainage_system",
+        "class": "11",
+        "title": "Drainage System",
+        "slug": "11th_p2_ch03_drainage_system",
+        "bytes": 130223
+      },
+      {
+        "id": "11th_p2_ch04_climate",
+        "class": "11",
+        "title": "Climate",
+        "slug": "11th_p2_ch04_climate",
+        "bytes": 83552
+      },
+      {
+        "id": "11th_p2_ch05_natural_vegetation",
+        "class": "11",
+        "title": "Natural Vegetation",
+        "slug": "11th_p2_ch05_natural_vegetation",
+        "bytes": 93216
+      },
+      {
+        "id": "11th_p2_ch06_soils",
+        "class": "11",
+        "title": "Soils",
+        "slug": "11th_p2_ch06_soils",
+        "bytes": 68414
+      },
+      {
+        "id": "11th_p2_ch07_natural_hazards_and_disasters",
+        "class": "11",
+        "title": "Natural Hazards and Disasters",
+        "slug": "11th_p2_ch07_natural_hazards_and_disasters",
+        "bytes": 174912
+      },
+      {
+        "id": "12th_p1_ch01_population_distribution_density_growth_and_composi",
+        "class": "12",
+        "title": "Population Distribution Density Growth and Composition",
+        "slug": "12th_p1_ch01_population_distribution_density_growth_and_composi",
+        "bytes": 29644
+      },
+      {
+        "id": "12th_p1_ch02_migration_types_causes_and_consequences",
+        "class": "12",
+        "title": "Migration Types Causes and Consequences",
+        "slug": "12th_p1_ch02_migration_types_causes_and_consequences",
+        "bytes": 19750
+      },
+      {
+        "id": "12th_p1_ch03_human_development",
+        "class": "12",
+        "title": "Human Development",
+        "slug": "12th_p1_ch03_human_development",
+        "bytes": 27378
+      },
+      {
+        "id": "12th_p1_ch04_human_settlements",
+        "class": "12",
+        "title": "Human Settlements",
+        "slug": "12th_p1_ch04_human_settlements",
+        "bytes": 17684
+      },
+      {
+        "id": "12th_p1_ch05_land_resources_and_agriculture",
+        "class": "12",
+        "title": "Land Resources and Agriculture",
+        "slug": "12th_p1_ch05_land_resources_and_agriculture",
+        "bytes": 48225
+      },
+      {
+        "id": "12th_p1_ch06_water_resources",
+        "class": "12",
+        "title": "Water Resources",
+        "slug": "12th_p1_ch06_water_resources",
+        "bytes": 28146
+      },
+      {
+        "id": "12th_p1_ch07_mineral_and_energy_resources",
+        "class": "12",
+        "title": "Mineral and Energy Resources",
+        "slug": "12th_p1_ch07_mineral_and_energy_resources",
+        "bytes": 27114
+      },
+      {
+        "id": "12th_p1_ch08_manufacturing_industries",
+        "class": "12",
+        "title": "Manufacturing Industries",
+        "slug": "12th_p1_ch08_manufacturing_industries",
+        "bytes": 48585
+      },
+      {
+        "id": "12th_p1_ch09_planning_and_sustainable_development",
+        "class": "12",
+        "title": "Planning and Sustainable Development",
+        "slug": "12th_p1_ch09_planning_and_sustainable_development",
+        "bytes": 30484
+      },
+      {
+        "id": "12th_p1_ch10_transport_and_communication",
+        "class": "12",
+        "title": "Transport and Communication",
+        "slug": "12th_p1_ch10_transport_and_communication",
+        "bytes": 38268
+      },
+      {
+        "id": "12th_p1_ch11_international_trade",
+        "class": "12",
+        "title": "International Trade",
+        "slug": "12th_p1_ch11_international_trade",
+        "bytes": 27986
+      },
+      {
+        "id": "12th_p1_ch12_geographical_perspective_on_selected_issues",
+        "class": "12",
+        "title": "Geographical Perspective on Selected Issues",
+        "slug": "12th_p1_ch12_geographical_perspective_on_selected_issues",
+        "bytes": 33274
+      },
+      {
+        "id": "12th_p2_ch01_human_geography_nature_and_scope",
+        "class": "12",
+        "title": "Human Geography Nature and Scope",
+        "slug": "12th_p2_ch01_human_geography_nature_and_scope",
+        "bytes": 20100
+      },
+      {
+        "id": "12th_p2_ch02_world_population_distribution_density_growth",
+        "class": "12",
+        "title": "World Population Distribution Density Growth",
+        "slug": "12th_p2_ch02_world_population_distribution_density_growth",
+        "bytes": 30308
+      },
+      {
+        "id": "12th_p2_ch03_population_composition",
+        "class": "12",
+        "title": "Population Composition",
+        "slug": "12th_p2_ch03_population_composition",
+        "bytes": 5803
+      },
+      {
+        "id": "12th_p2_ch04_human_development",
+        "class": "12",
+        "title": "Human Development",
+        "slug": "12th_p2_ch04_human_development",
+        "bytes": 18360
+      },
+      {
+        "id": "12th_p2_ch05_primary_activities",
+        "class": "12",
+        "title": "Primary Activities",
+        "slug": "12th_p2_ch05_primary_activities",
+        "bytes": 42001
+      },
+      {
+        "id": "12th_p2_ch06_secondary_activities",
+        "class": "12",
+        "title": "Secondary Activities",
+        "slug": "12th_p2_ch06_secondary_activities",
+        "bytes": 27092
+      },
+      {
+        "id": "12th_p2_ch07_tertiary_and_quaternary_activities",
+        "class": "12",
+        "title": "Tertiary and Quaternary Activities",
+        "slug": "12th_p2_ch07_tertiary_and_quaternary_activities",
+        "bytes": 23289
+      },
+      {
+        "id": "12th_p2_ch08_transport_and_communication",
+        "class": "12",
+        "title": "Transport and Communication",
+        "slug": "12th_p2_ch08_transport_and_communication",
+        "bytes": 33259
+      },
+      {
+        "id": "12th_p2_ch09_international_trade",
+        "class": "12",
+        "title": "International Trade",
+        "slug": "12th_p2_ch09_international_trade",
+        "bytes": 19568
+      },
+      {
+        "id": "12th_p2_ch10_human_settlements",
+        "class": "12",
+        "title": "Human Settlements",
+        "slug": "12th_p2_ch10_human_settlements",
+        "bytes": 49013
+      },
+      {
+        "id": "6th_ch01_the_earth_in_the_solar_system",
+        "class": "6",
+        "title": "The Earth in the Solar System",
+        "slug": "6th_ch01_the_earth_in_the_solar_system",
+        "bytes": 16886
+      },
+      {
+        "id": "6th_ch02_globe_latitudes_and_longitudes",
+        "class": "6",
+        "title": "Globe Latitudes and Longitudes",
+        "slug": "6th_ch02_globe_latitudes_and_longitudes",
+        "bytes": 14402
+      },
+      {
+        "id": "6th_ch03_motions_of_the_earth",
+        "class": "6",
+        "title": "Motions of the Earth",
+        "slug": "6th_ch03_motions_of_the_earth",
+        "bytes": 9286
+      },
+      {
+        "id": "6th_ch04_maps",
+        "class": "6",
+        "title": "Maps",
+        "slug": "6th_ch04_maps",
+        "bytes": 9536
+      },
+      {
+        "id": "6th_ch05_major_domains_of_the_earth",
+        "class": "6",
+        "title": "Major Domains of the Earth",
+        "slug": "6th_ch05_major_domains_of_the_earth",
+        "bytes": 14388
+      },
+      {
+        "id": "6th_ch06_major_landforms_of_the_earth",
+        "class": "6",
+        "title": "Major Landforms of the Earth",
+        "slug": "6th_ch06_major_landforms_of_the_earth",
+        "bytes": 11688
+      },
+      {
+        "id": "6th_ch07_our_country_india",
+        "class": "6",
+        "title": "Our Country India",
+        "slug": "6th_ch07_our_country_india",
+        "bytes": 11775
+      },
+      {
+        "id": "6th_ch08_india_climate_vegetation_and_wildlife",
+        "class": "6",
+        "title": "India Climate Vegetation and Wildlife",
+        "slug": "6th_ch08_india_climate_vegetation_and_wildlife",
+        "bytes": 14306
+      },
+      {
+        "id": "7th_ch01_environment",
+        "class": "7",
+        "title": "Environment",
+        "slug": "7th_ch01_environment",
+        "bytes": 15348
+      },
+      {
+        "id": "7th_ch02_inside_our_earth",
+        "class": "7",
+        "title": "Inside Our Earth",
+        "slug": "7th_ch02_inside_our_earth",
+        "bytes": 9563
+      },
+      {
+        "id": "7th_ch03_our_changing_earth",
+        "class": "7",
+        "title": "Our Changing Earth",
+        "slug": "7th_ch03_our_changing_earth",
+        "bytes": 14141
+      },
+      {
+        "id": "7th_ch04_air",
+        "class": "7",
+        "title": "Air",
+        "slug": "7th_ch04_air",
+        "bytes": 12606
+      },
+      {
+        "id": "7th_ch05_water",
+        "class": "7",
+        "title": "Water",
+        "slug": "7th_ch05_water",
+        "bytes": 12597
+      },
+      {
+        "id": "7th_ch06_natural_vegetation_and_wildlife",
+        "class": "7",
+        "title": "Natural Vegetation and Wildlife",
+        "slug": "7th_ch06_natural_vegetation_and_wildlife",
+        "bytes": 18260
+      },
+      {
+        "id": "7th_ch07_human_environment_settlement_transport",
+        "class": "7",
+        "title": "Human Environment Settlement Transport",
+        "slug": "7th_ch07_human_environment_settlement_transport",
+        "bytes": 14306
+      },
+      {
+        "id": "7th_ch08_human_environment_interactions_tropical",
+        "class": "7",
+        "title": "Human Environment Interactions Tropical",
+        "slug": "7th_ch08_human_environment_interactions_tropical",
+        "bytes": 14100
+      },
+      {
+        "id": "7th_ch09_life_in_the_temperate_grasslands",
+        "class": "7",
+        "title": "Life in the Temperate Grasslands",
+        "slug": "7th_ch09_life_in_the_temperate_grasslands",
+        "bytes": 8829
+      },
+      {
+        "id": "7th_ch10_life_in_the_deserts",
+        "class": "7",
+        "title": "Life in the Deserts",
+        "slug": "7th_ch10_life_in_the_deserts",
+        "bytes": 13373
+      },
+      {
+        "id": "8th_ch01_resources",
+        "class": "8",
+        "title": "Resources",
+        "slug": "8th_ch01_resources",
+        "bytes": 23205
+      },
+      {
+        "id": "8th_ch02_land_soil_water_natural_vegetation_and_wildlife",
+        "class": "8",
+        "title": "Land Soil Water Natural Vegetation and Wildlife",
+        "slug": "8th_ch02_land_soil_water_natural_vegetation_and_wildlife",
+        "bytes": 28587
+      },
+      {
+        "id": "8th_ch03_mineral_and_power_resources",
+        "class": "8",
+        "title": "Mineral and Power Resources",
+        "slug": "8th_ch03_mineral_and_power_resources",
+        "bytes": 20689
+      },
+      {
+        "id": "8th_ch04_agriculture",
+        "class": "8",
+        "title": "Agriculture",
+        "slug": "8th_ch04_agriculture",
+        "bytes": 19493
+      },
+      {
+        "id": "8th_ch05_industries",
+        "class": "8",
+        "title": "Industries",
+        "slug": "8th_ch05_industries",
+        "bytes": 32960
+      },
+      {
+        "id": "8th_ch06_human_resources",
+        "class": "8",
+        "title": "Human Resources",
+        "slug": "8th_ch06_human_resources",
+        "bytes": 10781
+      },
+      {
+        "id": "9th_ch01_india_size_and_location",
+        "class": "9",
+        "title": "India Size and Location",
+        "slug": "9th_ch01_india_size_and_location",
+        "bytes": 39150
+      },
+      {
+        "id": "9th_ch02_physical_features_of_india",
+        "class": "9",
+        "title": "Physical Features of India",
+        "slug": "9th_ch02_physical_features_of_india",
+        "bytes": 76442
+      },
+      {
+        "id": "9th_ch03_drainage",
+        "class": "9",
+        "title": "Drainage",
+        "slug": "9th_ch03_drainage",
+        "bytes": 82370
+      },
+      {
+        "id": "9th_ch04_climate",
+        "class": "9",
+        "title": "Climate",
+        "slug": "9th_ch04_climate",
+        "bytes": 69413
+      },
+      {
+        "id": "9th_ch05_natural_vegetation_and_wildlife",
+        "class": "9",
+        "title": "Natural Vegetation and Wildlife",
+        "slug": "9th_ch05_natural_vegetation_and_wildlife",
+        "bytes": 57131
+      },
+      {
+        "id": "9th_ch06_population",
+        "class": "9",
+        "title": "Population",
+        "slug": "9th_ch06_population",
+        "bytes": 77310
+      }
+    ],
+    "polity": [
+      {
+        "id": "10th_ch01_power_sharing",
+        "class": "10",
+        "title": "Power Sharing",
+        "slug": "10th_ch01_power_sharing",
+        "bytes": 29436
+      },
+      {
+        "id": "10th_ch02_federalism",
+        "class": "10",
+        "title": "Federalism",
+        "slug": "10th_ch02_federalism",
+        "bytes": 37260
+      },
+      {
+        "id": "10th_ch03_democracy_and_diversity",
+        "class": "10",
+        "title": "Democracy and Diversity",
+        "slug": "10th_ch03_democracy_and_diversity",
+        "bytes": 27249
+      },
+      {
+        "id": "10th_ch04_gender_religion_and_caste",
+        "class": "10",
+        "title": "Gender Religion and Caste",
+        "slug": "10th_ch04_gender_religion_and_caste",
+        "bytes": 40012
+      },
+      {
+        "id": "10th_ch05_popular_struggles_and_movements",
+        "class": "10",
+        "title": "Popular Struggles and Movements",
+        "slug": "10th_ch05_popular_struggles_and_movements",
+        "bytes": 31111
+      },
+      {
+        "id": "10th_ch06_political_parties",
+        "class": "10",
+        "title": "Political Parties",
+        "slug": "10th_ch06_political_parties",
+        "bytes": 42332
+      },
+      {
+        "id": "10th_ch07_outcomes_of_democracy",
+        "class": "10",
+        "title": "Outcomes of Democracy",
+        "slug": "10th_ch07_outcomes_of_democracy",
+        "bytes": 28116
+      },
+      {
+        "id": "10th_ch08_challenges_to_democracy",
+        "class": "10",
+        "title": "Challenges to Democracy",
+        "slug": "10th_ch08_challenges_to_democracy",
+        "bytes": 22734
+      },
+      {
+        "id": "11th_p1_ch01_constitution_why_and_how",
+        "class": "11",
+        "title": "Constitution Why and How",
+        "slug": "11th_p1_ch01_constitution_why_and_how",
+        "bytes": 46602
+      },
+      {
+        "id": "11th_p1_ch02_rights_in_the_indian_constitution",
+        "class": "11",
+        "title": "Rights in the Indian Constitution",
+        "slug": "11th_p1_ch02_rights_in_the_indian_constitution",
+        "bytes": 48957
+      },
+      {
+        "id": "11th_p1_ch03_election_and_representation",
+        "class": "11",
+        "title": "Election and Representation",
+        "slug": "11th_p1_ch03_election_and_representation",
+        "bytes": 48316
+      },
+      {
+        "id": "11th_p1_ch04_executive",
+        "class": "11",
+        "title": "Executive",
+        "slug": "11th_p1_ch04_executive",
+        "bytes": 41874
+      },
+      {
+        "id": "11th_p1_ch05_legislature",
+        "class": "11",
+        "title": "Legislature",
+        "slug": "11th_p1_ch05_legislature",
+        "bytes": 42249
+      },
+      {
+        "id": "11th_p1_ch06_judiciary",
+        "class": "11",
+        "title": "Judiciary",
+        "slug": "11th_p1_ch06_judiciary",
+        "bytes": 46082
+      },
+      {
+        "id": "11th_p1_ch07_federalism",
+        "class": "11",
+        "title": "Federalism",
+        "slug": "11th_p1_ch07_federalism",
+        "bytes": 44575
+      },
+      {
+        "id": "11th_p1_ch08_local_governments",
+        "class": "11",
+        "title": "Local Governments",
+        "slug": "11th_p1_ch08_local_governments",
+        "bytes": 37026
+      },
+      {
+        "id": "11th_p1_ch09_constitution_as_a_living_document",
+        "class": "11",
+        "title": "Constitution as a Living Document",
+        "slug": "11th_p1_ch09_constitution_as_a_living_document",
+        "bytes": 47427
+      },
+      {
+        "id": "11th_p1_ch10_the_philosophy_of_the_constitution",
+        "class": "11",
+        "title": "The Philosophy of the Constitution",
+        "slug": "11th_p1_ch10_the_philosophy_of_the_constitution",
+        "bytes": 45073
+      },
+      {
+        "id": "11th_p2_ch01_political_theory_an_introduction",
+        "class": "11",
+        "title": "Political Theory An Introduction",
+        "slug": "11th_p2_ch01_political_theory_an_introduction",
+        "bytes": 75390
+      },
+      {
+        "id": "11th_p2_ch02_freedom",
+        "class": "11",
+        "title": "Freedom",
+        "slug": "11th_p2_ch02_freedom",
+        "bytes": 93614
+      },
+      {
+        "id": "11th_p2_ch03_equality",
+        "class": "11",
+        "title": "Equality",
+        "slug": "11th_p2_ch03_equality",
+        "bytes": 123239
+      },
+      {
+        "id": "11th_p2_ch04_social_justice",
+        "class": "11",
+        "title": "Social Justice",
+        "slug": "11th_p2_ch04_social_justice",
+        "bytes": 84427
+      },
+      {
+        "id": "11th_p2_ch05_rights",
+        "class": "11",
+        "title": "Rights",
+        "slug": "11th_p2_ch05_rights",
+        "bytes": 70916
+      },
+      {
+        "id": "11th_p2_ch06_citizenship",
+        "class": "11",
+        "title": "Citizenship",
+        "slug": "11th_p2_ch06_citizenship",
+        "bytes": 104886
+      },
+      {
+        "id": "11th_p2_ch07_nationalism",
+        "class": "11",
+        "title": "Nationalism",
+        "slug": "11th_p2_ch07_nationalism",
+        "bytes": 81390
+      },
+      {
+        "id": "11th_p2_ch08_secularism",
+        "class": "11",
+        "title": "Secularism",
+        "slug": "11th_p2_ch08_secularism",
+        "bytes": 105366
+      },
+      {
+        "id": "11th_p2_ch09_peace",
+        "class": "11",
+        "title": "Peace",
+        "slug": "11th_p2_ch09_peace",
+        "bytes": 85620
+      },
+      {
+        "id": "11th_p2_ch10_development",
+        "class": "11",
+        "title": "Development",
+        "slug": "11th_p2_ch10_development",
+        "bytes": 89416
+      },
+      {
+        "id": "12th_p1_ch01_the_cold_war_era",
+        "class": "12",
+        "title": "The Cold War Era",
+        "slug": "12th_p1_ch01_the_cold_war_era",
+        "bytes": 36526
+      },
+      {
+        "id": "12th_p1_ch02_the_end_of_bipolarity",
+        "class": "12",
+        "title": "The End of Bipolarity",
+        "slug": "12th_p1_ch02_the_end_of_bipolarity",
+        "bytes": 37969
+      },
+      {
+        "id": "12th_p1_ch03_us_hegemony_in_world_politics",
+        "class": "12",
+        "title": "US Hegemony in World Politics",
+        "slug": "12th_p1_ch03_us_hegemony_in_world_politics",
+        "bytes": 43647
+      },
+      {
+        "id": "12th_p1_ch04_alternative_centres_of_power",
+        "class": "12",
+        "title": "Alternative Centres of Power",
+        "slug": "12th_p1_ch04_alternative_centres_of_power",
+        "bytes": 31160
+      },
+      {
+        "id": "12th_p1_ch05_contemporary_south_asia",
+        "class": "12",
+        "title": "Contemporary South Asia",
+        "slug": "12th_p1_ch05_contemporary_south_asia",
+        "bytes": 38668
+      },
+      {
+        "id": "12th_p1_ch06_international_organisations",
+        "class": "12",
+        "title": "International Organisations",
+        "slug": "12th_p1_ch06_international_organisations",
+        "bytes": 39937
+      },
+      {
+        "id": "12th_p1_ch07_security_in_the_contemporary_world",
+        "class": "12",
+        "title": "Security in the Contemporary World",
+        "slug": "12th_p1_ch07_security_in_the_contemporary_world",
+        "bytes": 40554
+      },
+      {
+        "id": "12th_p1_ch08_environment_and_natural_resources",
+        "class": "12",
+        "title": "Environment and Natural Resources",
+        "slug": "12th_p1_ch08_environment_and_natural_resources",
+        "bytes": 43212
+      },
+      {
+        "id": "12th_p1_ch09_globalisation",
+        "class": "12",
+        "title": "Globalisation",
+        "slug": "12th_p1_ch09_globalisation",
+        "bytes": 29602
+      },
+      {
+        "id": "12th_p2_ch01_challenges_of_nation_building",
+        "class": "12",
+        "title": "Challenges of Nation Building",
+        "slug": "12th_p2_ch01_challenges_of_nation_building",
+        "bytes": 47101
+      },
+      {
+        "id": "12th_p2_ch02_era_of_one_party_dominance",
+        "class": "12",
+        "title": "Era of One Party Dominance",
+        "slug": "12th_p2_ch02_era_of_one_party_dominance",
+        "bytes": 46160
+      },
+      {
+        "id": "12th_p2_ch03_politics_of_planned_development",
+        "class": "12",
+        "title": "Politics of Planned Development",
+        "slug": "12th_p2_ch03_politics_of_planned_development",
+        "bytes": 41552
+      },
+      {
+        "id": "12th_p2_ch04_indias_external_relations",
+        "class": "12",
+        "title": "Indias External Relations",
+        "slug": "12th_p2_ch04_indias_external_relations",
+        "bytes": 38946
+      },
+      {
+        "id": "12th_p2_ch05_challenges_to_and_restoration_of_the_congress_system",
+        "class": "12",
+        "title": "Challenges to and Restoration of the Congress System",
+        "slug": "12th_p2_ch05_challenges_to_and_restoration_of_the_congress_system",
+        "bytes": 41823
+      },
+      {
+        "id": "12th_p2_ch06_the_crisis_of_democratic_order",
+        "class": "12",
+        "title": "The Crisis of Democratic Order",
+        "slug": "12th_p2_ch06_the_crisis_of_democratic_order",
+        "bytes": 53020
+      },
+      {
+        "id": "12th_p2_ch07_rise_of_popular_movements",
+        "class": "12",
+        "title": "Rise of Popular Movements",
+        "slug": "12th_p2_ch07_rise_of_popular_movements",
+        "bytes": 46370
+      },
+      {
+        "id": "12th_p2_ch08_regional_aspirations",
+        "class": "12",
+        "title": "Regional Aspirations",
+        "slug": "12th_p2_ch08_regional_aspirations",
+        "bytes": 53912
+      },
+      {
+        "id": "12th_p2_ch09_recent_developments_in_indian_politics",
+        "class": "12",
+        "title": "Recent Developments in Indian Politics",
+        "slug": "12th_p2_ch09_recent_developments_in_indian_politics",
+        "bytes": 39274
+      },
+      {
+        "id": "6th_ch01_understanding_diversity",
+        "class": "6",
+        "title": "Understanding Diversity",
+        "slug": "6th_ch01_understanding_diversity",
+        "bytes": 24227
+      },
+      {
+        "id": "6th_ch02_diversity_and_discrimination",
+        "class": "6",
+        "title": "Diversity and Discrimination",
+        "slug": "6th_ch02_diversity_and_discrimination",
+        "bytes": 24669
+      },
+      {
+        "id": "6th_ch03_what_is_government",
+        "class": "6",
+        "title": "What is Government",
+        "slug": "6th_ch03_what_is_government",
+        "bytes": 12114
+      },
+      {
+        "id": "6th_ch04_key_elements_of_a_democratic_government",
+        "class": "6",
+        "title": "Key Elements of a Democratic Government",
+        "slug": "6th_ch04_key_elements_of_a_democratic_government",
+        "bytes": 12582
+      },
+      {
+        "id": "6th_ch05_panchayati_raj",
+        "class": "6",
+        "title": "Panchayati Raj",
+        "slug": "6th_ch05_panchayati_raj",
+        "bytes": 12501
+      },
+      {
+        "id": "6th_ch06_rural_administration",
+        "class": "6",
+        "title": "Rural Administration",
+        "slug": "6th_ch06_rural_administration",
+        "bytes": 14336
+      },
+      {
+        "id": "6th_ch07_urban_administration",
+        "class": "6",
+        "title": "Urban Administration",
+        "slug": "6th_ch07_urban_administration",
+        "bytes": 16967
+      },
+      {
+        "id": "6th_ch08_rural_livelihoods",
+        "class": "6",
+        "title": "Rural Livelihoods",
+        "slug": "6th_ch08_rural_livelihoods",
+        "bytes": 17376
+      },
+      {
+        "id": "6th_ch09_urban_livelihoods",
+        "class": "6",
+        "title": "Urban Livelihoods",
+        "slug": "6th_ch09_urban_livelihoods",
+        "bytes": 18338
+      },
+      {
+        "id": "7th_ch01_on_equality",
+        "class": "7",
+        "title": "On Equality",
+        "slug": "7th_ch01_on_equality",
+        "bytes": 24518
+      },
+      {
+        "id": "7th_ch02_role_of_the_government_in_health",
+        "class": "7",
+        "title": "Role of the Government in Health",
+        "slug": "7th_ch02_role_of_the_government_in_health",
+        "bytes": 23008
+      },
+      {
+        "id": "7th_ch03_how_the_state_government_works",
+        "class": "7",
+        "title": "How the State Government Works",
+        "slug": "7th_ch03_how_the_state_government_works",
+        "bytes": 23459
+      },
+      {
+        "id": "7th_ch04_growing_up_as_boys_and_girls",
+        "class": "7",
+        "title": "Growing Up as Boys and Girls",
+        "slug": "7th_ch04_growing_up_as_boys_and_girls",
+        "bytes": 16755
+      },
+      {
+        "id": "7th_ch05_women_change_the_world",
+        "class": "7",
+        "title": "Women Change the World",
+        "slug": "7th_ch05_women_change_the_world",
+        "bytes": 25281
+      },
+      {
+        "id": "7th_ch06_understanding_media",
+        "class": "7",
+        "title": "Understanding Media",
+        "slug": "7th_ch06_understanding_media",
+        "bytes": 21859
+      },
+      {
+        "id": "7th_ch07_understanding_advertising",
+        "class": "7",
+        "title": "Understanding Advertising",
+        "slug": "7th_ch07_understanding_advertising",
+        "bytes": 18231
+      },
+      {
+        "id": "7th_ch08_markets_around_us",
+        "class": "7",
+        "title": "Markets Around Us",
+        "slug": "7th_ch08_markets_around_us",
+        "bytes": 17976
+      },
+      {
+        "id": "7th_ch09_a_shirt_in_the_market",
+        "class": "7",
+        "title": "A Shirt in the Market",
+        "slug": "7th_ch09_a_shirt_in_the_market",
+        "bytes": 32256
+      },
+      {
+        "id": "8th_ch01_the_indian_constitution",
+        "class": "8",
+        "title": "The Indian Constitution",
+        "slug": "8th_ch01_the_indian_constitution",
+        "bytes": 22328
+      },
+      {
+        "id": "8th_ch02_understanding_secularism",
+        "class": "8",
+        "title": "Understanding Secularism",
+        "slug": "8th_ch02_understanding_secularism",
+        "bytes": 15653
+      },
+      {
+        "id": "8th_ch03_why_do_we_need_a_parliament",
+        "class": "8",
+        "title": "Why Do We Need a Parliament",
+        "slug": "8th_ch03_why_do_we_need_a_parliament",
+        "bytes": 12742
+      },
+      {
+        "id": "8th_ch04_understanding_laws",
+        "class": "8",
+        "title": "Understanding Laws",
+        "slug": "8th_ch04_understanding_laws",
+        "bytes": 19624
+      },
+      {
+        "id": "8th_ch05_judiciary",
+        "class": "8",
+        "title": "Judiciary",
+        "slug": "8th_ch05_judiciary",
+        "bytes": 23454
+      },
+      {
+        "id": "8th_ch06_understanding_our_criminal_justice_system",
+        "class": "8",
+        "title": "Understanding Our Criminal Justice System",
+        "slug": "8th_ch06_understanding_our_criminal_justice_system",
+        "bytes": 23231
+      },
+      {
+        "id": "8th_ch07_understanding_marginalisation",
+        "class": "8",
+        "title": "Understanding Marginalisation",
+        "slug": "8th_ch07_understanding_marginalisation",
+        "bytes": 29512
+      },
+      {
+        "id": "8th_ch08_confronting_marginalisation",
+        "class": "8",
+        "title": "Confronting Marginalisation",
+        "slug": "8th_ch08_confronting_marginalisation",
+        "bytes": 29460
+      },
+      {
+        "id": "8th_ch09_public_facilities",
+        "class": "8",
+        "title": "Public Facilities",
+        "slug": "8th_ch09_public_facilities",
+        "bytes": 22948
+      },
+      {
+        "id": "8th_ch10_law_and_social_justice",
+        "class": "8",
+        "title": "Law and Social Justice",
+        "slug": "8th_ch10_law_and_social_justice",
+        "bytes": 36523
+      },
+      {
+        "id": "9th_ch01_democracy_in_the_contemporary_world",
+        "class": "9",
+        "title": "Democracy in the Contemporary World",
+        "slug": "9th_ch01_democracy_in_the_contemporary_world",
+        "bytes": 50859
+      },
+      {
+        "id": "9th_ch02_what_is_democracy_why_democracy",
+        "class": "9",
+        "title": "What is Democracy Why Democracy",
+        "slug": "9th_ch02_what_is_democracy_why_democracy",
+        "bytes": 49141
+      },
+      {
+        "id": "9th_ch03_constitutional_design",
+        "class": "9",
+        "title": "Constitutional Design",
+        "slug": "9th_ch03_constitutional_design",
+        "bytes": 44120
+      },
+      {
+        "id": "9th_ch04_electoral_politics",
+        "class": "9",
+        "title": "Electoral Politics",
+        "slug": "9th_ch04_electoral_politics",
+        "bytes": 54128
+      },
+      {
+        "id": "9th_ch05_working_of_institutions",
+        "class": "9",
+        "title": "Working of Institutions",
+        "slug": "9th_ch05_working_of_institutions",
+        "bytes": 49443
+      },
+      {
+        "id": "9th_ch06_democratic_rights",
+        "class": "9",
+        "title": "Democratic Rights",
+        "slug": "9th_ch06_democratic_rights",
+        "bytes": 50610
+      }
+    ],
+    "economics": [
+      {
+        "id": "10th_ch01_development",
+        "class": "10",
+        "title": "Development",
+        "slug": "10th_ch01_development",
+        "bytes": 33603
+      },
+      {
+        "id": "10th_ch02_sectors_of_the_indian_economy",
+        "class": "10",
+        "title": "Sectors of the Indian Economy",
+        "slug": "10th_ch02_sectors_of_the_indian_economy",
+        "bytes": 50205
+      },
+      {
+        "id": "10th_ch03_money_and_credit",
+        "class": "10",
+        "title": "Money and Credit",
+        "slug": "10th_ch03_money_and_credit",
+        "bytes": 37202
+      },
+      {
+        "id": "10th_ch04_globalisation_and_the_indian_economy",
+        "class": "10",
+        "title": "Globalisation and the Indian Economy",
+        "slug": "10th_ch04_globalisation_and_the_indian_economy",
+        "bytes": 46028
+      },
+      {
+        "id": "10th_ch05_consumer_rights",
+        "class": "10",
+        "title": "Consumer Rights",
+        "slug": "10th_ch05_consumer_rights",
+        "bytes": 35774
+      },
+      {
+        "id": "11th_ch01_indian_economy_on_the_eve_of_independence",
+        "class": "11",
+        "title": "Indian Economy on the Eve of Independence",
+        "slug": "11th_ch01_indian_economy_on_the_eve_of_independence",
+        "bytes": 29848
+      },
+      {
+        "id": "11th_ch02_indian_economy_1950_1990",
+        "class": "11",
+        "title": "Indian Economy 1950-1990",
+        "slug": "11th_ch02_indian_economy_1950_1990",
+        "bytes": 49620
+      },
+      {
+        "id": "11th_ch03_liberalisation_privatisation_and_globalisation",
+        "class": "11",
+        "title": "Liberalisation Privatisation and Globalisation",
+        "slug": "11th_ch03_liberalisation_privatisation_and_globalisation",
+        "bytes": 43552
+      },
+      {
+        "id": "11th_ch04_poverty",
+        "class": "11",
+        "title": "Poverty",
+        "slug": "11th_ch04_poverty",
+        "bytes": 32234
+      },
+      {
+        "id": "11th_ch05_human_capital_formation_in_india",
+        "class": "11",
+        "title": "Human Capital Formation in India",
+        "slug": "11th_ch05_human_capital_formation_in_india",
+        "bytes": 34378
+      },
+      {
+        "id": "11th_ch06_rural_development",
+        "class": "11",
+        "title": "Rural Development",
+        "slug": "11th_ch06_rural_development",
+        "bytes": 44290
+      },
+      {
+        "id": "11th_ch07_employment_growth_informalisation_and_other_issues",
+        "class": "11",
+        "title": "Employment Growth Informalisation and Other Issues",
+        "slug": "11th_ch07_employment_growth_informalisation_and_other_issues",
+        "bytes": 37789
+      },
+      {
+        "id": "11th_ch08_infrastructure",
+        "class": "11",
+        "title": "Infrastructure",
+        "slug": "11th_ch08_infrastructure",
+        "bytes": 43967
+      },
+      {
+        "id": "11th_ch09_environment_and_sustainable_development",
+        "class": "11",
+        "title": "Environment and Sustainable Development",
+        "slug": "11th_ch09_environment_and_sustainable_development",
+        "bytes": 45180
+      },
+      {
+        "id": "11th_ch10_comparative_development_experiences_of_india_and_its_neighbours",
+        "class": "11",
+        "title": "Comparative Development Experiences of India and Its Neighbours",
+        "slug": "11th_ch10_comparative_development_experiences_of_india_and_its_neighbours",
+        "bytes": 60898
+      },
+      {
+        "id": "12th_p1_ch01_introduction_to_microeconomics",
+        "class": "12",
+        "title": "Introduction to Microeconomics",
+        "slug": "12th_p1_ch01_introduction_to_microeconomics",
+        "bytes": 21704
+      },
+      {
+        "id": "12th_p1_ch02_theory_of_consumer_behaviour",
+        "class": "12",
+        "title": "Theory of Consumer Behaviour",
+        "slug": "12th_p1_ch02_theory_of_consumer_behaviour",
+        "bytes": 75153
+      },
+      {
+        "id": "12th_p1_ch03_production_and_costs",
+        "class": "12",
+        "title": "Production and Costs",
+        "slug": "12th_p1_ch03_production_and_costs",
+        "bytes": 40957
+      },
+      {
+        "id": "12th_p1_ch04_theory_of_the_firm_under_perfect_competition",
+        "class": "12",
+        "title": "Theory of the Firm under Perfect Competition",
+        "slug": "12th_p1_ch04_theory_of_the_firm_under_perfect_competition",
+        "bytes": 49620
+      },
+      {
+        "id": "12th_p1_ch05_market_equilibrium",
+        "class": "12",
+        "title": "Market Equilibrium",
+        "slug": "12th_p1_ch05_market_equilibrium",
+        "bytes": 45914
+      },
+      {
+        "id": "12th_p1_ch06_non_competitive_markets",
+        "class": "12",
+        "title": "Non-competitive Markets",
+        "slug": "12th_p1_ch06_non_competitive_markets",
+        "bytes": 53364
+      },
+      {
+        "id": "12th_p2_ch01_introduction_to_macroeconomics",
+        "class": "12",
+        "title": "Introduction to Macroeconomics",
+        "slug": "12th_p2_ch01_introduction_to_macroeconomics",
+        "bytes": 107329
+      },
+      {
+        "id": "12th_p2_ch02_national_income_accounting",
+        "class": "12",
+        "title": "National Income Accounting",
+        "slug": "12th_p2_ch02_national_income_accounting",
+        "bytes": 159115
+      },
+      {
+        "id": "12th_p2_ch03_money_and_banking",
+        "class": "12",
+        "title": "Money and Banking",
+        "slug": "12th_p2_ch03_money_and_banking",
+        "bytes": 104088
+      },
+      {
+        "id": "12th_p2_ch04_income_determination",
+        "class": "12",
+        "title": "Income Determination",
+        "slug": "12th_p2_ch04_income_determination",
+        "bytes": 71228
+      },
+      {
+        "id": "12th_p2_ch05_the_government_budget_and_the_economy",
+        "class": "12",
+        "title": "The Government Budget and the Economy",
+        "slug": "12th_p2_ch05_the_government_budget_and_the_economy",
+        "bytes": 136549
+      },
+      {
+        "id": "12th_p2_ch06_open_economy_macroeconomics",
+        "class": "12",
+        "title": "Open Economy Macroeconomics",
+        "slug": "12th_p2_ch06_open_economy_macroeconomics",
+        "bytes": 283871
+      },
+      {
+        "id": "9th_ch01_the_story_of_village_palampur",
+        "class": "9",
+        "title": "The Story of Village Palampur",
+        "slug": "9th_ch01_the_story_of_village_palampur",
+        "bytes": 36499
+      },
+      {
+        "id": "9th_ch03_poverty_as_a_challenge",
+        "class": "9",
+        "title": "Poverty as a Challenge",
+        "slug": "9th_ch03_poverty_as_a_challenge",
+        "bytes": 31524
+      },
+      {
+        "id": "9th_ch04_food_security_in_india",
+        "class": "9",
+        "title": "Food Security in India",
+        "slug": "9th_ch04_food_security_in_india",
+        "bytes": 32902
+      }
+    ],
+    "science": [
+      {
+        "id": "10th_ch01_chemical_reactions_and_equations",
+        "class": "10",
+        "title": "10Th Ch01 Chemical Reactions And Equations",
+        "slug": "10th_ch01_chemical_reactions_and_equations",
+        "bytes": 30450
+      },
+      {
+        "id": "10th_ch02_acids_bases_and_salts",
+        "class": "10",
+        "title": "10Th Ch02 Acids Bases And Salts",
+        "slug": "10th_ch02_acids_bases_and_salts",
+        "bytes": 36299
+      },
+      {
+        "id": "10th_ch03_metals_and_non_metals",
+        "class": "10",
+        "title": "10Th Ch03 Metals And Non Metals",
+        "slug": "10th_ch03_metals_and_non_metals",
+        "bytes": 38973
+      },
+      {
+        "id": "10th_ch04_carbon_and_its_compounds",
+        "class": "10",
+        "title": "10Th Ch04 Carbon And Its Compounds",
+        "slug": "10th_ch04_carbon_and_its_compounds",
+        "bytes": 44552
+      },
+      {
+        "id": "10th_ch05_periodic_classification_of_elements",
+        "class": "10",
+        "title": "10Th Ch05 Periodic Classification Of Elements",
+        "slug": "10th_ch05_periodic_classification_of_elements",
+        "bytes": 29824
+      },
+      {
+        "id": "10th_ch06_life_processes",
+        "class": "10",
+        "title": "10Th Ch06 Life Processes",
+        "slug": "10th_ch06_life_processes",
+        "bytes": 51427
+      },
+      {
+        "id": "10th_ch07_control_and_coordination",
+        "class": "10",
+        "title": "10Th Ch07 Control And Coordination",
+        "slug": "10th_ch07_control_and_coordination",
+        "bytes": 30006
+      },
+      {
+        "id": "10th_ch08_how_do_organisms_reproduce",
+        "class": "10",
+        "title": "10Th Ch08 How Do Organisms Reproduce",
+        "slug": "10th_ch08_how_do_organisms_reproduce",
+        "bytes": 36150
+      },
+      {
+        "id": "10th_ch09_heredity_and_evolution",
+        "class": "10",
+        "title": "10Th Ch09 Heredity And Evolution",
+        "slug": "10th_ch09_heredity_and_evolution",
+        "bytes": 44105
+      },
+      {
+        "id": "10th_ch10_light_reflection_and_refraction",
+        "class": "10",
+        "title": "10Th Ch10 Light Reflection And Refraction",
+        "slug": "10th_ch10_light_reflection_and_refraction",
+        "bytes": 53589
+      },
+      {
+        "id": "10th_ch11_the_human_eye_and_the_colourful_world",
+        "class": "10",
+        "title": "10Th Ch11 The Human Eye And The Colourful World",
+        "slug": "10th_ch11_the_human_eye_and_the_colourful_world",
+        "bytes": 27653
+      },
+      {
+        "id": "10th_ch12_electricity",
+        "class": "10",
+        "title": "10Th Ch12 Electricity",
+        "slug": "10th_ch12_electricity",
+        "bytes": 44190
+      },
+      {
+        "id": "10th_ch13_magnetic_effects_of_electric_current",
+        "class": "10",
+        "title": "10Th Ch13 Magnetic Effects Of Electric Current",
+        "slug": "10th_ch13_magnetic_effects_of_electric_current",
+        "bytes": 44663
+      },
+      {
+        "id": "10th_ch14_sources_of_energy",
+        "class": "10",
+        "title": "10Th Ch14 Sources Of Energy",
+        "slug": "10th_ch14_sources_of_energy",
+        "bytes": 32722
+      },
+      {
+        "id": "10th_ch15_our_environment",
+        "class": "10",
+        "title": "10Th Ch15 Our Environment",
+        "slug": "10th_ch15_our_environment",
+        "bytes": 18527
+      },
+      {
+        "id": "10th_ch16_sustainable_management_of_natural_resources",
+        "class": "10",
+        "title": "10Th Ch16 Sustainable Management Of Natural Resources",
+        "slug": "10th_ch16_sustainable_management_of_natural_resources",
+        "bytes": 36475
+      },
+      {
+        "id": "12th_ch01_reproduction_in_organisms",
+        "class": "12",
+        "title": "12Th Ch01 Reproduction In Organisms",
+        "slug": "12th_ch01_reproduction_in_organisms",
+        "bytes": 34167
+      },
+      {
+        "id": "12th_ch02_sexual_reproduction_in_flowering_plants",
+        "class": "12",
+        "title": "12Th Ch02 Sexual Reproduction In Flowering Plants",
+        "slug": "12th_ch02_sexual_reproduction_in_flowering_plants",
+        "bytes": 50365
+      },
+      {
+        "id": "12th_ch03_human_reproduction",
+        "class": "12",
+        "title": "12Th Ch03 Human Reproduction",
+        "slug": "12th_ch03_human_reproduction",
+        "bytes": 33767
+      },
+      {
+        "id": "12th_ch04_reproductive_health",
+        "class": "12",
+        "title": "12Th Ch04 Reproductive Health",
+        "slug": "12th_ch04_reproductive_health",
+        "bytes": 27297
+      },
+      {
+        "id": "12th_ch05_principles_of_inheritance_and_variation",
+        "class": "12",
+        "title": "12Th Ch05 Principles Of Inheritance And Variation",
+        "slug": "12th_ch05_principles_of_inheritance_and_variation",
+        "bytes": 64531
+      },
+      {
+        "id": "12th_ch06_molecular_basis_of_inheritance",
+        "class": "12",
+        "title": "12Th Ch06 Molecular Basis Of Inheritance",
+        "slug": "12th_ch06_molecular_basis_of_inheritance",
+        "bytes": 71033
+      },
+      {
+        "id": "12th_ch07_evolution",
+        "class": "12",
+        "title": "12Th Ch07 Evolution",
+        "slug": "12th_ch07_evolution",
+        "bytes": 33815
+      },
+      {
+        "id": "12th_ch08_human_health_and_disease",
+        "class": "12",
+        "title": "12Th Ch08 Human Health And Disease",
+        "slug": "12th_ch08_human_health_and_disease",
+        "bytes": 53410
+      },
+      {
+        "id": "12th_ch09_strategies_for_enhancement_in_food_production",
+        "class": "12",
+        "title": "12Th Ch09 Strategies For Enhancement In Food Production",
+        "slug": "12th_ch09_strategies_for_enhancement_in_food_production",
+        "bytes": 35682
+      },
+      {
+        "id": "12th_ch10_microbes_in_human_welfare",
+        "class": "12",
+        "title": "12Th Ch10 Microbes In Human Welfare",
+        "slug": "12th_ch10_microbes_in_human_welfare",
+        "bytes": 26338
+      },
+      {
+        "id": "12th_ch11_biotechnology_principles_and_processes",
+        "class": "12",
+        "title": "12Th Ch11 Biotechnology Principles And Processes",
+        "slug": "12th_ch11_biotechnology_principles_and_processes",
+        "bytes": 33296
+      },
+      {
+        "id": "12th_ch12_biotechnology_and_its_applications",
+        "class": "12",
+        "title": "12Th Ch12 Biotechnology And Its Applications",
+        "slug": "12th_ch12_biotechnology_and_its_applications",
+        "bytes": 22814
+      },
+      {
+        "id": "12th_ch13_organisms_and_populations",
+        "class": "12",
+        "title": "12Th Ch13 Organisms And Populations",
+        "slug": "12th_ch13_organisms_and_populations",
+        "bytes": 57800
+      },
+      {
+        "id": "12th_ch14_ecosystem",
+        "class": "12",
+        "title": "12Th Ch14 Ecosystem",
+        "slug": "12th_ch14_ecosystem",
+        "bytes": 35070
+      },
+      {
+        "id": "12th_ch15_biodiversity_and_conservation",
+        "class": "12",
+        "title": "12Th Ch15 Biodiversity And Conservation",
+        "slug": "12th_ch15_biodiversity_and_conservation",
+        "bytes": 30322
+      },
+      {
+        "id": "12th_ch16_environmental_issues",
+        "class": "12",
+        "title": "12Th Ch16 Environmental Issues",
+        "slug": "12th_ch16_environmental_issues",
+        "bytes": 42423
+      },
+      {
+        "id": "6th_ch01_food_where_does_it_come_from",
+        "class": "6",
+        "title": "Food Where Does It Come From",
+        "slug": "6th_ch01_food_where_does_it_come_from",
+        "bytes": 17393
+      },
+      {
+        "id": "6th_ch02_components_of_food",
+        "class": "6",
+        "title": "Components of Food",
+        "slug": "6th_ch02_components_of_food",
+        "bytes": 22455
+      },
+      {
+        "id": "6th_ch03_fibre_to_fabric",
+        "class": "6",
+        "title": "Fibre to Fabric",
+        "slug": "6th_ch03_fibre_to_fabric",
+        "bytes": 19772
+      },
+      {
+        "id": "6th_ch04_sorting_materials_into_groups",
+        "class": "6",
+        "title": "Sorting Materials into Groups",
+        "slug": "6th_ch04_sorting_materials_into_groups",
+        "bytes": 21288
+      },
+      {
+        "id": "6th_ch05_separation_of_substances",
+        "class": "6",
+        "title": "Separation of Substances",
+        "slug": "6th_ch05_separation_of_substances",
+        "bytes": 20302
+      },
+      {
+        "id": "6th_ch06_changes_around_us",
+        "class": "6",
+        "title": "Changes Around Us",
+        "slug": "6th_ch06_changes_around_us",
+        "bytes": 15161
+      },
+      {
+        "id": "6th_ch07_getting_to_know_plants",
+        "class": "6",
+        "title": "Getting to Know Plants",
+        "slug": "6th_ch07_getting_to_know_plants",
+        "bytes": 26050
+      },
+      {
+        "id": "6th_ch08_body_movements",
+        "class": "6",
+        "title": "Body Movements",
+        "slug": "6th_ch08_body_movements",
+        "bytes": 27653
+      },
+      {
+        "id": "6th_ch09_the_living_organisms_characteristics_and_habitats",
+        "class": "6",
+        "title": "The Living Organisms Characteristics and Habitats",
+        "slug": "6th_ch09_the_living_organisms_characteristics_and_habitats",
+        "bytes": 33485
+      },
+      {
+        "id": "6th_ch10_motion_and_measurement_of_distances",
+        "class": "6",
+        "title": "Motion and Measurement of Distances",
+        "slug": "6th_ch10_motion_and_measurement_of_distances",
+        "bytes": 27428
+      },
+      {
+        "id": "6th_ch11_light_shadows_and_reflections",
+        "class": "6",
+        "title": "Light Shadows and Reflections",
+        "slug": "6th_ch11_light_shadows_and_reflections",
+        "bytes": 25287
+      },
+      {
+        "id": "6th_ch12_electricity_and_circuits",
+        "class": "6",
+        "title": "Electricity and Circuits",
+        "slug": "6th_ch12_electricity_and_circuits",
+        "bytes": 19435
+      },
+      {
+        "id": "6th_ch13_fun_with_magnets",
+        "class": "6",
+        "title": "Fun with Magnets",
+        "slug": "6th_ch13_fun_with_magnets",
+        "bytes": 44627
+      },
+      {
+        "id": "7th_ch01_nutrition_in_plants",
+        "class": "7",
+        "title": "Nutrition in Plants",
+        "slug": "7th_ch01_nutrition_in_plants",
+        "bytes": 19471
+      },
+      {
+        "id": "7th_ch02_nutrition_in_animals",
+        "class": "7",
+        "title": "Nutrition in Animals",
+        "slug": "7th_ch02_nutrition_in_animals",
+        "bytes": 23832
+      },
+      {
+        "id": "7th_ch03_fibre_to_fabric",
+        "class": "7",
+        "title": "Fibre to Fabric",
+        "slug": "7th_ch03_fibre_to_fabric",
+        "bytes": 19461
+      },
+      {
+        "id": "7th_ch04_heat",
+        "class": "7",
+        "title": "Heat",
+        "slug": "7th_ch04_heat",
+        "bytes": 25406
+      },
+      {
+        "id": "7th_ch05_acids_bases_and_indicators",
+        "class": "7",
+        "title": "Acids Bases and Indicators",
+        "slug": "7th_ch05_acids_bases_and_indicators",
+        "bytes": 18127
+      },
+      {
+        "id": "7th_ch06_physical_and_chemical_changes",
+        "class": "7",
+        "title": "Physical and Chemical Changes",
+        "slug": "7th_ch06_physical_and_chemical_changes",
+        "bytes": 18041
+      },
+      {
+        "id": "7th_ch07_weather_climate_and_adaptations",
+        "class": "7",
+        "title": "Weather Climate and Adaptations",
+        "slug": "7th_ch07_weather_climate_and_adaptations",
+        "bytes": 23893
+      },
+      {
+        "id": "7th_ch08_winds_storms_and_cyclones",
+        "class": "7",
+        "title": "Winds Storms and Cyclones",
+        "slug": "7th_ch08_winds_storms_and_cyclones",
+        "bytes": 24051
+      },
+      {
+        "id": "7th_ch09_soil",
+        "class": "7",
+        "title": "Soil",
+        "slug": "7th_ch09_soil",
+        "bytes": 25338
+      },
+      {
+        "id": "7th_ch10_respiration_in_organisms",
+        "class": "7",
+        "title": "Respiration in Organisms",
+        "slug": "7th_ch10_respiration_in_organisms",
+        "bytes": 22980
+      },
+      {
+        "id": "7th_ch11_transportation_in_animals_and_plants",
+        "class": "7",
+        "title": "Transportation in Animals and Plants",
+        "slug": "7th_ch11_transportation_in_animals_and_plants",
+        "bytes": 21770
+      },
+      {
+        "id": "7th_ch12_reproduction_in_plants",
+        "class": "7",
+        "title": "Reproduction in Plants",
+        "slug": "7th_ch12_reproduction_in_plants",
+        "bytes": 21615
+      },
+      {
+        "id": "7th_ch13_motion_and_time",
+        "class": "7",
+        "title": "Motion and Time",
+        "slug": "7th_ch13_motion_and_time",
+        "bytes": 26715
+      },
+      {
+        "id": "7th_ch14_electric_current_and_its_effects",
+        "class": "7",
+        "title": "Electric Current and Its Effects",
+        "slug": "7th_ch14_electric_current_and_its_effects",
+        "bytes": 25590
+      },
+      {
+        "id": "7th_ch15_light",
+        "class": "7",
+        "title": "Light",
+        "slug": "7th_ch15_light",
+        "bytes": 27762
+      },
+      {
+        "id": "7th_ch16_water_a_precious_resource",
+        "class": "7",
+        "title": "Water A Precious Resource",
+        "slug": "7th_ch16_water_a_precious_resource",
+        "bytes": 24292
+      },
+      {
+        "id": "7th_ch17_forests_our_lifeline",
+        "class": "7",
+        "title": "Forests Our Lifeline",
+        "slug": "7th_ch17_forests_our_lifeline",
+        "bytes": 20283
+      },
+      {
+        "id": "7th_ch18_wastewater_story",
+        "class": "7",
+        "title": "Wastewater Story",
+        "slug": "7th_ch18_wastewater_story",
+        "bytes": 23865
+      },
+      {
+        "id": "8th_ch01_crop_production_and_management",
+        "class": "8",
+        "title": "Crop Production and Management",
+        "slug": "8th_ch01_crop_production_and_management",
+        "bytes": 26067
+      },
+      {
+        "id": "8th_ch02_microorganisms_friend_and_foe",
+        "class": "8",
+        "title": "Microorganisms Friend and Foe",
+        "slug": "8th_ch02_microorganisms_friend_and_foe",
+        "bytes": 27338
+      },
+      {
+        "id": "8th_ch03_synthetic_fibres_and_plastics",
+        "class": "8",
+        "title": "Synthetic Fibres and Plastics",
+        "slug": "8th_ch03_synthetic_fibres_and_plastics",
+        "bytes": 22414
+      },
+      {
+        "id": "8th_ch04_materials_metals_and_non_metals",
+        "class": "8",
+        "title": "Materials Metals and Non-Metals",
+        "slug": "8th_ch04_materials_metals_and_non_metals",
+        "bytes": 21754
+      },
+      {
+        "id": "8th_ch05_coal_and_petroleum",
+        "class": "8",
+        "title": "Coal and Petroleum",
+        "slug": "8th_ch05_coal_and_petroleum",
+        "bytes": 13913
+      },
+      {
+        "id": "8th_ch06_combustion_and_flame",
+        "class": "8",
+        "title": "Combustion and Flame",
+        "slug": "8th_ch06_combustion_and_flame",
+        "bytes": 24938
+      },
+      {
+        "id": "8th_ch07_conservation_of_plants_and_animals",
+        "class": "8",
+        "title": "Conservation of Plants and Animals",
+        "slug": "8th_ch07_conservation_of_plants_and_animals",
+        "bytes": 24881
+      },
+      {
+        "id": "8th_ch08_cell_structure_and_functions",
+        "class": "8",
+        "title": "Cell Structure and Functions",
+        "slug": "8th_ch08_cell_structure_and_functions",
+        "bytes": 20247
+      },
+      {
+        "id": "8th_ch09_reproduction_in_animals",
+        "class": "8",
+        "title": "Reproduction in Animals",
+        "slug": "8th_ch09_reproduction_in_animals",
+        "bytes": 23346
+      },
+      {
+        "id": "8th_ch10_reaching_the_age_of_adolescence",
+        "class": "8",
+        "title": "Reaching the Age of Adolescence",
+        "slug": "8th_ch10_reaching_the_age_of_adolescence",
+        "bytes": 263328
+      },
+      {
+        "id": "9th_ch01_matter_in_our_surroundings",
+        "class": "9",
+        "title": "Matter in Our Surroundings",
+        "slug": "9th_ch01_matter_in_our_surroundings",
+        "bytes": 33061
+      },
+      {
+        "id": "9th_ch02_is_matter_around_us_pure",
+        "class": "9",
+        "title": "Is Matter Around Us Pure",
+        "slug": "9th_ch02_is_matter_around_us_pure",
+        "bytes": 38789
+      },
+      {
+        "id": "9th_ch03_atoms_and_molecules",
+        "class": "9",
+        "title": "Atoms and Molecules",
+        "slug": "9th_ch03_atoms_and_molecules",
+        "bytes": 37493
+      },
+      {
+        "id": "9th_ch04_structure_of_the_atom",
+        "class": "9",
+        "title": "Structure of the Atom",
+        "slug": "9th_ch04_structure_of_the_atom",
+        "bytes": 42696
+      },
+      {
+        "id": "9th_ch05_the_fundamental_unit_of_life",
+        "class": "9",
+        "title": "The Fundamental Unit of Life",
+        "slug": "9th_ch05_the_fundamental_unit_of_life",
+        "bytes": 36760
+      },
+      {
+        "id": "9th_ch06_tissues",
+        "class": "9",
+        "title": "Tissues",
+        "slug": "9th_ch06_tissues",
+        "bytes": 24066
+      },
+      {
+        "id": "9th_ch07_diversity_in_living_organisms",
+        "class": "9",
+        "title": "Diversity in Living Organisms",
+        "slug": "9th_ch07_diversity_in_living_organisms",
+        "bytes": 34888
+      },
+      {
+        "id": "9th_ch08_motion",
+        "class": "9",
+        "title": "Motion",
+        "slug": "9th_ch08_motion",
+        "bytes": 41574
+      },
+      {
+        "id": "9th_ch09_force_and_laws_of_motion",
+        "class": "9",
+        "title": "Force and Laws of Motion",
+        "slug": "9th_ch09_force_and_laws_of_motion",
+        "bytes": 40872
+      },
+      {
+        "id": "9th_ch10_gravitation",
+        "class": "9",
+        "title": "Gravitation",
+        "slug": "9th_ch10_gravitation",
+        "bytes": 36914
+      },
+      {
+        "id": "9th_ch11_work_and_energy",
+        "class": "9",
+        "title": "Work and Energy",
+        "slug": "9th_ch11_work_and_energy",
+        "bytes": 34878
+      },
+      {
+        "id": "9th_ch12_sound",
+        "class": "9",
+        "title": "Sound",
+        "slug": "9th_ch12_sound",
+        "bytes": 43066
+      },
+      {
+        "id": "9th_ch13_why_do_we_fall_ill",
+        "class": "9",
+        "title": "Why Do We Fall Ill",
+        "slug": "9th_ch13_why_do_we_fall_ill",
+        "bytes": 56036
+      },
+      {
+        "id": "9th_ch14_natural_resources",
+        "class": "9",
+        "title": "Natural Resources",
+        "slug": "9th_ch14_natural_resources",
+        "bytes": 43043
+      }
+    ]
+  },
+  "ref": [
+    {
+      "slug": "laxmikanth",
+      "title": "Indian Polity",
+      "author": "M. Laxmikanth",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "Historical Background",
+          "slug": "ch01",
+          "bytes": 30489
+        },
+        {
+          "n": 2,
+          "title": "Making of the Constitution",
+          "slug": "ch02",
+          "bytes": 28175
+        },
+        {
+          "n": 3,
+          "title": "Salient Features of the Constitution",
+          "slug": "ch03",
+          "bytes": 47089
+        },
+        {
+          "n": 4,
+          "title": "Preamble of the Constitution",
+          "slug": "ch04",
+          "bytes": 23746
+        },
+        {
+          "n": 5,
+          "title": "Union and its Territory",
+          "slug": "ch05",
+          "bytes": 36798
+        },
+        {
+          "n": 6,
+          "title": "Citizenship",
+          "slug": "ch06",
+          "bytes": 34688
+        },
+        {
+          "n": 7,
+          "title": "Fundamental Rights",
+          "slug": "ch07",
+          "bytes": 107222
+        },
+        {
+          "n": 8,
+          "title": "Directive Principles of State Policy",
+          "slug": "ch08",
+          "bytes": 36782
+        },
+        {
+          "n": 9,
+          "title": "Fundamental Duties",
+          "slug": "ch09",
+          "bytes": 13692
+        },
+        {
+          "n": 10,
+          "title": "Amendment of the Constitution",
+          "slug": "ch10",
+          "bytes": 11035
+        },
+        {
+          "n": 11,
+          "title": "Basic Structure of the Constitution",
+          "slug": "ch11",
+          "bytes": 10570
+        },
+        {
+          "n": 12,
+          "title": "Parliamentary System",
+          "slug": "ch12",
+          "bytes": 17695
+        },
+        {
+          "n": 13,
+          "title": "Federal System",
+          "slug": "ch13",
+          "bytes": 125662
+        },
+        {
+          "n": 14,
+          "title": "Emergency Provisions",
+          "slug": "ch14",
+          "bytes": 47796
+        },
+        {
+          "n": 15,
+          "title": "President",
+          "slug": "ch15",
+          "bytes": 59681
+        },
+        {
+          "n": 16,
+          "title": "Prime Minister",
+          "slug": "ch16",
+          "bytes": 14856
+        },
+        {
+          "n": 17,
+          "title": "Central Council of Ministers",
+          "slug": "ch17",
+          "bytes": 22692
+        },
+        {
+          "n": 18,
+          "title": "Cabinet Committees",
+          "slug": "ch18",
+          "bytes": 6382
+        },
+        {
+          "n": 19,
+          "title": "Parliament",
+          "slug": "ch19",
+          "bytes": 148955
+        },
+        {
+          "n": 20,
+          "title": "Parliamentary Committees",
+          "slug": "ch20",
+          "bytes": 32671
+        },
+        {
+          "n": 21,
+          "title": "Parliamentary Forums",
+          "slug": "ch21",
+          "bytes": 12334
+        },
+        {
+          "n": 22,
+          "title": "Parliamentary Group",
+          "slug": "ch22",
+          "bytes": 10489
+        },
+        {
+          "n": 23,
+          "title": "Supreme Court",
+          "slug": "ch23",
+          "bytes": 39397
+        },
+        {
+          "n": 24,
+          "title": "Judicial Review",
+          "slug": "ch24",
+          "bytes": 17611
+        },
+        {
+          "n": 25,
+          "title": "Judicial Activism",
+          "slug": "ch25",
+          "bytes": 19892
+        },
+        {
+          "n": 26,
+          "title": "Public Interest Litigation",
+          "slug": "ch26",
+          "bytes": 12991
+        },
+        {
+          "n": 27,
+          "title": "Governor",
+          "slug": "ch27",
+          "bytes": 32023
+        },
+        {
+          "n": 28,
+          "title": "Chief Minister",
+          "slug": "ch28",
+          "bytes": 11244
+        },
+        {
+          "n": 29,
+          "title": "State Council of Ministers",
+          "slug": "ch29",
+          "bytes": 15662
+        },
+        {
+          "n": 30,
+          "title": "State Legislature",
+          "slug": "ch30",
+          "bytes": 59780
+        },
+        {
+          "n": 31,
+          "title": "High Court",
+          "slug": "ch31",
+          "bytes": 33292
+        },
+        {
+          "n": 32,
+          "title": "Tribunals",
+          "slug": "ch32",
+          "bytes": 9390
+        },
+        {
+          "n": 33,
+          "title": "Subordinate Courts",
+          "slug": "ch33",
+          "bytes": 31594
+        },
+        {
+          "n": 34,
+          "title": "Special Provisions for Some States",
+          "slug": "ch34",
+          "bytes": 14516
+        },
+        {
+          "n": 35,
+          "title": "Panchayati Raj",
+          "slug": "ch35",
+          "bytes": 56898
+        },
+        {
+          "n": 36,
+          "title": "Municipalities",
+          "slug": "ch36",
+          "bytes": 2991
+        },
+        {
+          "n": 37,
+          "title": "Wattal",
+          "slug": "ch37",
+          "bytes": 94
+        },
+        {
+          "n": 38,
+          "title": "Matthai",
+          "slug": "ch38",
+          "bytes": 109
+        },
+        {
+          "n": 39,
+          "title": "Employees                                            din",
+          "slug": "ch39",
+          "bytes": 352
+        },
+        {
+          "n": 40,
+          "title": "Employees",
+          "slug": "ch40",
+          "bytes": 326
+        },
+        {
+          "n": 41,
+          "title": "Correa",
+          "slug": "ch41",
+          "bytes": 35442
+        },
+        {
+          "n": 42,
+          "title": "Union Territories",
+          "slug": "ch42",
+          "bytes": 14724
+        },
+        {
+          "n": 43,
+          "title": "Scheduled and Tribal Areas",
+          "slug": "ch43",
+          "bytes": 12979
+        },
+        {
+          "n": 44,
+          "title": "Election Commission",
+          "slug": "ch44",
+          "bytes": 10048
+        },
+        {
+          "n": 45,
+          "title": "Union Public Service Commission",
+          "slug": "ch45",
+          "bytes": 13034
+        },
+        {
+          "n": 46,
+          "title": "State Public Service Commission",
+          "slug": "ch46",
+          "bytes": 13487
+        },
+        {
+          "n": 47,
+          "title": "Finance Commission",
+          "slug": "ch47",
+          "bytes": 5562
+        },
+        {
+          "n": 48,
+          "title": "Goods and Services Tax Council",
+          "slug": "ch48",
+          "bytes": 5934
+        },
+        {
+          "n": 49,
+          "title": "National Commission for SCs",
+          "slug": "ch49",
+          "bytes": 6191
+        },
+        {
+          "n": 50,
+          "title": "National Commission for STs",
+          "slug": "ch50",
+          "bytes": 6467
+        },
+        {
+          "n": 51,
+          "title": "National Commission for BCs",
+          "slug": "ch51",
+          "bytes": 24001
+        },
+        {
+          "n": 52,
+          "title": "Attorney General of India",
+          "slug": "ch52",
+          "bytes": 5139
+        },
+        {
+          "n": 53,
+          "title": "Advocate General of the State",
+          "slug": "ch53",
+          "bytes": 4345
+        },
+        {
+          "n": 54,
+          "title": "NITI Aayog",
+          "slug": "ch54",
+          "bytes": 51089
+        },
+        {
+          "n": 55,
+          "title": "State Human Rights Commission",
+          "slug": "ch55",
+          "bytes": 10558
+        },
+        {
+          "n": 56,
+          "title": "Central Information Commission",
+          "slug": "ch56",
+          "bytes": 9289
+        },
+        {
+          "n": 57,
+          "title": "State Information Commission",
+          "slug": "ch57",
+          "bytes": 8797
+        },
+        {
+          "n": 58,
+          "title": "Central Vigilance Commission",
+          "slug": "ch58",
+          "bytes": 14949
+        },
+        {
+          "n": 59,
+          "title": "Central Bureau of Investigation",
+          "slug": "ch59",
+          "bytes": 13329
+        },
+        {
+          "n": 60,
+          "title": "Lokpal and Lokayuktas",
+          "slug": "ch60",
+          "bytes": 21303
+        },
+        {
+          "n": 61,
+          "title": "National Investigation Agency",
+          "slug": "ch61",
+          "bytes": 32803
+        },
+        {
+          "n": 62,
+          "title": "Official Language",
+          "slug": "ch62",
+          "bytes": 18728
+        },
+        {
+          "n": 63,
+          "title": "Public Services",
+          "slug": "ch63",
+          "bytes": 45741
+        },
+        {
+          "n": 64,
+          "title": "Political Parties",
+          "slug": "ch64",
+          "bytes": 19393
+        },
+        {
+          "n": 65,
+          "title": "Role of Regional Parties",
+          "slug": "ch65",
+          "bytes": 7346
+        },
+        {
+          "n": 66,
+          "title": "Elections",
+          "slug": "ch66",
+          "bytes": 31170
+        },
+        {
+          "n": 67,
+          "title": "Election Laws",
+          "slug": "ch67",
+          "bytes": 9774
+        },
+        {
+          "n": 68,
+          "title": "Electoral Reforms",
+          "slug": "ch68",
+          "bytes": 36632
+        },
+        {
+          "n": 69,
+          "title": "Voting Behaviour",
+          "slug": "ch69",
+          "bytes": 16328
+        },
+        {
+          "n": 70,
+          "title": "Coalition Government",
+          "slug": "ch70",
+          "bytes": 22468
+        },
+        {
+          "n": 71,
+          "title": "Pressure Groups",
+          "slug": "ch71",
+          "bytes": 10125
+        },
+        {
+          "n": 72,
+          "title": "National Integration",
+          "slug": "ch72",
+          "bytes": 18056
+        },
+        {
+          "n": 73,
+          "title": "Foreign Policy",
+          "slug": "ch73",
+          "bytes": 339526
+        }
+      ]
+    },
+    {
+      "slug": "rs_sharma",
+      "title": "India's Ancient Past",
+      "author": "R.S. Sharma",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "Chapter 1 The Significance of Ancient Indian History",
+          "slug": "ch01",
+          "bytes": 89
+        },
+        {
+          "n": 2,
+          "title": "Chapter 2 Modern Historians of Ancient India",
+          "slug": "ch02",
+          "bytes": 81
+        },
+        {
+          "n": 3,
+          "title": "Chapter 3 Nature of Sources and Historical Construction",
+          "slug": "ch03",
+          "bytes": 8610
+        },
+        {
+          "n": 4,
+          "title": "Chapter 4 Geographical Setting",
+          "slug": "ch04",
+          "bytes": 67
+        },
+        {
+          "n": 5,
+          "title": "Chapter 5 Ecology and Environment",
+          "slug": "ch05",
+          "bytes": 2741
+        },
+        {
+          "n": 6,
+          "title": "Chapter 6 The Linguistic Background",
+          "slug": "ch06",
+          "bytes": 1654
+        },
+        {
+          "n": 7,
+          "title": "Chapter 7 Human Evolution: The Old Stone Age",
+          "slug": "ch07",
+          "bytes": 81
+        },
+        {
+          "n": 8,
+          "title": "Chapter 8 The Neolithic Age: First Food Producers and Animal Keepers",
+          "slug": "ch08",
+          "bytes": 105
+        },
+        {
+          "n": 9,
+          "title": "Chapter 9 Chalcolithic Cultures",
+          "slug": "ch09",
+          "bytes": 3303
+        },
+        {
+          "n": 10,
+          "title": "Chapter 10 Harappan Culture: Bronze Age Urbanization in the Indus",
+          "slug": "ch10",
+          "bytes": 5956
+        },
+        {
+          "n": 11,
+          "title": "Chapter 11 Identity op Aryan Culture",
+          "slug": "ch11",
+          "bytes": 73
+        },
+        {
+          "n": 12,
+          "title": "Chapter 12 The Age of the Rig Veda",
+          "slug": "ch12",
+          "bytes": 71
+        },
+        {
+          "n": 13,
+          "title": "Chapter 13 The Later Vedic Phase: Transition to State and Social Orders",
+          "slug": "ch13",
+          "bytes": 20857
+        },
+        {
+          "n": 14,
+          "title": "Chapter 15 Territorial States and the Rise of Magadha",
+          "slug": "ch14",
+          "bytes": 90
+        },
+        {
+          "n": 15,
+          "title": "Chapter 16 Iranian and Macedonian Invasions",
+          "slug": "ch15",
+          "bytes": 2591
+        },
+        {
+          "n": 16,
+          "title": "Chapter 18 The Maurya Age",
+          "slug": "ch16",
+          "bytes": 62
+        },
+        {
+          "n": 17,
+          "title": "Chapter 19 The Significance of Maurya Rule",
+          "slug": "ch17",
+          "bytes": 5015
+        },
+        {
+          "n": 18,
+          "title": "Chapter 20 Central Asian Contact and Mutual Impact",
+          "slug": "ch18",
+          "bytes": 87
+        },
+        {
+          "n": 19,
+          "title": "Chapter 23 Crafts, Commerce, and Urban Growth",
+          "slug": "ch19",
+          "bytes": 8388
+        },
+        {
+          "n": 20,
+          "title": "Chapter 21 The Satavahana Phase",
+          "slug": "ch20",
+          "bytes": 68
+        },
+        {
+          "n": 21,
+          "title": "Chapter 22 The Dawn of History in the Deep South",
+          "slug": "ch21",
+          "bytes": 85
+        },
+        {
+          "n": 22,
+          "title": "Chapter 28 Brahmanization, Rural Expansion, and Peasant Protest in the",
+          "slug": "ch22",
+          "bytes": 5800
+        },
+        {
+          "n": 23,
+          "title": "Chapter 24 Rise and Growth of the Gupta Empire",
+          "slug": "ch23",
+          "bytes": 83
+        },
+        {
+          "n": 24,
+          "title": "Chapter 25 Life in the Gupta Age",
+          "slug": "ch24",
+          "bytes": 7866
+        },
+        {
+          "n": 25,
+          "title": "Chapter 26 Spread of Civilization in Eastern India",
+          "slug": "ch25",
+          "bytes": 87
+        },
+        {
+          "n": 26,
+          "title": "Chapter 31 From Ancient to Medieval",
+          "slug": "ch26",
+          "bytes": 8283
+        },
+        {
+          "n": 27,
+          "title": "Chapter 27 Harshaand His Times",
+          "slug": "ch27",
+          "bytes": 1885
+        },
+        {
+          "n": 28,
+          "title": "Chapter 29 Developments in Philosophy",
+          "slug": "ch28",
+          "bytes": 74
+        },
+        {
+          "n": 29,
+          "title": "Chapter 33 Legacy in Science and Civilization",
+          "slug": "ch29",
+          "bytes": 2574
+        },
+        {
+          "n": 30,
+          "title": "Chapter 30 Cultural Interaction with Asian Countries",
+          "slug": "ch30",
+          "bytes": 59038
+        }
+      ]
+    },
+    {
+      "slug": "upinder_singh",
+      "title": "A History of Ancient and Early Medieval India",
+      "author": "Upinder Singh",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "Chapter 1",
+          "slug": "ch01",
+          "bytes": 333
+        },
+        {
+          "n": 2,
+          "title": "Chapter 2",
+          "slug": "ch02",
+          "bytes": 694
+        },
+        {
+          "n": 3,
+          "title": "Chapter 3",
+          "slug": "ch03",
+          "bytes": 252
+        },
+        {
+          "n": 4,
+          "title": "Chapter 4",
+          "slug": "ch04",
+          "bytes": 1213
+        },
+        {
+          "n": 5,
+          "title": "Chapter 5",
+          "slug": "ch05",
+          "bytes": 850
+        },
+        {
+          "n": 6,
+          "title": "Chapter 6",
+          "slug": "ch06",
+          "bytes": 523
+        },
+        {
+          "n": 7,
+          "title": "Chapter 7",
+          "slug": "ch07",
+          "bytes": 585
+        },
+        {
+          "n": 8,
+          "title": "Chapter 8",
+          "slug": "ch08",
+          "bytes": 1226
+        },
+        {
+          "n": 9,
+          "title": "Chapter 9",
+          "slug": "ch09",
+          "bytes": 1329
+        },
+        {
+          "n": 10,
+          "title": "Chapter 10",
+          "slug": "ch10",
+          "bytes": 1463
+        },
+        {
+          "n": 11,
+          "title": "Chapter 1",
+          "slug": "ch11",
+          "bytes": 265
+        },
+        {
+          "n": 12,
+          "title": "Chapter 5",
+          "slug": "ch12",
+          "bytes": 260
+        },
+        {
+          "n": 13,
+          "title": "Chapter 6",
+          "slug": "ch13",
+          "bytes": 788
+        },
+        {
+          "n": 14,
+          "title": "Chapter 8",
+          "slug": "ch14",
+          "bytes": 560
+        },
+        {
+          "n": 15,
+          "title": "Chapter 9",
+          "slug": "ch15",
+          "bytes": 615
+        },
+        {
+          "n": 16,
+          "title": "Chapter 10",
+          "slug": "ch16",
+          "bytes": 9130
+        }
+      ]
+    },
+    {
+      "slug": "constitution_of_india",
+      "title": "Constitution of India",
+      "author": "",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "PART I — THE UNION AND ITS TERRITORY",
+          "slug": "ch01",
+          "bytes": 3699
+        },
+        {
+          "n": 2,
+          "title": "PART II — CITIZENSHIP",
+          "slug": "ch02",
+          "bytes": 4351
+        },
+        {
+          "n": 3,
+          "title": "PART III — FUNDAMENTAL RIGHTS",
+          "slug": "ch03",
+          "bytes": 34869
+        },
+        {
+          "n": 4,
+          "title": "PART IV — DIRECTIVE PRINCIPLES OF STATE POLICY",
+          "slug": "ch04",
+          "bytes": 8656
+        },
+        {
+          "n": 5,
+          "title": "PART IVA — FUNDAMENTAL DUTIES",
+          "slug": "ch05",
+          "bytes": 1679
+        },
+        {
+          "n": 6,
+          "title": "PART V — THE UNION",
+          "slug": "ch06",
+          "bytes": 109104
+        },
+        {
+          "n": 7,
+          "title": "PART VI — THE STATES 1***",
+          "slug": "ch07",
+          "bytes": 98719
+        },
+        {
+          "n": 8,
+          "title": "PART VIII — 1",
+          "slug": "ch08",
+          "bytes": 16850
+        },
+        {
+          "n": 9,
+          "title": "PART IX — THE PANCHAYATS",
+          "slug": "ch09",
+          "bytes": 19414
+        },
+        {
+          "n": 10,
+          "title": "PART IXA — THE MUNICIPALITIES",
+          "slug": "ch10",
+          "bytes": 21214
+        },
+        {
+          "n": 11,
+          "title": "PART X — THE SCHEDULED AND TRIBAL AREAS",
+          "slug": "ch11",
+          "bytes": 3884
+        },
+        {
+          "n": 12,
+          "title": "PART XI — RELATIONS BETWEEN THE UNION AND",
+          "slug": "ch12",
+          "bytes": 18082
+        },
+        {
+          "n": 13,
+          "title": "PART XII — FINANCE, PROPERTY, CONTRACTS AND SUITS",
+          "slug": "ch13",
+          "bytes": 42127
+        },
+        {
+          "n": 14,
+          "title": "PART XIII — TRADE, COMMERCE AND INTERCOURSE",
+          "slug": "ch14",
+          "bytes": 3835
+        },
+        {
+          "n": 15,
+          "title": "PART XIV — SERVICES UNDER THE UNION AND THE STATES",
+          "slug": "ch15",
+          "bytes": 27122
+        },
+        {
+          "n": 16,
+          "title": "PART XIVA — TRIBUNALS",
+          "slug": "ch16",
+          "bytes": 6529
+        },
+        {
+          "n": 17,
+          "title": "PART XV — ELECTIONS",
+          "slug": "ch17",
+          "bytes": 7053
+        },
+        {
+          "n": 18,
+          "title": "PART XVI — SPECIAL PROVISIONS RELATING",
+          "slug": "ch18",
+          "bytes": 28743
+        },
+        {
+          "n": 19,
+          "title": "PART XVII — OFFICIAL LANGUAGE",
+          "slug": "ch19",
+          "bytes": 10982
+        },
+        {
+          "n": 20,
+          "title": "PART XVIII — EMERGENCY PROVISIONS",
+          "slug": "ch20",
+          "bytes": 28202
+        },
+        {
+          "n": 21,
+          "title": "PART XIX — MISCELLANEOUS",
+          "slug": "ch21",
+          "bytes": 19605
+        },
+        {
+          "n": 22,
+          "title": "PART XX — AMENDMENT OF THE CONSTITUTION",
+          "slug": "ch22",
+          "bytes": 3308
+        },
+        {
+          "n": 23,
+          "title": "PART XXI — 1",
+          "slug": "ch23",
+          "bytes": 53660
+        },
+        {
+          "n": 24,
+          "title": "PART XXII — SHORT TITLE, COMMENCEMENT 1[, AUTHORI-",
+          "slug": "ch24",
+          "bytes": 2415
+        }
+      ]
+    },
+    {
+      "slug": "bipin_chandra",
+      "title": "India's Struggle for Independence",
+      "author": "Bipan Chandra et al.",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "The First Major Challenge: The Revolt of 1857",
+          "slug": "ch01",
+          "bytes": 24975
+        },
+        {
+          "n": 2,
+          "title": "Civil Rebellions and Tribal Uprisings",
+          "slug": "ch02",
+          "bytes": 23086
+        },
+        {
+          "n": 3,
+          "title": "Peasant Movements and Uprisings After 1857",
+          "slug": "ch03",
+          "bytes": 29142
+        },
+        {
+          "n": 4,
+          "title": "Foundation of the Congress: The Myth",
+          "slug": "ch04",
+          "bytes": 28179
+        },
+        {
+          "n": 5,
+          "title": "Foundation of the Indian National Congress: The",
+          "slug": "ch05",
+          "bytes": 28705
+        },
+        {
+          "n": 6,
+          "title": "Socio-Religious Reforms and the National",
+          "slug": "ch06",
+          "bytes": 24094
+        },
+        {
+          "n": 7,
+          "title": "An Economic Critique of Colonialism",
+          "slug": "ch07",
+          "bytes": 29050
+        },
+        {
+          "n": 8,
+          "title": "The Fight to Secure Press Freedom",
+          "slug": "ch08",
+          "bytes": 29332
+        },
+        {
+          "n": 9,
+          "title": "Propaganda in the Legislature",
+          "slug": "ch09",
+          "bytes": 28142
+        },
+        {
+          "n": 10,
+          "title": "The Swadeshi Movement — 1903–08",
+          "slug": "ch10",
+          "bytes": 29674
+        },
+        {
+          "n": 11,
+          "title": "Split in the Congress and Revolutionary",
+          "slug": "ch11",
+          "bytes": 28417
+        },
+        {
+          "n": 12,
+          "title": "WWI & Indian Nationalism: The Ghadar",
+          "slug": "ch12",
+          "bytes": 33474
+        },
+        {
+          "n": 13,
+          "title": "The Home Rule Movement and it’s Fallout",
+          "slug": "ch13",
+          "bytes": 30727
+        },
+        {
+          "n": 14,
+          "title": "Gandhiji’s Early Career and Activism",
+          "slug": "ch14",
+          "bytes": 36610
+        },
+        {
+          "n": 15,
+          "title": "The Non-cooperation Movement — 1920–22",
+          "slug": "ch15",
+          "bytes": 36011
+        },
+        {
+          "n": 16,
+          "title": "Peasant Movements and Nationalism in the",
+          "slug": "ch16",
+          "bytes": 34795
+        },
+        {
+          "n": 17,
+          "title": "The Indian Working Class and National",
+          "slug": "ch17",
+          "bytes": 37567
+        },
+        {
+          "n": 18,
+          "title": "Struggle for Gurdwara Reform and Temple",
+          "slug": "ch18",
+          "bytes": 28491
+        },
+        {
+          "n": 19,
+          "title": "The Years of Stagnation",
+          "slug": "ch19",
+          "bytes": 32845
+        },
+        {
+          "n": 20,
+          "title": "The Revolutionary Terrorist",
+          "slug": "ch20",
+          "bytes": 33388
+        },
+        {
+          "n": 21,
+          "title": "The Gathering Storm 1927–29",
+          "slug": "ch21",
+          "bytes": 26574
+        },
+        {
+          "n": 22,
+          "title": "Civil Disobedience: 1930–31",
+          "slug": "ch22",
+          "bytes": 37040
+        },
+        {
+          "n": 23,
+          "title": "From Karachi to Wardha: The Years from",
+          "slug": "ch23",
+          "bytes": 31899
+        },
+        {
+          "n": 24,
+          "title": "The Rise of the Left Wing",
+          "slug": "ch24",
+          "bytes": 39427
+        },
+        {
+          "n": 25,
+          "title": "The Strategic Debate 1935–37",
+          "slug": "ch25",
+          "bytes": 33742
+        },
+        {
+          "n": 26,
+          "title": "Twenty-Eight Months of Congress Rule",
+          "slug": "ch26",
+          "bytes": 55544
+        },
+        {
+          "n": 27,
+          "title": "Peasant Movements in the 1930’s and ’40s",
+          "slug": "ch27",
+          "bytes": 35287
+        },
+        {
+          "n": 28,
+          "title": "The Freedom Struggle in Princely India",
+          "slug": "ch28",
+          "bytes": 51578
+        },
+        {
+          "n": 29,
+          "title": "Indian Capitalists and the National Movement",
+          "slug": "ch29",
+          "bytes": 28884
+        },
+        {
+          "n": 30,
+          "title": "The Development of a Nationalist Foreign Policy",
+          "slug": "ch30",
+          "bytes": 33955
+        },
+        {
+          "n": 31,
+          "title": "The Rise and Growth of Communalism",
+          "slug": "ch31",
+          "bytes": 43434
+        },
+        {
+          "n": 32,
+          "title": "Communalism: The Liberal Phase",
+          "slug": "ch32",
+          "bytes": 36931
+        },
+        {
+          "n": 33,
+          "title": "Jinnah, Golwalkar and Extreme Communalism",
+          "slug": "ch33",
+          "bytes": 40556
+        },
+        {
+          "n": 34,
+          "title": "The Crisis at Tripuri to the Cripps Mission",
+          "slug": "ch34",
+          "bytes": 36589
+        },
+        {
+          "n": 35,
+          "title": "The Quit India Movement, Indian National",
+          "slug": "ch35",
+          "bytes": 43337
+        },
+        {
+          "n": 36,
+          "title": "Post-War National Upsurge",
+          "slug": "ch36",
+          "bytes": 37954
+        },
+        {
+          "n": 37,
+          "title": "Freedom and Partition",
+          "slug": "ch37",
+          "bytes": 50451
+        },
+        {
+          "n": 38,
+          "title": "The Long Term Strategy of the National",
+          "slug": "ch38",
+          "bytes": 35336
+        },
+        {
+          "n": 39,
+          "title": "Ideological Dimension of Indian National",
+          "slug": "ch39",
+          "bytes": 61656
+        }
+      ]
+    },
+    {
+      "slug": "bipin_chandra_india_since_independence",
+      "title": "India Since Independence",
+      "author": "Bipan Chandra et al.",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "Introduction",
+          "slug": "ch01",
+          "bytes": 23126
+        },
+        {
+          "n": 2,
+          "title": "The Colonial Legacy",
+          "slug": "ch02",
+          "bytes": 31043
+        },
+        {
+          "n": 3,
+          "title": "The National Movement and its Legacy",
+          "slug": "ch03",
+          "bytes": 32530
+        },
+        {
+          "n": 4,
+          "title": "The Evolution of the Constitution and Main Provisions",
+          "slug": "ch04",
+          "bytes": 54157
+        },
+        {
+          "n": 5,
+          "title": "The Architecture of the Constitution: Basic Features and Institutions",
+          "slug": "ch05",
+          "bytes": 58484
+        },
+        {
+          "n": 6,
+          "title": "The Initial Years",
+          "slug": "ch06",
+          "bytes": 45665
+        },
+        {
+          "n": 7,
+          "title": "Consolidation of India as a Nation (I)",
+          "slug": "ch07",
+          "bytes": 45544
+        },
+        {
+          "n": 8,
+          "title": "Consolidation of India as a Nation(II): The Linguistic Reorganization of the States",
+          "slug": "ch08",
+          "bytes": 24415
+        },
+        {
+          "n": 9,
+          "title": "Consolidation of India as a Nation(III): Integration of the Tribals",
+          "slug": "ch09",
+          "bytes": 38114
+        },
+        {
+          "n": 10,
+          "title": "Consolidation of India as a Nation(IV): Regionalism and Regional Inequality",
+          "slug": "ch10",
+          "bytes": 36915
+        },
+        {
+          "n": 11,
+          "title": "The Years of Hope and Achievement, 1951–1964",
+          "slug": "ch11",
+          "bytes": 51700
+        },
+        {
+          "n": 12,
+          "title": "Foreign Policy: The Nehru Era",
+          "slug": "ch12",
+          "bytes": 71552
+        },
+        {
+          "n": 13,
+          "title": "Jawaharlal Nehru in Historical Perspective",
+          "slug": "ch13",
+          "bytes": 36414
+        },
+        {
+          "n": 14,
+          "title": "Political Parties, 1947–1964: The Congress",
+          "slug": "ch14",
+          "bytes": 41000
+        },
+        {
+          "n": 15,
+          "title": "Political Parties, 1947–1965: The Opposition",
+          "slug": "ch15",
+          "bytes": 55075
+        },
+        {
+          "n": 16,
+          "title": "From Shastri to Indira Gandhi, 1964–1969",
+          "slug": "ch16",
+          "bytes": 44348
+        },
+        {
+          "n": 17,
+          "title": "The Indira Gandhi Years, 1969–1973",
+          "slug": "ch17",
+          "bytes": 41032
+        },
+        {
+          "n": 18,
+          "title": "The JP Movement and the Emergency: Indian Democracy Tested",
+          "slug": "ch18",
+          "bytes": 46031
+        },
+        {
+          "n": 19,
+          "title": "The Janata Interregnum and Indira Gandhi’s Second Coming, 1977–1984",
+          "slug": "ch19",
+          "bytes": 35327
+        },
+        {
+          "n": 20,
+          "title": "The Rajiv Years",
+          "slug": "ch20",
+          "bytes": 34878
+        },
+        {
+          "n": 21,
+          "title": "Run-up to the New Millennium and After",
+          "slug": "ch21",
+          "bytes": 70927
+        },
+        {
+          "n": 22,
+          "title": "Politics in the States (I): Tamil Nadu, Andhra Pradesh and Assam",
+          "slug": "ch22",
+          "bytes": 38377
+        },
+        {
+          "n": 23,
+          "title": "Politics in the States (II): West Bengal and Jammu and Kashmir",
+          "slug": "ch23",
+          "bytes": 36332
+        },
+        {
+          "n": 24,
+          "title": "The Punjab Crisis",
+          "slug": "ch24",
+          "bytes": 44739
+        },
+        {
+          "n": 25,
+          "title": "Indian Economy, 1947–1965: The Nehruvian Legacy",
+          "slug": "ch25",
+          "bytes": 32278
+        },
+        {
+          "n": 26,
+          "title": "Indian Economy, 1965–1991",
+          "slug": "ch26",
+          "bytes": 41769
+        },
+        {
+          "n": 27,
+          "title": "Economic Reforms Since 1991",
+          "slug": "ch27",
+          "bytes": 27070
+        },
+        {
+          "n": 28,
+          "title": "The Indian Economy in the New Millennium",
+          "slug": "ch28",
+          "bytes": 52233
+        },
+        {
+          "n": 29,
+          "title": "Land Reforms (I): Colonial Impact and the Legacy of the National and Peasant Movements",
+          "slug": "ch29",
+          "bytes": 33789
+        },
+        {
+          "n": 30,
+          "title": "Land Reforms(II): Zamindari Abolition and Tenancy Reforms",
+          "slug": "ch30",
+          "bytes": 33380
+        },
+        {
+          "n": 31,
+          "title": "Land Reforms (III): Ceiling and the Bhoodan Movement",
+          "slug": "ch31",
+          "bytes": 28910
+        },
+        {
+          "n": 32,
+          "title": "Cooperatives and an Overview of Land Reforms",
+          "slug": "ch32",
+          "bytes": 48323
+        },
+        {
+          "n": 33,
+          "title": "Agricultural Growth and the Green Revolution",
+          "slug": "ch33",
+          "bytes": 32087
+        },
+        {
+          "n": 34,
+          "title": "Agrarian Struggles Since Independence",
+          "slug": "ch34",
+          "bytes": 36428
+        },
+        {
+          "n": 35,
+          "title": "Revival and Growth of Communalism",
+          "slug": "ch35",
+          "bytes": 33657
+        },
+        {
+          "n": 36,
+          "title": "Communalism and the Use of State Power",
+          "slug": "ch36",
+          "bytes": 43725
+        },
+        {
+          "n": 37,
+          "title": "Caste, Untouchability, Anti-caste Politics and Strategies",
+          "slug": "ch37",
+          "bytes": 22164
+        },
+        {
+          "n": 38,
+          "title": "Indian Women Since Independence",
+          "slug": "ch38",
+          "bytes": 34004
+        },
+        {
+          "n": 39,
+          "title": "The Post-colonial Indian State and the Political Economy of Development: An Overview1",
+          "slug": "ch39",
+          "bytes": 29454
+        },
+        {
+          "n": 40,
+          "title": "Disarray in Institutions of Governance",
+          "slug": "ch40",
+          "bytes": 47158
+        },
+        {
+          "n": 41,
+          "title": "The Dawn of the New Millennium: Achievements, Problems and Prospects",
+          "slug": "ch41",
+          "bytes": 150396
+        }
+      ]
+    },
+    {
+      "slug": "shankar_ias",
+      "title": "Environment",
+      "author": "Shankar IAS Academy",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "ECOLOGY",
+          "slug": "ch01",
+          "bytes": 23593
+        },
+        {
+          "n": 2,
+          "title": "FUNCTIONS OF AN ECOSYSTEM",
+          "slug": "ch02",
+          "bytes": 34778
+        },
+        {
+          "n": 3,
+          "title": "TERRESTRIAL ECOSYSTEMS",
+          "slug": "ch03",
+          "bytes": 37170
+        },
+        {
+          "n": 4,
+          "title": "AQUATIC ECOSYSTEM",
+          "slug": "ch04",
+          "bytes": 72407
+        },
+        {
+          "n": 5,
+          "title": "ENVIRONMENTAL POLLUTION",
+          "slug": "ch05",
+          "bytes": 102175
+        },
+        {
+          "n": 6,
+          "title": "RENEWABLE ENERGY",
+          "slug": "ch06",
+          "bytes": 36660
+        },
+        {
+          "n": 7,
+          "title": "ENVIRONMENTAL ISSUES",
+          "slug": "ch07",
+          "bytes": 70937
+        },
+        {
+          "n": 8,
+          "title": "ENVIRONMENTAL IMPACT ASSESSMENT",
+          "slug": "ch08",
+          "bytes": 41432
+        },
+        {
+          "n": 9,
+          "title": "BIODIVERSITY",
+          "slug": "ch09",
+          "bytes": 16925
+        },
+        {
+          "n": 10,
+          "title": "INDIAN BIODIVERSITY DIVERSE",
+          "slug": "ch10",
+          "bytes": 22983
+        },
+        {
+          "n": 11,
+          "title": "SCHEDULE ANIMALS OF WPA 1972",
+          "slug": "ch11",
+          "bytes": 27400
+        },
+        {
+          "n": 12,
+          "title": "ANIMAL DIVERSITY OF INDIA",
+          "slug": "ch12",
+          "bytes": 24390
+        },
+        {
+          "n": 13,
+          "title": "PLANT DIVERSITY OF INDIA",
+          "slug": "ch13",
+          "bytes": 32747
+        },
+        {
+          "n": 14,
+          "title": "MARINE ORGANISMS",
+          "slug": "ch14",
+          "bytes": 11033
+        },
+        {
+          "n": 15,
+          "title": "PROTECTED AREA NETWORK",
+          "slug": "ch15",
+          "bytes": 44261
+        },
+        {
+          "n": 16,
+          "title": "CONSERVATION EFFORTS",
+          "slug": "ch16",
+          "bytes": 54417
+        },
+        {
+          "n": 17,
+          "title": "CLIMATE CHANGE",
+          "slug": "ch17",
+          "bytes": 27530
+        },
+        {
+          "n": 18,
+          "title": "OCEAN ACIDIFICATION",
+          "slug": "ch18",
+          "bytes": 9972
+        },
+        {
+          "n": 19,
+          "title": "OZONE DEPLETION",
+          "slug": "ch19",
+          "bytes": 18515
+        },
+        {
+          "n": 20,
+          "title": "IMPACT OF CLIMATE CHANGE",
+          "slug": "ch20",
+          "bytes": 22101
+        },
+        {
+          "n": 21,
+          "title": "MITIGATION STRATEGIES",
+          "slug": "ch21",
+          "bytes": 18515
+        },
+        {
+          "n": 22,
+          "title": "INDIA AND CLIMATE CHANGE",
+          "slug": "ch22",
+          "bytes": 68522
+        },
+        {
+          "n": 23,
+          "title": "CLIMATE CHANGE ORGANIZATIONS",
+          "slug": "ch23",
+          "bytes": 84706
+        },
+        {
+          "n": 24,
+          "title": "AGRICULTURE",
+          "slug": "ch24",
+          "bytes": 67083
+        },
+        {
+          "n": 25,
+          "title": "ACTS AND POLCIES",
+          "slug": "ch25",
+          "bytes": 63940
+        },
+        {
+          "n": 26,
+          "title": "INSTITUTIONS AND MEASURES",
+          "slug": "ch26",
+          "bytes": 27881
+        },
+        {
+          "n": 27,
+          "title": "ORGANIZATIONS",
+          "slug": "ch27",
+          "bytes": 15105
+        },
+        {
+          "n": 28,
+          "title": "INTERNATIONAL CONVENTIONS",
+          "slug": "ch28",
+          "bytes": 68450
+        },
+        {
+          "n": 29,
+          "title": "ENVIRONMENT ISSUES AND",
+          "slug": "ch29",
+          "bytes": 73749
+        }
+      ]
+    },
+    {
+      "slug": "satish_chandra",
+      "title": "History of Medieval India",
+      "author": "Satish Chandra",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "India and the World",
+          "slug": "ch01",
+          "bytes": 26755
+        },
+        {
+          "n": 2,
+          "title": "Northern India: Age of the Three Empires (800–1000)",
+          "slug": "ch02",
+          "bytes": 31213
+        },
+        {
+          "n": 3,
+          "title": "South India: The Chola Empire (900–1200)",
+          "slug": "ch03",
+          "bytes": 20002
+        },
+        {
+          "n": 4,
+          "title": "Economic and Social Life, Education and Religious Beliefs (800–1200)",
+          "slug": "ch04",
+          "bytes": 50600
+        },
+        {
+          "n": 5,
+          "title": "The Age of Conflict (c.1000–1200)",
+          "slug": "ch05",
+          "bytes": 43149
+        },
+        {
+          "n": 6,
+          "title": "The Delhi Sultanat—I (c.1200–1300)",
+          "slug": "ch06",
+          "bytes": 35964
+        },
+        {
+          "n": 7,
+          "title": "The Delhi Sultanat—II (c.1300–1400)",
+          "slug": "ch07",
+          "bytes": 62464
+        },
+        {
+          "n": 8,
+          "title": "Government, and Economic and Social Life under the Delhi Sultanat",
+          "slug": "ch08",
+          "bytes": 48643
+        },
+        {
+          "n": 9,
+          "title": "The Age of Vijayanagara and the Bahmanids (c.1350–1565)",
+          "slug": "ch09",
+          "bytes": 57503
+        },
+        {
+          "n": 10,
+          "title": "Struggle for Empire in North India—I (c.1400–1525)",
+          "slug": "ch10",
+          "bytes": 44052
+        },
+        {
+          "n": 11,
+          "title": "Cultural Development in India (1200–1500)",
+          "slug": "ch11",
+          "bytes": 47972
+        },
+        {
+          "n": 12,
+          "title": "Struggle for Empire in North India—II: Mughals and Afghans",
+          "slug": "ch12",
+          "bytes": 57325
+        },
+        {
+          "n": 13,
+          "title": "Consolidation of the Mughal Empire: Age of Akbar",
+          "slug": "ch13",
+          "bytes": 78795
+        },
+        {
+          "n": 14,
+          "title": "The Deccan and South India (up to 1656)",
+          "slug": "ch14",
+          "bytes": 40570
+        },
+        {
+          "n": 15,
+          "title": "India in the First Half of the Seventeenth Century",
+          "slug": "ch15",
+          "bytes": 51174
+        },
+        {
+          "n": 16,
+          "title": "Economic and Social Life under the Mughals",
+          "slug": "ch16",
+          "bytes": 49518
+        },
+        {
+          "n": 17,
+          "title": "Cultural and Religious Developments",
+          "slug": "ch17",
+          "bytes": 25291
+        },
+        {
+          "n": 18,
+          "title": "Climax and Disintegration of the Mughal Empire—I",
+          "slug": "ch18",
+          "bytes": 65301
+        },
+        {
+          "n": 19,
+          "title": "Climax and Disintegration of the Mughal Empire—II",
+          "slug": "ch19",
+          "bytes": 56211
+        },
+        {
+          "n": 20,
+          "title": "Assessment and Review",
+          "slug": "ch20",
+          "bytes": 74346
+        }
+      ]
+    },
+    {
+      "slug": "nitin_singhania",
+      "title": "Indian Art and Culture",
+      "author": "Nitin Singhania",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "Indian Architecture, Sculpture and Pottery",
+          "slug": "ch01",
+          "bytes": 149133
+        },
+        {
+          "n": 2,
+          "title": "Indian Paintings",
+          "slug": "ch02",
+          "bytes": 69403
+        },
+        {
+          "n": 3,
+          "title": "Indian Handicrafts",
+          "slug": "ch03",
+          "bytes": 33715
+        },
+        {
+          "n": 4,
+          "title": "UNESCO's List of Tangible World Heritage Sites in India",
+          "slug": "ch04",
+          "bytes": 10122
+        },
+        {
+          "n": 5,
+          "title": "Indian Music",
+          "slug": "ch05",
+          "bytes": 68041
+        },
+        {
+          "n": 6,
+          "title": "Indian Dance Forms",
+          "slug": "ch06",
+          "bytes": 44038
+        },
+        {
+          "n": 7,
+          "title": "Indian Theatre",
+          "slug": "ch07",
+          "bytes": 26211
+        },
+        {
+          "n": 8,
+          "title": "Indian Puppetry",
+          "slug": "ch08",
+          "bytes": 10460
+        },
+        {
+          "n": 9,
+          "title": "Indian Circus",
+          "slug": "ch09",
+          "bytes": 8891
+        },
+        {
+          "n": 10,
+          "title": "UNESCO's List of Intangible Cultural Heritage",
+          "slug": "ch10",
+          "bytes": 13193
+        },
+        {
+          "n": 11,
+          "title": "Languages in India",
+          "slug": "ch11",
+          "bytes": 33099
+        },
+        {
+          "n": 12,
+          "title": "Religions in India",
+          "slug": "ch12",
+          "bytes": 65785
+        },
+        {
+          "n": 13,
+          "title": "Indian Literature",
+          "slug": "ch13",
+          "bytes": 69177
+        },
+        {
+          "n": 14,
+          "title": "Schools of Philosophy",
+          "slug": "ch14",
+          "bytes": 24900
+        },
+        {
+          "n": 15,
+          "title": "Indian Cinema",
+          "slug": "ch15",
+          "bytes": 34755
+        },
+        {
+          "n": 16,
+          "title": "Science and Technology through the Ages",
+          "slug": "ch16",
+          "bytes": 22280
+        },
+        {
+          "n": 17,
+          "title": "Calendars in India",
+          "slug": "ch17",
+          "bytes": 18696
+        },
+        {
+          "n": 18,
+          "title": "Fairs and Festivals of India",
+          "slug": "ch18",
+          "bytes": 68238
+        },
+        {
+          "n": 19,
+          "title": "Awards and Honours",
+          "slug": "ch19",
+          "bytes": 15309
+        },
+        {
+          "n": 20,
+          "title": "Law and Culture",
+          "slug": "ch20",
+          "bytes": 12960
+        },
+        {
+          "n": 21,
+          "title": "Martial Arts in India",
+          "slug": "ch21",
+          "bytes": 16388
+        },
+        {
+          "n": 22,
+          "title": "Cultural Institutions in India",
+          "slug": "ch22",
+          "bytes": 30720
+        },
+        {
+          "n": 23,
+          "title": "Coins in Ancient and Medieval India",
+          "slug": "ch23",
+          "bytes": 15869
+        },
+        {
+          "n": 24,
+          "title": "Indian Culture Abroad",
+          "slug": "ch24",
+          "bytes": 176927
+        }
+      ]
+    },
+    {
+      "slug": "ramesh_singh",
+      "title": "Indian Economy",
+      "author": "Ramesh Singh",
+      "chapters": [
+        {
+          "n": 1,
+          "title": "Introduction to Economics",
+          "slug": "ch01",
+          "bytes": 76975
+        },
+        {
+          "n": 2,
+          "title": "Growth, Development and Happiness",
+          "slug": "ch02",
+          "bytes": 74428
+        },
+        {
+          "n": 3,
+          "title": "Evolution of the Indian Economy",
+          "slug": "ch03",
+          "bytes": 42491
+        },
+        {
+          "n": 4,
+          "title": "Economic Planning",
+          "slug": "ch04",
+          "bytes": 29272
+        },
+        {
+          "n": 5,
+          "title": "Planning in India",
+          "slug": "ch05",
+          "bytes": 394487
+        },
+        {
+          "n": 6,
+          "title": "Agriculture and Food Management",
+          "slug": "ch06",
+          "bytes": 200606
+        },
+        {
+          "n": 7,
+          "title": "Industry & Infrastructure",
+          "slug": "ch07",
+          "bytes": 136312
+        },
+        {
+          "n": 8,
+          "title": "Service Sector",
+          "slug": "ch08",
+          "bytes": 50670
+        },
+        {
+          "n": 9,
+          "title": "Indian Financial System",
+          "slug": "ch09",
+          "bytes": 47281
+        },
+        {
+          "n": 10,
+          "title": "Banking in India",
+          "slug": "ch10",
+          "bytes": 133788
+        },
+        {
+          "n": 11,
+          "title": "Insurance in India",
+          "slug": "ch11",
+          "bytes": 29178
+        },
+        {
+          "n": 12,
+          "title": "Security Market in India",
+          "slug": "ch12",
+          "bytes": 114579
+        },
+        {
+          "n": 13,
+          "title": "External Sector of India",
+          "slug": "ch13",
+          "bytes": 277904
+        },
+        {
+          "n": 14,
+          "title": "Sustainability and Climate Change",
+          "slug": "ch14",
+          "bytes": 64560
+        },
+        {
+          "n": 15,
+          "title": "Preparing for the Future",
+          "slug": "ch15",
+          "bytes": 104330
+        },
+        {
+          "n": 16,
+          "title": "Human Development in India",
+          "slug": "ch16",
+          "bytes": 299320
+        },
+        {
+          "n": 17,
+          "title": "Selected MCQs",
+          "slug": "ch17",
+          "bytes": 421310
+        }
+      ]
+    }
+  ]
+}

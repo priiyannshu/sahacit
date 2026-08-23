@@ -1,0 +1,62 @@
+{
+  "chapter_metadata": {
+    "grade": 4,
+    "subject": "EVS",
+    "chapter_number": 16,
+    "chapter_title_en": "A Busy Month",
+    "chapter_title_hi": "चूँ-चूँ करती आई चिड़िया",
+    "ncert_code_en": "deap116",
+    "ncert_code_hi": "dhap116",
+    "theme_mapping": "Unit 1: Living World, Animal Behavior & Adaptations",
+    "unit_id": 1
+  },
+  "factual_entities": [
+    {
+      "name_en": "Bird Nesting Habits, Beak Adaptations & Animal Teeth",
+      "name_hi": "पक्षियों के घोंसले, चोंच की बनावट और जानवरों के दांत",
+      "category": "Ornithology / Animal Morphology",
+      "attributes": [
+        "Gijubhai Badheka (from Gujarat) wrote children's naturalist letters",
+        "Nesting Profiles: 1. Indian Robin (कलचिड़ी): Nest between stones on roadside lined with grass, soft twigs, roots, wool, hair, cotton; 2. Crow: Nest HIGH ON TREES using wire pieces and wood; 3. Koel: Does NOT build nest; lays eggs in CROW'S NEST; 4. Dove: Nest among thorns of cactus or Mehendi hedge; 5. Barbet / Coppersmith: Hole in tree trunk; 6. Tailorbird (दर्जिन चिड़िया): STITCHES TWO LEAVES together with sharp beak; 7. Sunbird (शकरखोरा): HANGS nest from small tree branch using hair, grass, bark, cobwebs; 8. Weaver Bird (बया): MALE weaves beautiful nests; FEMALE CHOOSES THE BEST ONE to lay eggs",
+        "Animal Teeth: Cow (short front teeth to snip, flat back teeth to chew); Cat (sharp teeth to tear meat); Snake (sharp curved fangs, SWALLOWS PREY WHOLE); Squirrel (FRONT TEETH GROW CONTINUOUSLY THROUGHOUT LIFE, must keep gnawing to wear them down)"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [
+    {
+      "name": "Gijubhai Badheka",
+      "role": "Children's Author & Educator",
+      "era": "1885–1939 (Gujarat)",
+      "key_contributions": "Pioneered naturalist literature and child education"
+    }
+  ],
+  "geographical_locations_and_tribes": [
+    {
+      "name": "Balmandir, Gujarat",
+      "region": "Gujarat",
+      "context": "Avian nesting observations"
+    }
+  ],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [
+    {
+      "metric": "Squirrel teeth growth",
+      "value": "Continuous growth throughout lifespan"
+    }
+  ],
+  "visual_assets_and_diagram_cues": [
+    "Illustrations: Tailorbird stitched leaf nest, Male weaver bird hanging bottle nest, Indian robin stone nest, bird beaks, animal teeth"
+  ],
+  "key_vocabulary_bilingual": {
+    "Gijubhai Badheka": "गिजुभाई बधेका (गुजरात)",
+    "Indian Robin": "कलचिड़ी (पत्थरों के बीच घोंसला)",
+    "Koel & Crow": "कोयल (कौए के घोंसले में अंडे देती है)",
+    "Tailorbird": "दर्जिन चिड़िया (पत्ते सिलकर घोंसला)",
+    "Weaver bird": "बया / जुलाहा पक्षी (नर घोंसला बुनता है, मादा चुनती है)",
+    "Sunbird": "शकरखोरा (लटकता घोंसला)",
+    "Squirrel teeth": "गिलहरी के दाँत (हमेशा बढ़ते रहते हैं)",
+    "Snake teeth": "सांप के दाँत (शिकार को पूरा निगलता है)"
+  },
+  "ncert_source_text_summary": "Class 4 Chapter 16: 'A Busy Month' / 'चूँ-चूँ करती आई चिड़िया' covers Unit 1: Living World, Animal Behavior & Adaptations foundational facts, regional adaptations, and ecological concepts."
+}

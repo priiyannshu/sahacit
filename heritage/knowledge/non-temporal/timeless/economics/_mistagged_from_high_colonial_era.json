@@ -1,0 +1,58 @@
+{
+  "count": 3,
+  "nodes": [
+    {
+      "id": "eco_mnc",
+      "label": "Multinational Corporations (MNCs)",
+      "type": "concept",
+      "subject": "economics",
+      "detail": "Companies that own or control production in more than one nation. Set up in regions with cheap labour and resources to minimise costs and maximise profits. Many top MNCs have wealth exceeding entire budgets of developing countries. Control production through joint ventures, local suppliers, or buying up local companies.",
+      "pyq_count": 0,
+      "importance": "critical",
+      "book": "10th",
+      "chapter_title": "Globalisation and the Indian Economy",
+      "chapter_file": "10th_ch04_globalisation_and_the_indian_economy",
+      "year_approx": 1919,
+      "temporal_type": "approx",
+      "era": "high_colonial",
+      "pyq_ids": []
+    },
+    {
+      "id": "eco_sez",
+      "label": "Special Economic Zones (SEZs)",
+      "type": "policy",
+      "subject": "economics",
+      "detail": "Industrial zones with world-class facilities (electricity, water, roads, transport, storage). Companies in SEZs get tax exemptions for initial 5 years. Government also allows labour law flexibility. Aims to attract foreign investment. Some opposition due to land acquisition and labour concerns.",
+      "pyq_count": 1,
+      "importance": "high",
+      "book": "10th",
+      "chapter_title": "Globalisation and the Indian Economy",
+      "chapter_file": "10th_ch04_globalisation_and_the_indian_economy",
+      "year_approx": 1919,
+      "temporal_type": "approx",
+      "era": "high_colonial",
+      "pyq_ids": [
+        1397
+      ]
+    },
+    {
+      "id": "eco_labour_laws_flexibility",
+      "label": "Labour Laws and Flexibility",
+      "type": "concept",
+      "subject": "economics",
+      "detail": "To attract foreign investment, government has allowed companies to ignore many worker protection rules. Companies hire workers 'flexibly' for short periods instead of regular basis to reduce labour costs. Foreign companies continue demanding more flexibility. Raises concerns about worker exploitation.",
+      "pyq_count": 2,
+      "importance": "medium",
+      "book": "10th",
+      "chapter_title": "Globalisation and the Indian Economy",
+      "chapter_file": "10th_ch04_globalisation_and_the_indian_economy",
+      "year_approx": 1883,
+      "temporal_type": "approx",
+      "era": "high_colonial",
+      "pyq_ids": [
+        1573,
+        1631
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "chapter_metadata": {
+    "grade": 3,
+    "subject": "EVS",
+    "chapter_number": 14,
+    "chapter_title_en": "The Story of Food",
+    "chapter_title_hi": "कहाँ से आया, किसने पकाया",
+    "ncert_code_en": "ceap114",
+    "ncert_code_hi": "chap114",
+    "theme_mapping": "Unit 2: Flora, Seeds, Forest Rights & Agriculture",
+    "unit_id": 2
+  },
+  "factual_entities": [
+    {
+      "name_en": "Ethnobotany & Edible Plant Anatomy",
+      "name_hi": "पारंपरिक औषधीय पौधे और खाने योग्य भाग",
+      "category": "Ethnobotany",
+      "attributes": [
+        "Home remedies: Cough/cold (Tulsi, ginger), Stomach ache (Ajwain), Toothache (Clove oil), Wounds (Turmeric)",
+        "Edible organs: Flowers (Kachnar in UP, Banana flowers in Kerala, Sahjan in Maharashtra), Roots (carrot, radish), Stems (potato, lotus stem), Leaves (spinach, mustard)"
+      ]
+    }
+  ],
+  "historical_figures_and_travelers": [],
+  "geographical_locations_and_tribes": [],
+  "scientific_experiments_and_processes": [],
+  "cultural_customs_foods_and_tools": [],
+  "numerical_data_and_measurements": [],
+  "visual_assets_and_diagram_cues": [
+    "Classification matrix: Roots, Stems, Leaves, Flowers, Fruits"
+  ],
+  "key_vocabulary_bilingual": {
+    "Kachnar": "कचनार (यूपी)",
+    "Banana flowers": "केले के फूल (केरल)",
+    "Sahjan": "सहजन (महाराष्ट्र)",
+    "Clove": "लौंग",
+    "Turmeric": "हल्दी"
+  },
+  "ncert_source_text_summary": "Class 3 Chapter 14: 'The Story of Food' / 'कहाँ से आया, किसने पकाया' covers Unit 2: Flora, Seeds, Forest Rights & Agriculture foundational facts, regional adaptations, and ecological concepts."
+}

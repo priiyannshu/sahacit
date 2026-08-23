@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CTET EVS 15-Mark Interactive Mock Exam</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <header class="quiz-header">
+      <div class="header-left">
+        <h1>🎯 CTET EVS Paper-1 Content Mock Exam</h1>
+        <span class="exam-tag">Section III Non-Pedagogy (15 Marks Standard)</span>
+      </div>
+      <div class="header-right">
+        <div class="timer" id="timer">⏱ 15:00</div>
+      </div>
+    </header>
+
+    <div class="quiz-body" id="quizBody">
+      <div class="question-card" id="questionCard">
+        <!-- Question injected here -->
+      </div>
+      
+      <div class="navigation-bar">
+        <button class="nav-btn" id="btnPrevQ" disabled>← Previous</button>
+        <div class="progress-indicator" id="progressIndicator">Question 1 of 15</div>
+        <button class="nav-btn" id="btnNextQ">Next →</button>
+        <button class="submit-btn" id="btnSubmit">Submit Exam 🏁</button>
+      </div>
+    </div>
+
+    <div class="result-modal hidden" id="resultModal">
+      <!-- Exam Results Summary -->
+    </div>
+  </div>
+  <script src="quiz_engine.js"></script>
+</body>
+</html>
