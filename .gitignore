@@ -1,6 +1,17 @@
+# Dependencies & Environments
 node_modules/
-.wrangler/
 .venv/
+.wrangler/
+
+# Python & Jupyter
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
+
+# Build Artifacts
+web/dist/
+
+# Logs & Temporary Files
+*.log
+*.tmp
 .DS_Store
