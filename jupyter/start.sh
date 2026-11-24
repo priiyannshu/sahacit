@@ -1,8 +1,9 @@
 #!/bin/bash
 set -e
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-NOTEBOOK_PATH="${1:-$ROOT_DIR/library/test/sandbox.ipynb}"
+JUPYTER_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_DIR="$(dirname "$JUPYTER_DIR")"
+NOTEBOOK_PATH="${1:-$JUPYTER_DIR/library/test/sandbox.ipynb}"
 
 echo "=================================================="
 echo " Starting sahacit Engine & AI Tutor"
@@ -16,8 +17,12 @@ fuser -k 5173/tcp 2>/dev/null || true
 sleep 1
 
 # 2. Start Jupyter Server
-source "$ROOT_DIR/.venv/bin/activate"
-jupyter server --config="$ROOT_DIR/jupyter_server_config.py" > "$ROOT_DIR/jupyter.log" 2>&1 &
+if [ -f "$JUPYTER_DIR/.venv/bin/activate" ]; then
+  source "$JUPYTER_DIR/.venv/bin/activate"
+elif [ -f "$REPO_DIR/.venv/bin/activate" ]; then
+  source "$REPO_DIR/.venv/bin/activate"
+fi
+jupyter server --config="$JUPYTER_DIR/jupyter_server_config.py" > "$JUPYTER_DIR/jupyter.log" 2>&1 &
 JUPYTER_PID=$!
 echo "✓ Jupyter Server started on port 8888 (PID $JUPYTER_PID)"
 
@@ -31,8 +36,8 @@ for i in {1..15}; do
 done
 
 # 3. Start Frontend (Vite)
-cd "$ROOT_DIR/web"
-npm run dev > "$ROOT_DIR/vite.log" 2>&1 &
+cd "$REPO_DIR/web"
+npm run dev > "$JUPYTER_DIR/vite.log" 2>&1 &
 VITE_PID=$!
 echo "✓ Vite Frontend started on port 5173 (PID $VITE_PID)"
 
@@ -53,7 +58,7 @@ if tmux has-session -t "$TMUX_SESSION" 2>/dev/null; then
 fi
 
 echo "Launching Antigravity AI Tutor in tmux session '$TMUX_SESSION'..."
-tmux new-session -d -s "$TMUX_SESSION" -c "$ROOT_DIR" \
+tmux new-session -d -s "$TMUX_SESSION" -c "$REPO_DIR" \
   "agy --dangerously-skip-permissions -i 'tutor watch $NOTEBOOK_PATH' ; bash"
 
 echo "✓ AI Tutor is running and watching the notebook!"

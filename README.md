@@ -18,8 +18,6 @@ Active learning happens across tactile and focused mediums—not inside a single
 | `pyqs/` | Past Year Questions & official answer keys (organized by year, e.g., `pyqs/2026/`) |
 | `notebooklm/` | NotebookLM sync scripts, steering manifests, and CLI/MCP tooling notes |
 | `DDC/` | Dewey Decimal Classification (`000`–`900`) directory taxonomy |
-| `library/` | Jupyter notebooks and sandbox workspaces |
+| `jupyter/` | Pi5 Jupyter + `agy` substrate (`library/`, `tests/`, `start.sh`, `jupyter_server_config.py`) |
 | `web/` | Vite + React + TypeScript frontend for the Jupyter substrate |
-| `tests/` | Substrate verification tests |
 | `docs/archive/` | Archived architectural charters (`FOUNDATION.md`, `MASTER_PLAN.md`, `plans/`) |
-| `start.sh`, `jupyter_server_config.py` | Local / Pi5 startup and Jupyter server configuration |
