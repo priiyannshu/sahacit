@@ -1,0 +1,175 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IndianInstitutionEntry",
+  "description": "Canonical 7-Block UPSC Prelims Schema for Book 1 (Indian Institutions)",
+  "type": "object",
+  "required": [
+    "id",
+    "order",
+    "part",
+    "name",
+    "acronym",
+    "layout_mode",
+    "anchor",
+    "composition",
+    "lifecycle",
+    "mandate",
+    "genesis",
+    "traps",
+    "links"
+  ],
+  "properties": {
+    "id": {"type": "string", "description": "Kebab-case ID matching data/roster.json"},
+    "order": {"type": "integer", "minimum": 1, "maximum": 200},
+    "part": {"type": "integer", "minimum": 1, "maximum": 7},
+    "name": {"type": "string"},
+    "acronym": {"type": "string"},
+    "layout_mode": {"type": "string", "enum": ["blueprint", "dossier", "compact"]},
+    "anchor": {
+      "type": "object",
+      "required": ["legal_status", "basis", "key_amendments", "nodal_ministry", "established_year", "headquarters", "essential_summary"],
+      "properties": {
+        "legal_status": {"type": "string", "description": "Constitutional | Statutory | Executive | Constitutional-Derived | Statutory-Linked | Autonomous | Society"},
+        "basis": {"type": "string"},
+        "key_amendments": {"type": "string"},
+        "nodal_ministry": {"type": "string"},
+        "established_year": {"type": "string"},
+        "headquarters": {"type": "string"},
+        "essential_summary": {"type": "string"}
+      }
+    },
+    "composition": {
+      "type": "object",
+      "required": ["chairperson", "members", "eligibility_rules", "internal_wings"],
+      "properties": {
+        "chairperson": {"type": "string"},
+        "members": {"type": "string"},
+        "eligibility_rules": {"type": "string"},
+        "internal_wings": {"type": "string"}
+      }
+    },
+    "lifecycle": {
+      "type": "object",
+      "required": ["appointing_authority", "selection_committee", "tenure", "age_limit", "reappointment_and_post_retirement", "resignation_to", "removal_procedure", "funding_and_salary"],
+      "properties": {
+        "appointing_authority": {"type": "string"},
+        "selection_committee": {"type": "string"},
+        "selection_short": {"type": "string"},
+        "tenure": {"type": "string"},
+        "age_limit": {"type": "string"},
+        "reappointment_and_post_retirement": {"type": "string"},
+        "reappointment_short": {"type": "string"},
+        "resignation_to": {"type": "string"},
+        "removal_procedure": {"type": "string"},
+        "removal_short": {"type": "string"},
+        "funding_and_salary": {"type": "string"}
+      }
+    },
+    "mandate": {
+      "type": "object",
+      "required": ["core_functions", "power_nature", "special_powers", "jurisdiction_limits_and_exclusions", "reporting_chain", "appellate_pathway"],
+      "properties": {
+        "core_functions": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {"type": "string"},
+              {
+                "type": "object",
+                "required": ["label", "text"],
+                "properties": {"label": {"type": "string"}, "text": {"type": "string"}}
+              }
+            ]
+          }
+        },
+        "power_nature": {"type": "string"},
+        "special_powers": {"type": "string"},
+        "jurisdiction_limits_and_exclusions": {"type": "string"},
+        "reporting_chain": {"type": "string"},
+        "appellate_pathway": {"type": "string"}
+      }
+    },
+    "extra_tables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "headers", "rows"],
+        "properties": {
+          "title": {"type": "string"},
+          "headers": {"type": "array", "items": {"type": "string"}},
+          "rows": {"type": "array", "items": {"type": "array", "items": {"type": "string"}}}
+        }
+      }
+    },
+    "genesis": {
+      "type": "object",
+      "required": ["founding_committee", "landmark_cases"],
+      "properties": {
+        "founding_committee": {"type": "string"},
+        "landmark_cases": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {"type": "string"},
+              {
+                "type": "object",
+                "required": ["label", "text"],
+                "properties": {"label": {"type": "string"}, "text": {"type": "string"}}
+              }
+            ]
+          }
+        }
+      }
+    },
+    "traps": {
+      "type": "object",
+      "required": ["common_traps", "twin_comparison"],
+      "properties": {
+        "common_traps": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {"type": "string"},
+              {
+                "type": "object",
+                "required": ["label", "text"],
+                "properties": {"label": {"type": "string"}, "text": {"type": "string"}}
+              }
+            ]
+          }
+        },
+        "twin_comparison": {
+          "type": "object",
+          "required": ["headers", "rows"],
+          "properties": {
+            "headers": {"type": "array", "items": {"type": "string"}},
+            "rows": {"type": "array", "items": {"type": "array", "items": {"type": "string"}}}
+          }
+        }
+      }
+    },
+    "links": {
+      "type": "object",
+      "required": ["state_counterparts", "upsc_categories", "linked_acts_and_missions"],
+      "properties": {
+        "state_counterparts": {"type": "string"},
+        "upsc_categories": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "Environment and Ecology",
+              "Economics",
+              "History and Art and Culture",
+              "Geography",
+              "Current Affairs",
+              "Science and Technology",
+              "Polity"
+            ]
+          }
+        },
+        "linked_acts_and_missions": {"type": "string"}
+      }
+    }
+  }
+}

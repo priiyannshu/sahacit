@@ -22,7 +22,7 @@ UPSC Prelims is treated as a sorting mechanism for **multi-dimensional thinkers*
 |---|---|
 | `AGENTS.md` | Governing Prelims 2027 philosophy, phase rules, diary protocol, and agent boundaries |
 | `diary-entries-of-a-champion/` | Daily dated logs (`YYYY-MM-DD/entry.md`), ideation, paper diagnostics, and print planning manifests (see `diary-entries-of-a-champion/README.md`) |
-| `booklets/` | Canonical reproducible print generators & physical PDFs (`lineages/`, plus future books, booklets, dictionaries, character sheets, cutouts) |
+| `printed/` | Canonical reproducible print generators (structured data, Python builders, Typst/HTML-to-PDF) & physical PDFs (books, booklets, dictionaries, character sheets, cutouts) |
 | `pyqs/` | Past Year Questions & official answer keys (`pyqs/2026/`) for pattern extraction |
 | `apps/` *(Phase 2 / future)* | Study Time Recorder PWA, AI Examiner Board / quiz tools, and post-study consolidation apps |
 
@@ -31,7 +31,5 @@ UPSC Prelims is treated as a sorting mechanism for **multi-dimensional thinkers*
 | Path | Purpose |
 |---|---|
 | `notebooklm/` *(Secondary)* | NotebookLM sync scripts, steering manifests, and CLI/MCP notes (audio stored in Cloudflare R2) |
-| `DDC/` *(Reference)* | Dewey Decimal Classification (`000`–`900`) directory taxonomy |
-| `jupyter/` *(Secondary)* | Pi5 (`s1`) Jupyter + `agy` substrate (`library/`, `tests/`, `start.sh`, `jupyter_server_config.py`) |
+| `archive/` *(Archive & Reference)* | Read-only historical charters (`FOUNDATION.md`, `MASTER_PLAN.md`, `plans/`), `DDC/` taxonomy, and Pi5 (`s1`) Jupyter + `agy` substrate (`archive/jupyter/`) |
 | `web/` *(Parked)* | Vite + React + TypeScript frontend for the Jupyter substrate |
-| `docs/archive/` *(Archive)* | Read-only historical charters (`FOUNDATION.md`, `MASTER_PLAN.md`, `plans/`) |

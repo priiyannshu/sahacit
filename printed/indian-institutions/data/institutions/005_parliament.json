@@ -1,0 +1,102 @@
+{
+  "id": "parliament-of-india",
+  "order": 5,
+  "part": 1,
+  "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+  "acronym": "Parliament",
+  "layout_mode": "dossier",
+  "anchor": {
+    "legal_status": "Constitutional",
+    "basis": "Part V, Chapter II — Articles 79–122 (Art. 79: Parliament consists of President + Council of States [Rajya Sabha] + House of the People [Lok Sabha]).",
+    "key_amendments": "52nd Amend. (1985: 10th Schedule Anti-Defection); 91st Amend. (2003: removed 1/3rd split shield, 15% CoM cap); 104th Amend. (2020: ended 2 Anglo-Indian nominated LS seats); 106th Amend. (2023: Nari Shakti Vandan Adhiniyam — 33% women reservation in LS & State Assemblies post-Census/Delimitation, 15-yr sunset).",
+    "nodal_ministry": "Independent Legislature (Floor coordination: Ministry of Parliamentary Affairs; Independent LS & RS Secretariats under Speaker/Chairman)",
+    "established_year": "1952 (First elected Parliament after 1951–52 polls; Constituent Assembly acted 1947–52)",
+    "headquarters": "Samvidhan Sadan / New Parliament House (Sansad Bhavan), New Delhi",
+    "essential_summary": "India's supreme bicameral federal legislature exercising Union/Concurrent lawmaking, financial control over the Consolidated Fund, executive oversight, and constituent amending power (Art. 368)."
+  },
+  "composition": {
+    "chairperson": "Presiding Officers: Lok Sabha Speaker & Deputy Speaker (Art. 93 — elected by LS from among its members; Speaker does NOT vacate on LS dissolution until first meeting of new LS) | Rajya Sabha Chairman (VP ex-officio, Art. 64/89) & Deputy Chairman (elected by RS from among its members).",
+    "members": "Lok Sabha: Max 550 (530 States + 20 UTs; current strength 543; direct FPP election, 18+ suffrage). Rajya Sabha: Max 250 (238 State/UT elected via PR-STV by elected MLAs + 12 President-nominated for Art, Literature, Science & Social Service; current 245 = 233 + 12).",
+    "eligibility_rules": "Citizen of India; minimum age 25 yrs (LS) / 30 yrs (RS); registered voter in ANY parliamentary constituency (even for RS since 2003 RPA amend.!). Disqualifications: Art. 102 (Office of Profit, unsound mind, undischarged insolvent, non-citizen), RPA 1951 (2+ yr imprisonment = immediate disqualification per Lily Thomas 2013 + 6-yr post-release bar), & 10th Schedule (Defection).",
+    "internal_wings": "Lok Sabha & Rajya Sabha Secretariats (Art. 98); Financial Committees (PAC, Estimates, COPU); 24 Departmentally Related Standing Committees (16 under LS Speaker + 8 under RS Chairman); House Committees (BAC, Rules, Privileges, Ethics); Whip system (not in Constitution—rooted in convention & 10th Sch.)."
+  },
+  "lifecycle": {
+    "appointing_authority": "Elected by People (LS) / Elected by State & UT MLAs + 12 Nominated by President (RS); Speaker/Deputy Speaker/RS Deputy Chair elected by simple majority of respective House.",
+    "selection_committee": "Universal Adult Suffrage (LS); Indirect Open Ballot PR-STV by elected MLAs (RS — only Delhi, Puducherry & J&K UTs represented); 12 RS nominees by President on CoM advice.",
+    "selection_short": "Direct Vote (LS) / MLA PR-STV + 12 Pres. Nominees (RS)",
+    "tenure": "LS: 5 yrs (unless dissolved earlier; extendable 1 yr at a time during Art. 352) | RS: Permanent House (no dissolution; individual term 6 yrs, 1/3rd retire every 2 yrs)",
+    "age_limit": "No upper retirement age ceiling (Min: 25 yrs LS / 30 yrs RS)",
+    "reappointment_and_post_retirement": "Unlimited re-election permitted; Presiding Officers have no constitutional bar on further office.",
+    "reappointment_short": "Unlimited re-election; no upper age cap",
+    "resignation_to": "MPs resign to Speaker (LS) / Chairman (RS) [Art. 101(3) — presiding officer checks voluntariness!]. Speaker resigns to Deputy Speaker (& vice versa); RS Deputy Chair to Chairman.",
+    "removal_procedure": "Speaker/Dy Speaker/Dy Chair: Resolution of respective House passed by EFFECTIVE MAJORITY (majority of all then members, 14 days' notice). RS Chairman (VP): Effective majority in RS + simple majority agreement in LS. Individual MP disqualification: President on ECI's binding opinion (Art. 103) OR Presiding Officer alone for 10th Schedule (subject to judicial review).",
+    "removal_short": "Presiding Officers: Effective Majority (14d notice) | Defection: Speaker/Chair",
+    "funding_and_salary": "Salaries of Presiding Officers (Speaker, Dy Speaker, Chairman, Dy Chairman) are CHARGED on Consolidated Fund of India (non-votable); MP salaries/allowances are voted by Parliament under Art. 106."
+  },
+  "mandate": {
+    "core_functions": [
+      {"label": "Legislative & Constituent Supremacy", "text": "Enacts laws on List I (Union), List III (Concurrent), residuary subjects (Art. 248), and List II under special triggers (Art. 249 RS 2/3rd resolution, Art. 250 Emergency, Art. 252 two+ States request, Art. 253 Treaties). Amends Constitution under Art. 368 (subject to Basic Structure)."},
+      {"label": "Financial & Budgetary Control", "text": "No tax levied without law (Art. 265); no money drawn from Consolidated Fund without Appropriation Act (Art. 114). Lok Sabha holds decisive control over Money Bills & Demands for Grants (RS can only discuss, cannot vote on grants)."},
+      {"label": "Executive Accountability", "text": "Council of Ministers is collectively responsible ONLY to Lok Sabha (Art. 75(3)). Controlled via Question Hour (Starred/Unstarred/Short Notice), Zero Hour (Indian innovation, non-statutory), Adjournment/Censure/No-Confidence Motions & Cut Motions (Policy, Economy, Token)."},
+      {"label": "Judicial & Electoral Functions", "text": "Impeaches President (Art. 61 — 2/3rd total membership of each House), removes SC/HC Judges, CAG & CEC; participates in Presidential & Vice-Presidential elections."}
+    ],
+    "power_nature": "Supreme Legislative, Constituent, Financial & Executive-Oversight Sovereign Organ (subject to Basic Structure & Judicial Review).",
+    "special_powers": "Lok Sabha Exclusives: Money Bills (Art. 110 — Speaker's certification final), No-Confidence Motion (min 50 MPs support, LS only), Discontinuing National Emergency (Art. 352), Joint Sitting presided by Speaker (Art. 118(4)). Rajya Sabha Exclusives: Art. 249 (legislate on State List by 2/3rd present & voting), Art. 312 (create new All-India Service by 2/3rd present & voting), initiating VP removal (Art. 67).",
+    "jurisdiction_limits_and_exclusions": "Cannot alter Basic Structure (Kesavananda Bharati 1973); courts cannot inquire into internal procedural irregularities (Art. 122), yet substantive illegality/unconstitutionality & 10th Schedule Speaker orders ARE reviewable. Quorum = 1/10th of total strength of each House (incl. Presiding Officer). Max gap between two sessions = 6 months (Art. 85).",
+    "reporting_chain": "Accountable to the electorate (LS); receives Annual Reports & Action Taken Memoranda from CAG, UPSC, ECI/Commissions & Ministers.",
+    "appellate_pathway": "Constitutional validity of Acts & 10th Schedule Speaker rulings challenged via Writ Petitions before High Courts (Art. 226) or Supreme Court (Art. 32)."
+  },
+  "extra_tables": [
+    {
+      "title": "Bill Types & Joint Sitting (Art. 108) — Top Prelims Trap Matrix",
+      "headers": ["Bill Type", "Intro House", "President Prior Rec.?", "RS Powers & Joint Sitting (Art. 108)", "President's Assent (Art. 111 / 368)"],
+      "rows": [
+        ["Ordinary Bill (Art. 107)", "LS or RS", "No", "Equal powers; can detain max 6 months; Joint Sitting ALLOWED (simple majority of present & voting).", "May assent, withhold, or return ONCE (suspensive veto)."],
+        ["Money Bill (Art. 110)", "LS ONLY", "YES", "Speaker's certificate final; RS cannot amend/reject—max 14 days delay; NO Joint Sitting.", "May assent or withhold (cannot return!)."],
+        ["Financial Bill Cat. I (Art. 117(1))", "LS ONLY", "YES", "Contains Art. 110 matters + general provisions; RS can amend/reject like Ordinary Bill; Joint Sitting ALLOWED.", "Same as Ordinary Bill (may return once)."],
+        ["Financial Bill Cat. II (Art. 117(3))", "LS or RS", "No (required only at consideration stage!)", "Involves CFI expenditure without Art. 110 items; Joint Sitting ALLOWED.", "Same as Ordinary Bill (may return once)."],
+        ["Constitutional Amend. Bill (Art. 368)", "LS or RS", "No", "Must pass EACH House separately by Special Majority (2/3rd P&V + >50% total); NO Joint Sitting!", "MUST give assent (24th Amend. 1971 removed veto/return)."]
+      ]
+    },
+    {
+      "title": "Key Parliamentary Committees (Minister Exclusion Rule Applies to All Financial & DRSCs)",
+      "headers": ["Committee", "Strength (LS + RS)", "Term & Selection", "Core Function & Chair Trap"],
+      "rows": [
+        ["Public Accounts Committee (PAC)", "22 (15 LS + 7 RS)", "1 yr · PR-STV", "Audits CAG reports; Speaker appoints Chair (Opposition MP since 1967 convention)."],
+        ["Estimates Committee", "30 (30 LS + 0 RS)", "1 yr · PR-STV", "Largest committee; NO RS members! Examines budget economy; Chair from ruling party."],
+        ["Public Undertakings (COPU)", "22 (15 LS + 7 RS)", "1 yr · PR-STV", "Examines PSU accounts & CAG PSU reports; Chair appointed by Speaker (LS member)."],
+        ["24 DRSCs (Standing)", "31 each (21 LS + 10 RS)", "1 yr · Nominated", "16 under Speaker + 8 under RS Chairman; scrutinizes Demands for Grants & Bills."],
+        ["Business Advisory (BAC)", "LS: 15 | RS: 11", "Continuous (House)", "Allocates legislative floor time; Chaired ex-officio by Speaker (LS) / Chairman (RS)."]
+      ]
+    }
+  ],
+  "genesis": {
+    "founding_committee": "Constituent Assembly of India (1946–1949); Parliamentary Committee framework modernized via Rules of Procedure (1952) & 1993 DRSC reform (expanded from 17 to 24 in 2004).",
+    "landmark_cases": [
+      {"label": "Sita Soren v. UoI (March 2024, 7-Judge Bench)", "text": "Unanimously OVERRULED P.V. Narasimha Rao (1998): MPs/MLAs enjoy NO immunity under Art. 105(2)/194(2) for accepting bribes to vote or speak—bribery offence completes upon acceptance."},
+      {"label": "Kihoto Hollohan v. Zachillhu (1992)", "text": "Upheld 10th Schedule but subjected Presiding Officer's defection decision to judicial review on grounds of mala fides / perversity."},
+      {"label": "Keisham Meghachandra Singh (2020)", "text": "Directed Speakers to decide 10th Schedule disqualification petitions within a reasonable outer limit of 3 months absent exceptional circumstances."}
+    ]
+  },
+  "traps": {
+    "common_traps": [
+      {"label": "Lapsing of Bills on LS Dissolution (Art. 107)", "text": "Bill pending in RS and NOT passed by LS does NOT lapse. Any Bill pending in LS (or passed by LS & pending in RS) LAPSES—EXCEPT pending Art. 108 Joint Sitting notice OR Bill returned by President for reconsideration!"},
+      {"label": "Effective Majority vs Special Majority", "text": "Removing Speaker/Dy Speaker/Dy Chair requires EFFECTIVE majority (>50% of current strength excluding vacancies), NOT special 2/3rd majority."},
+      {"label": "Speaker's Dual Casting vs First Vote", "text": "Speaker does NOT vote in the first instance (exercises ONLY a casting vote on tie)—EXCEPT during a resolution for Speaker's own removal (votes in first instance, NO casting vote!)."},
+      {"label": "Minister Bar & RS Exclusion", "text": "No Minister can sit on PAC, Estimates, COPU, or DRSCs. Estimates Committee has ZERO Rajya Sabha members."}
+    ],
+    "twin_comparison": {
+      "headers": ["Power / Role", "Lok Sabha (Lower House)", "Rajya Sabha (Upper House)"],
+      "rows": [
+        ["CoM Collective Responsibility", "YES (Art. 75(3)) — No-Confidence moves here ONLY", "NO — can criticize/question, cannot topple govt"],
+        ["Money Bills & Budget Vote", "Exclusive intro + final say + votes on Demands for Grants", "14-day advisory delay only; discusses Budget, no grant vote"],
+        ["All-India Services / State List", "Cannot initiate Art. 249 or Art. 312 resolutions", "Exclusive 2/3rd P&V initiation power (Art. 249 & Art. 312)"]
+      ]
+    }
+  },
+  "links": {
+    "state_counterparts": "State Legislatures (Art. 168–212): Unicameral in 22 States; Bicameral (Vidhan Sabha + Vidhan Parishad under Art. 169) in 6 States (UP, Bihar, Maharashtra, Karnataka, Andhra Pradesh, Telangana).",
+    "upsc_categories": ["Polity", "Current Affairs"],
+    "linked_acts_and_missions": "Constitution Part V; RPA 1951; 10th Schedule; 104th & 106th Amendments; Parliamentary Committees (#6); President (#1); ECI (#21)."
+  }
+}

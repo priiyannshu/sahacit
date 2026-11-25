@@ -1,0 +1,78 @@
+{
+  "id": "national-green-tribunal",
+  "order": 88,
+  "part": 5,
+  "name": "National Green Tribunal",
+  "acronym": "NGT",
+  "layout_mode": "blueprint",
+  "anchor": {
+    "legal_status": "Statutory",
+    "basis": "National Green Tribunal Act, 2010 (Sec. 3); specialized fast-track quasi-judicial environmental tribunal (India became 3rd country globally after Australia & New Zealand to set up a green tribunal).",
+    "key_amendments": "Tribunal Reforms Act, 2021 inserted Sec. 10A capping term at 4 yrs & minimum age 50—HOWEVER, SC in Madras Bar Association v. UoI (Nov 2025, 2025 INSC 1330) struck down 50-yr age floor, 4-yr truncation & 2-name SCSC panels, directing creation of a National Tribunals Commission.",
+    "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+    "established_year": "2010 (18 October)",
+    "headquarters": "Principal Bench: New Delhi; 4 Regional Benches: Bhopal (Central), Pune (West), Kolkata (East), Chennai (South)",
+    "essential_summary": "Adjudicates civil environmental disputes, compensation, and statutory appeals arising under 7 Schedule-I environmental laws based on Sustainable Development, Precautionary & Polluter Pays principles."
+  },
+  "composition": {
+    "chairperson": "1 Chairperson — must be a sitting or retired Judge of the Supreme Court of India OR Chief Justice of a High Court.",
+    "members": "Minimum 10 and Maximum 20 full-time Judicial Members + Minimum 10 and Maximum 20 full-time Expert Members (equal minimum/maximum parity!).",
+    "eligibility_rules": "Judicial Member: Judge of SC, or CJ/Judge of a High Court. Expert Member: Master's in Science/Engineering/Tech + 15 yrs experience (incl. 5 yrs practical env/pollution experience) OR 15 yrs administrative experience incl. 5 yrs handling environmental matters in Central/State Govt or national institution.",
+    "internal_wings": "Principal Bench (New Delhi) + 4 Zonal Benches (Bhopal, Pune, Kolkata, Chennai); circuit benches held at Shimla, Shillong, Jodhpur & Kochi."
+  },
+  "lifecycle": {
+    "appointing_authority": "Central Government (MoEFCC)",
+    "selection_committee": "Chairperson: appointed by Central Govt in consultation with CJI. Judicial & Expert Members: appointed on recommendation of a Search-cum-Selection Committee (SCSC) constituted under NGT Rules (post-Nov 2025 SC ruling, must recommend 1 name per vacancy, not executive choice from 2 names).",
+    "selection_short": "Chair: Consultation with CJI | Members: SCSC",
+    "tenure": "5 years (NGT Act); 2021 Act's 4-yr truncation invalidated by SC (Nov 2025)",
+    "age_limit": "Chair: 70 yrs | Judicial (HC Judge): 67 yrs | Expert: 65/67 yrs",
+    "reappointment_and_post_retirement": "Under NGT Act Sec. 7: Chairperson & Members are NOT eligible for reappointment (2021 Act tried allowing reappointment within 70/67 caps; check post-2025 tribunal bill). Barred from government employment & appearing before NGT for 2 years post-demitting office.",
+    "reappointment_short": "Barred under NGT Act Sec. 7; 2-yr cooling-off bar",
+    "resignation_to": "Central Government (in writing)",
+    "removal_procedure": "Central Government may remove Chairperson or Judicial Member ONLY after an inquiry by a Judge of the Supreme Court (for proved misbehaviour/incapacity) in consultation with CJI. Expert Member removed by Central Govt on specified grounds after opportunity of hearing.",
+    "removal_short": "Chair/Judicial: SC Judge inquiry + CJI consult | Expert: Central Govt",
+    "funding_and_salary": "Charged through MoEFCC budgetary grants; salaries/allowances cannot be varied to disadvantage after appointment. Environmental Relief Fund receives Sec. 15/Public Liability compensation."
+  },
+  "mandate": {
+    "core_functions": [
+      {"label": "Schedule I Exclusive 7-Act Jurisdiction", "text": "Covers civil disputes & appeals ONLY under 7 enactments: (1) Water Act 1974, (2) Water Cess Act 1977, (3) Forest (Conservation) Act 1980, (4) Air Act 1981, (5) Environment (Protection) Act 1986, (6) Public Liability Insurance Act 1991, (7) Biological Diversity Act 2002."},
+      {"label": "3 Statutory Guiding Principles (Sec. 20)", "text": "Must apply: (i) Principle of Sustainable Development, (ii) Precautionary Principle, and (iii) Polluter Pays Principle."},
+      {"label": "Strict Statutory Filing Windows", "text": "Sec. 14 (Original civil dispute): 6 months (+60 days grace); Sec. 15 (Compensation & restitution): 5 years (+60 days grace); Sec. 16 (Appellate against EC/SPCB/Forest orders): 30 days (+60 days grace). Disposal target: 6 months."},
+      {"label": "Natural Justice Flexibility", "text": "Not bound by strict procedural rules of Code of Civil Procedure (CPC) 1908 or Indian Evidence Act / Bharatiya Sakshya Adhiniyam—guided by Principles of Natural Justice."}
+    ],
+    "power_nature": "Quasi-Judicial Binding Decree & Compensation Powers (orders are executable as decrees of a Civil Court; non-compliance punishable with imprisonment up to 3 years or fine up to ₹10 crore!).",
+    "special_powers": "Suo motu jurisdiction UPHELD by SC (Ankita Sinha 2021); possesses Civil Court powers for summoning, discovery & commissions; can award compensation, environmental restitution & impose heavy environmental damages.",
+    "jurisdiction_limits_and_exclusions": "EXPLICITLY EXCLUDED FROM SCHEDULE I: (1) Wildlife (Protection) Act, 1972; (2) Indian Forest Act, 1927; (3) Forest Rights Act (FRA), 2006. Only civil cases involving 'substantial question relating to environment'—NO criminal trials.",
+    "reporting_chain": "Decisions binding on parties/authorities; administrative oversight via MoEFCC (and proposed National Tribunals Commission per 2025 SC directive).",
+    "appellate_pathway": "Direct appeal to Supreme Court of India within 90 days (Sec. 22). High Courts retain Art. 226/227 constitutional writ review (Madhya Pradesh HC Advocates Bar Assoc. v. UoI 2022)."
+  },
+  "genesis": {
+    "founding_committee": "186th Report of the Law Commission of India (2003); Supreme Court directives in M.C. Mehta v. UoI & A.P. Pollution Control Board v. Prof. M.V. Nayudu.",
+    "landmark_cases": [
+      {"label": "Municipal Corp. of Greater Mumbai v. Ankita Sinha (2021)", "text": "SC held NGT holds suo motu powers to initiate environmental proceedings even without a formal petitioner."},
+      {"label": "MP High Court Advocates Bar Assoc. v. UoI (2022)", "text": "SC confirmed Sec. 22 direct appeal to SC does NOT oust High Courts' Art. 226/227 writ jurisdiction (Basic Structure)."},
+      {"label": "Madras Bar Association v. UoI (Nov 2025)", "text": "Struck down 50-yr minimum age, 4-yr tenure cap & 2-name SCSC mandate under Tribunal Reforms Act 2021; directed establishing National Tribunals Commission."}
+    ]
+  },
+  "traps": {
+    "common_traps": [
+      {"label": "Excluded Forest & Wildlife Acts Trap (Classic!)", "text": "NGT covers Forest (Conservation) Act 1980, NOT Indian Forest Act 1927, NOT Wildlife (Protection) Act 1972, and NOT Forest Rights Act 2006! (Can only intervene indirectly if a Schedule-I EPA/FCA violation overlaps.)"},
+      {"label": "CPC & Evidence Exemption Trap", "text": "NGT has Civil Court powers (summoning, decree execution), yet is NOT bound by CPC 1908 procedure or Evidence rules—it follows Natural Justice."},
+      {"label": "High Court Appeal Trap", "text": "Statutory appeals under Sec. 22 go DIRECTLY to the Supreme Court (within 90 days), bypassing High Courts—yet HCs retain constitutional Art. 226 writ jurisdiction."},
+      {"label": "Three Limitation Timers", "text": "6 months (Sec. 14 dispute) vs 5 years (Sec. 15 compensation) vs 30 days (Sec. 16 appeal)—each with max +60 days condonation!"}
+    ],
+    "twin_comparison": {
+      "headers": ["Dimension", "NGT", "CPCB", "NBWL"],
+      "rows": [
+        ["Nature", "Quasi-judicial Tribunal (NGT Act 2010)", "Statutory Pollution Regulator (Water Act 1974)", "Statutory Wildlife Advisory Apex (WPA 1972)"],
+        ["Chair", "Retired SC Judge / HC Chief Justice", "Central Govt-appointed Chairman (Env/Admin)", "Prime Minister (ex-officio Chair)"],
+        ["Covers WPA 1972?", "NO (explicitly excluded from Schedule I)", "NO (covers Water/Air/EPA standards)", "YES (apex wildlife/protected-area clearances)"]
+      ]
+    }
+  },
+  "links": {
+    "state_counterparts": "None (No State Green Tribunals; NGT covers entire country through 1 Principal + 4 Zonal Benches).",
+    "upsc_categories": ["Environment and Ecology", "Polity", "Current Affairs"],
+    "linked_acts_and_missions": "NGT Act 2010; EPA 1986; Water Act 1974; Air Act 1981; Forest Conservation Act 1980; Biological Diversity Act 2002; CPCB (#95); NBWL (#89); WCCB (#92)."
+  }
+}

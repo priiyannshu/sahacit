@@ -1,0 +1,91 @@
+{
+  "id": "reserve-bank-of-india",
+  "order": 44,
+  "part": 3,
+  "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+  "acronym": "RBI",
+  "layout_mode": "dossier",
+  "anchor": {
+    "legal_status": "Statutory",
+    "basis": "Reserve Bank of India Act, 1934 (commenced 1 Apr 1935; nationalized 1 Jan 1949 via RBI Transfer to Public Ownership Act, 1948). Key regulatory authority also flows from Banking Regulation Act, 1949, FEMA 1999 & PSS Act, 2007.",
+    "key_amendments": "Finance Act 2016 (inserted Sec. 45ZA–45ZO: Statutory Monetary Policy Committee & Flexible Inflation Targeting); Banking Regulation Amend. 2020 (brought Urban/Multi-State Co-op Banks under tighter RBI control); PSS Act Amend. / PRB Regulations (May 2025: replaced BPSS with 6-member Payments Regulatory Board).",
+    "nodal_ministry": "Ministry of Finance (Department of Financial Services — DFS) [Autonomy governed by RBI Act]",
+    "established_year": "1935 (Nationalized 1949)",
+    "headquarters": "Mumbai (shifted from Calcutta in 1937); 4 Local Boards (Mumbai, Kolkata, Chennai, New Delhi)",
+    "essential_summary": "India's central bank and monetary authority governing price stability (4±2% CPI), currency issuance, banking/NBFC supervision, sovereign debt/forex management, and payment systems."
+  },
+  "composition": {
+    "chairperson": "Governor of the RBI — full-time chief executive & ex-officio Chair of Central Board, MPC (with casting vote), and Payments Regulatory Board (PRB).",
+    "members": "Central Board of Directors (Sec. 8 — up to 21 members): 1 Governor + max 4 Deputy Governors (Official); 4 Directors nominated from 4 Local Boards + 10 Government-nominated Non-Official Directors + 2 Government Officials (usually Finance/DEA & DFS Secretaries).",
+    "eligibility_rules": "Governor/DGs appointed for whole-time service (no strict statutory degree bar, traditionally career central bankers/economists/senior civil servants). External MPC members must be persons of ability, integrity & standing in economics/banking/finance/monetary policy.",
+    "internal_wings": "Monetary Policy Committee (6 members, Sec. 45ZB); Payments Regulatory Board (6 members, May 2025); Board for Financial Supervision (BFS, est. 1994); 4 Local Boards (advisory); Financial Inclusion Fund / Ombudsman Scheme (Integrated Ombudsman 2021); Wholly owned subsidiaries: DICGC, BRBNMPL, ReBIT, IFTAS, RBIH."
+  },
+  "lifecycle": {
+    "appointing_authority": "Central Government (recommended by FSIB / Search-cum-Selection & approved by ACC)",
+    "selection_committee": "Governor/DGs: Cabinet Secretary-led Financial Sector Regulatory Appointment Search Committee (FSRASC) → ACC. External MPC Members: Search-cum-Selection Committee headed by Cabinet Secretary (incl. RBI Governor, DEA Sec., 3 experts).",
+    "selection_short": "FSRASC / Cab. Sec. Search Panel → Central Govt (ACC)",
+    "tenure": "Governor/DGs: up to 5 years (typically 3 yrs initially); External MPC: 4 yrs; Board Directors: 4 yrs",
+    "age_limit": "Governor/DGs: no statutory age ceiling in RBI Act (administrative convention ~62/65); MPC external <70 convention",
+    "reappointment_and_post_retirement": "Governor, Deputy Governors & Nominated Central Board Directors ARE eligible for reappointment/renomination. External MPC members are strictly NOT eligible for reappointment (Sec. 45ZD)!",
+    "reappointment_short": "Gov/DGs eligible; External MPC members BARRED from reappointment",
+    "resignation_to": "Central Government (written notice)",
+    "removal_procedure": "Section 11: Central Govt may remove Governor, DG or Director at any time (with statutory grounds like unsoundness of mind, insolvency, moral turpitude conviction, or unexcused absence from 3+ consecutive Board meetings; Section 7 permits Govt policy directions in public interest after consulting Governor).",
+    "removal_short": "Central Govt (Sec. 11 / Executive discretion; Sec. 7 policy directions)",
+    "funding_and_salary": "Financially self-sustaining (seigniorage, open market interest, forex returns); surplus transferred annually to Govt of India (Bimal Jalan Economic Capital Framework). Salaries fixed by Central Govt."
+  },
+  "mandate": {
+    "core_functions": [
+      {"label": "Monetary Policy & Inflation Targeting (Sec. 45ZA)", "text": "Primary statutory objective: maintain price stability while keeping growth in mind. Target: 4% CPI (±2% band = 2%–6%), officially renewed for 5 years through March 31, 2031."},
+      {"label": "Issuer of Currency (Sec. 22)", "text": "Sole authority to issue banknotes (₹2 and above) under Minimum Reserve System (₹200 crore reserve: min ₹115 cr gold + ₹85 cr foreign securities). ₹1 note & all coins are issued by Ministry of Finance (Coinage Act 2011) and circulated via RBI."},
+      {"label": "Regulator & Supervisor of Financial System", "text": "Regulates Scheduled Commercial Banks, RRBs, Co-op Banks (BR Act 1949), NBFCs, CICs & All-India Financial Institutions (NABARD, SIDBI, NHB, EXIM, NaBFID). Enforces CRR, SLR, Basel norms & Prompt Corrective Action (PCA)."},
+      {"label": "Banker to Govt & Public Debt Manager", "text": "Manages Consolidated Fund accounts, Ways & Means Advances (WMA), and Central/State sovereign bond auctions (G-Secs/T-Bills). Banker's Bank & Lender of Last Resort (LAF/MSF/SDF)."},
+      {"label": "Forex & Payment Systems", "text": "Custodian of Foreign Exchange Reserves & FEMA 1999 manager; regulates UPI/RTGS/NEFT/IMPS & payment aggregators via the Payments Regulatory Board (2025)."}
+    ],
+    "power_nature": "Statutory Monetary, Regulatory, Licensing & Penal Enforcement Authority (binding RBI Master Directions, monetary penalties, bank moratorium/reconstruction under Sec. 45 BR Act).",
+    "special_powers": "Section 7(1) RBI Act: Central Govt can issue binding directions in public interest after consulting Governor. Integrated RBI Ombudsman Scheme merges Banking, NBFC & Digital Transactions Ombudsmen.",
+    "jurisdiction_limits_and_exclusions": "Does NOT regulate: Stock/Derivatives markets & Mutual Funds (SEBI), Insurance (IRDAI), Pension Funds (PFRDA), GIFT City IFSC units (IFSCA), Housing finance registration was transferred from NHB to RBI in 2019 (while NHB continues refinance/supervision), and Primary Agricultural Credit Societies (PACS) outside BR Act banking.",
+    "reporting_chain": "Submits Annual Report & Report on Trend and Progress of Banking in India to Central Government (laid before Parliament); MPC publishes minutes 14 days post-meeting & Monetary Policy Report every 6 months.",
+    "appellate_pathway": "Ombudsman orders → Deputy Governor (Appellate Authority); regulatory penalties/licensing appeals → Central Govt (specified sections) or High Court writ review."
+  },
+  "extra_tables": [
+    {
+      "title": "Inside RBI's Specialized Statutory Governance Organs (High-Yield Prelims Matrix)",
+      "headers": ["Organ / Subsidiary", "Legal Basis", "Exact Composition", "Key Prelims Anchor"],
+      "rows": [
+        ["Monetary Policy Committee (MPC)", "Sec. 45ZB, RBI Act (Finance Act 2016)", "6 members: 3 RBI (Governor ex-officio Chair, DG Monetary Policy, 1 Board-nominated Officer) + 3 External Govt nominees", "Quorum = 4; 1 vote each + Governor has 2nd/CASTING vote on tie; external term 4 yrs, non-renewable; target 4±2% CPI through Mar 2031."],
+        ["Payments Regulatory Board (PRB)", "Sec. 3, PSS Act 2007 (PRB Regulations, May 2025)", "6 members: RBI Governor (Chair), DG Payments, ED Payments + 3 Central Govt nominees (DFS Sec., MeitY Sec., 1 expert)", "Replaced older BPSS in 2025; RBI Principal Legal Adviser is permanent invitee; regulates UPI/card/settlement networks."],
+        ["Board for Financial Supervision (BFS)", "RBI (BFS) Regulations 1994", "Sub-committee of Central Board: Governor (Chair), 4 DGs (incl. Vice-Chair DG) + 4 Central Board Directors", "Consolidated supervision over commercial banks, NBFCs & urban co-op banks."],
+        ["DICGC (Subsidiary)", "DICGC Act, 1961", "100% RBI-owned; chaired by RBI Deputy Governor", "Insures bank deposits up to ₹5 lakh per depositor per bank (principal + interest combined); covers commercial, RRB & co-op banks."]
+      ]
+    }
+  ],
+  "genesis": {
+    "founding_committee": "Hilton Young Commission (Royal Commission on Indian Currency and Finance, 1926); Urjit Patel Committee (2014) recommended Flexible Inflation Targeting & MPC.",
+    "landmark_cases": [
+      {"label": "IAMAI v. RBI (2020)", "text": "SC set aside RBI's 2018 circular banning banks from servicing virtual currency exchanges on grounds of disproportionality (though upholding RBI's broad regulatory competence)."},
+      {"label": "Jayantilal N. Mistry (2015)", "text": "SC held RBI is bound by RTI Act and cannot withhold bank inspection/defaulter data under fiduciary privilege."}
+    ]
+  },
+  "traps": {
+    "common_traps": [
+      {"label": "Constitutional vs Statutory Trap", "text": "RBI is a STATUTORY body (RBI Act 1934), NOT a Constitutional body—nor was it originally govt-owned (started 1935 as private shareholders' bank, nationalized in 1949)."},
+      {"label": "₹1 Note & Coins Trap", "text": "₹1 notes and ALL coins carry the Finance Secretary's signature and are issued by Ministry of Finance (Coinage Act 2011); RBI issues ₹2+ banknotes only."},
+      {"label": "NPCI vs RBI Subsidiary Trap", "text": "DICGC, BRBNMPL, ReBIT, IFTAS & RBIH are 100% RBI subsidiaries; NPCI (which runs UPI/RuPay) is NOT an RBI subsidiary—it is a Section 8 non-profit company promoted by RBI + IBA/banks."},
+      {"label": "MPC Reappointment & Casting Vote", "text": "Governor has a casting vote (NOT veto power!), and ONLY the 3 external MPC members are barred from reappointment (the Governor/DGs can be reappointed)."},
+      {"label": "GIFT City Exception", "text": "Banking/financial units inside GIFT City IFSC are regulated by IFSCA (2019 Act), NOT directly by RBI/SEBI/IRDAI/PFRDA."}
+    ],
+    "twin_comparison": {
+      "headers": ["Feature", "RBI", "SEBI", "IFSCA"],
+      "rows": [
+        ["Domain", "Money, Banks, NBFCs, Forex, Payments", "Capital/Securities Markets, Mutual Funds, REITs", "Unified regulator for GIFT City IFSC (Banking+Markets+Insurance)"],
+        ["Enabling Act", "RBI Act, 1934", "SEBI Act, 1992", "IFSCA Act, 2019 (HQ: Gandhinagar)"],
+        ["Appellate Body", "Internal Ombudsman / HC writ (no SAT)", "Securities Appellate Tribunal (SAT) → SC", "SAT / Respective appellate mechanism"]
+      ]
+    }
+  },
+  "links": {
+    "state_counterparts": "None (Monetary policy & currency are strictly Union List entries 36 & 38); RBI operates 30+ Regional Offices across States/UTs.",
+    "upsc_categories": ["Economics", "Polity", "Current Affairs"],
+    "linked_acts_and_missions": "RBI Act 1934; Banking Regulation Act 1949; FEMA 1999; PSS Act 2007; FSDC (#50); SEBI (#45); IFSCA (#48); DICGC (#56); NPCI (#57); Jan Dhan / Digital Rupee (e₹) (Missions Book #3)."
+  }
+}

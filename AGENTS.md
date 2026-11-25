@@ -38,7 +38,7 @@ This file defines the governing philosophy, phased roadmap, directory boundaries
 |---|---|
 | `AGENTS.md`, `README.md` | **Only non-hidden files allowed at repository root.** |
 | `diary-entries-of-a-champion/` | Daily dated logs (`YYYY-MM-DD/entry.md`), session ideation (`idea.md`), paper diagnostics, and print planning manifests (`output.md`). Follow `diary-entries-of-a-champion/README.md`. |
-| `booklets/` | Canonical, reproducible print generators (Python/HTML-to-PDF) and physical PDFs (`booklets/lineages/`, plus future books, booklets, dictionaries, character sheets, and timeline cutouts/packets). |
+| `printed/` | Canonical, reproducible print generators (structured JSON/YAML, Python index builders, Typst/HTML-to-PDF) and physical PDFs (books, booklets, dictionaries, character sheets, and timeline cutouts/packets). |
 | `pyqs/` | Past Year Questions & official answer keys organized by year (`pyqs/2026/`, etc.) for occasional pattern extraction. **Do not modify official/source PDFs unless explicitly asked.** |
 | `apps/` *(Phase 2 / future)* | Downstream software apps: Study Time Recorder PWA, AI Examiner Board / PWA quiz pattern tools, and post-study consolidation apps. **Do not scaffold unless explicitly asked.** |
 
@@ -47,10 +47,9 @@ This file defines the governing philosophy, phased roadmap, directory boundaries
 | Path | Role & Agent Rules |
 |---|---|
 | `notebooklm/` *(Secondary)* | NotebookLM sync scripts, steering manifests, and CLI/MCP tooling docs. Scripts/manifests only—no audio files in git. |
-| `DDC/` *(Reference)* | Full Dewey Decimal Classification (`000`–`900`) taxonomy tree. **Keep intact; never prune "empty" folders.** |
-| `jupyter/` *(Secondary)* | Self-contained Pi5 (`s1`) Jupyter + `agy` substrate (`library/`, `tests/`, `start.sh`, `jupyter_server_config.py`). Keep all paths portable. |
+| `archive/` *(Archive & Legacy Reference)* | Read-only historical plans (`FOUNDATION.md`, `MASTER_PLAN.md`, `plans/`), `DDC/` taxonomy, and Pi5 (`s1`) Jupyter + `agy` substrate (`archive/jupyter/`). Keep intact; never prune or mutate historical plans unless instructed. |
 | `web/` *(Parked)* | Vite + React + TypeScript frontend for the Jupyter substrate. **Parked—do not touch or expand unless explicitly requested.** |
-| `docs/archive/` *(Archive)* | Read-only historical plans (`FOUNDATION.md`, `FOUNDATION_ORIGINAL.md`, `MASTER_PLAN.md`, `plans/`). Keep tracked in git; never mutate. |
+| `docs/` | Supplementary documentation directory (keep clean unless requested). |
 
 > **External Archive**: Legacy `22` / `preach` assets (`heritage/`) live outside this repo at `~/archive/sahacit-heritage/`. Do not re-import them into git unless explicitly instructed.
 
@@ -64,11 +63,11 @@ This file defines the governing philosophy, phased roadmap, directory boundaries
 - **No Guessing Metrics**: Never fabricate study minutes, scores, page counts, or completion status; ask or mark unknown fields `null`.
 - **Respect Phase Boundaries**: Keep 2026 sessions anchored on print generation, daily reading/memorization habits, and occasional PYQ pattern extraction—do not push CSAT Maths or AI Examiner Board workflows into 2026.
 
-### Print & Booklet Generation (`booklets/`)
-- **Paper & Folding**: Design for **A4 standard sheets** and **duplex-friendly half-fold booklets** (or explicitly sized duplex/multi-page sheets for character dossiers and timeline roll cutouts).
+### Print & Booklet Generation (`printed/`)
+- **Paper & Folding**: Design for **A4 standard sheets** (with mirrored duplex binding margins where bound) and **duplex-friendly half-fold booklets** (or explicitly sized duplex/multi-page sheets for character dossiers and timeline roll cutouts).
 - **Ink Efficiency**: Use clean, monochrome-friendly styling (white/light backgrounds, crisp vectors, high-contrast typography; avoid heavy dark fills or ink-wasting backgrounds).
 - **Cut-Out Information Packets & Character Sheets**: Use structured layouts with explicit **cut marks** and duplex front/back alignment; support real or AI-generated character visuals where requested.
-- **Reproducibility**: Generate printable HTML/PDFs from structured source files and Python/HTML-to-PDF scripts so every physical print can be regenerated and tracked by a digital mirror.
+- **Reproducibility**: Generate printable Typst/HTML/PDFs from structured source files (JSON/YAML + Python/Typst builders) so every physical print can be regenerated and tracked by a digital mirror.
 
 ### Downstream Software & Pattern Research (`apps/`, Phase 2)
 - Build consolidation tools, the Study Time Recorder PWA, and the AI Examiner Board **only after** physical printing needs are analyzed and explicitly requested.

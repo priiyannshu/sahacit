@@ -1,0 +1,2339 @@
+{
+  "meta": {
+    "title": "Indian Institutions",
+    "subtitle": "Institutional Architecture, Mandates, Appointments & Jurisdictional Boundaries of the Republic of India",
+    "header_right": "Constitutional, Statutory & Regulatory Reference Atlas",
+    "total_roster_count": 134,
+    "populated_count": 5
+  },
+  "roster": {
+    "parts": [
+      {
+        "part_number": 1,
+        "roman": "I",
+        "title": "Core Constitutional Organs, Executive Machinery & Federal Spine",
+        "subtitle": "Sovereign Union & State organs, parliamentary accountability, integrated judiciary, local self-government, and cooperative federalism anchors.",
+        "entries": [
+          {
+            "order": 1,
+            "id": "president-of-india",
+            "name": "President of India",
+            "acronym": "Pres.",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 2,
+            "id": "vice-president-of-india",
+            "name": "Vice-President of India & Chairman of Rajya Sabha",
+            "acronym": "VP",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 3,
+            "id": "pm-com-cabinet-secretariat",
+            "name": "Prime Minister, Union Council of Ministers & Cabinet Committees",
+            "acronym": "PM / CoM",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 4,
+            "id": "pmo-and-psa",
+            "name": "Prime Minister's Office & Principal Scientific Adviser",
+            "acronym": "PMO / PSA",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 5,
+            "id": "parliament-of-india",
+            "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+            "acronym": "Parliament",
+            "status": "Constitutional",
+            "populated": true
+          },
+          {
+            "order": 6,
+            "id": "parliamentary-committees",
+            "name": "Parliamentary Committees (Financial, DRSCs & House Committees)",
+            "acronym": "Parl. Comm.",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 7,
+            "id": "supreme-court-of-india",
+            "name": "Supreme Court of India & Judicial Collegium",
+            "acronym": "SC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 8,
+            "id": "high-courts-and-subordinate-judiciary",
+            "name": "High Courts & Subordinate Judiciary",
+            "acronym": "HC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 9,
+            "id": "governor-of-a-state",
+            "name": "Governor of a State",
+            "acronym": "Governor",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 10,
+            "id": "state-legislature-and-cm",
+            "name": "State Legislature, Chief Minister & State Council of Ministers",
+            "acronym": "State Exec.",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 11,
+            "id": "attorney-general-and-sg",
+            "name": "Attorney General of India & Solicitor General",
+            "acronym": "AGI / SGI",
+            "status": "Constitutional / Statutory",
+            "populated": false
+          },
+          {
+            "order": 12,
+            "id": "advocate-general-of-state",
+            "name": "Advocate General of the State",
+            "acronym": "AG (State)",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 13,
+            "id": "panchayati-raj-and-pesa",
+            "name": "Panchayati Raj Institutions, SEC, SFC & PESA Framework",
+            "acronym": "PRIs",
+            "status": "Constitutional / Statutory",
+            "populated": false
+          },
+          {
+            "order": 14,
+            "id": "urban-local-bodies-dpc-mpc",
+            "name": "Urban Local Bodies, District & Metropolitan Planning Committees",
+            "acronym": "ULBs",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 15,
+            "id": "fifth-and-sixth-schedule-councils",
+            "name": "Fifth Schedule TAC & Sixth Schedule Autonomous District Councils",
+            "acronym": "TAC / ADC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 16,
+            "id": "finance-commission",
+            "name": "Finance Commission of India",
+            "acronym": "FC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 17,
+            "id": "gst-council",
+            "name": "Goods and Services Tax (GST) Council",
+            "acronym": "GST Council",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 18,
+            "id": "inter-state-council",
+            "name": "Inter-State Council",
+            "acronym": "ISC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 19,
+            "id": "zonal-councils-and-nec",
+            "name": "Zonal Councils & North Eastern Council",
+            "acronym": "ZC / NEC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 20,
+            "id": "niti-aayog",
+            "name": "NITI Aayog",
+            "acronym": "NITI Aayog",
+            "status": "Executive",
+            "populated": false
+          }
+        ]
+      },
+      {
+        "part_number": 2,
+        "roman": "II",
+        "title": "Elections, Integrity, Audit, Civil Services & Rights Watchdogs",
+        "subtitle": "Electoral referees, public audit, anti-corruption agencies, merit recruitment, and constitutional/statutory rights commissions.",
+        "entries": [
+          {
+            "order": 21,
+            "id": "election-commission-of-india",
+            "name": "Election Commission of India",
+            "acronym": "ECI",
+            "status": "Constitutional",
+            "populated": true
+          },
+          {
+            "order": 22,
+            "id": "delimitation-commission",
+            "name": "Delimitation Commission of India",
+            "acronym": "Delimitation",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 23,
+            "id": "comptroller-and-auditor-general",
+            "name": "Comptroller and Auditor General of India",
+            "acronym": "CAG",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 24,
+            "id": "controller-general-of-accounts",
+            "name": "Controller General of Accounts",
+            "acronym": "CGA",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 25,
+            "id": "upsc-spsc-jpsc",
+            "name": "Union & State Public Service Commissions",
+            "acronym": "UPSC / SPSC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 26,
+            "id": "lokpal-and-lokayuktas",
+            "name": "Lokpal & State Lokayuktas Framework",
+            "acronym": "Lokpal",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 27,
+            "id": "central-vigilance-commission",
+            "name": "Central Vigilance Commission",
+            "acronym": "CVC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 28,
+            "id": "central-bureau-of-investigation",
+            "name": "Central Bureau of Investigation",
+            "acronym": "CBI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 29,
+            "id": "directorate-of-enforcement",
+            "name": "Directorate of Enforcement",
+            "acronym": "ED",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 30,
+            "id": "central-information-commission",
+            "name": "Central & State Information Commissions",
+            "acronym": "CIC / SIC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 31,
+            "id": "nhrc-and-shrc",
+            "name": "National & State Human Rights Commissions",
+            "acronym": "NHRC / SHRC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 32,
+            "id": "ncsc",
+            "name": "National Commission for Scheduled Castes",
+            "acronym": "NCSC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 33,
+            "id": "ncst",
+            "name": "National Commission for Scheduled Tribes",
+            "acronym": "NCST",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 34,
+            "id": "ncbc",
+            "name": "National Commission for Backward Classes",
+            "acronym": "NCBC",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 35,
+            "id": "ncw",
+            "name": "National Commission for Women",
+            "acronym": "NCW",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 36,
+            "id": "ncpcr",
+            "name": "National Commission for Protection of Child Rights",
+            "acronym": "NCPCR",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 37,
+            "id": "ncm",
+            "name": "National Commission for Minorities",
+            "acronym": "NCM",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 38,
+            "id": "special-officer-linguistic-minorities",
+            "name": "Special Officer for Linguistic Minorities",
+            "acronym": "CLM",
+            "status": "Constitutional",
+            "populated": false
+          },
+          {
+            "order": 39,
+            "id": "ncsk",
+            "name": "National Commission for Safai Karamcharis",
+            "acronym": "NCSK",
+            "status": "Statutory / Non-Statutory",
+            "populated": false
+          },
+          {
+            "order": 40,
+            "id": "ccpd",
+            "name": "Chief Commissioner for Persons with Disabilities",
+            "acronym": "CCPD",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 41,
+            "id": "nalsa-and-lok-adalats",
+            "name": "National Legal Services Authority & Lok Adalats",
+            "acronym": "NALSA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 42,
+            "id": "law-commission-of-india",
+            "name": "Law Commission of India",
+            "acronym": "LCI",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 43,
+            "id": "ssc-and-capacity-building-commission",
+            "name": "Staff Selection Commission & Capacity Building Commission",
+            "acronym": "SSC / CBC",
+            "status": "Executive",
+            "populated": false
+          }
+        ]
+      },
+      {
+        "part_number": 3,
+        "roman": "III",
+        "title": "Monetary, Financial, Tax & Capital Market Institutions",
+        "subtitle": "Central banking, financial sector regulators, development finance institutions, tax boards, and statistical/cooperative anchors.",
+        "entries": [
+          {
+            "order": 44,
+            "id": "reserve-bank-of-india",
+            "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+            "acronym": "RBI",
+            "status": "Statutory",
+            "populated": true
+          },
+          {
+            "order": 45,
+            "id": "sebi",
+            "name": "Securities and Exchange Board of India",
+            "acronym": "SEBI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 46,
+            "id": "irdai",
+            "name": "Insurance Regulatory and Development Authority of India",
+            "acronym": "IRDAI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 47,
+            "id": "pfrda",
+            "name": "Pension Fund Regulatory and Development Authority",
+            "acronym": "PFRDA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 48,
+            "id": "ifsca",
+            "name": "International Financial Services Centres Authority",
+            "acronym": "IFSCA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 49,
+            "id": "ibbi",
+            "name": "Insolvency and Bankruptcy Board of India",
+            "acronym": "IBBI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 50,
+            "id": "fsdc",
+            "name": "Financial Stability and Development Council",
+            "acronym": "FSDC",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 51,
+            "id": "nabard",
+            "name": "National Bank for Agriculture and Rural Development",
+            "acronym": "NABARD",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 52,
+            "id": "sidbi",
+            "name": "Small Industries Development Bank of India",
+            "acronym": "SIDBI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 53,
+            "id": "nhb",
+            "name": "National Housing Bank",
+            "acronym": "NHB",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 54,
+            "id": "exim-bank",
+            "name": "Export-Import Bank of India",
+            "acronym": "EXIM Bank",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 55,
+            "id": "nabfid",
+            "name": "National Bank for Financing Infrastructure and Development",
+            "acronym": "NaBFID",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 56,
+            "id": "dicgc",
+            "name": "Deposit Insurance and Credit Guarantee Corporation",
+            "acronym": "DICGC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 57,
+            "id": "npci",
+            "name": "National Payments Corporation of India",
+            "acronym": "NPCI",
+            "status": "Statutory-Linked",
+            "populated": false
+          },
+          {
+            "order": 58,
+            "id": "fiu-ind",
+            "name": "Financial Intelligence Unit - India",
+            "acronym": "FIU-IND",
+            "status": "Executive / Statutory",
+            "populated": false
+          },
+          {
+            "order": 59,
+            "id": "cbdt",
+            "name": "Central Board of Direct Taxes",
+            "acronym": "CBDT",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 60,
+            "id": "cbic",
+            "name": "Central Board of Indirect Taxes and Customs",
+            "acronym": "CBIC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 61,
+            "id": "nsc-and-mospi",
+            "name": "National Statistical Commission & NSSO",
+            "acronym": "NSC / NSSO",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 62,
+            "id": "cacp",
+            "name": "Commission for Agricultural Costs and Prices",
+            "acronym": "CACP",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 63,
+            "id": "ncdc-and-cooperation",
+            "name": "National Cooperative Development Corporation",
+            "acronym": "NCDC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 64,
+            "id": "fsib",
+            "name": "Financial Services Institutions Bureau",
+            "acronym": "FSIB",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 65,
+            "id": "nfra",
+            "name": "National Financial Reporting Authority",
+            "acronym": "NFRA",
+            "status": "Statutory",
+            "populated": false
+          }
+        ]
+      },
+      {
+        "part_number": 4,
+        "roman": "IV",
+        "title": "Commerce, Competition, Infrastructure & Sectoral Regulators",
+        "subtitle": "Market fairness, telecom/energy/aviation regulators, food/standards safety, trade bodies, and commodity boards.",
+        "entries": [
+          {
+            "order": 66,
+            "id": "cci",
+            "name": "Competition Commission of India",
+            "acronym": "CCI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 67,
+            "id": "trai",
+            "name": "Telecom Regulatory Authority of India",
+            "acronym": "TRAI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 68,
+            "id": "cerc",
+            "name": "Central Electricity Regulatory Commission",
+            "acronym": "CERC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 69,
+            "id": "pngrb",
+            "name": "Petroleum and Natural Gas Regulatory Board",
+            "acronym": "PNGRB",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 70,
+            "id": "aera",
+            "name": "Airports Economic Regulatory Authority",
+            "acronym": "AERA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 71,
+            "id": "dgca-and-bcas",
+            "name": "DGCA & Bureau of Civil Aviation Security",
+            "acronym": "DGCA / BCAS",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 72,
+            "id": "fssai",
+            "name": "Food Safety and Standards Authority of India",
+            "acronym": "FSSAI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 73,
+            "id": "bis",
+            "name": "Bureau of Indian Standards",
+            "acronym": "BIS",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 74,
+            "id": "fci",
+            "name": "Food Corporation of India",
+            "acronym": "FCI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 75,
+            "id": "wdra",
+            "name": "Warehousing Development and Regulatory Authority",
+            "acronym": "WDRA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 76,
+            "id": "ccpa-consumer",
+            "name": "Central Consumer Protection Authority",
+            "acronym": "CCPA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 77,
+            "id": "rera-framework",
+            "name": "Real Estate Regulatory Authority Framework & CAC",
+            "acronym": "RERA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 78,
+            "id": "nhai",
+            "name": "National Highways Authority of India",
+            "acronym": "NHAI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 79,
+            "id": "iwai",
+            "name": "Inland Waterways Authority of India",
+            "acronym": "IWAI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 80,
+            "id": "dgft",
+            "name": "Directorate General of Foreign Trade",
+            "acronym": "DGFT",
+            "status": "Statutory / Executive",
+            "populated": false
+          },
+          {
+            "order": 81,
+            "id": "apeda-and-mpeda",
+            "name": "APEDA & MPEDA",
+            "acronym": "APEDA / MPEDA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 82,
+            "id": "commodity-boards-cluster",
+            "name": "Commodity Boards Cluster (Tea, Coffee, Rubber, Spices, Tobacco, Turmeric)",
+            "acronym": "Comm. Boards",
+            "status": "Statutory / Executive",
+            "populated": false
+          },
+          {
+            "order": 83,
+            "id": "kvic",
+            "name": "Khadi and Village Industries Commission",
+            "acronym": "KVIC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 84,
+            "id": "qci-and-npc",
+            "name": "Quality Council of India & National Productivity Council",
+            "acronym": "QCI / NPC",
+            "status": "Autonomous",
+            "populated": false
+          },
+          {
+            "order": 85,
+            "id": "dgtr",
+            "name": "Directorate General of Trade Remedies",
+            "acronym": "DGTR",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 86,
+            "id": "bee",
+            "name": "Bureau of Energy Efficiency",
+            "acronym": "BEE",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 87,
+            "id": "nsdc-and-ncvet",
+            "name": "National Skill Development Corporation & NCVET",
+            "acronym": "NSDC / NCVET",
+            "status": "Executive / Regulatory",
+            "populated": false
+          }
+        ]
+      },
+      {
+        "part_number": 5,
+        "roman": "V",
+        "title": "Environment, Wildlife, Forests, Water & Disaster Authorities",
+        "subtitle": "High-yield Prelims authorities governing biodiversity, tiger/zoo/wildlife crime enforcement, pollution control, GM crops, water, and disasters.",
+        "entries": [
+          {
+            "order": 88,
+            "id": "national-green-tribunal",
+            "name": "National Green Tribunal",
+            "acronym": "NGT",
+            "status": "Statutory",
+            "populated": true
+          },
+          {
+            "order": 89,
+            "id": "nbwl",
+            "name": "National Board for Wildlife",
+            "acronym": "NBWL",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 90,
+            "id": "ntca",
+            "name": "National Tiger Conservation Authority",
+            "acronym": "NTCA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 91,
+            "id": "cza",
+            "name": "Central Zoo Authority",
+            "acronym": "CZA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 92,
+            "id": "wildlife-crime-control-bureau",
+            "name": "Wildlife Crime Control Bureau",
+            "acronym": "WCCB",
+            "status": "Statutory",
+            "populated": true
+          },
+          {
+            "order": 93,
+            "id": "nba-biodiversity",
+            "name": "National Biodiversity Authority, SBB & BMC",
+            "acronym": "NBA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 94,
+            "id": "national-campa",
+            "name": "National CAMPA Authority",
+            "acronym": "CAMPA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 95,
+            "id": "cpcb-and-spcb",
+            "name": "Central & State Pollution Control Boards",
+            "acronym": "CPCB / SPCB",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 96,
+            "id": "caqm",
+            "name": "Commission for Air Quality Management in NCR & Adjoining Areas",
+            "acronym": "CAQM",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 97,
+            "id": "geac",
+            "name": "Genetic Engineering Appraisal Committee",
+            "acronym": "GEAC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 98,
+            "id": "cgwa-and-cgwb",
+            "name": "Central Ground Water Authority & Board",
+            "acronym": "CGWA / CGWB",
+            "status": "Statutory / Executive",
+            "populated": false
+          },
+          {
+            "order": 99,
+            "id": "central-water-commission",
+            "name": "Central Water Commission",
+            "acronym": "CWC",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 100,
+            "id": "national-ganga-council-nmcg",
+            "name": "National Ganga Council & National Mission for Clean Ganga",
+            "acronym": "NMCG",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 101,
+            "id": "nczma",
+            "name": "National Coastal Zone Management Authority",
+            "acronym": "NCZMA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 102,
+            "id": "ppvfra",
+            "name": "Protection of Plant Varieties & Farmers' Rights Authority",
+            "acronym": "PPV&FRA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 103,
+            "id": "awbi",
+            "name": "Animal Welfare Board of India",
+            "acronym": "AWBI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 104,
+            "id": "bsi-zsi-fsi",
+            "name": "Botanical, Zoological & Forest Surveys of India",
+            "acronym": "BSI / ZSI / FSI",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 105,
+            "id": "ndma-ndrf-nidm",
+            "name": "National Disaster Management Authority, NDRF & NIDM",
+            "acronym": "NDMA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 106,
+            "id": "aerb",
+            "name": "Atomic Energy Regulatory Board",
+            "acronym": "AERB",
+            "status": "Statutory",
+            "populated": false
+          }
+        ]
+      },
+      {
+        "part_number": 6,
+        "roman": "VI",
+        "title": "Defence, Internal Security, Space, Atomic & Digital/Scientific Bodies",
+        "subtitle": "National security command, internal policing & narcotics, strategic space/atomic ecosystems, cyber defense, data protection, and research foundations.",
+        "entries": [
+          {
+            "order": 107,
+            "id": "nsc-and-nsa",
+            "name": "National Security Council, NSA & NSCS",
+            "acronym": "NSC / NSA",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 108,
+            "id": "cds-and-dma",
+            "name": "Chief of Defence Staff & Department of Military Affairs",
+            "acronym": "CDS / DMA",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 109,
+            "id": "nia",
+            "name": "National Investigation Agency",
+            "acronym": "NIA",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 110,
+            "id": "ncb",
+            "name": "Narcotics Control Bureau",
+            "acronym": "NCB",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 111,
+            "id": "capf-and-assam-rifles",
+            "name": "Central Armed Police Forces & Assam Rifles Command Structure",
+            "acronym": "CAPFs / AR",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 112,
+            "id": "isro-inspace-nsil",
+            "name": "ISRO, Department of Space, IN-SPACe & NSIL",
+            "acronym": "ISRO / IN-SPACe",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 113,
+            "id": "aec-and-dae",
+            "name": "Atomic Energy Commission & Department of Atomic Energy",
+            "acronym": "AEC / DAE",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 114,
+            "id": "drdo",
+            "name": "Defence Research and Development Organisation",
+            "acronym": "DRDO",
+            "status": "Executive",
+            "populated": false
+          },
+          {
+            "order": 115,
+            "id": "anrf",
+            "name": "Anusandhan National Research Foundation",
+            "acronym": "ANRF",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 116,
+            "id": "csir",
+            "name": "Council of Scientific and Industrial Research",
+            "acronym": "CSIR",
+            "status": "Society",
+            "populated": false
+          },
+          {
+            "order": 117,
+            "id": "icar-and-icmr",
+            "name": "Indian Councils of Agricultural & Medical Research",
+            "acronym": "ICAR / ICMR",
+            "status": "Society",
+            "populated": false
+          },
+          {
+            "order": 118,
+            "id": "cert-in-and-nciipc",
+            "name": "CERT-In & National Critical Information Infrastructure Protection Centre",
+            "acronym": "CERT-In / NCIIPC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 119,
+            "id": "uidai",
+            "name": "Unique Identification Authority of India",
+            "acronym": "UIDAI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 120,
+            "id": "dpbi",
+            "name": "Data Protection Board of India",
+            "acronym": "DPBI",
+            "status": "Statutory",
+            "populated": false
+          }
+        ]
+      },
+      {
+        "part_number": 7,
+        "roman": "VII",
+        "title": "Tribunals, Education, Culture, Media & Statutory Professions",
+        "subtitle": "Specialized adjudicatory tribunals, professional regulators, higher education/school standards, heritage & media bodies, and social security boards.",
+        "entries": [
+          {
+            "order": 121,
+            "id": "nclt-and-nclat",
+            "name": "National Company Law Tribunal & NCLAT",
+            "acronym": "NCLT / NCLAT",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 122,
+            "id": "sat-and-tdsat",
+            "name": "Securities Appellate Tribunal & TDSAT",
+            "acronym": "SAT / TDSAT",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 123,
+            "id": "aft-and-cat",
+            "name": "Armed Forces Tribunal & Central Administrative Tribunal",
+            "acronym": "AFT / CAT",
+            "status": "Constitutional-Derived / Statutory",
+            "populated": false
+          },
+          {
+            "order": 124,
+            "id": "bar-council-of-india",
+            "name": "Bar Council of India",
+            "acronym": "BCI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 125,
+            "id": "nmc",
+            "name": "National Medical Commission",
+            "acronym": "NMC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 126,
+            "id": "icai-and-sister-institutes",
+            "name": "ICAI & Statutory Accounting/Governance Institutes",
+            "acronym": "ICAI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 127,
+            "id": "ugc-and-aicte",
+            "name": "University Grants Commission & AICTE",
+            "acronym": "UGC / AICTE",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 128,
+            "id": "ncert-and-cbse",
+            "name": "NCERT & CBSE",
+            "acronym": "NCERT / CBSE",
+            "status": "Autonomous",
+            "populated": false
+          },
+          {
+            "order": 129,
+            "id": "press-council-of-india",
+            "name": "Press Council of India",
+            "acronym": "PCI",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 130,
+            "id": "cbfc",
+            "name": "Central Board of Film Certification",
+            "acronym": "CBFC",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 131,
+            "id": "prasar-bharati",
+            "name": "Prasar Bharati",
+            "acronym": "Prasar Bharati",
+            "status": "Statutory",
+            "populated": false
+          },
+          {
+            "order": 132,
+            "id": "asi",
+            "name": "Archaeological Survey of India",
+            "acronym": "ASI",
+            "status": "Executive / Statutory",
+            "populated": false
+          },
+          {
+            "order": 133,
+            "id": "national-akademis-and-ignca",
+            "name": "National Cultural Akademis (Sahitya, Sangeet Natak, Lalit Kala) & IGNCA",
+            "acronym": "Akademis / IGNCA",
+            "status": "Autonomous",
+            "populated": false
+          },
+          {
+            "order": 134,
+            "id": "epfo-and-esic",
+            "name": "EPFO (Central Board of Trustees) & ESIC",
+            "acronym": "EPFO / ESIC",
+            "status": "Statutory",
+            "populated": false
+          }
+        ]
+      }
+    ]
+  },
+  "state_skeleton": {
+    "title": "The Skeleton of the Indian State",
+    "subtitle": "How India's Constitutional Machinery, Federal Tiers & Executive Committees Fit Together",
+    "core_principles": [
+      {
+        "label": "Sovereign Foundation",
+        "detail": "Written, supreme Constitution dividing power between Union & States (7th Schedule), anchored in Parliamentary Democracy (executive drawn from & responsible to Lok Sabha / Vidhan Sabha) and an Integrated Single Judiciary."
+      },
+      {
+        "label": "Four Structural Distinctions UPSC Tests",
+        "detail": "(1) Constitutional (created directly by Articles) vs. Statutory (created by Parliamentary Act) vs. Executive/Non-Statutory (Cabinet Resolution) vs. Registered Society; (2) Constitutional safeguards vs. statutory tenure/salary parity; (3) Binding quasi-judicial decrees vs. purely recommendatory advice; (4) Exact Nodal Ministry."
+      },
+      {
+        "label": "Nominal vs. Real Executive",
+        "detail": "All Union executive actions run in the name of the President (Art. 53/77), exercised on the binding aid and advice of the Council of Ministers headed by the Prime Minister (Art. 74), save narrow constitutional discretion."
+      }
+    ],
+    "union_organs_rows": [
+      {
+        "organ": "Legislature (Parliament)",
+        "articles": "Art. 79–122 (Part V)",
+        "head_and_composition": "President + Rajya Sabha (max 250; current 245) + Lok Sabha (max 550; current 543)",
+        "key_responsibility": "Union & Concurrent legislation, Budget/Money Bills (LS supremacy), Executive accountability via motions & Committees, Constitutional Amendment (Art. 368)."
+      },
+      {
+        "organ": "Executive (Union)",
+        "articles": "Art. 52–78 (Part V)",
+        "head_and_composition": "President (titular head), Vice-President, PM + CoM (capped at 15% of LS via 91st Amend.), Cabinet Secretariat, PMO, All-India & Central Services",
+        "key_responsibility": "Policy formulation, administration of Union Acts, defence & foreign affairs, appointments, ordinances (Art. 123), and executing Parliamentary laws."
+      },
+      {
+        "organ": "Judiciary (Integrated)",
+        "articles": "Art. 124–147, 214–237",
+        "head_and_composition": "Single hierarchical pyramid: Supreme Court (CJI + max 33 Judges) → 25 High Courts → District & Subordinate Courts + Specialized Tribunals (Art. 323A/B)",
+        "key_responsibility": "Constitutional interpretation, Judicial Review, Writ jurisdiction (Art. 32 SC / Art. 226 HC — wider for HC), Federal dispute resolution (Art. 131)."
+      },
+      {
+        "organ": "Independent Constitutional Watchdogs",
+        "articles": "Art. 148, 280, 315, 324, 338–338B",
+        "head_and_composition": "CAG, ECI, UPSC/SPSC, Finance Commission, GST Council (279A), NCSC/NCST/NCBC, Special Officer for Linguistic Minorities (350B)",
+        "key_responsibility": "Insulated horizontal checks: free elections, public audit, merit civil services, fiscal federalism, and backward/minority safeguards."
+      },
+      {
+        "organ": "State & 3rd-Tier Local Bodies",
+        "articles": "Parts VI, VIII, IX, IXA, IXB, X",
+        "head_and_composition": "Governor + CM/CoM + State Legislature (bicameral in 6 States: UP, Bihar, MH, KA, AP, TS); Panchayats (243–243O), Municipalities (243P–ZG), 5th/6th Schedules",
+        "key_responsibility": "State List governance, 29 Panchayat subjects (11th Schedule), 18 Municipal subjects (12th Schedule), Tribal Autonomous District Councils (Assam, Meghalaya, Tripura, Mizoram)."
+      }
+    ],
+    "schedule_summary": [
+      {
+        "axis": "Legislative Lists (Art. 246 / 7th Sch.)",
+        "detail": "Union List (List I: Defence, Foreign Affairs, Atomic Energy, RBI/Currency, Railways, Inter-State Trade); State List (List II: Police, Public Order, Public Health, Agriculture, Land); Concurrent List (List III: Education, Forests, Wildlife Protection, Criminal Law, Electricity). Residuary powers vest in Parliament (Art. 248)."
+      },
+      {
+        "axis": "Financial Distribution",
+        "detail": "Consolidated Fund of India (Art. 266(1) — withdrawal requires Parliamentary Appropriation Act; Charged expenditure non-votable); Public Account of India (Art. 266(2) — executive custody, no vote); Contingency Fund of India (Art. 267 — at disposal of President / Finance Secretary)."
+      },
+      {
+        "axis": "Emergency Architecture (Part XVIII)",
+        "detail": "National Emergency (Art. 352 — war, external aggression, armed rebellion); President's Rule / State Emergency (Art. 356 — constitutional breakdown); Financial Emergency (Art. 360 — never imposed)."
+      }
+    ],
+    "cabinet_committees": [
+      {
+        "name": "Appointments Committee of the Cabinet (ACC)",
+        "chair": "Prime Minister",
+        "members": "PM + Union Home Minister",
+        "role": "Approves senior civil, military, PSU & regulator appointments (Secretary+, Service Chiefs, RBI/SEBI senior picks)."
+      },
+      {
+        "name": "Cabinet Committee on Security (CCS)",
+        "chair": "Prime Minister",
+        "members": "PM + Home, Defence, Finance & External Affairs Ministers",
+        "role": "Highest executive body for national security, defence acquisitions, internal security & strategic foreign policy."
+      },
+      {
+        "name": "Cabinet Committee on Economic Affairs (CCEA)",
+        "chair": "Prime Minister",
+        "members": "PM + key economic/infrastructure Ministers",
+        "role": "Reviews economic trends, approves MSPs (based on CACP), PSU disinvestment, major infra projects & FDI proposals."
+      },
+      {
+        "name": "Cabinet Committee on Parliamentary Affairs (CCPA)",
+        "chair": "Union Home / Defence Minister (NOT PM)",
+        "members": "Senior Cabinet Ministers (PM is typically NOT a member!)",
+        "role": "Schedules Parliament sessions, legislative agenda & government Bills; oversees floor strategy."
+      },
+      {
+        "name": "Cabinet Committee on Political Affairs (CCPA-Pol)",
+        "chair": "Prime Minister",
+        "members": "PM + senior political Ministers ('Super-Cabinet')",
+        "role": "Resolves Centre-State & sensitive political/policy questions across ministries."
+      },
+      {
+        "name": "Cabinet Committee on Accommodation (CCA)",
+        "chair": "Union Home Minister (NOT PM)",
+        "members": "Senior Ministers incl. Housing & Urban Affairs",
+        "role": "Allotment of government residences & accommodation policy."
+      },
+      {
+        "name": "CCIS & CCER (Investment/Growth & Employment/Skill)",
+        "chair": "Prime Minister",
+        "members": "PM + Finance, Commerce, Labour, Infra Ministers",
+        "role": "Fast-tracks >Rs 1,000 Cr investments and skill/employment generation initiatives."
+      }
+    ],
+    "skeleton_trap_note": "UPSC Classic Trap: Cabinet Committees are EXTRA-CONSTITUTIONAL (established under Transaction of Business Rules, 1961 under Art. 77(3), NOT mentioned in the Constitution). The Prime Minister chairs most—EXCEPT Parliamentary Affairs and Accommodation (typically chaired by Home/Defence Minister)!"
+  },
+  "institutions": [
+    {
+      "id": "parliament-of-india",
+      "order": 5,
+      "part": 1,
+      "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+      "acronym": "Parliament",
+      "layout_mode": "dossier",
+      "anchor": {
+        "legal_status": "Constitutional",
+        "basis": "Part V, Chapter II — Articles 79–122 (Art. 79: Parliament consists of President + Council of States [Rajya Sabha] + House of the People [Lok Sabha]).",
+        "key_amendments": "52nd Amend. (1985: 10th Schedule Anti-Defection); 91st Amend. (2003: removed 1/3rd split shield, 15% CoM cap); 104th Amend. (2020: ended 2 Anglo-Indian nominated LS seats); 106th Amend. (2023: Nari Shakti Vandan Adhiniyam — 33% women reservation in LS & State Assemblies post-Census/Delimitation, 15-yr sunset).",
+        "nodal_ministry": "Independent Legislature (Floor coordination: Ministry of Parliamentary Affairs; Independent LS & RS Secretariats under Speaker/Chairman)",
+        "established_year": "1952 (First elected Parliament after 1951–52 polls; Constituent Assembly acted 1947–52)",
+        "headquarters": "Samvidhan Sadan / New Parliament House (Sansad Bhavan), New Delhi",
+        "essential_summary": "India's supreme bicameral federal legislature exercising Union/Concurrent lawmaking, financial control over the Consolidated Fund, executive oversight, and constituent amending power (Art. 368)."
+      },
+      "composition": {
+        "chairperson": "Presiding Officers: Lok Sabha Speaker & Deputy Speaker (Art. 93 — elected by LS from among its members; Speaker does NOT vacate on LS dissolution until first meeting of new LS) | Rajya Sabha Chairman (VP ex-officio, Art. 64/89) & Deputy Chairman (elected by RS from among its members).",
+        "members": "Lok Sabha: Max 550 (530 States + 20 UTs; current strength 543; direct FPP election, 18+ suffrage). Rajya Sabha: Max 250 (238 State/UT elected via PR-STV by elected MLAs + 12 President-nominated for Art, Literature, Science & Social Service; current 245 = 233 + 12).",
+        "eligibility_rules": "Citizen of India; minimum age 25 yrs (LS) / 30 yrs (RS); registered voter in ANY parliamentary constituency (even for RS since 2003 RPA amend.!). Disqualifications: Art. 102 (Office of Profit, unsound mind, undischarged insolvent, non-citizen), RPA 1951 (2+ yr imprisonment = immediate disqualification per Lily Thomas 2013 + 6-yr post-release bar), & 10th Schedule (Defection).",
+        "internal_wings": "Lok Sabha & Rajya Sabha Secretariats (Art. 98); Financial Committees (PAC, Estimates, COPU); 24 Departmentally Related Standing Committees (16 under LS Speaker + 8 under RS Chairman); House Committees (BAC, Rules, Privileges, Ethics); Whip system (not in Constitution—rooted in convention & 10th Sch.)."
+      },
+      "lifecycle": {
+        "appointing_authority": "Elected by People (LS) / Elected by State & UT MLAs + 12 Nominated by President (RS); Speaker/Deputy Speaker/RS Deputy Chair elected by simple majority of respective House.",
+        "selection_committee": "Universal Adult Suffrage (LS); Indirect Open Ballot PR-STV by elected MLAs (RS — only Delhi, Puducherry & J&K UTs represented); 12 RS nominees by President on CoM advice.",
+        "selection_short": "Direct Vote (LS) / MLA PR-STV + 12 Pres. Nominees (RS)",
+        "tenure": "LS: 5 yrs (unless dissolved earlier; extendable 1 yr at a time during Art. 352) | RS: Permanent House (no dissolution; individual term 6 yrs, 1/3rd retire every 2 yrs)",
+        "age_limit": "No upper retirement age ceiling (Min: 25 yrs LS / 30 yrs RS)",
+        "reappointment_and_post_retirement": "Unlimited re-election permitted; Presiding Officers have no constitutional bar on further office.",
+        "reappointment_short": "Unlimited re-election; no upper age cap",
+        "resignation_to": "MPs resign to Speaker (LS) / Chairman (RS) [Art. 101(3) — presiding officer checks voluntariness!]. Speaker resigns to Deputy Speaker (& vice versa); RS Deputy Chair to Chairman.",
+        "removal_procedure": "Speaker/Dy Speaker/Dy Chair: Resolution of respective House passed by EFFECTIVE MAJORITY (majority of all then members, 14 days' notice). RS Chairman (VP): Effective majority in RS + simple majority agreement in LS. Individual MP disqualification: President on ECI's binding opinion (Art. 103) OR Presiding Officer alone for 10th Schedule (subject to judicial review).",
+        "removal_short": "Presiding Officers: Effective Majority (14d notice) | Defection: Speaker/Chair",
+        "funding_and_salary": "Salaries of Presiding Officers (Speaker, Dy Speaker, Chairman, Dy Chairman) are CHARGED on Consolidated Fund of India (non-votable); MP salaries/allowances are voted by Parliament under Art. 106."
+      },
+      "mandate": {
+        "core_functions": [
+          {
+            "label": "Legislative & Constituent Supremacy",
+            "text": "Enacts laws on List I (Union), List III (Concurrent), residuary subjects (Art. 248), and List II under special triggers (Art. 249 RS 2/3rd resolution, Art. 250 Emergency, Art. 252 two+ States request, Art. 253 Treaties). Amends Constitution under Art. 368 (subject to Basic Structure)."
+          },
+          {
+            "label": "Financial & Budgetary Control",
+            "text": "No tax levied without law (Art. 265); no money drawn from Consolidated Fund without Appropriation Act (Art. 114). Lok Sabha holds decisive control over Money Bills & Demands for Grants (RS can only discuss, cannot vote on grants)."
+          },
+          {
+            "label": "Executive Accountability",
+            "text": "Council of Ministers is collectively responsible ONLY to Lok Sabha (Art. 75(3)). Controlled via Question Hour (Starred/Unstarred/Short Notice), Zero Hour (Indian innovation, non-statutory), Adjournment/Censure/No-Confidence Motions & Cut Motions (Policy, Economy, Token)."
+          },
+          {
+            "label": "Judicial & Electoral Functions",
+            "text": "Impeaches President (Art. 61 — 2/3rd total membership of each House), removes SC/HC Judges, CAG & CEC; participates in Presidential & Vice-Presidential elections."
+          }
+        ],
+        "power_nature": "Supreme Legislative, Constituent, Financial & Executive-Oversight Sovereign Organ (subject to Basic Structure & Judicial Review).",
+        "special_powers": "Lok Sabha Exclusives: Money Bills (Art. 110 — Speaker's certification final), No-Confidence Motion (min 50 MPs support, LS only), Discontinuing National Emergency (Art. 352), Joint Sitting presided by Speaker (Art. 118(4)). Rajya Sabha Exclusives: Art. 249 (legislate on State List by 2/3rd present & voting), Art. 312 (create new All-India Service by 2/3rd present & voting), initiating VP removal (Art. 67).",
+        "jurisdiction_limits_and_exclusions": "Cannot alter Basic Structure (Kesavananda Bharati 1973); courts cannot inquire into internal procedural irregularities (Art. 122), yet substantive illegality/unconstitutionality & 10th Schedule Speaker orders ARE reviewable. Quorum = 1/10th of total strength of each House (incl. Presiding Officer). Max gap between two sessions = 6 months (Art. 85).",
+        "reporting_chain": "Accountable to the electorate (LS); receives Annual Reports & Action Taken Memoranda from CAG, UPSC, ECI/Commissions & Ministers.",
+        "appellate_pathway": "Constitutional validity of Acts & 10th Schedule Speaker rulings challenged via Writ Petitions before High Courts (Art. 226) or Supreme Court (Art. 32)."
+      },
+      "extra_tables": [
+        {
+          "title": "Bill Types & Joint Sitting (Art. 108) — Top Prelims Trap Matrix",
+          "headers": [
+            "Bill Type",
+            "Intro House",
+            "President Prior Rec.?",
+            "RS Powers & Joint Sitting (Art. 108)",
+            "President's Assent (Art. 111 / 368)"
+          ],
+          "rows": [
+            [
+              "Ordinary Bill (Art. 107)",
+              "LS or RS",
+              "No",
+              "Equal powers; can detain max 6 months; Joint Sitting ALLOWED (simple majority of present & voting).",
+              "May assent, withhold, or return ONCE (suspensive veto)."
+            ],
+            [
+              "Money Bill (Art. 110)",
+              "LS ONLY",
+              "YES",
+              "Speaker's certificate final; RS cannot amend/reject—max 14 days delay; NO Joint Sitting.",
+              "May assent or withhold (cannot return!)."
+            ],
+            [
+              "Financial Bill Cat. I (Art. 117(1))",
+              "LS ONLY",
+              "YES",
+              "Contains Art. 110 matters + general provisions; RS can amend/reject like Ordinary Bill; Joint Sitting ALLOWED.",
+              "Same as Ordinary Bill (may return once)."
+            ],
+            [
+              "Financial Bill Cat. II (Art. 117(3))",
+              "LS or RS",
+              "No (required only at consideration stage!)",
+              "Involves CFI expenditure without Art. 110 items; Joint Sitting ALLOWED.",
+              "Same as Ordinary Bill (may return once)."
+            ],
+            [
+              "Constitutional Amend. Bill (Art. 368)",
+              "LS or RS",
+              "No",
+              "Must pass EACH House separately by Special Majority (2/3rd P&V + >50% total); NO Joint Sitting!",
+              "MUST give assent (24th Amend. 1971 removed veto/return)."
+            ]
+          ]
+        },
+        {
+          "title": "Key Parliamentary Committees (Minister Exclusion Rule Applies to All Financial & DRSCs)",
+          "headers": [
+            "Committee",
+            "Strength (LS + RS)",
+            "Term & Selection",
+            "Core Function & Chair Trap"
+          ],
+          "rows": [
+            [
+              "Public Accounts Committee (PAC)",
+              "22 (15 LS + 7 RS)",
+              "1 yr · PR-STV",
+              "Audits CAG reports; Speaker appoints Chair (Opposition MP since 1967 convention)."
+            ],
+            [
+              "Estimates Committee",
+              "30 (30 LS + 0 RS)",
+              "1 yr · PR-STV",
+              "Largest committee; NO RS members! Examines budget economy; Chair from ruling party."
+            ],
+            [
+              "Public Undertakings (COPU)",
+              "22 (15 LS + 7 RS)",
+              "1 yr · PR-STV",
+              "Examines PSU accounts & CAG PSU reports; Chair appointed by Speaker (LS member)."
+            ],
+            [
+              "24 DRSCs (Standing)",
+              "31 each (21 LS + 10 RS)",
+              "1 yr · Nominated",
+              "16 under Speaker + 8 under RS Chairman; scrutinizes Demands for Grants & Bills."
+            ],
+            [
+              "Business Advisory (BAC)",
+              "LS: 15 | RS: 11",
+              "Continuous (House)",
+              "Allocates legislative floor time; Chaired ex-officio by Speaker (LS) / Chairman (RS)."
+            ]
+          ]
+        }
+      ],
+      "genesis": {
+        "founding_committee": "Constituent Assembly of India (1946–1949); Parliamentary Committee framework modernized via Rules of Procedure (1952) & 1993 DRSC reform (expanded from 17 to 24 in 2004).",
+        "landmark_cases": [
+          {
+            "label": "Sita Soren v. UoI (March 2024, 7-Judge Bench)",
+            "text": "Unanimously OVERRULED P.V. Narasimha Rao (1998): MPs/MLAs enjoy NO immunity under Art. 105(2)/194(2) for accepting bribes to vote or speak—bribery offence completes upon acceptance."
+          },
+          {
+            "label": "Kihoto Hollohan v. Zachillhu (1992)",
+            "text": "Upheld 10th Schedule but subjected Presiding Officer's defection decision to judicial review on grounds of mala fides / perversity."
+          },
+          {
+            "label": "Keisham Meghachandra Singh (2020)",
+            "text": "Directed Speakers to decide 10th Schedule disqualification petitions within a reasonable outer limit of 3 months absent exceptional circumstances."
+          }
+        ]
+      },
+      "traps": {
+        "common_traps": [
+          {
+            "label": "Lapsing of Bills on LS Dissolution (Art. 107)",
+            "text": "Bill pending in RS and NOT passed by LS does NOT lapse. Any Bill pending in LS (or passed by LS & pending in RS) LAPSES—EXCEPT pending Art. 108 Joint Sitting notice OR Bill returned by President for reconsideration!"
+          },
+          {
+            "label": "Effective Majority vs Special Majority",
+            "text": "Removing Speaker/Dy Speaker/Dy Chair requires EFFECTIVE majority (>50% of current strength excluding vacancies), NOT special 2/3rd majority."
+          },
+          {
+            "label": "Speaker's Dual Casting vs First Vote",
+            "text": "Speaker does NOT vote in the first instance (exercises ONLY a casting vote on tie)—EXCEPT during a resolution for Speaker's own removal (votes in first instance, NO casting vote!)."
+          },
+          {
+            "label": "Minister Bar & RS Exclusion",
+            "text": "No Minister can sit on PAC, Estimates, COPU, or DRSCs. Estimates Committee has ZERO Rajya Sabha members."
+          }
+        ],
+        "twin_comparison": {
+          "headers": [
+            "Power / Role",
+            "Lok Sabha (Lower House)",
+            "Rajya Sabha (Upper House)"
+          ],
+          "rows": [
+            [
+              "CoM Collective Responsibility",
+              "YES (Art. 75(3)) — No-Confidence moves here ONLY",
+              "NO — can criticize/question, cannot topple govt"
+            ],
+            [
+              "Money Bills & Budget Vote",
+              "Exclusive intro + final say + votes on Demands for Grants",
+              "14-day advisory delay only; discusses Budget, no grant vote"
+            ],
+            [
+              "All-India Services / State List",
+              "Cannot initiate Art. 249 or Art. 312 resolutions",
+              "Exclusive 2/3rd P&V initiation power (Art. 249 & Art. 312)"
+            ]
+          ]
+        }
+      },
+      "links": {
+        "state_counterparts": "State Legislatures (Art. 168–212): Unicameral in 22 States; Bicameral (Vidhan Sabha + Vidhan Parishad under Art. 169) in 6 States (UP, Bihar, Maharashtra, Karnataka, Andhra Pradesh, Telangana).",
+        "upsc_categories": [
+          "Polity",
+          "Current Affairs"
+        ],
+        "linked_acts_and_missions": "Constitution Part V; RPA 1951; 10th Schedule; 104th & 106th Amendments; Parliamentary Committees (#6); President (#1); ECI (#21)."
+      }
+    },
+    {
+      "id": "election-commission-of-india",
+      "order": 21,
+      "part": 2,
+      "name": "Election Commission of India",
+      "acronym": "ECI",
+      "layout_mode": "blueprint",
+      "anchor": {
+        "legal_status": "Constitutional",
+        "basis": "Part XV, Articles 324–329 (permanent, independent constitutional body); statutory service rules under CEC & Other ECs Act, 2023.",
+        "key_amendments": "61st Amend. (1988): voting age 21→18; 1989/1993: permanently 3-member body; CEC & Other ECs (Appointment, Conditions of Service and Term of Office) Act, 2023 replaced 1991 Act.",
+        "nodal_ministry": "Independent (Administrative liaison: Ministry of Law & Justice, Legislative Dept.)",
+        "established_year": "1950 (25 Jan — National Voters' Day)",
+        "headquarters": "Nirvachan Sadan, New Delhi",
+        "essential_summary": "Superintends, directs, and controls electoral rolls and elections to Parliament, State Legislatures, President, and Vice-President (NOT Panchayats/Municipalities)."
+      },
+      "composition": {
+        "chairperson": "Chief Election Commissioner (CEC) — chairs Commission; holds equal voting weight with ECs (decisions by majority).",
+        "members": "CEC + such number of other Election Commissioners as the President may fix (currently 1 CEC + 2 ECs = 3 multi-member Commission).",
+        "eligibility_rules": "Under 2023 Act: persons holding or having held a post equivalent to Secretary to Govt of India, with integrity and knowledge/experience in management and conduct of elections.",
+        "internal_wings": "Deputy Election Commissioners (civil servants), Chief Electoral Officers (State level, IAS), District Election Officers, Returning Officers, and Electoral Registration Officers (under RPA 1950/1951)."
+      },
+      "lifecycle": {
+        "appointing_authority": "President of India (Art. 324(2) read with Sec. 6 of 2023 Act)",
+        "selection_committee": "Under 2023 Act: PM (Chair) + Leader of Opposition in Lok Sabha (or leader of largest opposition party) + 1 Union Cabinet Minister nominated by PM. Search Committee headed by Cabinet Secretary shortlists 5 names (Selection panel may look outside).",
+        "selection_short": "PM + LoP (LS) + PM-nominated Union Minister (2023 Act)",
+        "tenure": "6 years (whichever earlier)",
+        "age_limit": "65 years",
+        "reappointment_and_post_retirement": "NOT eligible for reappointment under 2023 Act; if an EC is elevated to CEC, combined term cannot exceed 6 years. Constitution does NOT bar post-retirement govt appointments (classic trap!).",
+        "reappointment_short": "Barred (max 6 yrs combined EC+CEC); post-ret. govt jobs not barred by Const.",
+        "resignation_to": "President of India (writing under own hand)",
+        "removal_procedure": "CEC: Removed ONLY like a Supreme Court Judge (Parliamentary special majority on proved misbehaviour/incapacity). Other ECs: Removed by President ONLY on the recommendation of the CEC.",
+        "removal_short": "CEC: Like SC Judge | ECs: President only on CEC's recommendation",
+        "funding_and_salary": "Under 2023 Act, salary/service conditions equal to Cabinet Secretary (downgraded from SC Judge parity under 1991 Act!). Conditions cannot be varied to disadvantage post-appointment. Election expenditure shared by Centre/States."
+      },
+      "mandate": {
+        "core_functions": [
+          {
+            "label": "Electoral Rolls & Constituencies",
+            "text": "Prepares and revises electoral rolls; notifies election schedules; grants/cancels recognition of National & State political parties and allots reserved symbols (Symbols Order, 1968)."
+          },
+          {
+            "label": "Model Code of Conduct (MCC)",
+            "text": "Enforces MCC from announcement of schedule until result declaration (MCC has no standalone statute; backed by IPC/BNS, RPA 1951 & ECI plenary Art. 324 powers)."
+          },
+          {
+            "label": "Advisory Disqualification Role",
+            "text": "Advises President (Art. 103) and Governor (Art. 192) on post-election MP/MLA disqualifications (binding advice!)—EXCEPT 10th Schedule defection (decided by Presiding Officer)."
+          },
+          {
+            "label": "Quasi-Judicial & Administrative",
+            "text": "Cancels/re-polls booths on rigging/booth capturing; derecognizes/suspends party recognition; advises President on Art. 356 extension beyond 1 year."
+          }
+        ],
+        "power_nature": "Constitutional Plenary + Quasi-Judicial (binding advice under Art. 103/192; non-partisan dispute adjudication on party splits/symbols).",
+        "special_powers": "Art. 324 acts as reservoir of plenary power where enacted law is silent (Mohinder Singh Gill case); state machinery deputed during polls comes under ECI disciplinary control.",
+        "jurisdiction_limits_and_exclusions": "Does NOT conduct Panchayat or Municipal elections (vested in State Election Commissions under Art. 243K/243ZA). Cannot deregister a registered political party except in rare fraud/constitutional collapse cases. Art. 329 bars court interference mid-election (only Election Petition in High Court post-result).",
+        "reporting_chain": "Independent; no annual Parliamentary report mandate in Art. 324 (issues statistical reports/compendiums).",
+        "appellate_pathway": "Election disputes via Election Petition to High Court (RPA 1951) → Supreme Court. Party symbol orders (Para 15 Symbols Order) → Judicial review in HC/SC."
+      },
+      "genesis": {
+        "founding_committee": "Constituent Assembly (Art. 324); Dinesh Goswami Committee (1990) & Tarkunde Committee on electoral reforms.",
+        "landmark_cases": [
+          {
+            "label": "Anoop Baranwal v. UoI (2023)",
+            "text": "5-judge SC bench ordered interim Selection Panel (PM + LoP + CJI) until Parliament legislated—prompting Parliament to pass the 2023 Act replacing CJI with a Union Cabinet Minister."
+          },
+          {
+            "label": "T.N. Seshan v. UoI (1995)",
+            "text": "Upheld equal status and voting weight of CEC and ECs; CEC is primus inter pares, not superior to ECs."
+          },
+          {
+            "label": "ADR v. ECI (2024 — VVPAT)",
+            "text": "SC rejected 100% VVPAT verification / return to paper ballots, upholding EVM+VVPAT safeguards and 5% burned-memory verification option."
+          }
+        ]
+      },
+      "traps": {
+        "common_traps": [
+          {
+            "label": "Salary Downgrade Trap (2023 Act)",
+            "text": "CEC & ECs now get Cabinet Secretary equivalence (NOT Supreme Court Judge salary as under the repealed 1991 Act)."
+          },
+          {
+            "label": "CEC vs ECs Removal Trap",
+            "text": "Only CEC has SC-Judge-like Parliamentary removal security; other ECs can be removed by President solely on CEC's recommendation (not direct executive whim, yet no impeachment needed)."
+          },
+          {
+            "label": "Local Polls Trap",
+            "text": "ECI has ZERO role in Panchayat & Municipal elections; State Election Commission (SEC) is wholly independent of ECI, NOT a subordinate branch."
+          },
+          {
+            "label": "Constitutional Silence Traps",
+            "text": "Constitution does NOT prescribe qualifications, exact tenure, or bar post-retirement govt employment for ECs—those details live in statute (2023 Act)."
+          }
+        ],
+        "twin_comparison": {
+          "headers": [
+            "Dimension",
+            "Election Commission of India (ECI)",
+            "State Election Commission (SEC)"
+          ],
+          "rows": [
+            [
+              "Articles",
+              "Part XV · Art. 324",
+              "Part IX & IXA · Art. 243K & 243ZA"
+            ],
+            [
+              "Elections Conducted",
+              "President, VP, Parliament, State Assemblies & Councils",
+              "Panchayats (rural) & Municipalities (urban) ONLY"
+            ],
+            [
+              "Appointment",
+              "President via PM+LoP+Minister panel (2023 Act)",
+              "Governor of the State (conditions via State Legislature)"
+            ],
+            [
+              "Removal",
+              "CEC: like SC Judge; ECs: on CEC recommendation",
+              "Like a High Court Judge (same manner & grounds)"
+            ]
+          ]
+        }
+      },
+      "links": {
+        "state_counterparts": "Chief Electoral Officer (CEO) at State level is ECI's administrative arm for Parliament/Assembly polls; State Election Commissioner (Art. 243K/243ZA) is an independent body solely for local bodies.",
+        "upsc_categories": [
+          "Polity",
+          "Current Affairs"
+        ],
+        "linked_acts_and_missions": "RPA 1950 & RPA 1951; Delimitation Commission (#22); SVEEP; 61st & 84th Amendments (Reforms Book #7)."
+      }
+    },
+    {
+      "id": "reserve-bank-of-india",
+      "order": 44,
+      "part": 3,
+      "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+      "acronym": "RBI",
+      "layout_mode": "dossier",
+      "anchor": {
+        "legal_status": "Statutory",
+        "basis": "Reserve Bank of India Act, 1934 (commenced 1 Apr 1935; nationalized 1 Jan 1949 via RBI Transfer to Public Ownership Act, 1948). Key regulatory authority also flows from Banking Regulation Act, 1949, FEMA 1999 & PSS Act, 2007.",
+        "key_amendments": "Finance Act 2016 (inserted Sec. 45ZA–45ZO: Statutory Monetary Policy Committee & Flexible Inflation Targeting); Banking Regulation Amend. 2020 (brought Urban/Multi-State Co-op Banks under tighter RBI control); PSS Act Amend. / PRB Regulations (May 2025: replaced BPSS with 6-member Payments Regulatory Board).",
+        "nodal_ministry": "Ministry of Finance (Department of Financial Services — DFS) [Autonomy governed by RBI Act]",
+        "established_year": "1935 (Nationalized 1949)",
+        "headquarters": "Mumbai (shifted from Calcutta in 1937); 4 Local Boards (Mumbai, Kolkata, Chennai, New Delhi)",
+        "essential_summary": "India's central bank and monetary authority governing price stability (4±2% CPI), currency issuance, banking/NBFC supervision, sovereign debt/forex management, and payment systems."
+      },
+      "composition": {
+        "chairperson": "Governor of the RBI — full-time chief executive & ex-officio Chair of Central Board, MPC (with casting vote), and Payments Regulatory Board (PRB).",
+        "members": "Central Board of Directors (Sec. 8 — up to 21 members): 1 Governor + max 4 Deputy Governors (Official); 4 Directors nominated from 4 Local Boards + 10 Government-nominated Non-Official Directors + 2 Government Officials (usually Finance/DEA & DFS Secretaries).",
+        "eligibility_rules": "Governor/DGs appointed for whole-time service (no strict statutory degree bar, traditionally career central bankers/economists/senior civil servants). External MPC members must be persons of ability, integrity & standing in economics/banking/finance/monetary policy.",
+        "internal_wings": "Monetary Policy Committee (6 members, Sec. 45ZB); Payments Regulatory Board (6 members, May 2025); Board for Financial Supervision (BFS, est. 1994); 4 Local Boards (advisory); Financial Inclusion Fund / Ombudsman Scheme (Integrated Ombudsman 2021); Wholly owned subsidiaries: DICGC, BRBNMPL, ReBIT, IFTAS, RBIH."
+      },
+      "lifecycle": {
+        "appointing_authority": "Central Government (recommended by FSIB / Search-cum-Selection & approved by ACC)",
+        "selection_committee": "Governor/DGs: Cabinet Secretary-led Financial Sector Regulatory Appointment Search Committee (FSRASC) → ACC. External MPC Members: Search-cum-Selection Committee headed by Cabinet Secretary (incl. RBI Governor, DEA Sec., 3 experts).",
+        "selection_short": "FSRASC / Cab. Sec. Search Panel → Central Govt (ACC)",
+        "tenure": "Governor/DGs: up to 5 years (typically 3 yrs initially); External MPC: 4 yrs; Board Directors: 4 yrs",
+        "age_limit": "Governor/DGs: no statutory age ceiling in RBI Act (administrative convention ~62/65); MPC external <70 convention",
+        "reappointment_and_post_retirement": "Governor, Deputy Governors & Nominated Central Board Directors ARE eligible for reappointment/renomination. External MPC members are strictly NOT eligible for reappointment (Sec. 45ZD)!",
+        "reappointment_short": "Gov/DGs eligible; External MPC members BARRED from reappointment",
+        "resignation_to": "Central Government (written notice)",
+        "removal_procedure": "Section 11: Central Govt may remove Governor, DG or Director at any time (with statutory grounds like unsoundness of mind, insolvency, moral turpitude conviction, or unexcused absence from 3+ consecutive Board meetings; Section 7 permits Govt policy directions in public interest after consulting Governor).",
+        "removal_short": "Central Govt (Sec. 11 / Executive discretion; Sec. 7 policy directions)",
+        "funding_and_salary": "Financially self-sustaining (seigniorage, open market interest, forex returns); surplus transferred annually to Govt of India (Bimal Jalan Economic Capital Framework). Salaries fixed by Central Govt."
+      },
+      "mandate": {
+        "core_functions": [
+          {
+            "label": "Monetary Policy & Inflation Targeting (Sec. 45ZA)",
+            "text": "Primary statutory objective: maintain price stability while keeping growth in mind. Target: 4% CPI (±2% band = 2%–6%), officially renewed for 5 years through March 31, 2031."
+          },
+          {
+            "label": "Issuer of Currency (Sec. 22)",
+            "text": "Sole authority to issue banknotes (₹2 and above) under Minimum Reserve System (₹200 crore reserve: min ₹115 cr gold + ₹85 cr foreign securities). ₹1 note & all coins are issued by Ministry of Finance (Coinage Act 2011) and circulated via RBI."
+          },
+          {
+            "label": "Regulator & Supervisor of Financial System",
+            "text": "Regulates Scheduled Commercial Banks, RRBs, Co-op Banks (BR Act 1949), NBFCs, CICs & All-India Financial Institutions (NABARD, SIDBI, NHB, EXIM, NaBFID). Enforces CRR, SLR, Basel norms & Prompt Corrective Action (PCA)."
+          },
+          {
+            "label": "Banker to Govt & Public Debt Manager",
+            "text": "Manages Consolidated Fund accounts, Ways & Means Advances (WMA), and Central/State sovereign bond auctions (G-Secs/T-Bills). Banker's Bank & Lender of Last Resort (LAF/MSF/SDF)."
+          },
+          {
+            "label": "Forex & Payment Systems",
+            "text": "Custodian of Foreign Exchange Reserves & FEMA 1999 manager; regulates UPI/RTGS/NEFT/IMPS & payment aggregators via the Payments Regulatory Board (2025)."
+          }
+        ],
+        "power_nature": "Statutory Monetary, Regulatory, Licensing & Penal Enforcement Authority (binding RBI Master Directions, monetary penalties, bank moratorium/reconstruction under Sec. 45 BR Act).",
+        "special_powers": "Section 7(1) RBI Act: Central Govt can issue binding directions in public interest after consulting Governor. Integrated RBI Ombudsman Scheme merges Banking, NBFC & Digital Transactions Ombudsmen.",
+        "jurisdiction_limits_and_exclusions": "Does NOT regulate: Stock/Derivatives markets & Mutual Funds (SEBI), Insurance (IRDAI), Pension Funds (PFRDA), GIFT City IFSC units (IFSCA), Housing finance registration was transferred from NHB to RBI in 2019 (while NHB continues refinance/supervision), and Primary Agricultural Credit Societies (PACS) outside BR Act banking.",
+        "reporting_chain": "Submits Annual Report & Report on Trend and Progress of Banking in India to Central Government (laid before Parliament); MPC publishes minutes 14 days post-meeting & Monetary Policy Report every 6 months.",
+        "appellate_pathway": "Ombudsman orders → Deputy Governor (Appellate Authority); regulatory penalties/licensing appeals → Central Govt (specified sections) or High Court writ review."
+      },
+      "extra_tables": [
+        {
+          "title": "Inside RBI's Specialized Statutory Governance Organs (High-Yield Prelims Matrix)",
+          "headers": [
+            "Organ / Subsidiary",
+            "Legal Basis",
+            "Exact Composition",
+            "Key Prelims Anchor"
+          ],
+          "rows": [
+            [
+              "Monetary Policy Committee (MPC)",
+              "Sec. 45ZB, RBI Act (Finance Act 2016)",
+              "6 members: 3 RBI (Governor ex-officio Chair, DG Monetary Policy, 1 Board-nominated Officer) + 3 External Govt nominees",
+              "Quorum = 4; 1 vote each + Governor has 2nd/CASTING vote on tie; external term 4 yrs, non-renewable; target 4±2% CPI through Mar 2031."
+            ],
+            [
+              "Payments Regulatory Board (PRB)",
+              "Sec. 3, PSS Act 2007 (PRB Regulations, May 2025)",
+              "6 members: RBI Governor (Chair), DG Payments, ED Payments + 3 Central Govt nominees (DFS Sec., MeitY Sec., 1 expert)",
+              "Replaced older BPSS in 2025; RBI Principal Legal Adviser is permanent invitee; regulates UPI/card/settlement networks."
+            ],
+            [
+              "Board for Financial Supervision (BFS)",
+              "RBI (BFS) Regulations 1994",
+              "Sub-committee of Central Board: Governor (Chair), 4 DGs (incl. Vice-Chair DG) + 4 Central Board Directors",
+              "Consolidated supervision over commercial banks, NBFCs & urban co-op banks."
+            ],
+            [
+              "DICGC (Subsidiary)",
+              "DICGC Act, 1961",
+              "100% RBI-owned; chaired by RBI Deputy Governor",
+              "Insures bank deposits up to ₹5 lakh per depositor per bank (principal + interest combined); covers commercial, RRB & co-op banks."
+            ]
+          ]
+        }
+      ],
+      "genesis": {
+        "founding_committee": "Hilton Young Commission (Royal Commission on Indian Currency and Finance, 1926); Urjit Patel Committee (2014) recommended Flexible Inflation Targeting & MPC.",
+        "landmark_cases": [
+          {
+            "label": "IAMAI v. RBI (2020)",
+            "text": "SC set aside RBI's 2018 circular banning banks from servicing virtual currency exchanges on grounds of disproportionality (though upholding RBI's broad regulatory competence)."
+          },
+          {
+            "label": "Jayantilal N. Mistry (2015)",
+            "text": "SC held RBI is bound by RTI Act and cannot withhold bank inspection/defaulter data under fiduciary privilege."
+          }
+        ]
+      },
+      "traps": {
+        "common_traps": [
+          {
+            "label": "Constitutional vs Statutory Trap",
+            "text": "RBI is a STATUTORY body (RBI Act 1934), NOT a Constitutional body—nor was it originally govt-owned (started 1935 as private shareholders' bank, nationalized in 1949)."
+          },
+          {
+            "label": "₹1 Note & Coins Trap",
+            "text": "₹1 notes and ALL coins carry the Finance Secretary's signature and are issued by Ministry of Finance (Coinage Act 2011); RBI issues ₹2+ banknotes only."
+          },
+          {
+            "label": "NPCI vs RBI Subsidiary Trap",
+            "text": "DICGC, BRBNMPL, ReBIT, IFTAS & RBIH are 100% RBI subsidiaries; NPCI (which runs UPI/RuPay) is NOT an RBI subsidiary—it is a Section 8 non-profit company promoted by RBI + IBA/banks."
+          },
+          {
+            "label": "MPC Reappointment & Casting Vote",
+            "text": "Governor has a casting vote (NOT veto power!), and ONLY the 3 external MPC members are barred from reappointment (the Governor/DGs can be reappointed)."
+          },
+          {
+            "label": "GIFT City Exception",
+            "text": "Banking/financial units inside GIFT City IFSC are regulated by IFSCA (2019 Act), NOT directly by RBI/SEBI/IRDAI/PFRDA."
+          }
+        ],
+        "twin_comparison": {
+          "headers": [
+            "Feature",
+            "RBI",
+            "SEBI",
+            "IFSCA"
+          ],
+          "rows": [
+            [
+              "Domain",
+              "Money, Banks, NBFCs, Forex, Payments",
+              "Capital/Securities Markets, Mutual Funds, REITs",
+              "Unified regulator for GIFT City IFSC (Banking+Markets+Insurance)"
+            ],
+            [
+              "Enabling Act",
+              "RBI Act, 1934",
+              "SEBI Act, 1992",
+              "IFSCA Act, 2019 (HQ: Gandhinagar)"
+            ],
+            [
+              "Appellate Body",
+              "Internal Ombudsman / HC writ (no SAT)",
+              "Securities Appellate Tribunal (SAT) → SC",
+              "SAT / Respective appellate mechanism"
+            ]
+          ]
+        }
+      },
+      "links": {
+        "state_counterparts": "None (Monetary policy & currency are strictly Union List entries 36 & 38); RBI operates 30+ Regional Offices across States/UTs.",
+        "upsc_categories": [
+          "Economics",
+          "Polity",
+          "Current Affairs"
+        ],
+        "linked_acts_and_missions": "RBI Act 1934; Banking Regulation Act 1949; FEMA 1999; PSS Act 2007; FSDC (#50); SEBI (#45); IFSCA (#48); DICGC (#56); NPCI (#57); Jan Dhan / Digital Rupee (e₹) (Missions Book #3)."
+      }
+    },
+    {
+      "id": "national-green-tribunal",
+      "order": 88,
+      "part": 5,
+      "name": "National Green Tribunal",
+      "acronym": "NGT",
+      "layout_mode": "blueprint",
+      "anchor": {
+        "legal_status": "Statutory",
+        "basis": "National Green Tribunal Act, 2010 (Sec. 3); specialized fast-track quasi-judicial environmental tribunal (India became 3rd country globally after Australia & New Zealand to set up a green tribunal).",
+        "key_amendments": "Tribunal Reforms Act, 2021 inserted Sec. 10A capping term at 4 yrs & minimum age 50—HOWEVER, SC in Madras Bar Association v. UoI (Nov 2025, 2025 INSC 1330) struck down 50-yr age floor, 4-yr truncation & 2-name SCSC panels, directing creation of a National Tribunals Commission.",
+        "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+        "established_year": "2010 (18 October)",
+        "headquarters": "Principal Bench: New Delhi; 4 Regional Benches: Bhopal (Central), Pune (West), Kolkata (East), Chennai (South)",
+        "essential_summary": "Adjudicates civil environmental disputes, compensation, and statutory appeals arising under 7 Schedule-I environmental laws based on Sustainable Development, Precautionary & Polluter Pays principles."
+      },
+      "composition": {
+        "chairperson": "1 Chairperson — must be a sitting or retired Judge of the Supreme Court of India OR Chief Justice of a High Court.",
+        "members": "Minimum 10 and Maximum 20 full-time Judicial Members + Minimum 10 and Maximum 20 full-time Expert Members (equal minimum/maximum parity!).",
+        "eligibility_rules": "Judicial Member: Judge of SC, or CJ/Judge of a High Court. Expert Member: Master's in Science/Engineering/Tech + 15 yrs experience (incl. 5 yrs practical env/pollution experience) OR 15 yrs administrative experience incl. 5 yrs handling environmental matters in Central/State Govt or national institution.",
+        "internal_wings": "Principal Bench (New Delhi) + 4 Zonal Benches (Bhopal, Pune, Kolkata, Chennai); circuit benches held at Shimla, Shillong, Jodhpur & Kochi."
+      },
+      "lifecycle": {
+        "appointing_authority": "Central Government (MoEFCC)",
+        "selection_committee": "Chairperson: appointed by Central Govt in consultation with CJI. Judicial & Expert Members: appointed on recommendation of a Search-cum-Selection Committee (SCSC) constituted under NGT Rules (post-Nov 2025 SC ruling, must recommend 1 name per vacancy, not executive choice from 2 names).",
+        "selection_short": "Chair: Consultation with CJI | Members: SCSC",
+        "tenure": "5 years (NGT Act); 2021 Act's 4-yr truncation invalidated by SC (Nov 2025)",
+        "age_limit": "Chair: 70 yrs | Judicial (HC Judge): 67 yrs | Expert: 65/67 yrs",
+        "reappointment_and_post_retirement": "Under NGT Act Sec. 7: Chairperson & Members are NOT eligible for reappointment (2021 Act tried allowing reappointment within 70/67 caps; check post-2025 tribunal bill). Barred from government employment & appearing before NGT for 2 years post-demitting office.",
+        "reappointment_short": "Barred under NGT Act Sec. 7; 2-yr cooling-off bar",
+        "resignation_to": "Central Government (in writing)",
+        "removal_procedure": "Central Government may remove Chairperson or Judicial Member ONLY after an inquiry by a Judge of the Supreme Court (for proved misbehaviour/incapacity) in consultation with CJI. Expert Member removed by Central Govt on specified grounds after opportunity of hearing.",
+        "removal_short": "Chair/Judicial: SC Judge inquiry + CJI consult | Expert: Central Govt",
+        "funding_and_salary": "Charged through MoEFCC budgetary grants; salaries/allowances cannot be varied to disadvantage after appointment. Environmental Relief Fund receives Sec. 15/Public Liability compensation."
+      },
+      "mandate": {
+        "core_functions": [
+          {
+            "label": "Schedule I Exclusive 7-Act Jurisdiction",
+            "text": "Covers civil disputes & appeals ONLY under 7 enactments: (1) Water Act 1974, (2) Water Cess Act 1977, (3) Forest (Conservation) Act 1980, (4) Air Act 1981, (5) Environment (Protection) Act 1986, (6) Public Liability Insurance Act 1991, (7) Biological Diversity Act 2002."
+          },
+          {
+            "label": "3 Statutory Guiding Principles (Sec. 20)",
+            "text": "Must apply: (i) Principle of Sustainable Development, (ii) Precautionary Principle, and (iii) Polluter Pays Principle."
+          },
+          {
+            "label": "Strict Statutory Filing Windows",
+            "text": "Sec. 14 (Original civil dispute): 6 months (+60 days grace); Sec. 15 (Compensation & restitution): 5 years (+60 days grace); Sec. 16 (Appellate against EC/SPCB/Forest orders): 30 days (+60 days grace). Disposal target: 6 months."
+          },
+          {
+            "label": "Natural Justice Flexibility",
+            "text": "Not bound by strict procedural rules of Code of Civil Procedure (CPC) 1908 or Indian Evidence Act / Bharatiya Sakshya Adhiniyam—guided by Principles of Natural Justice."
+          }
+        ],
+        "power_nature": "Quasi-Judicial Binding Decree & Compensation Powers (orders are executable as decrees of a Civil Court; non-compliance punishable with imprisonment up to 3 years or fine up to ₹10 crore!).",
+        "special_powers": "Suo motu jurisdiction UPHELD by SC (Ankita Sinha 2021); possesses Civil Court powers for summoning, discovery & commissions; can award compensation, environmental restitution & impose heavy environmental damages.",
+        "jurisdiction_limits_and_exclusions": "EXPLICITLY EXCLUDED FROM SCHEDULE I: (1) Wildlife (Protection) Act, 1972; (2) Indian Forest Act, 1927; (3) Forest Rights Act (FRA), 2006. Only civil cases involving 'substantial question relating to environment'—NO criminal trials.",
+        "reporting_chain": "Decisions binding on parties/authorities; administrative oversight via MoEFCC (and proposed National Tribunals Commission per 2025 SC directive).",
+        "appellate_pathway": "Direct appeal to Supreme Court of India within 90 days (Sec. 22). High Courts retain Art. 226/227 constitutional writ review (Madhya Pradesh HC Advocates Bar Assoc. v. UoI 2022)."
+      },
+      "genesis": {
+        "founding_committee": "186th Report of the Law Commission of India (2003); Supreme Court directives in M.C. Mehta v. UoI & A.P. Pollution Control Board v. Prof. M.V. Nayudu.",
+        "landmark_cases": [
+          {
+            "label": "Municipal Corp. of Greater Mumbai v. Ankita Sinha (2021)",
+            "text": "SC held NGT holds suo motu powers to initiate environmental proceedings even without a formal petitioner."
+          },
+          {
+            "label": "MP High Court Advocates Bar Assoc. v. UoI (2022)",
+            "text": "SC confirmed Sec. 22 direct appeal to SC does NOT oust High Courts' Art. 226/227 writ jurisdiction (Basic Structure)."
+          },
+          {
+            "label": "Madras Bar Association v. UoI (Nov 2025)",
+            "text": "Struck down 50-yr minimum age, 4-yr tenure cap & 2-name SCSC mandate under Tribunal Reforms Act 2021; directed establishing National Tribunals Commission."
+          }
+        ]
+      },
+      "traps": {
+        "common_traps": [
+          {
+            "label": "Excluded Forest & Wildlife Acts Trap (Classic!)",
+            "text": "NGT covers Forest (Conservation) Act 1980, NOT Indian Forest Act 1927, NOT Wildlife (Protection) Act 1972, and NOT Forest Rights Act 2006! (Can only intervene indirectly if a Schedule-I EPA/FCA violation overlaps.)"
+          },
+          {
+            "label": "CPC & Evidence Exemption Trap",
+            "text": "NGT has Civil Court powers (summoning, decree execution), yet is NOT bound by CPC 1908 procedure or Evidence rules—it follows Natural Justice."
+          },
+          {
+            "label": "High Court Appeal Trap",
+            "text": "Statutory appeals under Sec. 22 go DIRECTLY to the Supreme Court (within 90 days), bypassing High Courts—yet HCs retain constitutional Art. 226 writ jurisdiction."
+          },
+          {
+            "label": "Three Limitation Timers",
+            "text": "6 months (Sec. 14 dispute) vs 5 years (Sec. 15 compensation) vs 30 days (Sec. 16 appeal)—each with max +60 days condonation!"
+          }
+        ],
+        "twin_comparison": {
+          "headers": [
+            "Dimension",
+            "NGT",
+            "CPCB",
+            "NBWL"
+          ],
+          "rows": [
+            [
+              "Nature",
+              "Quasi-judicial Tribunal (NGT Act 2010)",
+              "Statutory Pollution Regulator (Water Act 1974)",
+              "Statutory Wildlife Advisory Apex (WPA 1972)"
+            ],
+            [
+              "Chair",
+              "Retired SC Judge / HC Chief Justice",
+              "Central Govt-appointed Chairman (Env/Admin)",
+              "Prime Minister (ex-officio Chair)"
+            ],
+            [
+              "Covers WPA 1972?",
+              "NO (explicitly excluded from Schedule I)",
+              "NO (covers Water/Air/EPA standards)",
+              "YES (apex wildlife/protected-area clearances)"
+            ]
+          ]
+        }
+      },
+      "links": {
+        "state_counterparts": "None (No State Green Tribunals; NGT covers entire country through 1 Principal + 4 Zonal Benches).",
+        "upsc_categories": [
+          "Environment and Ecology",
+          "Polity",
+          "Current Affairs"
+        ],
+        "linked_acts_and_missions": "NGT Act 2010; EPA 1986; Water Act 1974; Air Act 1981; Forest Conservation Act 1980; Biological Diversity Act 2002; CPCB (#95); NBWL (#89); WCCB (#92)."
+      }
+    },
+    {
+      "id": "wildlife-crime-control-bureau",
+      "order": 92,
+      "part": 5,
+      "name": "Wildlife Crime Control Bureau",
+      "acronym": "WCCB",
+      "layout_mode": "compact",
+      "anchor": {
+        "legal_status": "Statutory",
+        "basis": "Wildlife (Protection) Act, 1972 — Chapter IVC (Sections 38Y & 38Z), inserted via 2006 Amendment (constituted 2007).",
+        "key_amendments": "Wildlife (Protection) Amendment Act, 2022 dropped legacy 'Tiger & Other Endangered Species' heading, aligned enforcement directly with CITES schedules & invasive alien species.",
+        "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+        "established_year": "2007 (HQ: New Delhi)",
+        "headquarters": "New Delhi (5 Regional Offices: Delhi, Kolkata, Mumbai, Chennai, Jabalpur + 3 Sub-Regional Offices: Guwahati, Amritsar, Cochin + 5 Border Units)",
+        "essential_summary": "Statutory multi-disciplinary enforcement & intelligence bureau under MoEFCC mandated to combat organized domestic and trans-border wildlife crime and implement CITES enforcement."
+      },
+      "composition": {
+        "chairperson": "Director of Wildlife Preservation (MoEFCC) serves ex-officio as Director, WCCB (NOT PM, NOT Env Minister!).",
+        "members": "Inspector-General of Police (Additional Director) + DIG of Police (Joint Director) + DIG of Forests + Assistant Directors / Wildlife Inspectors drawn from Police, Forest & Customs cadres.",
+        "eligibility_rules": "Multi-agency deputation combining All-India/Central Forest (IFoS), Police (IPS), and Customs/Revenue officers.",
+        "internal_wings": "Centralized Wildlife Crime Data Bank, 5 Regional Offices, 3 Sub-Regional Offices & 5 Border Units (incl. Indo-Nepal/Indo-Bangladesh/Northeast transit corridors)."
+      },
+      "lifecycle": {
+        "appointing_authority": "Central Government (MoEFCC via Gazette Order)",
+        "selection_committee": "Executive / Departmental deputation from Forest, Police & Customs services (no independent statutory Selection Panel).",
+        "selection_short": "Central Govt departmental deputation (IFoS / IPS / Customs)",
+        "tenure": "Deputation-governed (typically 3–5 yrs)",
+        "age_limit": "Standard Central Govt service retirement (60 yrs)",
+        "reappointment_and_post_retirement": "Standard Central deputation rules; no constitutional/statutory post-retirement bar.",
+        "reappointment_short": "Standard deputation tenure rules",
+        "resignation_to": "Central Government (MoEFCC)",
+        "removal_procedure": "Repatriation / removal by Central Government under civil service deputation rules.",
+        "removal_short": "Central Govt repatriation / service rules",
+        "funding_and_salary": "Budgetary grant under MoEFCC (Central Sector allocation)."
+      },
+      "mandate": {
+        "core_functions": [
+          {
+            "label": "Central Crime Data Bank & Intel",
+            "text": "Collects, collates & disseminates wildlife crime intelligence to States/Police/Customs (Sec. 38Z)."
+          },
+          {
+            "label": "Inter-Agency & Border Coordination",
+            "text": "Coordinates State forest departments, Police, BSF/SSB/Customs at ports & borders; runs pan-India operations (e.g., Operation Kurma, Operation Clean Art, Operation Softgold, Operation Save Kurma)."
+          },
+          {
+            "label": "CITES & Foreign Assistance",
+            "text": "Implements international wildlife trade treaty obligations (CITES, Interpol Wildlife Crime Working Group, SAWEN) and assists foreign agencies."
+          },
+          {
+            "label": "Capacity Building & Policy Advice",
+            "text": "Builds forensic/investigation capacity for States and advises Central/State Govts on wildlife crime policy & statutory amendments."
+          }
+        ],
+        "power_nature": "Statutory Intelligence, Search, Seizure, Arrest & Prosecution Cognizance Agency.",
+        "special_powers": "Under Sec. 38Z(2), exercises delegated WPA powers of entry, search, seizure, arrest & detention (Sec. 50(1)&(8)) and filing complaints/cognizance of offences (Sec. 55).",
+        "jurisdiction_limits_and_exclusions": "Strictly wildlife offences under WPA 1972 & CITES customs interface—does NOT approve development/diversion clearances (that is NBWL/FAC) or manage tiger reserve funding/plans (NTCA).",
+        "reporting_chain": "Reports administratively to MoEFCC (Director of Wildlife Preservation).",
+        "appellate_pathway": "Prosecutions tried in designated Criminal/Magistrate Courts under WPA 1972 → Sessions / High Court."
+      },
+      "genesis": {
+        "founding_committee": "Tiger Task Force (Sunita Narain Committee, 2005) after Sariska tiger extinction crisis recommended dedicated wildlife enforcement bureau + NTCA.",
+        "landmark_cases": [
+          {
+            "label": "UN Environment Award",
+            "text": "Awarded UNEP Asia Environmental Enforcement Award multiple times for Operation Save Kurma (turtles) & Operation Clean Art (mongoose hair)."
+          }
+        ]
+      },
+      "traps": {
+        "common_traps": [
+          {
+            "label": "Ministry Trap",
+            "text": "WCCB sits under MoEFCC (NOT Ministry of Home Affairs, even though IPS/Police officers serve as Additional/Joint Directors!)."
+          },
+          {
+            "label": "Statutory Origin Trap",
+            "text": "Created by the 2006 Amendment to WPA 1972 (same amendment that made NTCA statutory—NOT an executive order and NOT under Forest Act 1927)."
+          },
+          {
+            "label": "Who Chairs WCCB",
+            "text": "Headed by the Director of Wildlife Preservation (ex-officio), whereas NBWL is chaired by the PM and NTCA & CZA are chaired by the Union Environment Minister."
+          }
+        ],
+        "twin_comparison": {
+          "headers": [
+            "Body (All under WPA 1972)",
+            "Chairperson",
+            "Core Role"
+          ],
+          "rows": [
+            [
+              "WCCB (Sec. 38Y)",
+              "Director of Wildlife Preservation",
+              "Wildlife crime intelligence, border enforcement & CITES coordination"
+            ],
+            [
+              "NTCA (Sec. 38L)",
+              "Union Environment Minister",
+              "Project Tiger governance, Tiger Reserve boundaries & funding"
+            ],
+            [
+              "NBWL (Sec. 5A)",
+              "Prime Minister",
+              "Apex wildlife policy & clearances inside National Parks/Sanctuaries"
+            ],
+            [
+              "CZA (Sec. 38A)",
+              "Union Environment Minister",
+              "Recognition, standards & animal exchange for Indian Zoos"
+            ]
+          ]
+        }
+      },
+      "links": {
+        "state_counterparts": "State Wildlife Crime Cells / State Forest Vigilance Units (no separate State WCCBs; WCCB coordinates across States via 5 Regional Offices).",
+        "upsc_categories": [
+          "Environment and Ecology",
+          "Polity",
+          "Current Affairs"
+        ],
+        "linked_acts_and_missions": "WPA 1972 (2006 & 2022 Amendments); CITES; SAWEN; NTCA (#90); NBWL (#89); CZA (#91)."
+      }
+    }
+  ],
+  "indexes": {
+    "legal_status_groups": [
+      {
+        "status": "Constitutional",
+        "items": [
+          {
+            "id": "parliament-of-india",
+            "order": 5,
+            "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+            "acronym": "Parliament",
+            "part": 1,
+            "legal_status": "Constitutional",
+            "basis": "Part V, Chapter II — Articles 79–122 (Art. 79: Parliament consists of President + Council of States [Rajya Sabha] + House of the People [Lok Sabha]).",
+            "nodal_ministry": "Independent Legislature (Floor coordination: Ministry of Parliamentary Affairs; Independent LS & RS Secretariats under Speaker/Chairman)"
+          },
+          {
+            "id": "election-commission-of-india",
+            "order": 21,
+            "name": "Election Commission of India",
+            "acronym": "ECI",
+            "part": 2,
+            "legal_status": "Constitutional",
+            "basis": "Part XV, Articles 324–329 (permanent, independent constitutional body); statutory service rules under CEC & Other ECs Act, 2023.",
+            "nodal_ministry": "Independent (Administrative liaison: Ministry of Law & Justice, Legislative Dept.)"
+          }
+        ]
+      },
+      {
+        "status": "Statutory",
+        "items": [
+          {
+            "id": "reserve-bank-of-india",
+            "order": 44,
+            "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+            "acronym": "RBI",
+            "part": 3,
+            "legal_status": "Statutory",
+            "basis": "Reserve Bank of India Act, 1934 (commenced 1 Apr 1935; nationalized 1 Jan 1949 via RBI Transfer to Public Ownership Act, 1948). Key regulatory authority also flows from Banking Regulation Act, 1949, FEMA 1999 & PSS Act, 2007.",
+            "nodal_ministry": "Ministry of Finance (Department of Financial Services — DFS) [Autonomy governed by RBI Act]"
+          },
+          {
+            "id": "national-green-tribunal",
+            "order": 88,
+            "name": "National Green Tribunal",
+            "acronym": "NGT",
+            "part": 5,
+            "legal_status": "Statutory",
+            "basis": "National Green Tribunal Act, 2010 (Sec. 3); specialized fast-track quasi-judicial environmental tribunal (India became 3rd country globally after Australia & New Zealand to set up a green tribunal).",
+            "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+          },
+          {
+            "id": "wildlife-crime-control-bureau",
+            "order": 92,
+            "name": "Wildlife Crime Control Bureau",
+            "acronym": "WCCB",
+            "part": 5,
+            "legal_status": "Statutory",
+            "basis": "Wildlife (Protection) Act, 1972 — Chapter IVC (Sections 38Y & 38Z), inserted via 2006 Amendment (constituted 2007).",
+            "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+          }
+        ]
+      }
+    ],
+    "ministry_groups": [
+      {
+        "ministry": "Independent (Administrative liaison: Ministry of Law & Justice, Legislative Dept.)",
+        "items": [
+          {
+            "id": "election-commission-of-india",
+            "order": 21,
+            "name": "Election Commission of India",
+            "acronym": "ECI",
+            "part": 2,
+            "legal_status": "Constitutional",
+            "basis": "Part XV, Articles 324–329 (permanent, independent constitutional body); statutory service rules under CEC & Other ECs Act, 2023.",
+            "nodal_ministry": "Independent (Administrative liaison: Ministry of Law & Justice, Legislative Dept.)"
+          }
+        ]
+      },
+      {
+        "ministry": "Independent Legislature (Floor coordination: Ministry of Parliamentary Affairs; Independent LS & RS Secretariats under Speaker/Chairman)",
+        "items": [
+          {
+            "id": "parliament-of-india",
+            "order": 5,
+            "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+            "acronym": "Parliament",
+            "part": 1,
+            "legal_status": "Constitutional",
+            "basis": "Part V, Chapter II — Articles 79–122 (Art. 79: Parliament consists of President + Council of States [Rajya Sabha] + House of the People [Lok Sabha]).",
+            "nodal_ministry": "Independent Legislature (Floor coordination: Ministry of Parliamentary Affairs; Independent LS & RS Secretariats under Speaker/Chairman)"
+          }
+        ]
+      },
+      {
+        "ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+        "items": [
+          {
+            "id": "national-green-tribunal",
+            "order": 88,
+            "name": "National Green Tribunal",
+            "acronym": "NGT",
+            "part": 5,
+            "legal_status": "Statutory",
+            "basis": "National Green Tribunal Act, 2010 (Sec. 3); specialized fast-track quasi-judicial environmental tribunal (India became 3rd country globally after Australia & New Zealand to set up a green tribunal).",
+            "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+          },
+          {
+            "id": "wildlife-crime-control-bureau",
+            "order": 92,
+            "name": "Wildlife Crime Control Bureau",
+            "acronym": "WCCB",
+            "part": 5,
+            "legal_status": "Statutory",
+            "basis": "Wildlife (Protection) Act, 1972 — Chapter IVC (Sections 38Y & 38Z), inserted via 2006 Amendment (constituted 2007).",
+            "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+          }
+        ]
+      },
+      {
+        "ministry": "Ministry of Finance (Department of Financial Services — DFS) [Autonomy governed by RBI Act]",
+        "items": [
+          {
+            "id": "reserve-bank-of-india",
+            "order": 44,
+            "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+            "acronym": "RBI",
+            "part": 3,
+            "legal_status": "Statutory",
+            "basis": "Reserve Bank of India Act, 1934 (commenced 1 Apr 1935; nationalized 1 Jan 1949 via RBI Transfer to Public Ownership Act, 1948). Key regulatory authority also flows from Banking Regulation Act, 1949, FEMA 1999 & PSS Act, 2007.",
+            "nodal_ministry": "Ministry of Finance (Department of Financial Services — DFS) [Autonomy governed by RBI Act]"
+          }
+        ]
+      }
+    ],
+    "lifecycle_matrix": [
+      {
+        "id": "parliament-of-india",
+        "order": 5,
+        "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+        "acronym": "Parliament",
+        "selection_committee": "Direct Vote (LS) / MLA PR-STV + 12 Pres. Nominees (RS)",
+        "appointing_authority": "Elected by People (LS) / Elected by State & UT MLAs + 12 Nominated by President (RS); Speaker/Deputy Speaker/RS Deputy Chair elected by simple majority of respective House.",
+        "tenure": "LS: 5 yrs (unless dissolved earlier; extendable 1 yr at a time during Art. 352) | RS: Permanent House (no dissolution; individual term 6 yrs, 1/3rd retire every 2 yrs)",
+        "age_limit": "No upper retirement age ceiling (Min: 25 yrs LS / 30 yrs RS)",
+        "removal": "Presiding Officers: Effective Majority (14d notice) | Defection: Speaker/Chair",
+        "reappointment": "Unlimited re-election; no upper age cap"
+      },
+      {
+        "id": "election-commission-of-india",
+        "order": 21,
+        "name": "Election Commission of India",
+        "acronym": "ECI",
+        "selection_committee": "PM + LoP (LS) + PM-nominated Union Minister (2023 Act)",
+        "appointing_authority": "President of India (Art. 324(2) read with Sec. 6 of 2023 Act)",
+        "tenure": "6 years (whichever earlier)",
+        "age_limit": "65 years",
+        "removal": "CEC: Like SC Judge | ECs: President only on CEC's recommendation",
+        "reappointment": "Barred (max 6 yrs combined EC+CEC); post-ret. govt jobs not barred by Const."
+      },
+      {
+        "id": "reserve-bank-of-india",
+        "order": 44,
+        "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+        "acronym": "RBI",
+        "selection_committee": "FSRASC / Cab. Sec. Search Panel → Central Govt (ACC)",
+        "appointing_authority": "Central Government (recommended by FSIB / Search-cum-Selection & approved by ACC)",
+        "tenure": "Governor/DGs: up to 5 years (typically 3 yrs initially); External MPC: 4 yrs; Board Directors: 4 yrs",
+        "age_limit": "Governor/DGs: no statutory age ceiling in RBI Act (administrative convention ~62/65); MPC external <70 convention",
+        "removal": "Central Govt (Sec. 11 / Executive discretion; Sec. 7 policy directions)",
+        "reappointment": "Gov/DGs eligible; External MPC members BARRED from reappointment"
+      },
+      {
+        "id": "national-green-tribunal",
+        "order": 88,
+        "name": "National Green Tribunal",
+        "acronym": "NGT",
+        "selection_committee": "Chair: Consultation with CJI | Members: SCSC",
+        "appointing_authority": "Central Government (MoEFCC)",
+        "tenure": "5 years (NGT Act); 2021 Act's 4-yr truncation invalidated by SC (Nov 2025)",
+        "age_limit": "Chair: 70 yrs | Judicial (HC Judge): 67 yrs | Expert: 65/67 yrs",
+        "removal": "Chair/Judicial: SC Judge inquiry + CJI consult | Expert: Central Govt",
+        "reappointment": "Barred under NGT Act Sec. 7; 2-yr cooling-off bar"
+      },
+      {
+        "id": "wildlife-crime-control-bureau",
+        "order": 92,
+        "name": "Wildlife Crime Control Bureau",
+        "acronym": "WCCB",
+        "selection_committee": "Central Govt departmental deputation (IFoS / IPS / Customs)",
+        "appointing_authority": "Central Government (MoEFCC via Gazette Order)",
+        "tenure": "Deputation-governed (typically 3–5 yrs)",
+        "age_limit": "Standard Central Govt service retirement (60 yrs)",
+        "removal": "Central Govt repatriation / service rules",
+        "reappointment": "Standard deputation tenure rules"
+      }
+    ],
+    "appellate_matrix": [
+      {
+        "id": "parliament-of-india",
+        "order": 5,
+        "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+        "acronym": "Parliament",
+        "power_nature": "Supreme Legislative, Constituent, Financial & Executive-Oversight Sovereign Organ (subject to Basic Structure & Judicial Review).",
+        "appellate_pathway": "Constitutional validity of Acts & 10th Schedule Speaker rulings challenged via Writ Petitions before High Courts (Art. 226) or Supreme Court (Art. 32).",
+        "reporting_chain": "Accountable to the electorate (LS); receives Annual Reports & Action Taken Memoranda from CAG, UPSC, ECI/Commissions & Ministers."
+      },
+      {
+        "id": "election-commission-of-india",
+        "order": 21,
+        "name": "Election Commission of India",
+        "acronym": "ECI",
+        "power_nature": "Constitutional Plenary + Quasi-Judicial (binding advice under Art. 103/192; non-partisan dispute adjudication on party splits/symbols).",
+        "appellate_pathway": "Election disputes via Election Petition to High Court (RPA 1951) → Supreme Court. Party symbol orders (Para 15 Symbols Order) → Judicial review in HC/SC.",
+        "reporting_chain": "Independent; no annual Parliamentary report mandate in Art. 324 (issues statistical reports/compendiums)."
+      },
+      {
+        "id": "reserve-bank-of-india",
+        "order": 44,
+        "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+        "acronym": "RBI",
+        "power_nature": "Statutory Monetary, Regulatory, Licensing & Penal Enforcement Authority (binding RBI Master Directions, monetary penalties, bank moratorium/reconstruction under Sec. 45 BR Act).",
+        "appellate_pathway": "Ombudsman orders → Deputy Governor (Appellate Authority); regulatory penalties/licensing appeals → Central Govt (specified sections) or High Court writ review.",
+        "reporting_chain": "Submits Annual Report & Report on Trend and Progress of Banking in India to Central Government (laid before Parliament); MPC publishes minutes 14 days post-meeting & Monetary Policy Report every 6 months."
+      },
+      {
+        "id": "national-green-tribunal",
+        "order": 88,
+        "name": "National Green Tribunal",
+        "acronym": "NGT",
+        "power_nature": "Quasi-Judicial Binding Decree & Compensation Powers (orders are executable as decrees of a Civil Court; non-compliance punishable with imprisonment up to 3 years or fine up to ₹10 crore!).",
+        "appellate_pathway": "Direct appeal to Supreme Court of India within 90 days (Sec. 22). High Courts retain Art. 226/227 constitutional writ review (Madhya Pradesh HC Advocates Bar Assoc. v. UoI 2022).",
+        "reporting_chain": "Decisions binding on parties/authorities; administrative oversight via MoEFCC (and proposed National Tribunals Commission per 2025 SC directive)."
+      },
+      {
+        "id": "wildlife-crime-control-bureau",
+        "order": 92,
+        "name": "Wildlife Crime Control Bureau",
+        "acronym": "WCCB",
+        "power_nature": "Statutory Intelligence, Search, Seizure, Arrest & Prosecution Cognizance Agency.",
+        "appellate_pathway": "Prosecutions tried in designated Criminal/Magistrate Courts under WPA 1972 → Sessions / High Court.",
+        "reporting_chain": "Reports administratively to MoEFCC (Director of Wildlife Preservation)."
+      }
+    ],
+    "alphabetical": [
+      {
+        "id": "election-commission-of-india",
+        "order": 21,
+        "name": "Election Commission of India",
+        "acronym": "ECI",
+        "part": 2,
+        "legal_status": "Constitutional",
+        "basis": "Part XV, Articles 324–329 (permanent, independent constitutional body); statutory service rules under CEC & Other ECs Act, 2023.",
+        "nodal_ministry": "Independent (Administrative liaison: Ministry of Law & Justice, Legislative Dept.)"
+      },
+      {
+        "id": "national-green-tribunal",
+        "order": 88,
+        "name": "National Green Tribunal",
+        "acronym": "NGT",
+        "part": 5,
+        "legal_status": "Statutory",
+        "basis": "National Green Tribunal Act, 2010 (Sec. 3); specialized fast-track quasi-judicial environmental tribunal (India became 3rd country globally after Australia & New Zealand to set up a green tribunal).",
+        "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+      },
+      {
+        "id": "parliament-of-india",
+        "order": 5,
+        "name": "Parliament of India (Lok Sabha, Rajya Sabha & Presiding Officers)",
+        "acronym": "Parliament",
+        "part": 1,
+        "legal_status": "Constitutional",
+        "basis": "Part V, Chapter II — Articles 79–122 (Art. 79: Parliament consists of President + Council of States [Rajya Sabha] + House of the People [Lok Sabha]).",
+        "nodal_ministry": "Independent Legislature (Floor coordination: Ministry of Parliamentary Affairs; Independent LS & RS Secretariats under Speaker/Chairman)"
+      },
+      {
+        "id": "reserve-bank-of-india",
+        "order": 44,
+        "name": "Reserve Bank of India, MPC & Payments Regulatory Board",
+        "acronym": "RBI",
+        "part": 3,
+        "legal_status": "Statutory",
+        "basis": "Reserve Bank of India Act, 1934 (commenced 1 Apr 1935; nationalized 1 Jan 1949 via RBI Transfer to Public Ownership Act, 1948). Key regulatory authority also flows from Banking Regulation Act, 1949, FEMA 1999 & PSS Act, 2007.",
+        "nodal_ministry": "Ministry of Finance (Department of Financial Services — DFS) [Autonomy governed by RBI Act]"
+      },
+      {
+        "id": "wildlife-crime-control-bureau",
+        "order": 92,
+        "name": "Wildlife Crime Control Bureau",
+        "acronym": "WCCB",
+        "part": 5,
+        "legal_status": "Statutory",
+        "basis": "Wildlife (Protection) Act, 1972 — Chapter IVC (Sections 38Y & 38Z), inserted via 2006 Amendment (constituted 2007).",
+        "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+      }
+    ]
+  }
+}

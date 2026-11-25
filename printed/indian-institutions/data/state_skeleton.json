@@ -1,0 +1,109 @@
+{
+  "title": "The Skeleton of the Indian State",
+  "subtitle": "How India's Constitutional Machinery, Federal Tiers & Executive Committees Fit Together",
+  "core_principles": [
+    {
+      "label": "Sovereign Foundation",
+      "detail": "Written, supreme Constitution dividing power between Union & States (7th Schedule), anchored in Parliamentary Democracy (executive drawn from & responsible to Lok Sabha / Vidhan Sabha) and an Integrated Single Judiciary."
+    },
+    {
+      "label": "Four Structural Distinctions UPSC Tests",
+      "detail": "(1) Constitutional (created directly by Articles) vs. Statutory (created by Parliamentary Act) vs. Executive/Non-Statutory (Cabinet Resolution) vs. Registered Society; (2) Constitutional safeguards vs. statutory tenure/salary parity; (3) Binding quasi-judicial decrees vs. purely recommendatory advice; (4) Exact Nodal Ministry."
+    },
+    {
+      "label": "Nominal vs. Real Executive",
+      "detail": "All Union executive actions run in the name of the President (Art. 53/77), exercised on the binding aid and advice of the Council of Ministers headed by the Prime Minister (Art. 74), save narrow constitutional discretion."
+    }
+  ],
+  "union_organs_rows": [
+    {
+      "organ": "Legislature (Parliament)",
+      "articles": "Art. 79–122 (Part V)",
+      "head_and_composition": "President + Rajya Sabha (max 250; current 245) + Lok Sabha (max 550; current 543)",
+      "key_responsibility": "Union & Concurrent legislation, Budget/Money Bills (LS supremacy), Executive accountability via motions & Committees, Constitutional Amendment (Art. 368)."
+    },
+    {
+      "organ": "Executive (Union)",
+      "articles": "Art. 52–78 (Part V)",
+      "head_and_composition": "President (titular head), Vice-President, PM + CoM (capped at 15% of LS via 91st Amend.), Cabinet Secretariat, PMO, All-India & Central Services",
+      "key_responsibility": "Policy formulation, administration of Union Acts, defence & foreign affairs, appointments, ordinances (Art. 123), and executing Parliamentary laws."
+    },
+    {
+      "organ": "Judiciary (Integrated)",
+      "articles": "Art. 124–147, 214–237",
+      "head_and_composition": "Single hierarchical pyramid: Supreme Court (CJI + max 33 Judges) → 25 High Courts → District & Subordinate Courts + Specialized Tribunals (Art. 323A/B)",
+      "key_responsibility": "Constitutional interpretation, Judicial Review, Writ jurisdiction (Art. 32 SC / Art. 226 HC — wider for HC), Federal dispute resolution (Art. 131)."
+    },
+    {
+      "organ": "Independent Constitutional Watchdogs",
+      "articles": "Art. 148, 280, 315, 324, 338–338B",
+      "head_and_composition": "CAG, ECI, UPSC/SPSC, Finance Commission, GST Council (279A), NCSC/NCST/NCBC, Special Officer for Linguistic Minorities (350B)",
+      "key_responsibility": "Insulated horizontal checks: free elections, public audit, merit civil services, fiscal federalism, and backward/minority safeguards."
+    },
+    {
+      "organ": "State & 3rd-Tier Local Bodies",
+      "articles": "Parts VI, VIII, IX, IXA, IXB, X",
+      "head_and_composition": "Governor + CM/CoM + State Legislature (bicameral in 6 States: UP, Bihar, MH, KA, AP, TS); Panchayats (243–243O), Municipalities (243P–ZG), 5th/6th Schedules",
+      "key_responsibility": "State List governance, 29 Panchayat subjects (11th Schedule), 18 Municipal subjects (12th Schedule), Tribal Autonomous District Councils (Assam, Meghalaya, Tripura, Mizoram)."
+    }
+  ],
+  "schedule_summary": [
+    {
+      "axis": "Legislative Lists (Art. 246 / 7th Sch.)",
+      "detail": "Union List (List I: Defence, Foreign Affairs, Atomic Energy, RBI/Currency, Railways, Inter-State Trade); State List (List II: Police, Public Order, Public Health, Agriculture, Land); Concurrent List (List III: Education, Forests, Wildlife Protection, Criminal Law, Electricity). Residuary powers vest in Parliament (Art. 248)."
+    },
+    {
+      "axis": "Financial Distribution",
+      "detail": "Consolidated Fund of India (Art. 266(1) — withdrawal requires Parliamentary Appropriation Act; Charged expenditure non-votable); Public Account of India (Art. 266(2) — executive custody, no vote); Contingency Fund of India (Art. 267 — at disposal of President / Finance Secretary)."
+    },
+    {
+      "axis": "Emergency Architecture (Part XVIII)",
+      "detail": "National Emergency (Art. 352 — war, external aggression, armed rebellion); President's Rule / State Emergency (Art. 356 — constitutional breakdown); Financial Emergency (Art. 360 — never imposed)."
+    }
+  ],
+  "cabinet_committees": [
+    {
+      "name": "Appointments Committee of the Cabinet (ACC)",
+      "chair": "Prime Minister",
+      "members": "PM + Union Home Minister",
+      "role": "Approves senior civil, military, PSU & regulator appointments (Secretary+, Service Chiefs, RBI/SEBI senior picks)."
+    },
+    {
+      "name": "Cabinet Committee on Security (CCS)",
+      "chair": "Prime Minister",
+      "members": "PM + Home, Defence, Finance & External Affairs Ministers",
+      "role": "Highest executive body for national security, defence acquisitions, internal security & strategic foreign policy."
+    },
+    {
+      "name": "Cabinet Committee on Economic Affairs (CCEA)",
+      "chair": "Prime Minister",
+      "members": "PM + key economic/infrastructure Ministers",
+      "role": "Reviews economic trends, approves MSPs (based on CACP), PSU disinvestment, major infra projects & FDI proposals."
+    },
+    {
+      "name": "Cabinet Committee on Parliamentary Affairs (CCPA)",
+      "chair": "Union Home / Defence Minister (NOT PM)",
+      "members": "Senior Cabinet Ministers (PM is typically NOT a member!)",
+      "role": "Schedules Parliament sessions, legislative agenda & government Bills; oversees floor strategy."
+    },
+    {
+      "name": "Cabinet Committee on Political Affairs (CCPA-Pol)",
+      "chair": "Prime Minister",
+      "members": "PM + senior political Ministers ('Super-Cabinet')",
+      "role": "Resolves Centre-State & sensitive political/policy questions across ministries."
+    },
+    {
+      "name": "Cabinet Committee on Accommodation (CCA)",
+      "chair": "Union Home Minister (NOT PM)",
+      "members": "Senior Ministers incl. Housing & Urban Affairs",
+      "role": "Allotment of government residences & accommodation policy."
+    },
+    {
+      "name": "CCIS & CCER (Investment/Growth & Employment/Skill)",
+      "chair": "Prime Minister",
+      "members": "PM + Finance, Commerce, Labour, Infra Ministers",
+      "role": "Fast-tracks >Rs 1,000 Cr investments and skill/employment generation initiatives."
+    }
+  ],
+  "skeleton_trap_note": "UPSC Classic Trap: Cabinet Committees are EXTRA-CONSTITUTIONAL (established under Transaction of Business Rules, 1961 under Art. 77(3), NOT mentioned in the Constitution). The Prime Minister chairs most—EXCEPT Parliamentary Affairs and Accommodation (typically chaired by Home/Defence Minister)!"
+}

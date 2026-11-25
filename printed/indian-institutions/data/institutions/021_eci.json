@@ -1,0 +1,79 @@
+{
+  "id": "election-commission-of-india",
+  "order": 21,
+  "part": 2,
+  "name": "Election Commission of India",
+  "acronym": "ECI",
+  "layout_mode": "blueprint",
+  "anchor": {
+    "legal_status": "Constitutional",
+    "basis": "Part XV, Articles 324–329 (permanent, independent constitutional body); statutory service rules under CEC & Other ECs Act, 2023.",
+    "key_amendments": "61st Amend. (1988): voting age 21→18; 1989/1993: permanently 3-member body; CEC & Other ECs (Appointment, Conditions of Service and Term of Office) Act, 2023 replaced 1991 Act.",
+    "nodal_ministry": "Independent (Administrative liaison: Ministry of Law & Justice, Legislative Dept.)",
+    "established_year": "1950 (25 Jan — National Voters' Day)",
+    "headquarters": "Nirvachan Sadan, New Delhi",
+    "essential_summary": "Superintends, directs, and controls electoral rolls and elections to Parliament, State Legislatures, President, and Vice-President (NOT Panchayats/Municipalities)."
+  },
+  "composition": {
+    "chairperson": "Chief Election Commissioner (CEC) — chairs Commission; holds equal voting weight with ECs (decisions by majority).",
+    "members": "CEC + such number of other Election Commissioners as the President may fix (currently 1 CEC + 2 ECs = 3 multi-member Commission).",
+    "eligibility_rules": "Under 2023 Act: persons holding or having held a post equivalent to Secretary to Govt of India, with integrity and knowledge/experience in management and conduct of elections.",
+    "internal_wings": "Deputy Election Commissioners (civil servants), Chief Electoral Officers (State level, IAS), District Election Officers, Returning Officers, and Electoral Registration Officers (under RPA 1950/1951)."
+  },
+  "lifecycle": {
+    "appointing_authority": "President of India (Art. 324(2) read with Sec. 6 of 2023 Act)",
+    "selection_committee": "Under 2023 Act: PM (Chair) + Leader of Opposition in Lok Sabha (or leader of largest opposition party) + 1 Union Cabinet Minister nominated by PM. Search Committee headed by Cabinet Secretary shortlists 5 names (Selection panel may look outside).",
+    "selection_short": "PM + LoP (LS) + PM-nominated Union Minister (2023 Act)",
+    "tenure": "6 years (whichever earlier)",
+    "age_limit": "65 years",
+    "reappointment_and_post_retirement": "NOT eligible for reappointment under 2023 Act; if an EC is elevated to CEC, combined term cannot exceed 6 years. Constitution does NOT bar post-retirement govt appointments (classic trap!).",
+    "reappointment_short": "Barred (max 6 yrs combined EC+CEC); post-ret. govt jobs not barred by Const.",
+    "resignation_to": "President of India (writing under own hand)",
+    "removal_procedure": "CEC: Removed ONLY like a Supreme Court Judge (Parliamentary special majority on proved misbehaviour/incapacity). Other ECs: Removed by President ONLY on the recommendation of the CEC.",
+    "removal_short": "CEC: Like SC Judge | ECs: President only on CEC's recommendation",
+    "funding_and_salary": "Under 2023 Act, salary/service conditions equal to Cabinet Secretary (downgraded from SC Judge parity under 1991 Act!). Conditions cannot be varied to disadvantage post-appointment. Election expenditure shared by Centre/States."
+  },
+  "mandate": {
+    "core_functions": [
+      {"label": "Electoral Rolls & Constituencies", "text": "Prepares and revises electoral rolls; notifies election schedules; grants/cancels recognition of National & State political parties and allots reserved symbols (Symbols Order, 1968)."},
+      {"label": "Model Code of Conduct (MCC)", "text": "Enforces MCC from announcement of schedule until result declaration (MCC has no standalone statute; backed by IPC/BNS, RPA 1951 & ECI plenary Art. 324 powers)."},
+      {"label": "Advisory Disqualification Role", "text": "Advises President (Art. 103) and Governor (Art. 192) on post-election MP/MLA disqualifications (binding advice!)—EXCEPT 10th Schedule defection (decided by Presiding Officer)."},
+      {"label": "Quasi-Judicial & Administrative", "text": "Cancels/re-polls booths on rigging/booth capturing; derecognizes/suspends party recognition; advises President on Art. 356 extension beyond 1 year."}
+    ],
+    "power_nature": "Constitutional Plenary + Quasi-Judicial (binding advice under Art. 103/192; non-partisan dispute adjudication on party splits/symbols).",
+    "special_powers": "Art. 324 acts as reservoir of plenary power where enacted law is silent (Mohinder Singh Gill case); state machinery deputed during polls comes under ECI disciplinary control.",
+    "jurisdiction_limits_and_exclusions": "Does NOT conduct Panchayat or Municipal elections (vested in State Election Commissions under Art. 243K/243ZA). Cannot deregister a registered political party except in rare fraud/constitutional collapse cases. Art. 329 bars court interference mid-election (only Election Petition in High Court post-result).",
+    "reporting_chain": "Independent; no annual Parliamentary report mandate in Art. 324 (issues statistical reports/compendiums).",
+    "appellate_pathway": "Election disputes via Election Petition to High Court (RPA 1951) → Supreme Court. Party symbol orders (Para 15 Symbols Order) → Judicial review in HC/SC."
+  },
+  "genesis": {
+    "founding_committee": "Constituent Assembly (Art. 324); Dinesh Goswami Committee (1990) & Tarkunde Committee on electoral reforms.",
+    "landmark_cases": [
+      {"label": "Anoop Baranwal v. UoI (2023)", "text": "5-judge SC bench ordered interim Selection Panel (PM + LoP + CJI) until Parliament legislated—prompting Parliament to pass the 2023 Act replacing CJI with a Union Cabinet Minister."},
+      {"label": "T.N. Seshan v. UoI (1995)", "text": "Upheld equal status and voting weight of CEC and ECs; CEC is primus inter pares, not superior to ECs."},
+      {"label": "ADR v. ECI (2024 — VVPAT)", "text": "SC rejected 100% VVPAT verification / return to paper ballots, upholding EVM+VVPAT safeguards and 5% burned-memory verification option."}
+    ]
+  },
+  "traps": {
+    "common_traps": [
+      {"label": "Salary Downgrade Trap (2023 Act)", "text": "CEC & ECs now get Cabinet Secretary equivalence (NOT Supreme Court Judge salary as under the repealed 1991 Act)."},
+      {"label": "CEC vs ECs Removal Trap", "text": "Only CEC has SC-Judge-like Parliamentary removal security; other ECs can be removed by President solely on CEC's recommendation (not direct executive whim, yet no impeachment needed)."},
+      {"label": "Local Polls Trap", "text": "ECI has ZERO role in Panchayat & Municipal elections; State Election Commission (SEC) is wholly independent of ECI, NOT a subordinate branch."},
+      {"label": "Constitutional Silence Traps", "text": "Constitution does NOT prescribe qualifications, exact tenure, or bar post-retirement govt employment for ECs—those details live in statute (2023 Act)."}
+    ],
+    "twin_comparison": {
+      "headers": ["Dimension", "Election Commission of India (ECI)", "State Election Commission (SEC)"],
+      "rows": [
+        ["Articles", "Part XV · Art. 324", "Part IX & IXA · Art. 243K & 243ZA"],
+        ["Elections Conducted", "President, VP, Parliament, State Assemblies & Councils", "Panchayats (rural) & Municipalities (urban) ONLY"],
+        ["Appointment", "President via PM+LoP+Minister panel (2023 Act)", "Governor of the State (conditions via State Legislature)"],
+        ["Removal", "CEC: like SC Judge; ECs: on CEC recommendation", "Like a High Court Judge (same manner & grounds)"]
+      ]
+    }
+  },
+  "links": {
+    "state_counterparts": "Chief Electoral Officer (CEO) at State level is ECI's administrative arm for Parliament/Assembly polls; State Election Commissioner (Art. 243K/243ZA) is an independent body solely for local bodies.",
+    "upsc_categories": ["Polity", "Current Affairs"],
+    "linked_acts_and_missions": "RPA 1950 & RPA 1951; Delimitation Commission (#22); SVEEP; 61st & 84th Amendments (Reforms Book #7)."
+  }
+}

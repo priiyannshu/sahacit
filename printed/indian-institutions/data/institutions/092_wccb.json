@@ -1,0 +1,76 @@
+{
+  "id": "wildlife-crime-control-bureau",
+  "order": 92,
+  "part": 5,
+  "name": "Wildlife Crime Control Bureau",
+  "acronym": "WCCB",
+  "layout_mode": "compact",
+  "anchor": {
+    "legal_status": "Statutory",
+    "basis": "Wildlife (Protection) Act, 1972 — Chapter IVC (Sections 38Y & 38Z), inserted via 2006 Amendment (constituted 2007).",
+    "key_amendments": "Wildlife (Protection) Amendment Act, 2022 dropped legacy 'Tiger & Other Endangered Species' heading, aligned enforcement directly with CITES schedules & invasive alien species.",
+    "nodal_ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+    "established_year": "2007 (HQ: New Delhi)",
+    "headquarters": "New Delhi (5 Regional Offices: Delhi, Kolkata, Mumbai, Chennai, Jabalpur + 3 Sub-Regional Offices: Guwahati, Amritsar, Cochin + 5 Border Units)",
+    "essential_summary": "Statutory multi-disciplinary enforcement & intelligence bureau under MoEFCC mandated to combat organized domestic and trans-border wildlife crime and implement CITES enforcement."
+  },
+  "composition": {
+    "chairperson": "Director of Wildlife Preservation (MoEFCC) serves ex-officio as Director, WCCB (NOT PM, NOT Env Minister!).",
+    "members": "Inspector-General of Police (Additional Director) + DIG of Police (Joint Director) + DIG of Forests + Assistant Directors / Wildlife Inspectors drawn from Police, Forest & Customs cadres.",
+    "eligibility_rules": "Multi-agency deputation combining All-India/Central Forest (IFoS), Police (IPS), and Customs/Revenue officers.",
+    "internal_wings": "Centralized Wildlife Crime Data Bank, 5 Regional Offices, 3 Sub-Regional Offices & 5 Border Units (incl. Indo-Nepal/Indo-Bangladesh/Northeast transit corridors)."
+  },
+  "lifecycle": {
+    "appointing_authority": "Central Government (MoEFCC via Gazette Order)",
+    "selection_committee": "Executive / Departmental deputation from Forest, Police & Customs services (no independent statutory Selection Panel).",
+    "selection_short": "Central Govt departmental deputation (IFoS / IPS / Customs)",
+    "tenure": "Deputation-governed (typically 3–5 yrs)",
+    "age_limit": "Standard Central Govt service retirement (60 yrs)",
+    "reappointment_and_post_retirement": "Standard Central deputation rules; no constitutional/statutory post-retirement bar.",
+    "reappointment_short": "Standard deputation tenure rules",
+    "resignation_to": "Central Government (MoEFCC)",
+    "removal_procedure": "Repatriation / removal by Central Government under civil service deputation rules.",
+    "removal_short": "Central Govt repatriation / service rules",
+    "funding_and_salary": "Budgetary grant under MoEFCC (Central Sector allocation)."
+  },
+  "mandate": {
+    "core_functions": [
+      {"label": "Central Crime Data Bank & Intel", "text": "Collects, collates & disseminates wildlife crime intelligence to States/Police/Customs (Sec. 38Z)."},
+      {"label": "Inter-Agency & Border Coordination", "text": "Coordinates State forest departments, Police, BSF/SSB/Customs at ports & borders; runs pan-India operations (e.g., Operation Kurma, Operation Clean Art, Operation Softgold, Operation Save Kurma)."},
+      {"label": "CITES & Foreign Assistance", "text": "Implements international wildlife trade treaty obligations (CITES, Interpol Wildlife Crime Working Group, SAWEN) and assists foreign agencies."},
+      {"label": "Capacity Building & Policy Advice", "text": "Builds forensic/investigation capacity for States and advises Central/State Govts on wildlife crime policy & statutory amendments."}
+    ],
+    "power_nature": "Statutory Intelligence, Search, Seizure, Arrest & Prosecution Cognizance Agency.",
+    "special_powers": "Under Sec. 38Z(2), exercises delegated WPA powers of entry, search, seizure, arrest & detention (Sec. 50(1)&(8)) and filing complaints/cognizance of offences (Sec. 55).",
+    "jurisdiction_limits_and_exclusions": "Strictly wildlife offences under WPA 1972 & CITES customs interface—does NOT approve development/diversion clearances (that is NBWL/FAC) or manage tiger reserve funding/plans (NTCA).",
+    "reporting_chain": "Reports administratively to MoEFCC (Director of Wildlife Preservation).",
+    "appellate_pathway": "Prosecutions tried in designated Criminal/Magistrate Courts under WPA 1972 → Sessions / High Court."
+  },
+  "genesis": {
+    "founding_committee": "Tiger Task Force (Sunita Narain Committee, 2005) after Sariska tiger extinction crisis recommended dedicated wildlife enforcement bureau + NTCA.",
+    "landmark_cases": [
+      {"label": "UN Environment Award", "text": "Awarded UNEP Asia Environmental Enforcement Award multiple times for Operation Save Kurma (turtles) & Operation Clean Art (mongoose hair)."}
+    ]
+  },
+  "traps": {
+    "common_traps": [
+      {"label": "Ministry Trap", "text": "WCCB sits under MoEFCC (NOT Ministry of Home Affairs, even though IPS/Police officers serve as Additional/Joint Directors!)."},
+      {"label": "Statutory Origin Trap", "text": "Created by the 2006 Amendment to WPA 1972 (same amendment that made NTCA statutory—NOT an executive order and NOT under Forest Act 1927)."},
+      {"label": "Who Chairs WCCB", "text": "Headed by the Director of Wildlife Preservation (ex-officio), whereas NBWL is chaired by the PM and NTCA & CZA are chaired by the Union Environment Minister."}
+    ],
+    "twin_comparison": {
+      "headers": ["Body (All under WPA 1972)", "Chairperson", "Core Role"],
+      "rows": [
+        ["WCCB (Sec. 38Y)", "Director of Wildlife Preservation", "Wildlife crime intelligence, border enforcement & CITES coordination"],
+        ["NTCA (Sec. 38L)", "Union Environment Minister", "Project Tiger governance, Tiger Reserve boundaries & funding"],
+        ["NBWL (Sec. 5A)", "Prime Minister", "Apex wildlife policy & clearances inside National Parks/Sanctuaries"],
+        ["CZA (Sec. 38A)", "Union Environment Minister", "Recognition, standards & animal exchange for Indian Zoos"]
+      ]
+    }
+  },
+  "links": {
+    "state_counterparts": "State Wildlife Crime Cells / State Forest Vigilance Units (no separate State WCCBs; WCCB coordinates across States via 5 Regional Offices).",
+    "upsc_categories": ["Environment and Ecology", "Polity", "Current Affairs"],
+    "linked_acts_and_missions": "WPA 1972 (2006 & 2022 Amendments); CITES; SAWEN; NTCA (#90); NBWL (#89); CZA (#91)."
+  }
+}

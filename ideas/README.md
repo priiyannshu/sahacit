@@ -12,8 +12,9 @@ Master index of every idea captured during the **2026-11-25** foundational plann
 *Detailed plan*: [`book-and-booklets/idea.md`](../diary-entries-of-a-champion/2026-11-25/book-and-booklets/idea.md) | [`output.md`](../diary-entries-of-a-champion/2026-11-25/book-and-booklets/output.md)  
 *Goal*: Print high-memorization static volumes to read daily and lift PYQ recall rapidly (Book vs. Booklet format TBD per item, with scope to be expanded from handwritten 2026 GS Paper 1 sheet & paper notes).
 
-- [ ] **Indian and International Institutions** — National and international bodies, mandates, structures, and UPSC-relevant static facts.
-- [ ] **Missions and Programmes** — Missions, initiatives, and programmes launched by those national and international institutions.
+- [ ] **Indian Institutions** *(Book 1 — Spec locked 2026-11-25)* — Complete UPSC Atlas (~134 Indian constitutional, statutory, regulatory, environmental, scientific & cultural bodies) engineered around Prelims traps (`printed/indian-institutions/`).
+- [ ] **International Institutions** *(Book 2 — Split from original item #1)* — Global/multilateral bodies, treaties, HQ, India membership & mandates.
+- [ ] **Missions and Programmes** — Missions, initiatives, and programmes launched by national and international institutions.
 - [ ] **Committees** — Major commissions/committees, mandates, and key recommendations.
 - [ ] **Subject Dictionaries** — Subject-wise vocabulary/terminology dictionaries to build fluency across exam domains.
 - [ ] **Dictionary of Ancient Texts** — Dedicated static reference covering ancient texts, traditions, authors, and key terms.
@@ -47,7 +48,7 @@ Master index of every idea captured during the **2026-11-25** foundational plann
 *Schema & workflow*: [`diary-entries-of-a-champion/README.md`](../diary-entries-of-a-champion/README.md) | [`digital/idea.md`](../diary-entries-of-a-champion/2026-11-25/digital/idea.md)
 
 - [ ] **Daily Structured Diary Logs (`YYYY-MM-DD/entry.md`)**: Log exact study hours/minutes, materials ingested, repetition pass counts, PYQ observations, and new print ideas daily via structured YAML + Markdown for downstream software consumption.
-- [ ] **Digital-Mirror Tracking of Printed Materials**: Pair every physical printed artifact with its canonical digital source (under `booklets/`) so daily reading logs link cleanly to exact content covered.
+- [ ] **Digital-Mirror Tracking of Printed Materials**: Pair every physical printed artifact with its canonical digital source (under `printed/`) so daily reading logs link cleanly to exact content covered.
 - [ ] **Digital-to-Reality Print Generators**: Automated scripts/pipelines (HTML/CSS/Python-to-PDF) that convert structured data and AI-assisted compilations into clean, A4/duplex, ink-efficient printables.
 
 ---

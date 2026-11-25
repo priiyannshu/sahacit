@@ -9,7 +9,7 @@ Daily study log, ideation workspace, and structured ingestion ledger targeting *
   - Subfolders as needed for that day's ideation, manifests, or diagnostics (e.g., `book-and-booklets/`, `character-sheets/`, `timeline-badges-and-cutouts/`, `digital/`, `ai-examiner-board/`, `CSAT_First_Attempt/`, `GS_First_Attempt/`).
 - **Canonical Artifact Boundary**:
   - `diary-entries-of-a-champion/YYYY-MM-DD/` holds **daily logs, ideas (`idea.md`), planning manifests (`output.md`), ingestion logs, and diagnostics**.
-  - `booklets/` (at repo root) holds **canonical reproducible print generators and final PDFs**.
+  - `printed/` (at repo root) holds **canonical reproducible print generators and final PDFs**.
   - `apps/` (at repo root, Phase 2 / when requested) holds **downstream software applications**.
 
 ---
@@ -47,7 +47,7 @@ ingested:
   - title: ""
     categories: [] # Environment and Ecology | Economics | History and Art and Culture | Geography | Current Affairs | Science and Technology | Polity
     medium: "printed" # printed | digital | audio
-    digital_mirror: null # repo path to digital source, e.g., booklets/...
+    digital_mirror: null # repo path to digital source, e.g., printed/...
     scope: "" # pages, sections, or count covered
     pass_number: 1 # repetition count for spaced-retention tracking
 pyq_sessions: []
